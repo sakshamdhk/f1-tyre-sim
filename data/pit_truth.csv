@@ -1,0 +1,24 @@
+Race,total_laps,n_one_stop,median_first_stop,compound_pair,comparable
+Abu Dhabi Grand Prix,58.0,11,22.0,"('MEDIUM', 'HARD')",True
+Australian Grand Prix,58.0,0,,,False
+Austrian Grand Prix,71.0,0,,,False
+Azerbaijan Grand Prix,51.0,17,15.0,"('MEDIUM', 'HARD')",True
+Bahrain Grand Prix,57.0,0,,,False
+Belgian Grand Prix,44.0,5,13.0,"('MEDIUM', 'MEDIUM')",True
+British Grand Prix,52.0,0,,,False
+Canadian Grand Prix,70.0,3,44.0,"('INTERMEDIATE', 'MEDIUM')",False
+Chinese Grand Prix,56.0,3,21.0,"('MEDIUM', 'HARD')",False
+Dutch Grand Prix,72.0,14,29.5,"('MEDIUM', 'HARD')",True
+Emilia Romagna Grand Prix,63.0,16,25.0,"('MEDIUM', 'HARD')",True
+Hungarian Grand Prix,70.0,1,29.0,"('MEDIUM', 'HARD')",False
+Italian Grand Prix,53.0,9,16.0,"('MEDIUM', 'HARD')",True
+Japanese Grand Prix,53.0,0,,,False
+Las Vegas Grand Prix,50.0,1,17.0,"('MEDIUM', 'HARD')",False
+Mexico City Grand Prix,71.0,14,30.5,"('MEDIUM', 'HARD')",True
+Miami Grand Prix,57.0,12,25.0,"('MEDIUM', 'HARD')",True
+Monaco Grand Prix,78.0,10,1.0,"('MEDIUM', 'HARD')",False
+Qatar Grand Prix,57.0,0,,,False
+Saudi Arabian Grand Prix,50.0,17,7.0,"('MEDIUM', 'HARD')",True
+Singapore Grand Prix,62.0,17,29.0,"('MEDIUM', 'HARD')",True
+Spanish Grand Prix,66.0,0,,,False
+United States Grand Prix,56.0,15,26.0,"('MEDIUM', 'HARD')",True
