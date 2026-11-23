@@ -29,6 +29,7 @@ truth = total_laps.reset_index().merge(agg, on="Race", how="left")
 truth["n_one_stop"] = truth["n_one_stop"].fillna(0).astype(int)
 truth["comparable"] = truth.n_one_stop >= 5
 truth.loc[truth.Race == "Monaco Grand Prix", "comparable"] = False
+truth.loc[truth.Race == "Saudi Arabian Grand Prix", "comparable"] = False
 truth.to_csv("data/pit_truth.csv", index=False)
 
 pd.set_option("display.width", 200)

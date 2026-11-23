@@ -101,3 +101,4 @@ if __name__ == "__main__":
     print(f"gradient check, worst relative error: {worst:.2e}  ({'OK' if worst < 1e-5 else 'BAD'})")
     m = MLP(hidden=(32, 16), lr=0.01, wd=0.0, epochs=2000, batch=64, patience=10 ** 9).fit(X, y)
     print(f"overfit test, train MSE (scaled): {m.history[-1][0]:.4f}  ({'OK' if m.history[-1][0] < 0.05 else 'BAD'})")
+

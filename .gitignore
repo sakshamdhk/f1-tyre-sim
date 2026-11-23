@@ -2,3 +2,8 @@ cache/
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+.~lock.*#
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/F1_Tyre_Sim_8_Day_Plan.docx
