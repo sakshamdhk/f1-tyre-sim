@@ -1,0 +1,1059 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,1,111.76,340.31,1.0,MEDIUM,1.0,False,False,False,False,True,313,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,2,104.544,444.853,1.0,MEDIUM,2.0,False,False,False,False,True,312,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,3,136.698,581.388,1.0,MEDIUM,3.0,True,False,True,False,True,120,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,4,156.139,737.528,2.0,MEDIUM,1.0,False,True,True,False,True,217,28.2,47.4,36.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,5,141.937,879.538,2.0,MEDIUM,2.0,False,False,True,False,True,125,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,6,104.652,984.234,2.0,MEDIUM,3.0,False,False,False,True,False,316,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,7,102.627,1086.857,2.0,MEDIUM,4.0,False,False,False,False,False,330,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,8,102.144,1189.001,2.0,MEDIUM,5.0,False,False,False,False,False,323,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,9,102.001,1290.959,2.0,MEDIUM,6.0,False,False,False,False,False,313,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,10,102.736,1393.707,2.0,MEDIUM,7.0,False,False,False,False,True,307,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,11,102.219,1495.92,2.0,MEDIUM,8.0,False,False,False,False,False,302,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,12,101.938,1597.905,2.0,MEDIUM,9.0,False,False,False,False,False,305,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,13,102.458,1700.516,2.0,MEDIUM,10.0,False,False,False,False,False,308,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,14,102.221,1802.574,2.0,MEDIUM,11.0,False,False,False,False,False,308,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,15,102.263,1904.858,2.0,MEDIUM,12.0,False,False,False,False,False,304,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,16,102.331,2007.116,2.0,MEDIUM,13.0,False,False,False,False,False,301,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,17,101.884,2109.018,2.0,MEDIUM,14.0,False,False,False,False,False,305,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,18,101.524,2210.624,2.0,MEDIUM,15.0,False,False,False,False,False,308,28.3,47.6,35.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,19,101.601,2312.077,2.0,MEDIUM,16.0,False,False,False,False,False,307,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,20,101.411,2413.564,2.0,MEDIUM,17.0,False,False,False,False,False,309,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,21,102.46,2516.048,2.0,MEDIUM,18.0,False,False,False,False,False,312,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,22,102.169,2618.296,2.0,MEDIUM,19.0,False,False,False,False,False,312,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,23,101.886,2720.18,2.0,MEDIUM,20.0,False,False,False,False,False,307,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,24,101.432,2821.58,2.0,MEDIUM,21.0,False,False,False,False,False,309,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,25,101.418,2923.031,2.0,MEDIUM,22.0,False,False,False,False,False,321,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,26,102.357,3025.331,2.0,MEDIUM,23.0,False,False,False,False,False,331,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,27,103.544,3128.813,2.0,MEDIUM,24.0,False,False,False,False,False,327,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,28,102.932,3231.788,2.0,MEDIUM,25.0,False,False,False,False,False,308,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,29,101.287,3333.057,2.0,MEDIUM,26.0,False,False,False,False,False,323,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,30,101.651,3434.752,2.0,MEDIUM,27.0,False,False,False,False,False,306,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,31,101.635,3536.334,2.0,MEDIUM,28.0,False,False,False,False,False,302,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,32,101.297,3637.665,2.0,MEDIUM,29.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,33,101.702,3739.283,2.0,MEDIUM,30.0,True,False,False,False,False,303,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,34,121.549,3860.834,3.0,HARD,1.0,False,True,False,False,False,300,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,35,100.029,3960.924,3.0,HARD,2.0,False,False,False,False,False,304,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,36,99.721,4060.584,3.0,HARD,3.0,False,False,False,False,False,293,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,37,99.632,4160.277,3.0,HARD,4.0,False,False,False,False,False,297,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,38,99.69,4260.021,3.0,HARD,5.0,False,False,False,False,False,301,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,39,99.531,4359.522,3.0,HARD,6.0,False,False,False,False,False,302,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,40,99.666,4459.169,3.0,HARD,7.0,False,False,False,False,True,303,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,41,99.406,4558.669,3.0,HARD,8.0,False,False,False,False,False,304,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,42,99.241,4657.818,3.0,HARD,9.0,False,False,False,False,False,303,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,43,99.353,4757.144,3.0,HARD,10.0,False,False,False,False,False,300,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,44,101.215,4858.452,3.0,HARD,11.0,False,False,False,False,False,311,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,45,99.961,4958.285,3.0,HARD,12.0,False,False,False,False,False,304,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,46,101.733,5060.07,3.0,HARD,13.0,False,False,False,False,False,333,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,47,99.552,5159.57,3.0,HARD,14.0,False,False,False,False,False,307,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,48,99.205,5258.787,3.0,HARD,15.0,False,False,False,False,False,300,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,49,99.509,5358.437,3.0,HARD,16.0,False,False,False,False,False,300,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,50,99.639,5457.986,3.0,HARD,17.0,False,False,False,False,False,306,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,51,99.72,5557.717,3.0,HARD,18.0,False,False,False,False,False,308,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,52,99.279,5657.042,3.0,HARD,19.0,False,False,False,False,False,309,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,53,99.35,5756.204,3.0,HARD,20.0,False,False,False,False,False,312,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,54,99.084,5855.406,3.0,HARD,21.0,False,False,False,False,False,311,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALB,Williams,55,101.299,5956.81,3.0,HARD,22.0,False,False,False,False,False,309,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,1,106.891,335.441,1.0,MEDIUM,1.0,False,False,False,False,True,315,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,2,102.72,438.16,1.0,MEDIUM,2.0,False,False,False,False,True,319,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,3,133.66,571.826,1.0,MEDIUM,3.0,False,False,True,False,True,213,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,4,149.599,721.438,1.0,MEDIUM,4.0,False,False,True,False,True,190,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,5,154.538,875.927,1.0,MEDIUM,5.0,False,False,True,False,True,204,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,6,103.042,978.899,1.0,MEDIUM,6.0,False,False,False,True,False,303,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,7,102.409,1081.416,1.0,MEDIUM,7.0,False,False,False,False,False,325,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,8,101.508,1182.851,1.0,MEDIUM,8.0,False,False,False,False,False,328,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,9,101.975,1284.797,1.0,MEDIUM,9.0,False,False,False,False,False,308,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,10,101.928,1386.76,1.0,MEDIUM,10.0,False,False,False,False,True,305,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,11,103.326,1490.146,1.0,MEDIUM,11.0,False,False,False,False,False,305,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,12,101.701,1591.779,1.0,MEDIUM,12.0,False,False,False,False,False,322,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,13,101.687,1693.538,1.0,MEDIUM,13.0,False,False,False,False,False,306,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,14,101.706,1795.28,1.0,MEDIUM,14.0,False,False,False,False,False,304,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,15,101.53,1896.699,1.0,MEDIUM,15.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,16,101.681,1998.404,1.0,MEDIUM,16.0,False,False,False,False,False,304,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,17,102.424,2100.864,1.0,MEDIUM,17.0,False,False,False,False,False,290,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,18,101.238,2202.038,1.0,MEDIUM,18.0,False,False,False,False,False,327,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,19,101.677,2303.695,1.0,MEDIUM,19.0,False,False,False,False,False,302,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,20,101.585,2405.324,1.0,MEDIUM,20.0,False,False,False,False,False,304,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,21,101.297,2506.751,1.0,MEDIUM,21.0,False,False,False,False,False,308,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,22,102.707,2609.424,1.0,MEDIUM,22.0,False,False,False,False,False,309,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,23,101.766,2711.169,1.0,MEDIUM,23.0,False,False,False,False,False,305,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,24,101.879,2813.054,1.0,MEDIUM,24.0,False,False,False,False,False,303,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,25,101.614,2914.578,1.0,MEDIUM,25.0,False,False,False,False,False,303,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,26,102.193,3016.743,1.0,MEDIUM,26.0,True,False,False,False,False,307,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,27,120.837,3137.668,2.0,HARD,2.0,False,True,False,False,False,301,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,28,100.478,3238.081,2.0,HARD,3.0,False,False,False,False,False,305,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,29,100.48,3338.591,2.0,HARD,4.0,False,False,False,False,False,299,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,30,100.21,3438.774,2.0,HARD,5.0,False,False,False,False,False,305,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,31,100.133,3538.973,2.0,HARD,6.0,False,False,False,False,False,303,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,32,100.6,3639.558,2.0,HARD,7.0,False,False,False,False,False,308,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,33,100.556,3740.06,2.0,HARD,8.0,False,False,False,False,False,324,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,34,100.285,3840.411,2.0,HARD,9.0,False,False,False,False,False,326,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,35,101.231,3941.655,2.0,HARD,10.0,False,False,False,False,False,297,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,36,100.213,4041.848,2.0,HARD,11.0,False,False,False,False,False,300,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,37,100.61,4142.468,2.0,HARD,12.0,False,False,False,False,False,304,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,38,100.14,4242.647,2.0,HARD,13.0,False,False,False,False,False,305,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,39,100.079,4342.707,2.0,HARD,14.0,False,False,False,False,False,309,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,40,99.927,4442.598,2.0,HARD,15.0,False,False,False,False,False,312,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,41,101.035,4543.678,2.0,HARD,16.0,False,False,False,False,True,310,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,42,99.445,4642.92,2.0,HARD,17.0,False,False,False,False,False,306,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,43,99.554,4742.7,2.0,HARD,18.0,False,False,False,False,False,307,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,44,99.452,4842.173,2.0,HARD,19.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,45,99.999,4942.052,2.0,HARD,20.0,False,False,False,False,False,309,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,46,99.54,5041.72,2.0,HARD,21.0,False,False,False,False,False,309,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,47,99.533,5141.113,2.0,HARD,22.0,False,False,False,False,False,306,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,48,99.638,5240.789,2.0,HARD,23.0,False,False,False,False,False,303,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,49,99.949,5340.839,2.0,HARD,24.0,False,False,False,False,False,294,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,50,99.584,5440.385,2.0,HARD,25.0,False,False,False,False,False,294,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,51,99.29,5539.658,2.0,HARD,26.0,False,False,False,False,False,302,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,52,99.261,5638.879,2.0,HARD,27.0,False,False,False,False,False,304,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,53,99.729,5738.586,2.0,HARD,28.0,False,False,False,False,False,299,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,54,101.67,5840.228,2.0,HARD,29.0,False,False,False,False,False,300,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ALO,Aston Martin,55,100.096,5940.466,2.0,HARD,30.0,False,False,False,False,False,303,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,1,111.071,339.621,1.0,MEDIUM,1.0,False,False,False,False,True,309,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,2,103.075,442.695,1.0,MEDIUM,2.0,False,False,False,False,True,327,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,3,138.546,581.283,1.0,MEDIUM,3.0,False,False,True,False,True,132,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,4,150.342,731.655,1.0,MEDIUM,4.0,False,False,True,False,True,218,28.2,47.4,36.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,5,146.661,878.272,1.0,MEDIUM,5.0,False,False,True,False,True,211,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,6,103.6,981.917,1.0,MEDIUM,6.0,False,False,False,True,False,302,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,7,102.18,1084.054,1.0,MEDIUM,7.0,False,False,False,False,False,333,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,8,101.483,1185.545,1.0,MEDIUM,8.0,False,False,False,False,False,337,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,9,102.031,1287.585,1.0,MEDIUM,9.0,False,False,False,False,False,332,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,10,101.749,1389.427,1.0,MEDIUM,10.0,False,False,False,False,True,323,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,11,102.3,1491.621,1.0,MEDIUM,11.0,False,False,False,False,False,317,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,12,101.945,1593.721,1.0,MEDIUM,12.0,False,False,False,False,False,322,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,13,102.677,1696.325,1.0,MEDIUM,13.0,False,False,False,False,False,332,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,14,102.125,1798.393,1.0,MEDIUM,14.0,False,False,False,False,False,309,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,15,102.714,1901.138,1.0,MEDIUM,15.0,True,False,False,False,False,308,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,16,121.652,2022.82,2.0,HARD,1.0,False,True,False,False,False,290,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,17,100.801,2123.645,2.0,HARD,2.0,False,False,False,False,False,297,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,18,100.762,2224.33,2.0,HARD,3.0,False,False,False,False,False,301,28.3,47.6,35.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,19,100.869,2325.18,2.0,HARD,4.0,False,False,False,False,False,302,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,20,100.837,2426.061,2.0,HARD,5.0,False,False,False,False,False,302,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,21,100.92,2527.045,2.0,HARD,6.0,False,False,False,False,False,309,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,22,100.998,2628.053,2.0,HARD,7.0,False,False,False,False,False,307,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,23,101.138,2729.042,2.0,HARD,8.0,False,False,False,False,False,300,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,24,101.147,2830.33,2.0,HARD,9.0,False,False,False,False,False,302,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,25,100.909,2931.148,2.0,HARD,10.0,False,False,False,False,False,303,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,26,100.839,3032.041,2.0,HARD,11.0,False,False,False,False,False,304,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,27,100.869,3132.935,2.0,HARD,12.0,False,False,False,False,False,308,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,28,101.024,3233.828,2.0,HARD,13.0,False,False,False,False,False,302,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,29,101.298,3335.165,2.0,HARD,14.0,False,False,False,False,False,301,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,30,101.185,3436.37,2.0,HARD,15.0,False,False,False,False,False,304,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,31,101.374,3537.805,2.0,HARD,16.0,False,False,False,False,False,302,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,32,100.932,3638.646,2.0,HARD,17.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,33,100.784,3739.405,2.0,HARD,18.0,False,False,False,False,False,323,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,34,101.938,3841.409,2.0,HARD,19.0,False,False,False,False,False,304,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,35,101.436,3942.819,2.0,HARD,20.0,False,False,False,False,False,306,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,36,101.155,4044.012,2.0,HARD,21.0,False,False,False,False,False,298,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,37,100.815,4144.861,2.0,HARD,22.0,False,False,False,False,False,307,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,38,100.944,4245.81,2.0,HARD,23.0,False,False,False,False,False,306,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,39,100.78,4346.548,2.0,HARD,24.0,False,False,False,False,False,305,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,40,100.701,4447.326,2.0,HARD,25.0,False,False,False,False,True,308,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,41,101.258,4548.459,2.0,HARD,26.0,False,False,False,False,True,327,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,42,101.243,4649.694,2.0,HARD,27.0,False,False,False,False,False,303,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,43,100.696,4750.507,2.0,HARD,28.0,False,False,False,False,False,306,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,44,101.717,4852.191,2.0,HARD,29.0,False,False,False,False,False,309,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,45,105.416,4957.602,2.0,HARD,30.0,False,False,False,False,False,313,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,46,103.225,5060.9,2.0,HARD,31.0,False,False,False,False,False,311,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,47,101.064,5161.851,2.0,HARD,32.0,False,False,False,False,False,309,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,48,101.07,5262.982,2.0,HARD,33.0,False,False,False,False,False,301,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,49,103.447,5366.387,2.0,HARD,34.0,False,False,False,False,False,305,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,50,101.045,5467.453,2.0,HARD,35.0,False,False,False,False,False,305,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,51,102.931,5570.306,2.0,HARD,36.0,False,False,False,False,False,303,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,52,100.658,5670.97,2.0,HARD,37.0,False,False,False,False,False,303,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,53,100.575,5771.517,2.0,HARD,38.0,False,False,False,False,False,307,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,54,100.679,5872.226,2.0,HARD,39.0,False,False,False,False,False,304,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,BOT,Kick Sauber,55,100.708,5973.058,2.0,HARD,40.0,False,False,False,False,False,306,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,1,110.334,338.884,1.0,HARD,1.0,False,False,False,False,True,322,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,2,103.005,441.888,1.0,HARD,2.0,False,False,False,False,True,322,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,3,137.406,579.261,1.0,HARD,3.0,False,False,True,False,True,181,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,4,150.829,730.15,1.0,HARD,4.0,False,False,True,False,True,226,28.2,47.4,36.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,5,147.801,877.898,1.0,HARD,5.0,False,False,True,False,True,192,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,6,103.338,981.303,1.0,HARD,6.0,False,False,False,True,False,304,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,7,102.278,1083.577,1.0,HARD,7.0,False,False,False,False,False,331,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,8,101.451,1185.061,1.0,HARD,8.0,False,False,False,False,False,327,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,9,101.98,1286.963,1.0,HARD,9.0,False,False,False,False,False,320,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,10,101.702,1388.798,1.0,HARD,10.0,False,False,False,False,True,305,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,11,102.239,1490.939,1.0,HARD,11.0,False,False,False,False,False,308,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,12,101.886,1592.836,1.0,HARD,12.0,False,False,False,False,False,310,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,13,101.766,1694.532,1.0,HARD,13.0,False,False,False,False,False,308,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,14,102.97,1797.531,1.0,HARD,14.0,False,False,False,False,False,304,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,15,101.801,1899.529,1.0,HARD,15.0,False,False,False,False,False,305,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,16,101.956,2001.354,1.0,HARD,16.0,False,False,False,False,False,305,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,17,101.523,2102.924,1.0,HARD,17.0,False,False,False,False,False,307,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,18,101.427,2204.227,1.0,HARD,18.0,False,False,False,False,False,310,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,19,101.01,2305.281,1.0,HARD,19.0,False,False,False,False,False,307,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,20,101.123,2406.406,1.0,HARD,20.0,False,False,False,False,False,309,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,21,101.087,2507.434,1.0,HARD,21.0,False,False,False,False,False,327,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,22,101.25,2608.744,1.0,HARD,22.0,False,False,False,False,False,330,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,23,101.312,2709.94,1.0,HARD,23.0,False,False,False,False,False,305,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,24,101.227,2811.342,1.0,HARD,24.0,False,False,False,False,False,305,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,25,100.756,2912.153,1.0,HARD,25.0,False,False,False,False,False,304,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,26,100.9,3012.951,1.0,HARD,26.0,False,False,False,False,False,306,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,27,100.451,3113.331,1.0,HARD,27.0,False,False,False,False,False,309,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,28,100.205,3213.521,1.0,HARD,28.0,False,False,False,False,False,307,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,29,100.542,3314.114,1.0,HARD,29.0,False,False,False,False,False,305,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,30,100.366,3414.577,1.0,HARD,30.0,False,False,False,False,False,306,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,31,100.535,3515.048,1.0,HARD,31.0,False,False,False,False,False,305,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,32,100.27,3615.283,1.0,HARD,32.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,33,100.238,3715.604,1.0,HARD,33.0,False,False,False,False,False,307,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,34,100.306,3815.874,1.0,HARD,34.0,False,False,False,False,False,304,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,35,100.195,3916.008,1.0,HARD,35.0,False,False,False,False,False,305,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,36,100.026,4016.125,1.0,HARD,36.0,False,False,False,False,False,304,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,37,101.395,4117.53,1.0,HARD,37.0,False,False,False,False,False,304,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,38,100.11,4217.598,1.0,HARD,38.0,False,False,False,False,False,309,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,39,100.591,4318.194,1.0,HARD,39.0,True,False,False,False,False,308,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,40,119.212,4437.42,2.0,MEDIUM,1.0,False,True,False,False,False,307,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,41,99.443,4536.799,2.0,MEDIUM,2.0,False,False,False,False,True,310,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,42,98.533,4635.316,2.0,MEDIUM,3.0,False,False,False,False,False,311,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,43,98.528,4733.906,2.0,MEDIUM,4.0,False,False,False,False,False,309,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,44,98.876,4832.799,2.0,MEDIUM,5.0,False,False,False,False,False,322,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,45,98.532,4931.248,2.0,MEDIUM,6.0,False,False,False,False,False,332,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,46,97.611,5028.843,2.0,MEDIUM,7.0,False,False,False,False,False,309,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,47,97.991,5126.857,2.0,MEDIUM,8.0,False,False,False,False,False,308,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,48,98.326,5225.238,2.0,MEDIUM,9.0,False,False,False,False,False,306,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,49,98.412,5323.732,2.0,MEDIUM,10.0,False,False,False,False,False,305,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,50,98.026,5421.738,2.0,MEDIUM,11.0,False,False,False,False,False,307,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,51,98.665,5520.324,2.0,MEDIUM,12.0,False,False,False,False,False,308,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,52,98.133,5618.451,2.0,MEDIUM,13.0,False,False,False,False,False,307,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,53,98.032,5716.561,2.0,MEDIUM,14.0,False,False,False,False,False,309,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,54,97.708,5814.218,2.0,MEDIUM,15.0,False,False,False,False,False,311,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,55,97.926,5912.261,2.0,MEDIUM,16.0,False,False,False,False,False,308,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,COL,Williams,56,98.488,6010.648,2.0,MEDIUM,17.0,False,False,False,False,False,308,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,1,105.091,333.641,1.0,MEDIUM,1.0,False,False,False,False,True,318,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,2,102.067,435.707,1.0,MEDIUM,2.0,False,False,False,False,True,316,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,3,128.872,564.334,1.0,MEDIUM,3.0,False,False,True,False,True,190,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,4,149.84,714.231,1.0,MEDIUM,4.0,False,False,True,False,True,258,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,5,160.207,874.366,1.0,MEDIUM,5.0,False,False,True,False,True,185,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,6,102.096,976.484,1.0,MEDIUM,6.0,False,False,False,True,False,311,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,7,101.487,1077.965,1.0,MEDIUM,7.0,False,False,False,False,False,312,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,8,101.037,1178.969,1.0,MEDIUM,8.0,False,False,False,False,False,306,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,9,100.712,1279.726,1.0,MEDIUM,9.0,False,False,False,False,False,309,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,10,100.571,1380.293,1.0,MEDIUM,10.0,False,False,False,False,True,307,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,11,101.291,1481.618,1.0,MEDIUM,11.0,False,False,False,False,False,304,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,12,101.086,1582.816,1.0,MEDIUM,12.0,False,False,False,False,False,304,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,13,101.046,1683.814,1.0,MEDIUM,13.0,False,False,False,False,False,302,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,14,101.551,1785.371,1.0,MEDIUM,14.0,False,False,False,False,False,305,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,15,101.499,1886.886,1.0,MEDIUM,15.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,16,101.306,1988.086,1.0,MEDIUM,16.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,17,102.142,2090.168,1.0,MEDIUM,17.0,False,False,False,False,False,305,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,18,101.038,2191.229,1.0,MEDIUM,18.0,True,False,False,False,False,306,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,19,125.822,2317.048,2.0,HARD,1.0,False,True,False,False,False,303,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,20,101.596,2418.643,2.0,HARD,2.0,False,False,False,False,False,304,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,21,101.132,2519.884,2.0,HARD,3.0,False,False,False,False,False,308,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,22,101.033,2620.819,2.0,HARD,4.0,False,False,False,False,False,308,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,23,101.083,2721.99,2.0,HARD,5.0,False,False,False,False,False,305,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,24,100.915,2822.883,2.0,HARD,6.0,False,False,False,False,False,308,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,25,100.986,2923.853,2.0,HARD,7.0,False,False,False,False,False,312,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,26,101.954,3025.804,2.0,HARD,8.0,False,False,False,False,False,331,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,27,102.407,3128.195,2.0,HARD,9.0,False,False,False,False,False,328,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,28,100.73,3228.83,2.0,HARD,10.0,False,False,False,False,False,305,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,29,100.435,3329.387,2.0,HARD,11.0,False,False,False,False,False,304,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,30,100.672,3430.103,2.0,HARD,12.0,False,False,False,False,False,305,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,31,100.791,3530.898,2.0,HARD,13.0,False,False,False,False,False,306,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,32,100.493,3631.285,2.0,HARD,14.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,33,100.244,3731.448,2.0,HARD,15.0,False,False,False,False,False,306,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,34,99.905,3831.505,2.0,HARD,16.0,False,False,False,False,False,303,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,35,99.866,3931.337,2.0,HARD,17.0,False,False,False,False,False,305,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,36,100.63,4032.022,2.0,HARD,18.0,False,False,False,False,False,301,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,37,100.698,4132.65,2.0,HARD,19.0,False,False,False,False,False,303,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,38,100.845,4233.467,2.0,HARD,20.0,False,False,False,False,False,306,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,39,99.981,4333.581,2.0,HARD,21.0,False,False,False,False,False,309,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,40,99.899,4433.259,2.0,HARD,22.0,False,False,False,False,False,309,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,41,100.583,4533.892,2.0,HARD,23.0,False,False,False,False,True,308,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,42,99.141,4633.089,2.0,HARD,24.0,False,False,False,False,False,308,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,43,99.276,4732.482,2.0,HARD,25.0,False,False,False,False,False,305,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,44,99.55,4831.899,2.0,HARD,26.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,45,100.665,4932.569,2.0,HARD,27.0,False,False,False,False,False,314,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,46,99.364,5031.902,2.0,HARD,28.0,False,False,False,False,False,316,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,47,100.973,5132.961,2.0,HARD,29.0,False,False,False,False,False,307,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,48,99.561,5232.603,2.0,HARD,30.0,False,False,False,False,False,307,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,49,99.3,5331.736,2.0,HARD,31.0,False,False,False,False,False,305,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,50,99.174,5430.944,2.0,HARD,32.0,False,False,False,False,False,306,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,51,99.384,5530.385,2.0,HARD,33.0,False,False,False,False,False,306,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,52,98.9,5629.337,2.0,HARD,34.0,False,False,False,False,False,306,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,53,99.127,5728.443,2.0,HARD,35.0,False,False,False,False,False,307,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,54,98.728,5827.13,2.0,HARD,36.0,False,False,False,False,False,308,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,55,98.311,5925.387,2.0,HARD,37.0,False,False,False,False,False,308,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,GAS,Alpine,56,98.769,6024.249,2.0,HARD,38.0,False,False,False,False,False,308,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,HAM,Mercedes,1,108.546,337.096,1.0,HARD,1.0,False,False,False,False,True,317,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,HAM,Mercedes,2,,,,,,False,False,False,False,False,312,27.8,46.7,38.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,1,107.492,336.042,1.0,MEDIUM,1.0,False,False,False,False,True,320,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,2,102.841,438.882,1.0,MEDIUM,2.0,False,False,False,False,True,320,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,3,134.259,573.164,1.0,MEDIUM,3.0,False,False,True,False,True,166,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,4,149.504,722.735,1.0,MEDIUM,4.0,False,False,True,False,True,208,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,5,153.617,876.221,1.0,MEDIUM,5.0,False,False,True,False,True,200,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,6,103.09,979.366,1.0,MEDIUM,6.0,False,False,False,True,False,309,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,7,101.428,1080.798,1.0,MEDIUM,7.0,False,False,False,False,False,329,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,8,101.285,1182.089,1.0,MEDIUM,8.0,False,False,False,False,False,314,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,9,101.651,1283.781,1.0,MEDIUM,9.0,False,False,False,False,False,309,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,10,101.3,1384.987,1.0,MEDIUM,10.0,False,False,False,False,True,305,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,11,101.689,1486.741,1.0,MEDIUM,11.0,False,False,False,False,False,301,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,12,101.432,1588.229,1.0,MEDIUM,12.0,False,False,False,False,False,303,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,13,101.334,1689.494,1.0,MEDIUM,13.0,False,False,False,False,False,305,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,14,101.048,1790.537,1.0,MEDIUM,14.0,False,False,False,False,False,304,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,15,101.824,1892.412,1.0,MEDIUM,15.0,False,False,False,False,False,299,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,16,101.512,1993.934,1.0,MEDIUM,16.0,False,False,False,False,False,301,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,17,101.19,2095.043,1.0,MEDIUM,17.0,False,False,False,False,False,307,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,18,102.13,2197.302,1.0,MEDIUM,18.0,False,False,False,False,False,327,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,19,100.43,2297.652,1.0,MEDIUM,19.0,False,False,False,False,False,300,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,20,100.447,2398.072,1.0,MEDIUM,20.0,False,False,False,False,False,301,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,21,100.523,2498.621,1.0,MEDIUM,21.0,False,False,False,False,False,307,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,22,100.757,2599.464,1.0,MEDIUM,22.0,False,False,False,False,False,306,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,23,100.77,2700.252,1.0,MEDIUM,23.0,False,False,False,False,False,301,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,24,100.329,2800.531,1.0,MEDIUM,24.0,False,False,False,False,False,302,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,25,100.269,2900.666,1.0,MEDIUM,25.0,False,False,False,False,False,305,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,26,100.664,3001.354,1.0,MEDIUM,26.0,False,False,False,False,False,304,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,27,101.173,3102.624,1.0,MEDIUM,27.0,True,False,False,False,False,305,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,28,122.271,3224.76,2.0,HARD,1.0,False,True,False,False,False,304,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,29,100.912,3325.805,2.0,HARD,2.0,False,False,False,False,False,301,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,30,100.338,3426.101,2.0,HARD,3.0,False,False,False,False,False,303,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,31,99.401,3525.449,2.0,HARD,4.0,False,False,False,False,False,300,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,32,99.687,3625.112,2.0,HARD,5.0,False,False,False,False,False,300,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,33,99.355,3724.548,2.0,HARD,6.0,False,False,False,False,False,303,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,34,99.348,3823.944,2.0,HARD,7.0,False,False,False,False,False,299,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,35,99.25,3923.206,2.0,HARD,8.0,False,False,False,False,False,305,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,36,99.196,4022.304,2.0,HARD,9.0,False,False,False,False,False,301,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,37,99.39,4121.694,2.0,HARD,10.0,False,False,False,False,False,304,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,38,99.179,4220.868,2.0,HARD,11.0,False,False,False,False,False,309,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,39,99.294,4320.286,2.0,HARD,12.0,False,False,False,False,False,303,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,40,99.391,4419.482,2.0,HARD,13.0,False,False,False,False,False,306,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,41,99.178,4518.742,2.0,HARD,14.0,False,False,False,False,True,307,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,42,98.941,4617.658,2.0,HARD,15.0,False,False,False,False,False,306,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,43,98.906,4716.684,2.0,HARD,16.0,False,False,False,False,False,302,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,44,98.902,4815.521,2.0,HARD,17.0,False,False,False,False,False,303,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,45,100.572,4916.037,2.0,HARD,18.0,False,False,False,False,False,307,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,46,98.645,5014.788,2.0,HARD,19.0,False,False,False,False,False,308,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,47,98.997,5113.711,2.0,HARD,20.0,False,False,False,False,False,302,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,48,98.594,5212.266,2.0,HARD,21.0,False,False,False,False,False,300,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,49,98.51,5310.787,2.0,HARD,22.0,False,False,False,False,False,300,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,50,98.651,5409.603,2.0,HARD,23.0,False,False,False,False,False,300,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,51,98.404,5507.911,2.0,HARD,24.0,False,False,False,False,False,301,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,52,98.703,5606.682,2.0,HARD,25.0,False,False,False,False,False,303,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,53,98.512,5705.101,2.0,HARD,26.0,False,False,False,False,False,303,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,54,98.775,5804.011,2.0,HARD,27.0,False,False,False,False,False,307,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,55,98.714,5902.551,2.0,HARD,28.0,False,False,False,False,False,302,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,HUL,Haas F1 Team,56,99.0,6001.665,2.0,HARD,29.0,False,False,False,False,False,302,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,1,109.313,337.863,1.0,HARD,1.0,False,False,False,False,True,315,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,2,102.809,440.671,1.0,HARD,2.0,False,False,False,False,True,321,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,3,135.152,575.765,1.0,HARD,3.0,False,False,True,False,True,195,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,4,150.921,726.859,1.0,HARD,4.0,False,False,True,False,True,252,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,5,150.275,877.118,1.0,HARD,5.0,False,False,True,False,True,255,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,6,102.925,980.086,1.0,HARD,6.0,False,False,False,True,False,296,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,7,102.01,1082.03,1.0,HARD,7.0,False,False,False,False,False,324,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,8,101.557,1183.617,1.0,HARD,8.0,False,False,False,False,False,327,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,9,102.1,1285.682,1.0,HARD,9.0,False,False,False,False,False,336,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,10,102.012,1387.687,1.0,HARD,10.0,False,False,False,False,True,316,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,11,101.535,1489.308,1.0,HARD,11.0,False,False,False,False,False,328,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,12,101.26,1590.529,1.0,HARD,12.0,False,False,False,False,False,304,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,13,101.32,1691.892,1.0,HARD,13.0,False,False,False,False,False,305,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,14,101.383,1793.283,1.0,HARD,14.0,False,False,False,False,False,300,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,15,102.041,1895.317,1.0,HARD,15.0,False,False,False,False,False,300,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,16,101.646,1996.952,1.0,HARD,16.0,False,False,False,False,False,295,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,17,101.371,2098.269,1.0,HARD,17.0,False,False,False,False,False,303,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,18,101.335,2199.588,1.0,HARD,18.0,False,False,False,False,False,302,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,19,101.101,2300.667,1.0,HARD,19.0,False,False,False,False,False,303,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,20,100.988,2401.68,1.0,HARD,20.0,False,False,False,False,False,302,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,21,102.238,2503.908,1.0,HARD,21.0,False,False,False,False,False,311,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,22,101.448,2605.359,1.0,HARD,22.0,False,False,False,False,False,304,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,23,100.853,2706.188,1.0,HARD,23.0,False,False,False,False,False,301,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,24,100.869,2807.095,1.0,HARD,24.0,False,False,False,False,False,298,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,25,100.653,2907.877,1.0,HARD,25.0,False,False,False,False,False,302,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,26,100.922,3008.721,1.0,HARD,26.0,False,False,False,False,False,302,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,27,100.304,3108.952,1.0,HARD,27.0,False,False,False,False,False,304,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,28,100.235,3209.219,1.0,HARD,28.0,False,False,False,False,False,304,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,29,100.523,3309.656,1.0,HARD,29.0,False,False,False,False,False,300,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,30,100.622,3410.426,1.0,HARD,30.0,False,False,False,False,False,301,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,31,100.613,3511.039,1.0,HARD,31.0,False,False,False,False,False,298,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,32,100.451,3611.527,1.0,HARD,32.0,False,False,False,False,False,297,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,33,100.286,3711.799,1.0,HARD,33.0,False,False,False,False,False,300,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,34,100.449,3812.175,1.0,HARD,34.0,False,False,False,False,False,298,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,35,100.484,3912.59,1.0,HARD,35.0,False,False,False,False,False,299,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,36,101.342,4014.046,1.0,HARD,36.0,True,False,False,False,False,300,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,37,119.598,4133.644,2.0,MEDIUM,1.0,False,True,False,False,False,295,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,38,98.905,4232.6,2.0,MEDIUM,2.0,False,False,False,False,False,329,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,39,99.396,4331.897,2.0,MEDIUM,3.0,False,False,False,False,False,300,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,40,99.035,4430.986,2.0,MEDIUM,4.0,False,False,False,False,False,303,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,41,99.149,4530.049,2.0,MEDIUM,5.0,False,False,False,False,True,306,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,42,98.409,4628.489,2.0,MEDIUM,6.0,False,False,False,False,False,309,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,43,99.104,4727.66,2.0,MEDIUM,7.0,False,False,False,False,False,303,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,44,99.057,4826.598,2.0,MEDIUM,8.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,45,99.084,4925.821,2.0,MEDIUM,9.0,False,False,False,False,False,309,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,46,98.619,5024.389,2.0,MEDIUM,10.0,False,False,False,False,False,306,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,47,98.631,5123.043,2.0,MEDIUM,11.0,False,False,False,False,False,305,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,48,98.493,5221.512,2.0,MEDIUM,12.0,False,False,False,False,False,304,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,49,98.558,5320.071,2.0,MEDIUM,13.0,False,False,False,False,False,304,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,50,98.513,5418.636,2.0,MEDIUM,14.0,False,False,False,False,False,305,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,51,98.453,5517.0,2.0,MEDIUM,15.0,False,False,False,False,False,305,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,52,98.281,5615.296,2.0,MEDIUM,16.0,False,False,False,False,False,307,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,53,98.113,5713.368,2.0,MEDIUM,17.0,False,False,False,False,False,309,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,54,98.091,5811.564,2.0,MEDIUM,18.0,False,False,False,False,False,308,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,55,98.433,5910.061,2.0,MEDIUM,19.0,False,False,False,False,False,304,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LAW,RB,56,99.273,6009.254,2.0,MEDIUM,20.0,False,False,False,False,False,304,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,1,100.421,328.971,1.0,MEDIUM,1.0,False,False,False,False,True,303,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,2,100.341,429.311,1.0,MEDIUM,2.0,False,False,False,False,False,302,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,3,122.873,552.084,1.0,MEDIUM,3.0,False,False,True,False,True,216,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,4,151.204,703.486,1.0,MEDIUM,4.0,False,False,True,False,True,156,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,5,168.785,872.166,1.0,MEDIUM,5.0,False,False,True,False,True,179,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,6,98.951,971.086,1.0,MEDIUM,6.0,False,False,False,True,False,299,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,7,99.57,1070.744,1.0,MEDIUM,7.0,False,False,False,False,False,300,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,8,99.307,1169.959,1.0,MEDIUM,8.0,False,False,False,False,False,302,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,9,99.257,1269.331,1.0,MEDIUM,9.0,False,False,False,False,False,305,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,10,99.421,1368.714,1.0,MEDIUM,10.0,False,False,False,False,True,304,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,11,99.597,1468.297,1.0,MEDIUM,11.0,False,False,False,False,False,303,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,12,99.448,1567.809,1.0,MEDIUM,12.0,False,False,False,False,False,303,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,13,99.399,1667.174,1.0,MEDIUM,13.0,False,False,False,False,False,303,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,14,99.2,1766.359,1.0,MEDIUM,14.0,False,False,False,False,False,304,28.1,47.4,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,15,99.672,1866.022,1.0,MEDIUM,15.0,False,False,False,False,False,301,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,16,99.782,1965.783,1.0,MEDIUM,16.0,False,False,False,False,False,301,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,17,99.621,2065.443,1.0,MEDIUM,17.0,False,False,False,False,False,294,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,18,99.435,2164.816,1.0,MEDIUM,18.0,False,False,False,False,False,303,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,19,99.553,2264.401,1.0,MEDIUM,19.0,False,False,False,False,False,303,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,20,99.756,2364.231,1.0,MEDIUM,20.0,False,False,False,False,False,296,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,21,99.506,2463.694,1.0,MEDIUM,21.0,False,False,False,False,False,305,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,22,99.411,2563.151,1.0,MEDIUM,22.0,False,False,False,False,False,309,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,23,99.878,2662.939,1.0,MEDIUM,23.0,False,False,False,False,False,307,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,24,99.699,2762.748,1.0,MEDIUM,24.0,False,False,False,False,False,304,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,25,99.583,2862.268,1.0,MEDIUM,25.0,False,False,False,False,False,300,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,26,100.211,2962.43,1.0,MEDIUM,26.0,True,False,False,False,False,305,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,27,119.522,3081.952,2.0,HARD,1.0,False,True,False,False,False,307,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,28,98.662,3180.694,2.0,HARD,2.0,False,False,False,False,False,298,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,29,99.067,3279.565,2.0,HARD,3.0,False,False,False,False,False,297,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,30,99.034,3378.738,2.0,HARD,4.0,False,False,False,False,False,292,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,31,98.667,3477.379,2.0,HARD,5.0,False,False,False,False,False,333,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,32,98.825,3576.135,2.0,HARD,6.0,False,False,False,False,False,297,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,33,99.032,3675.157,2.0,HARD,7.0,False,False,False,False,False,298,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,34,98.633,3773.905,2.0,HARD,8.0,False,False,False,False,False,302,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,35,98.897,3872.798,2.0,HARD,9.0,False,False,False,False,False,307,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,36,98.643,3971.516,2.0,HARD,10.0,False,False,False,False,False,298,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,37,98.477,4070.041,2.0,HARD,11.0,False,False,False,False,False,303,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,38,98.57,4168.459,2.0,HARD,12.0,False,False,False,False,False,299,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,39,97.834,4266.383,2.0,HARD,13.0,False,False,False,False,False,308,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,40,98.287,4364.666,2.0,HARD,14.0,False,False,False,False,False,312,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,41,98.395,4462.966,2.0,HARD,15.0,False,False,False,False,True,311,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,42,98.179,4561.18,2.0,HARD,16.0,False,False,False,False,False,315,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,43,98.257,4659.408,2.0,HARD,17.0,False,False,False,False,False,312,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,44,98.697,4758.14,2.0,HARD,18.0,False,False,False,False,False,310,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,45,98.349,4856.455,2.0,HARD,19.0,False,False,False,False,False,310,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,46,99.177,4955.697,2.0,HARD,20.0,False,False,False,False,False,315,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,47,98.471,5054.104,2.0,HARD,21.0,False,False,False,False,False,331,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,48,98.313,5152.427,2.0,HARD,22.0,False,False,False,False,False,307,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,49,98.326,5250.801,2.0,HARD,23.0,False,False,False,False,False,303,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,50,97.951,5348.719,2.0,HARD,24.0,False,False,False,False,False,303,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,51,97.875,5446.647,2.0,HARD,25.0,False,False,False,False,False,305,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,52,98.092,5544.774,2.0,HARD,26.0,False,False,False,False,False,308,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,53,98.365,5643.123,2.0,HARD,27.0,False,False,False,False,False,310,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,54,98.175,5741.214,2.0,HARD,28.0,False,False,False,False,False,309,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,55,97.902,5839.202,2.0,HARD,29.0,False,False,False,False,False,312,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,LEC,Ferrari,56,99.518,5938.666,2.0,HARD,30.0,False,False,False,False,False,305,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,1,105.573,334.123,1.0,MEDIUM,1.0,False,False,False,False,True,312,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,2,102.038,436.16,1.0,MEDIUM,2.0,False,False,False,False,True,324,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,3,128.559,564.729,1.0,MEDIUM,3.0,False,False,True,False,True,211,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,4,150.492,715.059,1.0,MEDIUM,4.0,False,False,True,False,True,258,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,5,159.607,874.73,1.0,MEDIUM,5.0,False,False,True,False,True,161,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,6,102.311,977.032,1.0,MEDIUM,6.0,False,False,False,True,False,312,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,7,101.74,1078.917,1.0,MEDIUM,7.0,False,False,False,False,False,323,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,8,100.836,1179.682,1.0,MEDIUM,8.0,False,False,False,False,False,322,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,9,100.634,1280.315,1.0,MEDIUM,9.0,False,False,False,False,False,333,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,10,101.287,1381.501,1.0,MEDIUM,10.0,False,False,False,False,True,321,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,11,101.697,1483.3,1.0,MEDIUM,11.0,False,False,False,False,False,301,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,12,101.161,1584.506,1.0,MEDIUM,12.0,False,False,False,False,False,303,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,13,101.15,1685.555,1.0,MEDIUM,13.0,False,False,False,False,False,304,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,14,101.279,1786.831,1.0,MEDIUM,14.0,False,False,False,False,False,305,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,15,101.736,1888.547,1.0,MEDIUM,15.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,16,101.901,1990.559,1.0,MEDIUM,16.0,False,False,False,False,False,300,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,17,101.895,2092.471,1.0,MEDIUM,17.0,True,False,False,False,False,301,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,18,119.791,2212.214,2.0,HARD,1.0,False,True,False,False,False,304,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,19,100.868,2313.137,2.0,HARD,2.0,False,False,False,False,False,304,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,20,100.996,2413.92,2.0,HARD,3.0,False,False,False,False,False,333,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,21,101.259,2515.279,2.0,HARD,4.0,False,False,False,False,False,337,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,22,100.479,2615.733,2.0,HARD,5.0,False,False,False,False,False,334,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,23,100.732,2716.428,2.0,HARD,6.0,False,False,False,False,False,299,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,24,100.626,2817.225,2.0,HARD,7.0,False,False,False,False,False,308,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,25,100.292,2917.477,2.0,HARD,8.0,False,False,False,False,False,333,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,26,100.479,3017.903,2.0,HARD,9.0,False,False,False,False,False,305,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,27,100.126,3117.978,2.0,HARD,10.0,False,False,False,False,False,306,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,28,101.523,3219.547,2.0,HARD,11.0,False,False,False,False,False,308,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,29,100.25,3319.821,2.0,HARD,12.0,False,False,False,False,False,306,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,30,100.769,3420.628,2.0,HARD,13.0,False,False,False,False,False,306,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,31,100.455,3521.084,2.0,HARD,14.0,False,False,False,False,False,305,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,32,100.166,3621.236,2.0,HARD,15.0,False,False,False,False,False,306,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,33,99.826,3721.048,2.0,HARD,16.0,False,False,False,False,False,307,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,34,99.641,3820.671,2.0,HARD,17.0,False,False,False,False,False,304,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,35,99.585,3920.215,2.0,HARD,18.0,False,False,False,False,False,304,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,36,99.786,4020.107,2.0,HARD,19.0,False,False,False,False,False,303,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,37,100.481,4120.646,2.0,HARD,20.0,False,False,False,False,False,305,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,38,99.843,4220.359,2.0,HARD,21.0,True,False,False,False,False,309,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,39,118.617,4339.111,3.0,MEDIUM,1.0,False,True,False,False,False,303,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,40,98.975,4437.937,3.0,MEDIUM,2.0,False,False,False,False,False,336,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,41,100.01,4538.031,3.0,MEDIUM,3.0,False,False,False,False,True,309,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,42,98.653,4636.5,3.0,MEDIUM,4.0,False,False,False,False,False,308,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,43,98.988,4735.591,3.0,MEDIUM,5.0,False,False,False,False,False,303,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,44,98.671,4834.364,3.0,MEDIUM,6.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,45,99.045,4933.393,3.0,MEDIUM,7.0,False,False,False,False,False,312,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,46,99.085,5032.43,3.0,MEDIUM,8.0,False,False,False,False,False,335,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,47,98.779,5131.12,3.0,MEDIUM,9.0,False,False,False,False,False,302,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,48,99.025,5230.123,3.0,MEDIUM,10.0,False,False,False,False,False,300,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,49,98.746,5328.963,3.0,MEDIUM,11.0,False,False,False,False,False,301,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,50,98.676,5427.588,3.0,MEDIUM,12.0,False,False,False,False,False,302,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,51,98.877,5526.544,3.0,MEDIUM,13.0,False,False,False,False,False,301,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,52,98.623,5625.223,3.0,MEDIUM,14.0,False,False,False,False,False,307,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,53,98.508,5723.811,3.0,MEDIUM,15.0,False,False,False,False,False,305,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,54,98.325,5821.935,3.0,MEDIUM,16.0,False,False,False,False,False,305,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,55,98.239,5920.202,3.0,MEDIUM,17.0,False,False,False,False,False,304,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,MAG,Haas F1 Team,56,98.21,6018.518,3.0,MEDIUM,18.0,False,False,False,False,False,301,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,1,103.298,331.848,1.0,MEDIUM,1.0,False,False,False,False,True,308,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,2,100.864,432.711,1.0,MEDIUM,2.0,False,False,False,False,False,306,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,3,124.41,557.135,1.0,MEDIUM,3.0,False,False,True,False,True,97,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,4,150.67,707.773,1.0,MEDIUM,4.0,False,False,True,False,True,173,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,5,165.769,873.663,1.0,MEDIUM,5.0,False,False,True,False,True,142,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,6,100.663,974.33,1.0,MEDIUM,6.0,False,False,False,True,False,296,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,7,100.469,1074.779,1.0,MEDIUM,7.0,False,False,False,False,False,297,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,8,100.411,1175.148,1.0,MEDIUM,8.0,False,False,False,False,False,299,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,9,100.196,1275.327,1.0,MEDIUM,9.0,False,False,False,False,False,305,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,10,100.369,1375.695,1.0,MEDIUM,10.0,False,False,False,False,True,303,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,11,100.668,1476.5,1.0,MEDIUM,11.0,False,False,False,False,False,298,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,12,100.652,1577.006,1.0,MEDIUM,12.0,False,False,False,False,False,300,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,13,100.347,1677.395,1.0,MEDIUM,13.0,False,False,False,False,False,300,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,14,100.322,1777.722,1.0,MEDIUM,14.0,False,False,False,False,False,302,28.1,47.4,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,15,100.36,1878.42,1.0,MEDIUM,15.0,False,False,False,False,False,298,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,16,100.355,1978.423,1.0,MEDIUM,16.0,False,False,False,False,False,298,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,17,99.915,2078.359,1.0,MEDIUM,17.0,False,False,False,False,False,301,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,18,99.944,2178.38,1.0,MEDIUM,18.0,False,False,False,False,False,302,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,19,99.612,2277.904,1.0,MEDIUM,19.0,False,False,False,False,False,303,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,20,99.891,2377.808,1.0,MEDIUM,20.0,False,False,False,False,False,303,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,21,99.474,2477.227,1.0,MEDIUM,21.0,False,False,False,False,False,306,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,22,99.542,2576.842,1.0,MEDIUM,22.0,False,False,False,False,False,307,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,23,99.81,2676.551,1.0,MEDIUM,23.0,False,False,False,False,False,304,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,24,99.789,2776.441,1.0,MEDIUM,24.0,False,False,False,False,False,301,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,25,99.607,2875.977,1.0,MEDIUM,25.0,False,False,False,False,False,305,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,26,99.527,2975.607,1.0,MEDIUM,26.0,False,False,False,False,False,303,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,27,99.093,3074.614,1.0,MEDIUM,27.0,False,False,False,False,False,304,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,28,99.156,3173.725,1.0,MEDIUM,28.0,False,False,False,False,False,305,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,29,99.548,3273.345,1.0,MEDIUM,29.0,False,False,False,False,False,303,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,30,99.705,3372.998,1.0,MEDIUM,30.0,False,False,False,False,False,302,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,31,101.469,3474.553,1.0,MEDIUM,31.0,True,False,False,False,False,300,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,32,119.605,3594.1,2.0,HARD,1.0,False,True,False,False,False,297,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,33,98.641,3692.756,2.0,HARD,2.0,False,False,False,False,False,301,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,34,98.043,3790.715,2.0,HARD,3.0,False,False,False,False,False,301,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,35,97.918,3888.728,2.0,HARD,4.0,False,False,False,False,False,302,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,36,98.317,3987.088,2.0,HARD,5.0,False,False,False,False,False,300,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,37,98.31,4085.312,2.0,HARD,6.0,False,False,False,False,False,304,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,38,98.081,4183.465,2.0,HARD,7.0,False,False,False,False,False,304,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,39,98.062,4281.542,2.0,HARD,8.0,False,False,False,False,False,310,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,40,98.321,4379.911,2.0,HARD,9.0,False,False,False,False,False,310,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,41,97.966,4477.833,2.0,HARD,10.0,False,False,False,False,True,311,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,42,97.925,4575.72,2.0,HARD,11.0,False,False,False,False,False,310,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,43,98.033,4673.803,2.0,HARD,12.0,False,False,False,False,False,312,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,44,98.229,4772.09,2.0,HARD,13.0,False,False,False,False,False,328,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,45,98.34,4870.262,2.0,HARD,14.0,False,False,False,False,False,333,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,46,98.119,4968.455,2.0,HARD,15.0,False,False,False,False,False,334,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,47,99.194,5067.676,2.0,HARD,16.0,False,False,False,False,False,337,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,48,98.436,5166.044,2.0,HARD,17.0,False,False,False,False,False,332,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,49,98.549,5264.649,2.0,HARD,18.0,False,False,False,False,False,331,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,50,98.813,5363.409,2.0,HARD,19.0,False,False,False,False,False,324,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,51,99.066,5462.453,2.0,HARD,20.0,False,False,False,False,False,332,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,52,99.843,5562.322,2.0,HARD,21.0,False,False,False,False,False,329,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,53,98.347,5660.776,2.0,HARD,22.0,False,False,False,False,False,307,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,54,97.889,5758.596,2.0,HARD,23.0,False,False,False,False,False,313,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,55,97.679,5856.266,2.0,HARD,24.0,False,False,False,False,False,311,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,NOR,McLaren,56,97.758,5954.038,2.0,HARD,25.0,False,False,False,False,False,310,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,1,117.213,345.763,1.0,MEDIUM,1.0,False,False,False,False,True,307,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,2,101.717,447.479,1.0,MEDIUM,2.0,False,False,False,False,True,306,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,3,138.048,585.39,1.0,MEDIUM,3.0,False,False,True,False,True,121,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,4,150.669,736.203,1.0,MEDIUM,4.0,False,False,True,False,True,276,28.2,47.4,36.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,5,143.011,879.128,1.0,MEDIUM,5.0,False,False,True,False,True,120,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,6,104.34,983.587,1.0,MEDIUM,6.0,False,False,False,True,False,318,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,7,101.923,1085.414,1.0,MEDIUM,7.0,False,False,False,False,False,326,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,8,101.675,1187.15,1.0,MEDIUM,8.0,False,False,False,False,False,326,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,9,101.837,1289.006,1.0,MEDIUM,9.0,False,False,False,False,False,314,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,10,102.093,1391.058,1.0,MEDIUM,10.0,False,False,False,False,True,322,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,11,102.258,1493.205,1.0,MEDIUM,11.0,False,False,False,False,False,307,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,12,101.866,1595.274,1.0,MEDIUM,12.0,False,False,False,False,False,319,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,13,102.257,1697.488,1.0,MEDIUM,13.0,False,False,False,False,False,307,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,14,102.249,1799.767,1.0,MEDIUM,14.0,False,False,False,False,False,308,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,15,102.175,1901.878,1.0,MEDIUM,15.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,16,101.906,2003.686,1.0,MEDIUM,16.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,17,101.831,2105.533,1.0,MEDIUM,17.0,False,False,False,False,False,306,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,18,101.669,2207.341,1.0,MEDIUM,18.0,False,False,False,False,False,307,28.3,47.6,35.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,19,101.517,2308.681,1.0,MEDIUM,19.0,False,False,False,False,False,303,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,20,101.427,2410.156,1.0,MEDIUM,20.0,False,False,False,False,False,304,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,21,101.246,2511.518,1.0,MEDIUM,21.0,False,False,False,False,False,310,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,22,101.63,2613.148,1.0,MEDIUM,22.0,False,False,False,False,False,308,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,23,101.72,2714.811,1.0,MEDIUM,23.0,False,False,False,False,False,303,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,24,101.489,2816.297,1.0,MEDIUM,24.0,False,False,False,False,False,304,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,25,102.393,2918.662,1.0,MEDIUM,25.0,False,False,False,False,False,306,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,26,101.547,3020.232,1.0,MEDIUM,26.0,False,False,False,False,False,307,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,27,101.361,3121.641,1.0,MEDIUM,27.0,False,False,False,False,False,309,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,28,101.369,3222.875,1.0,MEDIUM,28.0,False,False,False,False,False,307,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,29,101.194,3324.042,1.0,MEDIUM,29.0,False,False,False,False,False,303,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,30,101.452,3425.603,1.0,MEDIUM,30.0,False,False,False,False,False,304,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,31,103.409,3529.113,1.0,MEDIUM,31.0,True,False,False,False,False,306,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,32,120.757,3649.806,2.0,HARD,1.0,False,True,False,False,False,302,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,33,100.214,3750.021,2.0,HARD,2.0,False,False,False,False,False,300,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,34,100.077,3850.044,2.0,HARD,3.0,False,False,False,False,False,300,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,35,100.009,3950.012,2.0,HARD,4.0,False,False,False,False,False,301,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,36,100.301,4050.428,2.0,HARD,5.0,False,False,False,False,False,300,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,37,100.09,4150.411,2.0,HARD,6.0,False,False,False,False,False,302,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,38,99.937,4250.369,2.0,HARD,7.0,False,False,False,False,False,306,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,39,99.635,4350.146,2.0,HARD,8.0,False,False,False,False,False,307,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,40,99.722,4449.814,2.0,HARD,9.0,False,False,False,False,True,310,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,41,101.154,4550.987,2.0,HARD,10.0,False,False,False,False,True,309,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,42,100.078,4651.087,2.0,HARD,11.0,False,False,False,False,False,306,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,43,100.247,4751.305,2.0,HARD,12.0,False,False,False,False,False,317,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,44,101.275,4852.484,2.0,HARD,13.0,False,False,False,False,False,330,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,45,99.827,4952.326,2.0,HARD,14.0,False,False,False,False,False,303,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,46,99.753,5052.143,2.0,HARD,15.0,False,False,False,False,False,302,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,47,99.596,5151.75,2.0,HARD,16.0,False,False,False,False,False,300,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,48,100.898,5252.548,2.0,HARD,17.0,False,False,False,False,False,303,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,49,99.655,5352.307,2.0,HARD,18.0,False,False,False,False,False,301,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,50,99.573,5451.793,2.0,HARD,19.0,False,False,False,False,False,301,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,51,101.838,5553.705,2.0,HARD,20.0,True,False,False,False,False,306,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,52,129.77,5683.378,3.0,SOFT,4.0,False,True,False,False,False,286,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,53,97.33,5780.736,3.0,SOFT,5.0,False,False,False,False,False,311,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,54,99.993,5880.847,3.0,SOFT,6.0,False,False,False,False,False,301,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,OCO,Alpine,55,99.999,5980.703,3.0,SOFT,7.0,False,False,False,False,False,300,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,1,106.463,335.013,1.0,MEDIUM,1.0,False,False,False,False,True,312,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,2,102.416,437.428,1.0,MEDIUM,2.0,False,False,False,False,True,326,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,3,132.043,569.511,1.0,MEDIUM,3.0,False,False,True,False,True,140,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,4,150.697,720.209,1.0,MEDIUM,4.0,False,False,True,False,True,188,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,5,155.478,875.685,1.0,MEDIUM,5.0,False,False,True,False,True,224,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,6,102.576,978.35,1.0,MEDIUM,6.0,False,False,False,True,False,300,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,7,101.703,1079.946,1.0,MEDIUM,7.0,False,False,False,False,False,318,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,8,101.129,1181.117,1.0,MEDIUM,8.0,False,False,False,False,False,313,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,9,101.402,1282.47,1.0,MEDIUM,9.0,False,False,False,False,False,318,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,10,101.136,1383.646,1.0,MEDIUM,10.0,False,False,False,False,True,309,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,11,101.525,1485.114,1.0,MEDIUM,11.0,False,False,False,False,False,306,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,12,101.491,1586.697,1.0,MEDIUM,12.0,False,False,False,False,False,305,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,13,101.219,1687.947,1.0,MEDIUM,13.0,False,False,False,False,False,319,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,14,101.431,1789.26,1.0,MEDIUM,14.0,False,False,False,False,False,316,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,15,101.611,1891.018,1.0,MEDIUM,15.0,False,False,False,False,False,317,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,16,101.468,1992.403,1.0,MEDIUM,16.0,False,False,False,False,False,318,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,17,101.48,2093.842,1.0,MEDIUM,17.0,False,False,False,False,False,331,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,18,100.538,2194.309,1.0,MEDIUM,18.0,False,False,False,False,False,302,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,19,100.258,2294.566,1.0,MEDIUM,19.0,False,False,False,False,False,301,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,20,100.252,2394.837,1.0,MEDIUM,20.0,False,False,False,False,False,302,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,21,100.57,2495.481,1.0,MEDIUM,21.0,False,False,False,False,False,304,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,22,101.456,2596.984,1.0,MEDIUM,22.0,False,False,False,False,False,304,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,23,100.681,2697.638,1.0,MEDIUM,23.0,False,False,False,False,False,303,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,24,100.564,2798.194,1.0,MEDIUM,24.0,False,False,False,False,False,301,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,25,100.115,2898.374,1.0,MEDIUM,25.0,False,False,False,False,False,304,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,26,100.789,2999.048,1.0,MEDIUM,26.0,True,False,False,False,False,306,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,27,119.807,3118.922,2.0,HARD,1.0,False,True,False,False,False,307,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,28,99.642,3218.529,2.0,HARD,2.0,False,False,False,False,False,334,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,29,99.451,3317.927,2.0,HARD,3.0,False,False,False,False,False,300,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,30,99.633,3417.611,2.0,HARD,4.0,False,False,False,False,False,304,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,31,99.682,3517.35,2.0,HARD,5.0,False,False,False,False,False,302,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,32,99.378,3616.713,2.0,HARD,6.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,33,99.719,3716.471,2.0,HARD,7.0,False,False,False,False,False,311,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,34,100.2,3816.662,2.0,HARD,8.0,False,False,False,False,False,309,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,35,100.105,3916.736,2.0,HARD,9.0,False,False,False,False,False,330,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,36,100.162,4016.901,2.0,HARD,10.0,False,False,False,False,False,318,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,37,99.499,4116.313,2.0,HARD,11.0,False,False,False,False,False,327,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,38,98.939,4215.296,2.0,HARD,12.0,False,False,False,False,False,304,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,39,98.986,4314.422,2.0,HARD,13.0,False,False,False,False,False,305,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,40,99.066,4413.4,2.0,HARD,14.0,False,False,False,False,False,306,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,41,99.701,4513.017,2.0,HARD,15.0,False,False,False,False,True,310,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,42,98.866,4611.953,2.0,HARD,16.0,False,False,False,False,False,308,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,43,98.787,4710.765,2.0,HARD,17.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,44,98.781,4809.564,2.0,HARD,18.0,False,False,False,False,False,306,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,45,98.514,4908.065,2.0,HARD,19.0,False,False,False,False,False,306,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,46,98.579,5006.642,2.0,HARD,20.0,False,False,False,False,False,306,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,47,98.914,5105.579,2.0,HARD,21.0,False,False,False,False,False,305,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,48,98.842,5204.479,2.0,HARD,22.0,False,False,False,False,False,303,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,49,98.682,5303.149,2.0,HARD,23.0,False,False,False,False,False,303,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,50,98.729,5401.703,2.0,HARD,24.0,False,False,False,False,False,303,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,51,98.67,5500.512,2.0,HARD,25.0,False,False,False,False,False,307,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,52,99.176,5599.655,2.0,HARD,26.0,False,False,False,False,False,308,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,53,99.739,5699.436,2.0,HARD,27.0,False,False,False,False,False,308,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,54,98.803,5798.158,2.0,HARD,28.0,False,False,False,False,False,311,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,55,99.987,5898.252,2.0,HARD,29.0,False,False,False,False,False,308,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PER,Red Bull Racing,56,99.57,5997.794,2.0,HARD,30.0,False,False,False,False,False,309,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,1,104.703,333.253,1.0,MEDIUM,1.0,False,False,False,False,True,304,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,2,101.768,435.02,1.0,MEDIUM,2.0,False,False,False,False,True,308,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,3,126.009,560.693,1.0,MEDIUM,3.0,False,False,True,False,True,178,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,4,149.123,709.847,1.0,MEDIUM,4.0,False,False,True,False,True,194,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,5,164.254,874.044,1.0,MEDIUM,5.0,False,False,True,False,True,194,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,6,101.753,975.865,1.0,MEDIUM,6.0,False,False,False,True,False,307,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,7,101.086,1076.919,1.0,MEDIUM,7.0,False,False,False,False,False,301,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,8,100.678,1177.662,1.0,MEDIUM,8.0,False,False,False,False,False,307,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,9,100.285,1277.916,1.0,MEDIUM,9.0,False,False,False,False,False,301,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,10,100.339,1378.321,1.0,MEDIUM,10.0,False,False,False,False,True,303,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,11,100.607,1478.852,1.0,MEDIUM,11.0,False,False,False,False,False,300,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,12,100.696,1579.485,1.0,MEDIUM,12.0,False,False,False,False,False,302,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,13,100.579,1680.073,1.0,MEDIUM,13.0,False,False,False,False,False,301,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,14,100.807,1780.983,1.0,MEDIUM,14.0,False,False,False,False,False,302,28.1,47.4,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,15,101.013,1881.993,1.0,MEDIUM,15.0,False,False,False,False,False,298,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,16,100.229,1982.22,1.0,MEDIUM,16.0,False,False,False,False,False,298,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,17,99.925,2082.043,1.0,MEDIUM,17.0,False,False,False,False,False,300,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,18,100.006,2182.104,1.0,MEDIUM,18.0,False,False,False,False,False,302,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,19,99.685,2281.864,1.0,MEDIUM,19.0,False,False,False,False,False,302,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,20,99.791,2381.594,1.0,MEDIUM,20.0,False,False,False,False,False,304,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,21,99.711,2481.256,1.0,MEDIUM,21.0,False,False,False,False,False,305,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,22,99.864,2581.118,1.0,MEDIUM,22.0,False,False,False,False,False,306,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,23,99.91,2680.959,1.0,MEDIUM,23.0,False,False,False,False,False,301,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,24,100.269,2781.35,1.0,MEDIUM,24.0,False,False,False,False,False,299,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,25,99.409,2880.804,1.0,MEDIUM,25.0,False,False,False,False,False,302,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,26,99.299,2980.004,1.0,MEDIUM,26.0,False,False,False,False,False,304,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,27,99.016,3079.032,1.0,MEDIUM,27.0,False,False,False,False,False,305,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,28,99.65,3178.576,1.0,MEDIUM,28.0,False,False,False,False,False,306,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,29,99.55,3278.308,1.0,MEDIUM,29.0,False,False,False,False,False,303,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,30,99.661,3377.908,1.0,MEDIUM,30.0,False,False,False,False,False,302,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,31,100.829,3478.7,1.0,MEDIUM,31.0,False,False,False,False,False,302,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,32,101.107,3579.849,1.0,MEDIUM,32.0,True,False,False,False,False,304,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,33,119.344,3699.114,2.0,HARD,1.0,False,True,False,False,False,300,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,34,98.495,3797.745,2.0,HARD,2.0,False,False,False,False,False,300,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,35,98.022,3895.702,2.0,HARD,3.0,False,False,False,False,False,299,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,36,98.31,3994.024,2.0,HARD,4.0,False,False,False,False,False,303,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,37,98.49,4092.541,2.0,HARD,5.0,False,False,False,False,False,302,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,38,98.212,4190.7,2.0,HARD,6.0,False,False,False,False,False,305,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,39,98.183,4288.944,2.0,HARD,7.0,False,False,False,False,False,308,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,40,99.348,4388.321,2.0,HARD,8.0,False,False,False,False,False,321,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,41,98.206,4486.458,2.0,HARD,9.0,False,False,False,False,True,307,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,42,97.883,4584.39,2.0,HARD,10.0,False,False,False,False,False,308,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,43,97.984,4682.36,2.0,HARD,11.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,44,98.455,4780.765,2.0,HARD,12.0,False,False,False,False,False,305,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,45,97.979,4878.738,2.0,HARD,13.0,False,False,False,False,False,306,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,46,98.32,4977.05,2.0,HARD,14.0,False,False,False,False,False,306,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,47,98.655,5075.802,2.0,HARD,15.0,False,False,False,False,False,307,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,48,98.021,5173.82,2.0,HARD,16.0,False,False,False,False,False,305,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,49,98.023,5271.785,2.0,HARD,17.0,False,False,False,False,False,302,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,50,97.979,5369.983,2.0,HARD,18.0,False,False,False,False,False,304,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,51,98.532,5468.341,2.0,HARD,19.0,False,False,False,False,False,306,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,52,98.18,5566.496,2.0,HARD,20.0,False,False,False,False,False,305,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,53,99.104,5665.576,2.0,HARD,21.0,False,False,False,False,False,306,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,54,97.954,5763.6,2.0,HARD,22.0,False,False,False,False,False,307,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,55,97.924,5861.548,2.0,HARD,23.0,False,False,False,False,False,310,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,PIA,McLaren,56,99.112,5960.708,2.0,HARD,24.0,False,False,False,False,False,310,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,2,103.503,444.115,1.0,HARD,2.0,False,False,False,False,True,330,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,3,140.454,584.617,1.0,HARD,3.0,False,False,True,False,True,130,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,4,150.121,734.634,1.0,HARD,4.0,False,False,True,False,True,270,28.2,47.4,36.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,5,143.987,878.646,1.0,HARD,5.0,False,False,True,False,True,128,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,6,104.179,982.876,1.0,HARD,6.0,False,False,False,True,False,315,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,7,101.898,1084.677,1.0,HARD,7.0,False,False,False,False,False,327,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,8,101.524,1186.336,1.0,HARD,8.0,False,False,False,False,False,334,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,9,101.913,1288.214,1.0,HARD,9.0,False,False,False,False,False,344,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,10,101.994,1390.24,1.0,HARD,10.0,False,False,False,False,True,324,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,11,102.165,1492.301,1.0,HARD,11.0,False,False,False,False,False,326,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,12,101.837,1594.156,1.0,HARD,12.0,False,False,False,False,False,337,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,13,101.3,1695.587,1.0,HARD,13.0,False,False,False,False,False,344,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,14,101.098,1796.566,1.0,HARD,14.0,False,False,False,False,False,327,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,15,101.155,1897.741,1.0,HARD,15.0,False,False,False,False,False,310,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,16,101.26,1999.055,1.0,HARD,16.0,False,False,False,False,False,333,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,17,101.132,2100.132,1.0,HARD,17.0,False,False,False,False,False,327,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,18,100.53,2200.65,1.0,HARD,18.0,False,False,False,False,False,315,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,19,101.203,2301.803,1.0,HARD,19.0,False,False,False,False,False,311,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,20,100.766,2402.524,1.0,HARD,20.0,False,False,False,False,False,313,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,21,99.965,2502.698,1.0,HARD,21.0,False,False,False,False,False,334,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,22,100.019,2602.567,1.0,HARD,22.0,False,False,False,False,False,313,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,23,100.174,2702.79,1.0,HARD,23.0,False,False,False,False,False,310,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,24,100.06,2802.822,1.0,HARD,24.0,False,False,False,False,False,312,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,25,99.692,2902.576,1.0,HARD,25.0,False,False,False,False,False,313,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,26,100.158,3002.714,1.0,HARD,26.0,False,False,False,False,False,316,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,27,99.889,3102.647,1.0,HARD,27.0,False,False,False,False,False,318,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,28,99.235,3201.826,1.0,HARD,28.0,False,False,False,False,False,312,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,29,99.624,3301.422,1.0,HARD,29.0,False,False,False,False,False,309,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,30,99.577,3401.159,1.0,HARD,30.0,False,False,False,False,False,309,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,31,99.634,3500.764,1.0,HARD,31.0,False,False,False,False,False,309,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,32,99.553,3600.22,1.0,HARD,32.0,False,False,False,False,False,310,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,33,100.373,3700.633,1.0,HARD,33.0,False,False,False,False,False,323,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,34,100.071,3800.74,1.0,HARD,34.0,False,False,False,False,False,311,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,35,99.925,3900.542,1.0,HARD,35.0,False,False,False,False,False,311,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,36,99.152,3999.784,1.0,HARD,36.0,False,False,False,False,False,309,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,37,99.451,4099.296,1.0,HARD,37.0,False,False,False,False,False,309,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,38,99.331,4198.643,1.0,HARD,38.0,False,False,False,False,False,312,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,39,98.997,4297.546,1.0,HARD,39.0,False,False,False,False,False,314,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,40,100.641,4398.256,1.0,HARD,40.0,True,False,False,False,False,315,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,41,124.213,4522.387,2.0,MEDIUM,1.0,False,True,False,False,True,312,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,42,97.656,4620.042,2.0,MEDIUM,2.0,False,False,False,False,False,316,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,43,98.118,4718.23,2.0,MEDIUM,3.0,False,False,False,False,False,316,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,44,97.826,4816.019,2.0,MEDIUM,4.0,False,False,False,False,False,329,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,45,97.963,4913.937,2.0,MEDIUM,5.0,False,False,False,False,False,312,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,46,97.782,5011.646,2.0,MEDIUM,6.0,False,False,False,False,False,309,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,47,97.79,5109.484,2.0,MEDIUM,7.0,False,False,False,False,False,313,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,48,98.041,5207.607,2.0,MEDIUM,8.0,False,False,False,False,False,311,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,49,98.001,5305.652,2.0,MEDIUM,9.0,False,False,False,False,False,311,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,50,97.943,5403.533,2.0,MEDIUM,10.0,False,False,False,False,False,312,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,51,98.059,5501.652,2.0,MEDIUM,11.0,False,False,False,False,False,315,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,52,98.608,5600.233,2.0,MEDIUM,12.0,False,False,False,False,False,331,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,53,99.888,5700.062,2.0,MEDIUM,13.0,False,False,False,False,False,337,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,54,98.724,5798.792,2.0,MEDIUM,14.0,False,False,False,False,False,335,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,55,98.18,5896.986,2.0,MEDIUM,15.0,False,False,False,False,False,332,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,RUS,Mercedes,56,97.955,5994.836,2.0,MEDIUM,16.0,False,False,False,False,False,312,29.2,45.9,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,1,102.714,331.264,1.0,MEDIUM,1.0,False,False,False,False,True,318,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,2,99.923,431.186,1.0,MEDIUM,2.0,False,False,False,False,False,330,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,3,123.612,554.681,1.0,MEDIUM,3.0,False,False,True,False,True,152,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,4,151.665,706.516,1.0,MEDIUM,4.0,False,False,True,False,True,191,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,5,166.655,873.179,1.0,MEDIUM,5.0,False,False,True,False,True,120,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,6,100.002,973.342,1.0,MEDIUM,6.0,False,False,False,True,False,304,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,7,99.684,1072.755,1.0,MEDIUM,7.0,False,False,False,False,False,323,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,8,100.944,1173.744,1.0,MEDIUM,8.0,False,False,False,False,False,292,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,9,100.022,1273.83,1.0,MEDIUM,9.0,False,False,False,False,False,306,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,10,99.887,1373.702,1.0,MEDIUM,10.0,False,False,False,False,True,307,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,11,100.352,1473.994,1.0,MEDIUM,11.0,False,False,False,False,False,307,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,12,100.241,1574.28,1.0,MEDIUM,12.0,False,False,False,False,False,308,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,13,100.014,1674.325,1.0,MEDIUM,13.0,False,False,False,False,False,306,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,14,100.038,1774.251,1.0,MEDIUM,14.0,False,False,False,False,False,307,28.1,47.4,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,15,100.071,1874.313,1.0,MEDIUM,15.0,False,False,False,False,False,303,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,16,100.286,1974.676,1.0,MEDIUM,16.0,False,False,False,False,False,302,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,17,100.203,2074.93,1.0,MEDIUM,17.0,False,False,False,False,False,306,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,18,99.696,2174.618,1.0,MEDIUM,18.0,False,False,False,False,False,306,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,19,99.898,2274.495,1.0,MEDIUM,19.0,False,False,False,False,False,305,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,20,99.814,2374.317,1.0,MEDIUM,20.0,False,False,False,False,False,309,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,21,100.695,2475.013,1.0,MEDIUM,21.0,True,False,False,False,False,313,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,22,117.897,2592.879,2.0,HARD,1.0,False,True,False,False,False,308,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,23,98.731,2691.722,2.0,HARD,2.0,False,False,False,False,False,304,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,24,99.113,2790.761,2.0,HARD,3.0,False,False,False,False,False,302,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,25,99.355,2890.106,2.0,HARD,4.0,False,False,False,False,False,305,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,26,99.342,2989.442,2.0,HARD,5.0,False,False,False,False,False,306,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,27,98.96,3088.301,2.0,HARD,6.0,False,False,False,False,False,309,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,28,99.054,3187.371,2.0,HARD,7.0,False,False,False,False,False,310,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,29,99.203,3286.629,2.0,HARD,8.0,False,False,False,False,False,306,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,30,98.674,3385.39,2.0,HARD,9.0,False,False,False,False,False,306,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,31,99.281,3484.529,2.0,HARD,10.0,False,False,False,False,False,305,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,32,99.025,3583.669,2.0,HARD,11.0,False,False,False,False,False,303,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,33,98.76,3682.31,2.0,HARD,12.0,False,False,False,False,False,306,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,34,98.812,3781.149,2.0,HARD,13.0,False,False,False,False,False,304,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,35,98.62,3879.855,2.0,HARD,14.0,False,False,False,False,False,303,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,36,98.587,3978.351,2.0,HARD,15.0,False,False,False,False,False,302,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,37,98.428,4076.878,2.0,HARD,16.0,False,False,False,False,False,305,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,38,98.189,4175.07,2.0,HARD,17.0,False,False,False,False,False,307,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,39,98.075,4273.126,2.0,HARD,18.0,False,False,False,False,False,311,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,40,98.082,4371.208,2.0,HARD,19.0,False,False,False,False,False,314,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,41,97.786,4468.967,2.0,HARD,20.0,False,False,False,False,True,314,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,42,97.763,4566.804,2.0,HARD,21.0,False,False,False,False,False,312,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,43,98.223,4665.007,2.0,HARD,22.0,False,False,False,False,False,308,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,44,98.45,4763.39,2.0,HARD,23.0,False,False,False,False,False,308,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,45,98.28,4861.662,2.0,HARD,24.0,False,False,False,False,False,311,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,46,98.618,4960.322,2.0,HARD,25.0,False,False,False,False,False,314,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,47,98.883,5059.14,2.0,HARD,26.0,False,False,False,False,False,307,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,48,98.13,5157.324,2.0,HARD,27.0,False,False,False,False,False,304,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,49,98.584,5255.953,2.0,HARD,28.0,False,False,False,False,False,308,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,50,98.27,5354.156,2.0,HARD,29.0,False,False,False,False,False,303,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,51,98.501,5452.693,2.0,HARD,30.0,False,False,False,False,False,304,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,52,98.088,5550.686,2.0,HARD,31.0,False,False,False,False,False,292,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,53,98.17,5648.914,2.0,HARD,32.0,False,False,False,False,False,288,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,54,98.2,5747.114,2.0,HARD,33.0,False,False,False,False,False,296,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,55,99.009,5846.087,2.0,HARD,34.0,False,False,False,False,False,269,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,SAI,Ferrari,56,101.083,5947.201,2.0,HARD,35.0,False,False,False,False,False,233,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,1,108.959,337.509,1.0,HARD,2.0,False,False,False,False,True,309,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,2,102.792,440.3,1.0,HARD,3.0,False,False,False,False,True,326,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,3,134.001,574.214,1.0,HARD,4.0,False,False,True,False,True,183,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,4,150.476,724.834,1.0,HARD,5.0,False,False,True,False,True,200,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,5,152.04,876.876,1.0,HARD,6.0,False,False,True,False,True,208,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,6,107.096,983.969,1.0,HARD,7.0,False,False,False,True,False,313,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,7,102.147,1086.116,1.0,HARD,8.0,False,False,False,False,False,324,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,8,101.873,1187.88,1.0,HARD,9.0,False,False,False,False,False,318,28.0,46.9,35.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,9,101.972,1289.922,1.0,HARD,10.0,False,False,False,False,False,319,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,10,101.813,1391.654,1.0,HARD,11.0,False,False,False,False,True,320,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,11,102.777,1494.336,1.0,HARD,12.0,False,False,False,False,False,305,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,12,102.174,1596.672,1.0,HARD,13.0,False,False,False,False,False,302,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,13,102.102,1698.767,1.0,HARD,14.0,False,False,False,False,False,303,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,14,102.062,1800.889,1.0,HARD,15.0,False,False,False,False,False,304,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,15,102.348,1903.155,1.0,HARD,16.0,False,False,False,False,False,301,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,16,102.311,2005.573,1.0,HARD,17.0,False,False,False,False,False,300,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,17,102.054,2107.441,1.0,HARD,18.0,False,False,False,False,False,302,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,18,101.869,2209.415,1.0,HARD,19.0,False,False,False,False,False,304,28.3,47.6,35.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,19,101.57,2310.826,1.0,HARD,20.0,False,False,False,False,False,301,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,20,101.601,2412.573,1.0,HARD,21.0,False,False,False,False,False,302,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,21,101.416,2514.037,1.0,HARD,22.0,False,False,False,False,False,308,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,22,102.657,2616.697,1.0,HARD,23.0,False,False,False,False,False,307,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,23,102.237,2718.934,1.0,HARD,24.0,False,False,False,False,False,303,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,24,101.678,2820.682,1.0,HARD,25.0,False,False,False,False,False,303,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,25,101.634,2922.371,1.0,HARD,26.0,False,False,False,False,False,303,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,26,103.213,3025.365,1.0,HARD,27.0,False,False,False,False,False,309,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,27,102.199,3127.637,1.0,HARD,28.0,True,False,False,False,False,300,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,28,123.231,3250.762,2.0,MEDIUM,1.0,False,True,False,False,False,297,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,29,99.575,3350.364,2.0,MEDIUM,2.0,False,False,False,False,False,327,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,30,100.384,3450.746,2.0,MEDIUM,3.0,False,False,False,False,False,301,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,31,100.088,3550.913,2.0,MEDIUM,4.0,False,False,False,False,False,302,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,32,100.689,3651.55,2.0,MEDIUM,5.0,False,False,False,False,False,306,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,33,100.414,3752.076,2.0,MEDIUM,6.0,False,False,False,False,False,304,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,34,100.404,3852.479,2.0,MEDIUM,7.0,False,False,False,False,False,300,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,35,100.399,3952.685,2.0,MEDIUM,8.0,False,False,False,False,False,301,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,36,100.435,4053.361,2.0,MEDIUM,9.0,False,False,False,False,False,301,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,37,100.21,4153.49,2.0,MEDIUM,10.0,False,False,False,False,False,302,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,38,100.025,4253.481,2.0,MEDIUM,11.0,False,False,False,False,False,306,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,39,100.038,4353.487,2.0,MEDIUM,12.0,False,False,False,False,False,307,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,40,99.831,4453.319,2.0,MEDIUM,13.0,False,False,False,False,True,310,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,41,100.475,4553.889,2.0,MEDIUM,14.0,False,False,False,False,True,309,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,42,100.085,4653.98,2.0,MEDIUM,15.0,False,False,False,False,False,307,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,43,99.922,4753.877,2.0,MEDIUM,16.0,False,False,False,False,False,307,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,44,100.001,4853.937,2.0,MEDIUM,17.0,False,False,False,False,False,309,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,45,100.481,4954.401,2.0,MEDIUM,18.0,False,False,False,False,False,336,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,46,101.173,5055.508,2.0,MEDIUM,19.0,False,False,False,False,False,258,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,47,99.524,5155.059,2.0,MEDIUM,20.0,False,False,False,False,False,307,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,48,99.666,5254.687,2.0,MEDIUM,21.0,False,False,False,False,False,306,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,49,101.69,5356.356,2.0,MEDIUM,22.0,False,False,False,False,False,307,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,50,99.759,5456.201,2.0,MEDIUM,23.0,False,False,False,False,False,303,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,51,99.896,5556.019,2.0,MEDIUM,24.0,False,False,False,False,False,307,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,52,99.448,5655.539,2.0,MEDIUM,25.0,False,False,False,False,False,305,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,53,99.435,5754.896,2.0,MEDIUM,26.0,False,False,False,False,False,309,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,54,99.214,5854.253,2.0,MEDIUM,27.0,False,False,False,False,False,307,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,STR,Aston Martin,55,101.498,5955.69,2.0,MEDIUM,28.0,False,False,False,False,False,222,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,1,105.976,334.526,1.0,MEDIUM,1.0,False,False,False,False,True,315,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,2,102.114,436.639,1.0,MEDIUM,2.0,False,False,False,False,True,321,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,3,131.6,568.389,1.0,MEDIUM,3.0,False,False,True,False,True,182,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,4,150.263,718.629,1.0,MEDIUM,4.0,False,False,True,False,True,233,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,5,156.517,875.131,1.0,MEDIUM,5.0,False,False,True,False,True,205,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,6,102.559,977.676,1.0,MEDIUM,6.0,False,False,False,True,False,301,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,7,101.731,1079.353,1.0,MEDIUM,7.0,False,False,False,False,False,332,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,8,101.101,1180.549,1.0,MEDIUM,8.0,False,False,False,False,False,319,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,9,100.953,1281.53,1.0,MEDIUM,9.0,False,False,False,False,False,322,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,10,101.192,1382.593,1.0,MEDIUM,10.0,False,False,False,False,True,296,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,11,101.613,1484.25,1.0,MEDIUM,11.0,False,False,False,False,False,304,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,12,101.513,1585.851,1.0,MEDIUM,12.0,False,False,False,False,False,304,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,13,101.223,1687.021,1.0,MEDIUM,13.0,False,False,False,False,False,302,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,14,101.351,1788.384,1.0,MEDIUM,14.0,False,False,False,False,False,306,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,15,101.536,1889.922,1.0,MEDIUM,15.0,False,False,False,False,False,306,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,16,101.684,1991.627,1.0,MEDIUM,16.0,False,False,False,False,False,308,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,17,103.026,2094.613,1.0,MEDIUM,17.0,False,False,False,False,False,304,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,18,102.676,2197.228,1.0,MEDIUM,18.0,True,False,False,False,False,308,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,19,122.848,2320.087,2.0,HARD,1.0,False,True,False,False,False,301,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,20,101.198,2421.416,2.0,HARD,2.0,False,False,False,False,False,300,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,21,101.337,2522.738,2.0,HARD,3.0,False,False,False,False,False,308,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,22,101.005,2623.729,2.0,HARD,4.0,False,False,False,False,False,307,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,23,101.365,2725.0,2.0,HARD,5.0,False,False,False,False,False,303,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,24,101.205,2826.287,2.0,HARD,6.0,False,False,False,False,False,303,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,25,101.073,2927.262,2.0,HARD,7.0,False,False,False,False,False,301,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,26,100.927,3028.302,2.0,HARD,8.0,False,False,False,False,False,309,28.5,48.0,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,27,101.246,3129.581,2.0,HARD,9.0,False,False,False,False,False,310,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,28,101.467,3230.874,2.0,HARD,10.0,False,False,False,False,False,334,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,29,100.793,3331.693,2.0,HARD,11.0,False,False,False,False,False,306,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,30,100.706,3432.426,2.0,HARD,12.0,False,False,False,False,False,307,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,31,100.793,3533.26,2.0,HARD,13.0,False,False,False,False,False,304,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,32,100.466,3633.677,2.0,HARD,14.0,False,False,False,False,False,305,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,33,100.302,3733.879,2.0,HARD,15.0,False,False,False,False,False,307,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,34,100.139,3834.217,2.0,HARD,16.0,False,False,False,False,False,304,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,35,99.787,3934.016,2.0,HARD,17.0,False,False,False,False,False,305,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,36,99.923,4033.849,2.0,HARD,18.0,False,False,False,False,False,306,28.9,47.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,37,101.002,4134.766,2.0,HARD,19.0,False,False,False,False,False,307,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,38,99.855,4234.649,2.0,HARD,20.0,False,False,False,False,False,312,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,39,99.614,4334.427,2.0,HARD,21.0,False,False,False,False,False,328,29.0,46.9,33.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,40,99.845,4434.171,2.0,HARD,22.0,False,False,False,False,False,319,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,41,112.718,4546.837,2.0,HARD,23.0,False,False,False,False,True,311,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,42,99.212,4646.116,2.0,HARD,24.0,False,False,False,False,False,311,29.0,46.8,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,43,99.361,4745.528,2.0,HARD,25.0,False,False,False,False,False,310,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,44,99.379,4844.842,2.0,HARD,26.0,False,False,False,False,False,309,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,45,99.711,4944.64,2.0,HARD,27.0,False,False,False,False,False,313,29.0,47.2,32.0,0,0.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,46,99.778,5044.238,2.0,HARD,28.0,False,False,False,False,False,308,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,47,99.631,5143.921,2.0,HARD,29.0,False,False,False,False,False,305,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,48,99.697,5243.706,2.0,HARD,30.0,False,False,False,False,False,306,29.1,46.8,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,49,99.476,5343.154,2.0,HARD,31.0,False,False,False,False,False,303,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,50,99.863,5442.929,2.0,HARD,32.0,False,False,False,False,False,303,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,51,99.521,5542.518,2.0,HARD,33.0,False,False,False,False,False,304,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,52,99.657,5642.165,2.0,HARD,34.0,False,False,False,False,False,306,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,53,101.114,5743.347,2.0,HARD,35.0,False,False,False,False,False,309,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,54,99.193,5842.504,2.0,HARD,36.0,False,False,False,False,False,310,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,TSU,RB,55,99.379,5941.924,2.0,HARD,37.0,False,False,False,False,False,307,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,1,102.105,330.655,1.0,MEDIUM,1.0,False,False,False,False,True,312,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,2,99.991,430.645,1.0,MEDIUM,2.0,False,False,False,False,False,306,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,3,122.849,553.487,1.0,MEDIUM,3.0,False,False,True,False,True,183,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,4,151.496,705.028,1.0,MEDIUM,4.0,False,False,True,False,True,205,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,5,167.623,872.546,1.0,MEDIUM,5.0,False,False,True,False,True,130,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,6,99.779,972.376,1.0,MEDIUM,6.0,False,False,False,True,False,302,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,7,99.731,1072.102,1.0,MEDIUM,7.0,False,False,False,False,False,305,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,8,100.082,1172.222,1.0,MEDIUM,8.0,False,False,False,False,False,306,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,9,100.032,1272.244,1.0,MEDIUM,9.0,False,False,False,False,False,308,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,10,99.97,1372.122,1.0,MEDIUM,10.0,False,False,False,False,True,309,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,11,100.246,1472.479,1.0,MEDIUM,11.0,False,False,False,False,False,305,28.2,47.0,37.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,12,100.182,1572.582,1.0,MEDIUM,12.0,False,False,False,False,False,304,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,13,99.936,1672.592,1.0,MEDIUM,13.0,False,False,False,False,False,304,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,14,99.846,1772.472,1.0,MEDIUM,14.0,False,False,False,False,False,304,28.1,47.4,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,15,100.192,1872.692,1.0,MEDIUM,15.0,False,False,False,False,False,304,28.4,47.4,35.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,16,100.033,1972.682,1.0,MEDIUM,16.0,False,False,False,False,False,304,28.4,47.4,35.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,17,100.16,2072.755,1.0,MEDIUM,17.0,False,False,False,False,False,306,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,18,99.921,2172.723,1.0,MEDIUM,18.0,False,False,False,False,False,306,28.4,47.6,34.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,19,99.981,2272.759,1.0,MEDIUM,19.0,False,False,False,False,False,304,28.2,47.2,36.0,0,2.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,20,99.986,2372.75,1.0,MEDIUM,20.0,False,False,False,False,False,307,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,21,99.803,2472.478,1.0,MEDIUM,21.0,False,False,False,False,False,307,28.5,47.1,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,22,100.099,2572.646,1.0,MEDIUM,22.0,False,False,False,False,False,310,28.5,47.4,36.0,0,2.3
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,23,100.42,2672.996,1.0,MEDIUM,23.0,False,False,False,False,False,306,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,24,100.318,2773.297,1.0,MEDIUM,24.0,False,False,False,False,False,304,28.5,47.8,34.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,25,100.718,2874.143,1.0,MEDIUM,25.0,True,False,False,False,False,307,28.5,47.8,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,26,119.619,2993.652,2.0,HARD,1.0,False,True,False,False,False,306,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,27,99.046,3092.759,2.0,HARD,2.0,False,False,False,False,False,308,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,28,98.784,3191.525,2.0,HARD,3.0,False,False,False,False,False,309,28.5,47.5,34.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,29,99.067,3290.614,2.0,HARD,4.0,False,False,False,False,False,304,28.7,47.2,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,30,98.75,3389.442,2.0,HARD,5.0,False,False,False,False,False,305,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,31,99.058,3488.377,2.0,HARD,6.0,False,False,False,False,False,307,28.9,47.7,32.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,32,99.106,3587.49,2.0,HARD,7.0,False,False,False,False,False,307,28.8,47.4,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,33,98.827,3686.27,2.0,HARD,8.0,False,False,False,False,False,308,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,34,99.063,3785.258,2.0,HARD,9.0,False,False,False,False,False,307,28.8,47.4,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,35,99.004,3884.347,2.0,HARD,10.0,False,False,False,False,False,306,28.8,47.1,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,36,98.715,3983.144,2.0,HARD,11.0,False,False,False,False,False,305,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,37,98.963,4082.04,2.0,HARD,12.0,False,False,False,False,False,304,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,38,98.641,4180.761,2.0,HARD,13.0,False,False,False,False,False,306,28.9,46.9,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,39,98.358,4279.011,2.0,HARD,14.0,False,False,False,False,False,311,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,40,98.624,4377.635,2.0,HARD,15.0,False,False,False,False,False,309,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,41,98.463,4476.111,2.0,HARD,16.0,False,False,False,False,True,311,28.9,47.3,32.0,0,2.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,42,98.117,4574.288,2.0,HARD,17.0,False,False,False,False,False,311,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,43,98.526,4672.783,2.0,HARD,18.0,False,False,False,False,False,308,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,44,98.453,4771.286,2.0,HARD,19.0,False,False,False,False,False,304,29.0,46.2,33.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,45,98.269,4869.577,2.0,HARD,20.0,False,False,False,False,False,310,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,46,98.255,4967.726,2.0,HARD,21.0,False,False,False,False,False,307,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,47,99.191,5066.943,2.0,HARD,22.0,False,False,False,False,False,311,29.1,47.0,32.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,48,98.572,5165.586,2.0,HARD,23.0,False,False,False,False,False,304,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,49,98.598,5264.127,2.0,HARD,24.0,False,False,False,False,False,307,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,50,98.692,5362.856,2.0,HARD,25.0,False,False,False,False,False,301,28.9,46.6,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,51,99.105,5461.957,2.0,HARD,26.0,False,False,False,False,False,306,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,52,100.819,5562.666,2.0,HARD,27.0,False,False,False,False,False,308,29.3,46.4,31.0,0,0.3
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,53,99.384,5662.125,2.0,HARD,28.0,False,False,False,False,False,311,29.2,46.5,31.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,54,98.661,5760.858,2.0,HARD,29.0,False,False,False,False,False,307,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,55,98.252,5859.038,2.0,HARD,30.0,False,False,False,False,False,312,29.3,46.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,VER,Red Bull Racing,56,99.018,5958.143,2.0,HARD,31.0,False,False,False,False,False,309,29.2,46.1,32.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,1,109.752,338.302,1.0,MEDIUM,1.0,False,False,False,False,True,301,27.6,46.4,38.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,2,102.96,441.261,1.0,MEDIUM,2.0,False,False,False,False,True,320,28.0,47.0,37.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,3,136.979,578.387,1.0,MEDIUM,3.0,False,False,True,False,True,165,28.3,47.2,37.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,4,149.649,728.108,1.0,MEDIUM,4.0,False,False,True,False,True,198,28.3,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,5,149.529,877.549,1.0,MEDIUM,5.0,False,False,True,False,True,226,28.0,47.6,35.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,6,103.259,980.843,1.0,MEDIUM,6.0,False,False,False,True,False,306,28.0,47.9,33.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,7,102.1,1082.864,1.0,MEDIUM,7.0,False,False,False,False,False,319,28.1,47.2,33.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,8,101.474,1184.374,1.0,MEDIUM,8.0,False,False,False,False,False,327,28.1,47.2,34.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,9,101.91,1286.301,1.0,MEDIUM,9.0,False,False,False,False,False,324,28.1,46.9,36.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,10,110.686,1397.061,1.0,MEDIUM,10.0,False,False,False,False,True,299,28.1,46.7,37.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,11,102.743,1499.69,1.0,MEDIUM,11.0,False,False,False,False,False,299,28.2,47.0,36.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,12,102.262,1601.973,1.0,MEDIUM,12.0,False,False,False,False,False,298,28.2,47.1,36.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,13,102.427,1704.454,1.0,MEDIUM,13.0,True,False,False,False,False,302,28.0,47.1,36.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,14,122.835,1827.317,2.0,MEDIUM,1.0,False,True,False,False,False,291,28.3,47.8,35.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,15,101.376,1928.59,2.0,MEDIUM,2.0,False,False,False,False,False,294,28.4,47.5,35.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,16,101.633,2030.364,2.0,MEDIUM,3.0,False,False,False,False,False,300,28.4,47.8,35.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,17,101.886,2132.141,2.0,MEDIUM,4.0,False,False,False,False,False,303,28.4,47.6,35.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,18,101.325,2233.494,2.0,MEDIUM,5.0,False,False,False,False,False,304,28.3,47.6,35.0,0,2.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,19,101.352,2334.815,2.0,MEDIUM,6.0,False,False,False,False,False,304,28.3,47.2,36.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,20,101.858,2436.669,2.0,MEDIUM,7.0,False,False,False,False,False,301,28.4,47.1,36.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,21,101.435,2538.165,2.0,MEDIUM,8.0,False,False,False,False,False,302,28.4,47.3,36.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,22,102.176,2640.329,2.0,MEDIUM,9.0,False,False,False,False,False,300,28.4,47.4,36.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,23,102.259,2742.598,2.0,MEDIUM,10.0,False,False,False,False,False,299,28.4,47.8,35.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,24,101.649,2844.224,2.0,MEDIUM,11.0,False,False,False,False,False,299,28.4,47.7,34.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,25,101.696,2945.898,2.0,MEDIUM,12.0,False,False,False,False,False,296,28.5,48.0,33.0,0,1.6
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,26,101.364,3047.354,2.0,MEDIUM,13.0,False,False,False,False,False,301,28.4,47.6,33.0,0,2.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,27,101.186,3148.495,2.0,MEDIUM,14.0,False,False,False,False,False,304,28.5,47.3,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,28,101.42,3249.885,2.0,MEDIUM,15.0,False,False,False,False,False,301,28.6,47.5,34.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,29,102.231,3352.071,2.0,MEDIUM,16.0,False,False,False,False,False,302,28.8,47.5,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,30,101.532,3453.674,2.0,MEDIUM,17.0,False,False,False,False,False,306,29.0,47.7,32.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,31,101.502,3555.279,2.0,MEDIUM,18.0,False,False,False,False,False,301,28.9,47.7,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,32,101.643,3656.761,2.0,MEDIUM,19.0,False,False,False,False,False,302,28.7,47.7,32.0,0,1.9
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,33,101.13,3757.898,2.0,MEDIUM,20.0,False,False,False,False,False,299,28.7,47.5,32.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,34,101.387,3859.379,2.0,MEDIUM,21.0,False,False,False,False,False,298,28.8,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,35,101.783,3961.056,2.0,MEDIUM,22.0,True,False,False,False,False,299,28.8,47.0,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,36,126.093,4087.144,3.0,HARD,1.0,False,True,False,False,False,268,28.9,47.2,33.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,37,100.161,4187.388,3.0,HARD,2.0,False,False,False,False,False,304,28.9,47.1,33.0,0,1.0
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,38,100.148,4287.555,3.0,HARD,3.0,False,False,False,False,False,305,29.0,47.1,33.0,0,1.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,39,101.88,4389.452,3.0,HARD,4.0,False,False,False,False,False,304,29.0,46.9,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,40,100.131,4489.631,3.0,HARD,5.0,False,False,False,False,True,313,28.9,47.4,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,41,100.342,4589.875,3.0,HARD,6.0,False,False,False,False,False,309,28.9,47.4,32.0,0,0.9
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,42,100.168,4690.015,3.0,HARD,7.0,False,False,False,False,False,307,29.0,46.4,33.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,43,100.241,4790.358,3.0,HARD,8.0,False,False,False,False,False,305,29.0,46.4,33.0,0,1.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,44,100.033,4890.339,3.0,HARD,9.0,False,False,False,False,False,304,29.0,46.5,33.0,0,0.5
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,45,99.658,4990.011,3.0,HARD,10.0,False,False,False,False,False,305,29.1,47.0,32.0,0,1.4
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,46,99.858,5089.91,3.0,HARD,11.0,False,False,False,False,False,305,29.1,46.8,32.0,0,2.2
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,47,99.625,5189.428,3.0,HARD,12.0,False,False,False,False,False,300,29.1,46.7,32.0,0,2.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,48,100.219,5289.644,3.0,HARD,13.0,False,False,False,False,False,298,29.0,46.7,33.0,0,0.8
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,49,100.24,5389.911,3.0,HARD,14.0,False,False,False,False,False,299,29.0,47.0,32.0,0,0.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,50,99.963,5489.857,3.0,HARD,15.0,False,False,False,False,False,300,29.3,46.7,31.0,0,0.0
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,51,99.398,5589.233,3.0,HARD,16.0,False,False,False,False,False,301,29.2,46.5,31.0,0,1.3
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,52,99.683,5689.018,3.0,HARD,17.0,False,False,False,False,False,304,29.2,46.4,31.0,0,1.1
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,53,99.272,5788.224,3.0,HARD,18.0,False,False,False,False,False,307,29.1,46.0,31.0,0,1.7
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,54,99.596,5887.825,3.0,HARD,19.0,False,False,False,False,False,304,29.3,46.1,32.0,0,1.2
+2024,19,United States Grand Prix,Austin,9,20,56,ZHO,Kick Sauber,55,100.061,5987.923,3.0,HARD,20.0,False,False,False,False,False,306,29.2,45.9,32.0,0,1.0

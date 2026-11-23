@@ -1,0 +1,1160 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,1,101.0,306.643,1.0,MEDIUM,2.0,False,False,False,False,False,289.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,2,93.56,400.202,1.0,MEDIUM,3.0,False,False,False,False,False,319.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,3,91.768,492.05,1.0,MEDIUM,4.0,False,False,False,False,False,325.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,4,91.591,583.684,1.0,MEDIUM,5.0,False,False,False,False,False,331.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,5,91.422,675.108,1.0,MEDIUM,6.0,False,False,False,False,False,327.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,6,91.491,766.582,1.0,MEDIUM,7.0,False,False,False,False,False,322.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,7,91.438,857.95,1.0,MEDIUM,8.0,False,False,False,False,False,323.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,8,91.58,949.544,1.0,MEDIUM,9.0,False,False,False,False,False,313.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,9,91.644,1041.138,1.0,MEDIUM,10.0,False,False,False,False,False,310.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,10,91.978,1133.19,1.0,MEDIUM,11.0,False,False,False,False,False,310.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,11,91.962,1225.079,1.0,MEDIUM,12.0,False,False,False,False,False,314.0,26.9,32.8,52.0,0,2.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,12,91.958,1317.105,1.0,MEDIUM,13.0,False,False,False,False,False,314.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,13,91.7,1408.768,1.0,MEDIUM,14.0,False,False,False,False,False,316.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,14,91.655,1500.332,1.0,MEDIUM,15.0,False,False,False,False,False,309.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,15,91.729,1592.139,1.0,MEDIUM,16.0,False,False,False,False,False,311.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,16,94.282,1686.425,1.0,MEDIUM,17.0,True,False,False,False,False,309.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,17,111.901,1798.34,2.0,HARD,1.0,False,True,False,False,False,304.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,18,90.463,1888.854,2.0,HARD,2.0,False,False,False,False,False,305.0,26.7,32.6,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,19,90.573,1979.4,2.0,HARD,3.0,False,False,False,False,False,303.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,20,90.392,2069.781,2.0,HARD,4.0,False,False,False,False,False,304.0,26.7,32.6,51.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,21,90.54,2160.397,2.0,HARD,5.0,False,False,False,False,False,310.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,22,90.706,2251.202,2.0,HARD,6.0,False,False,False,False,False,315.0,26.7,32.1,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,23,90.272,2341.173,2.0,HARD,7.0,False,False,False,False,False,315.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,24,90.511,2431.771,2.0,HARD,8.0,False,False,False,False,False,315.0,26.7,31.9,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,25,90.655,2522.492,2.0,HARD,9.0,False,False,False,False,False,332.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,26,90.092,2612.662,2.0,HARD,10.0,False,False,False,False,False,335.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,27,90.728,2703.297,2.0,HARD,11.0,False,False,False,False,False,312.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,28,90.631,2793.902,2.0,HARD,12.0,False,False,False,False,False,313.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,29,90.588,2884.468,2.0,HARD,13.0,False,False,False,False,False,314.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,30,90.591,2975.11,2.0,HARD,14.0,False,False,False,False,False,312.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,31,90.555,3065.636,2.0,HARD,15.0,False,False,False,False,False,310.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,32,90.35,3156.07,2.0,HARD,16.0,False,False,False,False,False,313.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,33,90.447,3246.338,2.0,HARD,17.0,False,False,False,False,False,314.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,34,90.026,3336.338,2.0,HARD,18.0,False,False,False,False,False,309.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,35,89.987,3426.517,2.0,HARD,19.0,False,False,False,False,False,310.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,36,90.341,3516.885,2.0,HARD,20.0,False,False,False,False,False,313.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,37,90.413,3607.191,2.0,HARD,21.0,False,False,False,False,False,312.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,38,90.238,3697.499,2.0,HARD,22.0,False,False,False,False,False,313.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,39,90.497,3787.897,2.0,HARD,23.0,False,False,False,False,False,313.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,40,90.331,3878.262,2.0,HARD,24.0,False,False,False,False,False,310.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,41,90.31,3968.677,2.0,HARD,25.0,False,False,False,False,False,310.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,42,90.355,4058.971,2.0,HARD,26.0,False,False,False,False,False,313.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,43,92.175,4151.118,2.0,HARD,27.0,True,False,False,False,False,312.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,44,109.385,4260.546,3.0,HARD,1.0,False,True,False,False,False,315.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,45,87.845,4348.52,3.0,HARD,2.0,False,False,False,False,False,318.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,46,88.694,4437.118,3.0,HARD,3.0,False,False,False,False,False,305.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,47,88.74,4525.773,3.0,HARD,4.0,False,False,False,False,False,312.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,48,88.92,4614.733,3.0,HARD,5.0,False,False,False,False,False,315.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,49,88.761,4703.542,3.0,HARD,6.0,False,False,False,False,False,330.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,50,89.011,4792.369,3.0,HARD,7.0,False,False,False,False,False,308.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,51,88.675,4881.219,3.0,HARD,8.0,False,False,False,False,False,307.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,52,88.402,4969.508,3.0,HARD,9.0,False,False,False,False,False,312.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,53,88.608,5058.213,3.0,HARD,10.0,False,False,False,False,False,308.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,54,88.812,5147.009,3.0,HARD,11.0,False,False,False,False,False,310.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,55,88.742,5235.813,3.0,HARD,12.0,False,False,False,False,False,310.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,56,88.743,5324.579,3.0,HARD,13.0,False,False,False,False,False,310.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,57,88.749,5413.256,3.0,HARD,14.0,False,False,False,False,False,314.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALB,Williams,58,88.67,5501.738,3.0,HARD,15.0,False,False,False,False,False,315.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,1,96.516,302.159,1.0,MEDIUM,1.0,False,False,False,False,False,298.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,2,91.755,393.913,1.0,MEDIUM,2.0,False,False,False,False,False,298.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,3,90.823,484.699,1.0,MEDIUM,3.0,False,False,False,False,False,320.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,4,90.66,575.456,1.0,MEDIUM,4.0,False,False,False,False,False,317.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,5,90.773,666.084,1.0,MEDIUM,5.0,False,False,False,False,False,309.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,6,90.803,756.988,1.0,MEDIUM,6.0,False,False,False,False,False,315.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,7,90.782,847.779,1.0,MEDIUM,7.0,False,False,False,False,False,325.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,8,91.109,938.917,1.0,MEDIUM,8.0,False,False,False,False,False,320.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,9,90.915,1029.769,1.0,MEDIUM,9.0,False,False,False,False,False,323.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,10,91.18,1120.908,1.0,MEDIUM,10.0,False,False,False,False,False,311.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,11,91.381,1212.295,1.0,MEDIUM,11.0,False,False,False,False,False,325.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,12,93.378,1305.635,1.0,MEDIUM,12.0,True,False,False,False,False,321.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,13,110.005,1415.683,2.0,HARD,2.0,False,True,False,False,False,296.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,14,90.466,1506.189,2.0,HARD,3.0,False,False,False,False,False,318.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,15,90.389,1596.471,2.0,HARD,4.0,False,False,False,False,False,317.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,16,90.314,1686.723,2.0,HARD,5.0,False,False,False,False,False,324.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,17,90.308,1777.185,2.0,HARD,6.0,False,False,False,False,False,321.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,18,90.38,1867.381,2.0,HARD,7.0,False,False,False,False,False,316.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,19,90.205,1957.58,2.0,HARD,8.0,False,False,False,False,False,319.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,20,90.38,2048.207,2.0,HARD,9.0,False,False,False,False,False,326.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,21,89.887,2137.869,2.0,HARD,10.0,False,False,False,False,False,322.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,22,90.463,2228.506,2.0,HARD,11.0,False,False,False,False,False,321.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,23,90.102,2318.629,2.0,HARD,12.0,False,False,False,False,False,322.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,24,90.093,2408.541,2.0,HARD,13.0,False,False,False,False,False,320.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,25,90.951,2499.538,2.0,HARD,14.0,False,False,False,False,False,294.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,26,89.936,2589.631,2.0,HARD,15.0,False,False,False,False,False,320.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,27,90.229,2679.845,2.0,HARD,16.0,False,False,False,False,False,304.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,28,90.559,2770.299,2.0,HARD,17.0,False,False,False,False,False,300.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,29,90.009,2860.404,2.0,HARD,18.0,False,False,False,False,False,301.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,30,90.415,2950.731,2.0,HARD,19.0,False,False,False,False,False,297.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,31,90.128,3040.881,2.0,HARD,20.0,False,False,False,False,False,301.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,32,89.807,3130.746,2.0,HARD,21.0,False,False,False,False,False,301.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,33,90.426,3221.114,2.0,HARD,22.0,False,False,False,False,False,299.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,34,89.884,3311.04,2.0,HARD,23.0,False,False,False,False,False,304.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,35,89.869,3400.805,2.0,HARD,24.0,False,False,False,False,False,297.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,36,92.048,3492.796,2.0,HARD,25.0,True,False,False,False,False,299.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,37,110.279,3603.166,3.0,HARD,2.0,False,True,False,False,False,293.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,38,88.909,3692.326,3.0,HARD,3.0,False,False,False,False,False,314.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,39,88.8,3780.857,3.0,HARD,4.0,False,False,False,False,False,296.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,40,88.617,3869.595,3.0,HARD,5.0,False,False,False,False,False,299.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,41,88.81,3958.412,3.0,HARD,6.0,False,False,False,False,False,297.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,42,88.256,4046.716,3.0,HARD,7.0,False,False,False,False,False,286.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,43,88.769,4135.322,3.0,HARD,8.0,False,False,False,False,False,306.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,44,88.986,4224.256,3.0,HARD,9.0,False,False,False,False,False,325.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,45,90.177,4314.587,3.0,HARD,10.0,False,False,False,False,False,301.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,46,88.554,4403.073,3.0,HARD,11.0,False,False,False,False,False,326.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,47,88.625,4491.564,3.0,HARD,12.0,False,False,False,False,False,300.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,48,88.592,4580.358,3.0,HARD,13.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,49,88.5,4668.859,3.0,HARD,14.0,False,False,False,False,False,298.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,50,88.619,4757.415,3.0,HARD,15.0,False,False,False,False,False,298.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,51,88.491,4845.942,3.0,HARD,16.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,52,88.604,4934.554,3.0,HARD,17.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,53,88.714,5023.335,3.0,HARD,18.0,False,False,False,False,False,303.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,54,89.174,5112.419,3.0,HARD,19.0,False,False,False,False,False,304.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,55,88.952,5201.446,3.0,HARD,20.0,False,False,False,False,False,323.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,56,89.108,5290.554,3.0,HARD,21.0,False,False,False,False,False,330.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,57,89.038,5379.42,3.0,HARD,22.0,False,False,False,False,False,296.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ALO,Aston Martin,58,88.706,5468.275,3.0,HARD,23.0,False,False,False,False,False,300.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,1,100.75,306.393,1.0,HARD,1.0,False,False,False,False,False,293.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,2,92.77,399.162,1.0,HARD,2.0,False,False,False,False,False,302.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,3,91.698,491.027,1.0,HARD,3.0,False,False,False,False,False,321.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,4,91.281,582.14,1.0,HARD,4.0,False,False,False,False,False,327.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,5,91.445,673.647,1.0,HARD,5.0,False,False,False,False,False,322.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,6,91.122,764.651,1.0,HARD,6.0,False,False,False,False,False,320.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,7,91.189,855.873,1.0,HARD,7.0,False,False,False,False,False,320.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,8,91.206,947.045,1.0,HARD,8.0,False,False,False,False,False,303.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,9,91.716,1038.789,1.0,HARD,9.0,False,False,False,False,False,299.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,10,91.713,1130.597,1.0,HARD,10.0,False,False,False,False,False,299.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,11,91.616,1222.108,1.0,HARD,11.0,False,False,False,False,False,317.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,12,91.78,1313.849,1.0,HARD,12.0,False,False,False,False,False,317.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,13,91.887,1405.815,1.0,HARD,13.0,False,False,False,False,False,319.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,14,91.709,1497.448,1.0,HARD,14.0,False,False,False,False,False,295.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,15,91.436,1588.846,1.0,HARD,15.0,False,False,False,False,False,296.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,16,91.475,1680.306,1.0,HARD,16.0,False,False,False,False,False,296.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,17,91.561,1771.922,1.0,HARD,17.0,False,False,False,False,False,297.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,18,92.236,1864.283,1.0,HARD,18.0,False,False,False,False,False,317.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,19,92.309,1956.496,1.0,HARD,19.0,False,False,False,False,False,299.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,20,92.795,2049.34,1.0,HARD,20.0,False,False,False,False,False,295.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,21,92.462,2141.741,1.0,HARD,21.0,False,False,False,False,False,289.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,22,92.922,2234.731,1.0,HARD,22.0,False,False,False,False,False,301.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,23,92.934,2327.742,1.0,HARD,23.0,False,False,False,False,False,301.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,24,92.36,2419.87,1.0,HARD,24.0,False,False,False,False,False,293.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,25,92.139,2512.101,1.0,HARD,25.0,False,False,False,False,False,302.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,26,92.821,2604.938,1.0,HARD,26.0,False,False,False,False,False,297.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,27,91.817,2696.746,1.0,HARD,27.0,False,False,False,False,False,300.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,28,92.424,2789.211,1.0,HARD,28.0,False,False,False,False,False,297.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,29,94.094,2883.286,1.0,HARD,29.0,True,False,False,False,False,302.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,30,113.086,2996.371,2.0,MEDIUM,1.0,False,True,False,False,False,288.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,31,91.308,3087.826,2.0,MEDIUM,2.0,False,False,False,False,False,289.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,32,90.245,3177.918,2.0,MEDIUM,3.0,False,False,False,False,False,296.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,33,90.623,3268.576,2.0,MEDIUM,4.0,False,False,False,False,False,294.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,34,90.473,3359.097,2.0,MEDIUM,5.0,False,False,False,False,False,295.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,35,90.401,3449.446,2.0,MEDIUM,6.0,False,False,False,False,False,295.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,36,90.207,3539.688,2.0,MEDIUM,7.0,False,False,False,False,False,299.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,37,90.246,3629.945,2.0,MEDIUM,8.0,False,False,False,False,False,296.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,38,90.016,3720.011,2.0,MEDIUM,9.0,False,False,False,False,False,297.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,39,90.001,3809.87,2.0,MEDIUM,10.0,False,False,False,False,False,297.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,40,90.345,3900.275,2.0,MEDIUM,11.0,False,False,False,False,False,297.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,41,90.161,3990.481,2.0,MEDIUM,12.0,False,False,False,False,False,294.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,42,89.863,4080.291,2.0,MEDIUM,13.0,False,False,False,False,False,297.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,43,91.418,4171.642,2.0,MEDIUM,14.0,False,False,False,False,False,295.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,44,89.999,4261.894,2.0,MEDIUM,15.0,False,False,False,False,False,319.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,45,90.495,4352.217,2.0,MEDIUM,16.0,False,False,False,False,False,300.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,46,89.998,4442.188,2.0,MEDIUM,17.0,False,False,False,False,False,301.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,47,90.448,4532.668,2.0,MEDIUM,18.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,48,90.492,4623.18,2.0,MEDIUM,19.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,49,90.688,4713.906,2.0,MEDIUM,20.0,False,False,False,False,False,296.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,50,91.586,4805.49,2.0,MEDIUM,21.0,False,False,False,False,False,295.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,51,91.017,4896.452,2.0,MEDIUM,22.0,False,False,False,False,False,299.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,52,90.924,4987.342,2.0,MEDIUM,23.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,53,91.713,5079.114,2.0,MEDIUM,24.0,False,False,False,False,False,281.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,54,90.855,5169.896,2.0,MEDIUM,25.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,55,90.53,5260.382,2.0,MEDIUM,26.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,56,90.13,5350.638,2.0,MEDIUM,27.0,False,False,False,False,False,299.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,BOT,Alfa Romeo,57,90.55,5441.135,2.0,MEDIUM,28.0,False,False,False,False,False,300.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,1,96.953,302.596,1.0,MEDIUM,1.0,False,False,False,False,False,310.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,2,91.774,394.369,1.0,MEDIUM,2.0,False,False,False,False,False,296.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,3,90.824,485.325,1.0,MEDIUM,3.0,False,False,False,False,False,317.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,4,90.758,576.039,1.0,MEDIUM,4.0,False,False,False,False,False,320.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,5,90.764,666.966,1.0,MEDIUM,5.0,False,False,False,False,False,326.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,6,90.886,757.696,1.0,MEDIUM,6.0,False,False,False,False,False,325.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,7,90.787,848.455,1.0,MEDIUM,7.0,False,False,False,False,False,325.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,8,90.944,939.471,1.0,MEDIUM,8.0,False,False,False,False,False,319.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,9,91.305,1030.706,1.0,MEDIUM,9.0,False,False,False,False,False,329.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,10,91.136,1121.833,1.0,MEDIUM,10.0,False,False,False,False,False,305.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,11,91.467,1213.319,1.0,MEDIUM,11.0,False,False,False,False,False,314.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,12,92.492,1305.921,1.0,MEDIUM,12.0,False,False,False,False,False,316.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,13,91.532,1397.366,1.0,MEDIUM,13.0,False,False,False,False,False,303.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,14,91.457,1488.696,1.0,MEDIUM,14.0,False,False,False,False,False,302.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,15,91.986,1580.787,1.0,MEDIUM,15.0,False,False,False,False,False,303.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,16,92.273,1673.088,1.0,MEDIUM,16.0,False,False,False,False,False,301.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,17,94.709,1767.851,1.0,MEDIUM,17.0,True,False,False,False,False,308.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,18,111.405,1879.14,2.0,HARD,1.0,False,True,False,False,False,330.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,19,90.0,1969.234,2.0,HARD,2.0,False,False,False,False,False,298.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,20,90.242,2059.506,2.0,HARD,3.0,False,False,False,False,False,301.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,21,90.422,2149.919,2.0,HARD,4.0,False,False,False,False,False,301.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,22,90.179,2240.05,2.0,HARD,5.0,False,False,False,False,False,301.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,23,91.158,2331.325,2.0,HARD,6.0,False,False,False,False,False,303.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,24,90.802,2422.109,2.0,HARD,7.0,False,False,False,False,False,306.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,25,90.852,2512.783,2.0,HARD,8.0,False,False,False,False,False,308.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,26,90.629,2603.527,2.0,HARD,9.0,False,False,False,False,False,332.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,27,90.404,2693.77,2.0,HARD,10.0,False,False,False,False,False,299.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,28,90.496,2784.345,2.0,HARD,11.0,False,False,False,False,False,300.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,29,90.329,2874.709,2.0,HARD,12.0,False,False,False,False,False,302.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,30,90.392,2965.271,2.0,HARD,13.0,False,False,False,False,False,296.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,31,90.239,3055.335,2.0,HARD,14.0,False,False,False,False,False,300.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,32,92.563,3147.861,2.0,HARD,15.0,True,False,False,False,False,299.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,33,111.301,3259.067,3.0,HARD,1.0,False,True,False,False,False,295.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,34,89.151,3348.369,3.0,HARD,2.0,False,False,False,False,False,297.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,35,89.016,3437.311,3.0,HARD,3.0,False,False,False,False,False,294.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,36,89.351,3526.817,3.0,HARD,4.0,False,False,False,False,False,300.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,37,90.01,3616.803,3.0,HARD,5.0,False,False,False,False,False,297.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,38,90.098,3706.827,3.0,HARD,6.0,False,False,False,False,False,300.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,39,90.797,3797.572,3.0,HARD,7.0,False,False,False,False,False,321.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,40,89.859,3887.524,3.0,HARD,8.0,False,False,False,False,False,301.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,41,89.621,3977.035,3.0,HARD,9.0,False,False,False,False,False,299.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,42,89.231,4066.394,3.0,HARD,10.0,False,False,False,False,False,301.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,43,89.717,4156.16,3.0,HARD,11.0,False,False,False,False,False,299.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,44,89.77,4245.837,3.0,HARD,12.0,False,False,False,False,False,298.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,45,89.503,4335.21,3.0,HARD,13.0,False,False,False,False,False,298.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,46,89.428,4424.868,3.0,HARD,14.0,False,False,False,False,False,299.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,47,89.726,4514.524,3.0,HARD,15.0,False,False,False,False,False,298.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,48,89.505,4603.974,3.0,HARD,16.0,False,False,False,False,False,299.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,49,89.518,4693.502,3.0,HARD,17.0,False,False,False,False,False,298.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,50,89.549,4783.157,3.0,HARD,18.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,51,89.445,4872.505,3.0,HARD,19.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,52,89.587,4962.115,3.0,HARD,20.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,53,89.532,5051.637,3.0,HARD,21.0,False,False,False,False,False,297.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,54,89.435,5141.039,3.0,HARD,22.0,False,False,False,False,False,295.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,55,89.307,5230.347,3.0,HARD,23.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,56,89.496,5319.894,3.0,HARD,24.0,False,False,False,False,False,296.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,57,89.642,5409.618,3.0,HARD,25.0,False,False,False,False,False,297.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,GAS,Alpine,58,89.547,5498.975,3.0,HARD,26.0,False,False,False,False,False,295.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,1,97.672,303.315,1.0,MEDIUM,1.0,False,False,False,False,False,307.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,2,91.727,395.041,1.0,MEDIUM,2.0,False,False,False,False,False,297.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,3,91.526,486.62,1.0,MEDIUM,3.0,False,False,False,False,False,321.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,4,90.844,577.422,1.0,MEDIUM,4.0,False,False,False,False,False,319.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,5,90.844,668.28,1.0,MEDIUM,5.0,False,False,False,False,False,317.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,6,90.634,758.928,1.0,MEDIUM,6.0,False,False,False,False,False,314.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,7,90.899,849.833,1.0,MEDIUM,7.0,False,False,False,False,False,314.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,8,91.061,940.885,1.0,MEDIUM,8.0,False,False,False,False,False,315.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,9,91.132,1031.939,1.0,MEDIUM,9.0,False,False,False,False,False,319.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,10,91.271,1123.264,1.0,MEDIUM,10.0,False,False,False,False,False,312.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,11,91.378,1214.62,1.0,MEDIUM,11.0,False,False,False,False,False,317.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,12,91.716,1306.301,1.0,MEDIUM,12.0,False,False,False,False,False,319.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,13,91.689,1398.023,1.0,MEDIUM,13.0,False,False,False,False,False,317.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,14,91.432,1489.312,1.0,MEDIUM,14.0,False,False,False,False,False,315.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,15,93.651,1582.967,1.0,MEDIUM,15.0,True,False,False,False,False,321.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,16,110.835,1693.853,2.0,HARD,1.0,False,True,False,False,False,297.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,17,90.095,1784.065,2.0,HARD,2.0,False,False,False,False,False,298.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,18,90.057,1874.026,2.0,HARD,3.0,False,False,False,False,False,300.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,19,89.979,1963.994,2.0,HARD,4.0,False,False,False,False,False,300.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,20,89.657,2053.843,2.0,HARD,5.0,False,False,False,False,False,303.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,21,89.85,2143.66,2.0,HARD,6.0,False,False,False,False,False,306.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,22,91.502,2235.077,2.0,HARD,7.0,False,False,False,False,False,317.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,23,90.265,2325.354,2.0,HARD,8.0,False,False,False,False,False,317.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,24,89.861,2415.199,2.0,HARD,9.0,False,False,False,False,False,301.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,25,89.37,2504.488,2.0,HARD,10.0,False,False,False,False,False,326.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,26,89.899,2594.485,2.0,HARD,11.0,False,False,False,False,False,295.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,27,89.568,2684.059,2.0,HARD,12.0,False,False,False,False,False,301.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,28,89.691,2773.775,2.0,HARD,13.0,False,False,False,False,False,300.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,29,89.842,2863.581,2.0,HARD,14.0,False,False,False,False,False,304.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,30,90.118,2953.747,2.0,HARD,15.0,False,False,False,False,False,299.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,31,89.806,3043.528,2.0,HARD,16.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,32,89.876,3133.362,2.0,HARD,17.0,False,False,False,False,False,302.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,33,89.774,3223.259,2.0,HARD,18.0,False,False,False,False,False,302.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,34,89.789,3312.976,2.0,HARD,19.0,False,False,False,False,False,303.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,35,91.324,3404.244,2.0,HARD,20.0,True,False,False,False,False,306.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,36,108.781,3513.247,3.0,HARD,1.0,False,True,False,False,False,303.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,37,89.532,3602.653,3.0,HARD,2.0,False,False,False,False,False,325.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,38,90.373,3692.946,3.0,HARD,3.0,False,False,False,False,False,292.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,39,89.221,3782.2,3.0,HARD,4.0,False,False,False,False,False,302.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,40,88.867,3871.016,3.0,HARD,5.0,False,False,False,False,False,300.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,41,88.81,3959.927,3.0,HARD,6.0,False,False,False,False,False,299.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,42,88.793,4048.628,3.0,HARD,7.0,False,False,False,False,False,307.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,43,88.711,4137.389,3.0,HARD,8.0,False,False,False,False,False,326.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,44,88.99,4226.385,3.0,HARD,9.0,False,False,False,False,False,306.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,45,89.023,4315.386,3.0,HARD,10.0,False,False,False,False,False,297.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,46,89.729,4405.185,3.0,HARD,11.0,False,False,False,False,False,305.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,47,89.528,4494.702,3.0,HARD,12.0,False,False,False,False,False,314.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,48,88.814,4583.408,3.0,HARD,13.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,49,88.809,4672.184,3.0,HARD,14.0,False,False,False,False,False,300.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,50,88.585,4760.927,3.0,HARD,15.0,False,False,False,False,False,304.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,51,88.531,4849.404,3.0,HARD,16.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,52,88.372,4937.837,3.0,HARD,17.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,53,88.474,5026.204,3.0,HARD,18.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,54,88.634,5114.91,3.0,HARD,19.0,False,False,False,False,False,305.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,55,88.584,5203.421,3.0,HARD,20.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,56,89.138,5292.662,3.0,HARD,21.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,57,89.666,5382.314,3.0,HARD,22.0,False,False,False,False,False,331.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HAM,Mercedes,58,90.894,5473.119,3.0,HARD,23.0,False,False,False,False,False,330.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,1,99.828,305.471,1.0,MEDIUM,1.0,False,False,False,False,False,288.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,2,92.921,398.391,1.0,MEDIUM,2.0,False,False,False,False,False,297.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,3,91.351,489.617,1.0,MEDIUM,3.0,False,False,False,False,False,284.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,4,91.374,581.139,1.0,MEDIUM,4.0,False,False,False,False,False,307.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,5,91.227,672.257,1.0,MEDIUM,5.0,False,False,False,False,False,311.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,6,91.101,763.364,1.0,MEDIUM,6.0,False,False,False,False,False,303.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,7,91.332,854.719,1.0,MEDIUM,7.0,False,False,False,False,False,314.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,8,91.5,946.105,1.0,MEDIUM,8.0,False,False,False,False,False,309.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,9,91.545,1037.789,1.0,MEDIUM,9.0,False,False,False,False,False,304.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,10,91.583,1129.326,1.0,MEDIUM,10.0,False,False,False,False,False,303.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,11,92.002,1221.369,1.0,MEDIUM,11.0,False,False,False,False,False,303.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,12,91.827,1313.178,1.0,MEDIUM,12.0,False,False,False,False,False,301.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,13,93.719,1406.803,1.0,MEDIUM,13.0,True,False,False,False,False,300.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,14,110.743,1517.482,2.0,HARD,1.0,False,True,False,False,False,292.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,15,90.133,1607.73,2.0,HARD,2.0,False,False,False,False,False,296.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,16,90.574,1698.342,2.0,HARD,3.0,False,False,False,False,False,298.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,17,90.356,1788.576,2.0,HARD,4.0,False,False,False,False,False,315.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,18,91.635,1880.229,2.0,HARD,5.0,False,False,False,False,False,297.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,19,90.335,1970.616,2.0,HARD,6.0,False,False,False,False,False,293.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,20,90.436,2061.138,2.0,HARD,7.0,False,False,False,False,False,297.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,21,90.636,2151.696,2.0,HARD,8.0,False,False,False,False,False,300.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,22,90.451,2242.119,2.0,HARD,9.0,False,False,False,False,False,298.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,23,91.02,2333.125,2.0,HARD,10.0,False,False,False,False,False,301.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,24,91.104,2424.333,2.0,HARD,11.0,False,False,False,False,False,305.0,26.7,31.9,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,25,90.868,2515.158,2.0,HARD,12.0,False,False,False,False,False,305.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,26,91.444,2606.624,2.0,HARD,13.0,False,False,False,False,False,301.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,27,92.085,2698.764,2.0,HARD,14.0,False,False,False,False,False,303.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,28,91.58,2790.258,2.0,HARD,15.0,False,False,False,False,False,306.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,29,91.768,2882.054,2.0,HARD,16.0,False,False,False,False,False,322.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,30,90.667,2972.514,2.0,HARD,17.0,False,False,False,False,False,298.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,31,90.593,3063.267,2.0,HARD,18.0,False,False,False,False,False,295.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,32,90.845,3154.253,2.0,HARD,19.0,False,False,False,False,False,296.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,33,92.455,3246.534,2.0,HARD,20.0,True,False,False,False,False,297.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,34,110.198,3356.666,3.0,HARD,1.0,False,True,False,False,False,291.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,35,90.498,3447.277,3.0,HARD,2.0,False,False,False,False,False,292.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,36,89.691,3536.922,3.0,HARD,3.0,False,False,False,False,False,298.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,37,89.747,3626.696,3.0,HARD,4.0,False,False,False,False,False,298.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,38,89.462,3716.145,3.0,HARD,5.0,False,False,False,False,False,297.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,39,90.091,3806.241,3.0,HARD,6.0,False,False,False,False,False,296.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,40,90.121,3896.348,3.0,HARD,7.0,False,False,False,False,False,296.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,41,89.893,3986.244,3.0,HARD,8.0,False,False,False,False,False,299.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,42,89.396,4075.793,3.0,HARD,9.0,False,False,False,False,False,297.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,43,89.485,4165.115,3.0,HARD,10.0,False,False,False,False,False,296.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,44,89.542,4254.765,3.0,HARD,11.0,False,False,False,False,False,295.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,45,89.5,4344.191,3.0,HARD,12.0,False,False,False,False,False,297.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,46,89.456,4433.693,3.0,HARD,13.0,False,False,False,False,False,297.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,47,90.035,4523.646,3.0,HARD,14.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,48,90.121,4613.778,3.0,HARD,15.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,49,90.705,4704.47,3.0,HARD,16.0,False,False,False,False,False,300.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,50,90.2,4794.683,3.0,HARD,17.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,51,90.079,4884.779,3.0,HARD,18.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,52,90.105,4974.914,3.0,HARD,19.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,53,90.09,5064.96,3.0,HARD,20.0,False,False,False,False,False,298.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,54,89.667,5154.724,3.0,HARD,21.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,55,89.576,5244.225,3.0,HARD,22.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,56,89.507,5333.749,3.0,HARD,23.0,False,False,False,False,False,298.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,57,89.437,5423.147,3.0,HARD,24.0,False,False,False,False,False,297.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,HUL,Haas F1 Team,58,89.217,5512.41,3.0,HARD,25.0,False,False,False,False,False,296.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,1,93.485,299.128,1.0,MEDIUM,1.0,False,False,False,False,False,305.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,2,91.117,390.244,1.0,MEDIUM,2.0,False,False,False,False,False,291.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,3,90.5,480.923,1.0,MEDIUM,3.0,False,False,False,False,False,294.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,4,90.884,571.712,1.0,MEDIUM,4.0,False,False,False,False,False,302.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,5,90.459,662.098,1.0,MEDIUM,5.0,False,False,False,False,False,305.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,6,90.544,752.682,1.0,MEDIUM,6.0,False,False,False,False,False,302.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,7,90.373,843.088,1.0,MEDIUM,7.0,False,False,False,False,False,304.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,8,90.631,933.783,1.0,MEDIUM,8.0,False,False,False,False,False,305.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,9,90.431,1024.129,1.0,MEDIUM,9.0,False,False,False,False,False,309.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,10,90.609,1114.759,1.0,MEDIUM,10.0,False,False,False,False,False,302.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,11,90.613,1205.402,1.0,MEDIUM,11.0,False,False,False,False,False,308.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,12,90.584,1295.966,1.0,MEDIUM,12.0,False,False,False,False,False,306.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,13,90.817,1386.729,1.0,MEDIUM,13.0,False,False,False,False,False,310.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,14,90.571,1477.373,1.0,MEDIUM,14.0,False,False,False,False,False,309.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,15,90.618,1568.013,1.0,MEDIUM,15.0,False,False,False,False,False,304.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,16,90.711,1658.636,1.0,MEDIUM,16.0,False,False,False,False,False,305.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,17,92.468,1751.111,1.0,MEDIUM,17.0,True,False,False,False,False,306.0,26.7,32.3,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,18,110.342,1861.39,2.0,HARD,1.0,False,True,False,False,False,299.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,19,89.908,1951.751,2.0,HARD,2.0,False,False,False,False,False,302.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,20,90.073,2041.556,2.0,HARD,3.0,False,False,False,False,False,301.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,21,89.724,2131.159,2.0,HARD,4.0,False,False,False,False,False,331.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,22,89.704,2220.841,2.0,HARD,5.0,False,False,False,False,False,310.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,23,89.847,2310.718,2.0,HARD,6.0,False,False,False,False,False,303.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,24,89.577,2400.259,2.0,HARD,7.0,False,False,False,False,False,309.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,25,89.707,2490.138,2.0,HARD,8.0,False,False,False,False,False,309.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,26,89.655,2579.694,2.0,HARD,9.0,False,False,False,False,False,306.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,27,89.21,2668.936,2.0,HARD,10.0,False,False,False,False,False,308.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,28,89.556,2758.437,2.0,HARD,11.0,False,False,False,False,False,304.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,29,89.556,2847.967,2.0,HARD,12.0,False,False,False,False,False,309.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,30,89.428,2937.479,2.0,HARD,13.0,False,False,False,False,False,305.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,31,89.554,3026.948,2.0,HARD,14.0,False,False,False,False,False,309.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,32,89.815,3116.879,2.0,HARD,15.0,False,False,False,False,False,306.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,33,89.693,3206.538,2.0,HARD,16.0,False,False,False,False,False,309.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,34,89.447,3295.916,2.0,HARD,17.0,False,False,False,False,False,309.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,35,91.443,3387.442,2.0,HARD,18.0,True,False,False,False,False,305.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,36,108.82,3496.146,3.0,HARD,1.0,False,True,False,False,False,301.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,37,89.035,3585.266,3.0,HARD,2.0,False,False,False,False,False,303.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,38,88.736,3673.919,3.0,HARD,3.0,False,False,False,False,False,330.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,39,88.759,3762.613,3.0,HARD,4.0,False,False,False,False,False,306.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,40,88.546,3851.336,3.0,HARD,5.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,41,88.466,3939.724,3.0,HARD,6.0,False,False,False,False,False,302.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,42,88.277,4028.003,3.0,HARD,7.0,False,False,False,False,False,303.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,43,88.211,4116.295,3.0,HARD,8.0,False,False,False,False,False,303.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,44,88.199,4204.345,3.0,HARD,9.0,False,False,False,False,False,305.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,45,88.395,4292.837,3.0,HARD,10.0,False,False,False,False,False,295.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,46,88.446,4381.277,3.0,HARD,11.0,False,False,False,False,False,302.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,47,88.221,4469.692,3.0,HARD,12.0,False,False,False,False,False,305.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,48,88.419,4557.857,3.0,HARD,13.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,49,88.396,4646.318,3.0,HARD,14.0,False,False,False,False,False,305.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,50,88.258,4734.898,3.0,HARD,15.0,False,False,False,False,False,304.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,51,88.695,4823.302,3.0,HARD,16.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,52,88.603,4911.819,3.0,HARD,17.0,False,False,False,False,False,290.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,53,88.545,5000.385,3.0,HARD,18.0,False,False,False,False,False,296.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,54,88.778,5089.289,3.0,HARD,19.0,False,False,False,False,False,302.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,55,88.552,5177.812,3.0,HARD,20.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,56,88.657,5266.369,3.0,HARD,21.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,57,89.031,5355.476,3.0,HARD,22.0,False,False,False,False,False,311.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,LEC,Ferrari,58,91.284,5446.759,3.0,HARD,23.0,False,False,False,False,False,320.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,1,101.985,307.628,1.0,MEDIUM,1.0,False,False,False,False,False,309.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,2,93.067,400.694,1.0,MEDIUM,2.0,False,False,False,False,False,301.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,3,91.711,492.446,1.0,MEDIUM,3.0,False,False,False,False,False,322.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,4,91.593,584.077,1.0,MEDIUM,4.0,False,False,False,False,False,335.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,5,93.881,677.926,1.0,MEDIUM,5.0,True,False,False,False,False,333.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,6,110.942,788.814,2.0,HARD,1.0,False,True,False,False,False,292.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,7,90.445,879.332,2.0,HARD,2.0,False,False,False,False,False,292.0,27.0,33.1,50.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,8,90.312,969.588,2.0,HARD,3.0,False,False,False,False,False,302.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,9,90.325,1059.897,2.0,HARD,4.0,False,False,False,False,False,299.0,26.9,32.7,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,10,90.814,1150.791,2.0,HARD,5.0,False,False,False,False,False,299.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,11,91.051,1241.777,2.0,HARD,6.0,False,False,False,False,False,299.0,26.9,32.8,52.0,0,2.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,12,90.791,1332.657,2.0,HARD,7.0,False,False,False,False,False,302.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,13,90.956,1423.633,2.0,HARD,8.0,False,False,False,False,False,300.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,14,91.074,1514.672,2.0,HARD,9.0,False,False,False,False,False,300.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,15,91.241,1605.745,2.0,HARD,10.0,False,False,False,False,False,300.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,16,91.91,1697.834,2.0,HARD,11.0,False,False,False,False,False,300.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,17,92.454,1790.112,2.0,HARD,12.0,False,False,False,False,False,299.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,18,92.108,1882.233,2.0,HARD,13.0,False,False,False,False,False,305.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,19,92.16,1974.566,2.0,HARD,14.0,False,False,False,False,False,302.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,20,91.521,2065.988,2.0,HARD,15.0,False,False,False,False,False,300.0,26.7,32.6,51.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,21,91.95,2158.01,2.0,HARD,16.0,False,False,False,False,False,297.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,22,94.337,2252.349,2.0,HARD,17.0,True,False,False,False,False,309.0,26.7,32.1,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,23,111.422,2363.808,3.0,HARD,1.0,False,True,False,False,False,291.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,24,91.448,2455.254,3.0,HARD,2.0,False,False,False,False,False,292.0,26.7,31.9,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,25,90.592,2545.741,3.0,HARD,3.0,False,False,False,False,False,301.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,26,90.599,2636.341,3.0,HARD,4.0,False,False,False,False,False,298.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,27,90.691,2727.104,3.0,HARD,5.0,False,False,False,False,False,296.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,28,90.709,2817.855,3.0,HARD,6.0,False,False,False,False,False,295.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,29,90.628,2908.445,3.0,HARD,7.0,False,False,False,False,False,296.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,30,90.116,2998.619,3.0,HARD,8.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,31,90.631,3089.149,3.0,HARD,9.0,False,False,False,False,False,300.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,32,90.684,3179.92,3.0,HARD,10.0,False,False,False,False,False,303.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,33,90.437,3270.328,3.0,HARD,11.0,False,False,False,False,False,301.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,34,90.452,3360.748,3.0,HARD,12.0,False,False,False,False,False,303.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,35,90.413,3451.255,3.0,HARD,13.0,False,False,False,False,False,301.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,36,90.674,3541.765,3.0,HARD,14.0,False,False,False,False,False,300.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,37,90.345,3632.2,3.0,HARD,15.0,False,False,False,False,False,304.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,38,90.376,3722.59,3.0,HARD,16.0,False,False,False,False,False,303.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,39,90.425,3812.872,3.0,HARD,17.0,False,False,False,False,False,300.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,40,91.437,3904.508,3.0,HARD,18.0,False,False,False,False,False,303.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,41,90.48,3994.831,3.0,HARD,19.0,False,False,False,False,False,303.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,42,90.356,4085.175,3.0,HARD,20.0,False,False,False,False,False,304.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,43,90.057,4175.344,3.0,HARD,21.0,False,False,False,False,False,303.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,44,90.084,4265.448,3.0,HARD,22.0,False,False,False,False,False,304.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,45,90.11,4355.535,3.0,HARD,23.0,False,False,False,False,False,302.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,46,89.934,4445.374,3.0,HARD,24.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,47,91.923,4537.393,3.0,HARD,25.0,False,False,False,False,False,262.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,48,90.657,4628.001,3.0,HARD,26.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,49,90.553,4718.63,3.0,HARD,27.0,False,False,False,False,False,303.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,50,90.509,4809.07,3.0,HARD,28.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,51,90.432,4899.523,3.0,HARD,29.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,52,91.497,4991.009,3.0,HARD,30.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,53,90.445,5081.409,3.0,HARD,31.0,False,False,False,False,False,309.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,54,90.207,5171.623,3.0,HARD,32.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,55,90.252,5261.87,3.0,HARD,33.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,56,90.429,5352.327,3.0,HARD,34.0,False,False,False,False,False,312.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,MAG,Haas F1 Team,57,91.256,5443.653,3.0,HARD,35.0,False,False,False,False,False,313.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,1,94.844,300.487,1.0,MEDIUM,1.0,False,False,False,False,False,309.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,2,91.43,391.916,1.0,MEDIUM,2.0,False,False,False,False,False,317.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,3,90.714,482.512,1.0,MEDIUM,3.0,False,False,False,False,False,300.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,4,90.188,572.672,1.0,MEDIUM,4.0,False,False,False,False,False,321.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,5,90.456,663.158,1.0,MEDIUM,5.0,False,False,False,False,False,303.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,6,90.45,753.619,1.0,MEDIUM,6.0,False,False,False,False,False,308.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,7,90.533,844.17,1.0,MEDIUM,7.0,False,False,False,False,False,308.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,8,90.676,934.906,1.0,MEDIUM,8.0,False,False,False,False,False,309.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,9,90.613,1025.389,1.0,MEDIUM,9.0,False,False,False,False,False,311.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,10,90.912,1116.405,1.0,MEDIUM,10.0,False,False,False,False,False,302.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,11,91.228,1207.58,1.0,MEDIUM,11.0,False,False,False,False,False,300.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,12,91.189,1298.743,1.0,MEDIUM,12.0,False,False,False,False,False,301.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,13,91.013,1389.8,1.0,MEDIUM,13.0,False,False,False,False,False,302.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,14,92.394,1482.133,1.0,MEDIUM,14.0,True,False,False,False,False,303.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,15,113.2,1595.391,2.0,HARD,1.0,False,True,False,False,False,330.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,16,89.654,1685.063,2.0,HARD,2.0,False,False,False,False,False,297.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,17,90.133,1775.088,2.0,HARD,3.0,False,False,False,False,False,301.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,18,90.044,1865.263,2.0,HARD,4.0,False,False,False,False,False,304.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,19,89.727,1954.914,2.0,HARD,5.0,False,False,False,False,False,321.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,20,89.902,2044.744,2.0,HARD,6.0,False,False,False,False,False,298.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,21,89.781,2134.654,2.0,HARD,7.0,False,False,False,False,False,304.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,22,90.393,2225.03,2.0,HARD,8.0,False,False,False,False,False,310.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,23,90.24,2315.282,2.0,HARD,9.0,False,False,False,False,False,321.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,24,89.791,2404.895,2.0,HARD,10.0,False,False,False,False,False,301.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,25,89.637,2494.709,2.0,HARD,11.0,False,False,False,False,False,304.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,26,89.308,2584.097,2.0,HARD,12.0,False,False,False,False,False,303.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,27,89.48,2673.612,2.0,HARD,13.0,False,False,False,False,False,300.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,28,89.469,2762.975,2.0,HARD,14.0,False,False,False,False,False,303.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,29,89.426,2852.368,2.0,HARD,15.0,False,False,False,False,False,304.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,30,89.5,2941.832,2.0,HARD,16.0,False,False,False,False,False,301.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,31,90.01,3031.935,2.0,HARD,17.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,32,89.842,3121.672,2.0,HARD,18.0,False,False,False,False,False,300.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,33,91.445,3213.336,2.0,HARD,19.0,True,False,False,False,False,302.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,34,107.697,3320.9,3.0,HARD,1.0,False,True,False,False,False,298.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,35,88.736,3409.688,3.0,HARD,2.0,False,False,False,False,False,317.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,36,89.881,3499.441,3.0,HARD,3.0,False,False,False,False,False,314.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,37,89.22,3588.607,3.0,HARD,4.0,False,False,False,False,False,323.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,38,89.596,3678.17,3.0,HARD,5.0,False,False,False,False,False,302.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,39,89.432,3767.692,3.0,HARD,6.0,False,False,False,False,False,300.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,40,89.243,3857.049,3.0,HARD,7.0,False,False,False,False,False,303.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,41,89.064,3946.041,3.0,HARD,8.0,False,False,False,False,False,303.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,42,88.522,4034.654,3.0,HARD,9.0,False,False,False,False,False,317.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,43,88.848,4123.385,3.0,HARD,10.0,False,False,False,False,False,300.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,44,88.539,4211.903,3.0,HARD,11.0,False,False,False,False,False,305.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,45,88.164,4300.105,3.0,HARD,12.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,46,88.187,4388.346,3.0,HARD,13.0,False,False,False,False,False,300.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,47,88.568,4476.836,3.0,HARD,14.0,False,False,False,False,False,302.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,48,89.763,4566.608,3.0,HARD,15.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,49,88.797,4655.531,3.0,HARD,16.0,False,False,False,False,False,304.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,50,88.634,4744.133,3.0,HARD,17.0,False,False,False,False,False,299.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,51,88.526,4832.571,3.0,HARD,18.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,52,88.839,4921.492,3.0,HARD,19.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,53,88.557,5010.022,3.0,HARD,20.0,False,False,False,False,False,298.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,54,88.59,5098.585,3.0,HARD,21.0,False,False,False,False,False,300.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,55,88.458,5187.171,3.0,HARD,22.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,56,88.572,5275.627,3.0,HARD,23.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,57,88.8,5364.448,3.0,HARD,24.0,False,False,False,False,False,305.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,NOR,McLaren,58,88.588,5453.016,3.0,HARD,25.0,False,False,False,False,False,305.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,1,98.844,304.487,1.0,MEDIUM,1.0,False,False,False,False,False,311.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,2,91.81,396.296,1.0,MEDIUM,2.0,False,False,False,False,False,302.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,3,91.033,487.143,1.0,MEDIUM,3.0,False,False,False,False,False,320.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,4,90.988,578.191,1.0,MEDIUM,4.0,False,False,False,False,False,318.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,5,90.994,669.18,1.0,MEDIUM,5.0,False,False,False,False,False,324.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,6,90.689,759.827,1.0,MEDIUM,6.0,False,False,False,False,False,325.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,7,90.932,850.663,1.0,MEDIUM,7.0,False,False,False,False,False,325.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,8,90.997,941.696,1.0,MEDIUM,8.0,False,False,False,False,False,324.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,9,91.073,1032.849,1.0,MEDIUM,9.0,False,False,False,False,False,319.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,10,91.254,1124.091,1.0,MEDIUM,10.0,False,False,False,False,False,321.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,11,91.422,1215.493,1.0,MEDIUM,11.0,False,False,False,False,False,319.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,12,91.527,1306.94,1.0,MEDIUM,12.0,False,False,False,False,False,324.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,13,91.77,1398.745,1.0,MEDIUM,13.0,False,False,False,False,False,319.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,14,91.647,1490.339,1.0,MEDIUM,14.0,False,False,False,False,False,314.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,15,93.667,1584.046,1.0,MEDIUM,15.0,True,False,False,False,False,322.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,16,110.615,1694.633,2.0,HARD,1.0,False,True,False,False,False,321.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,17,90.134,1784.792,2.0,HARD,2.0,False,False,False,False,False,319.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,18,90.276,1875.089,2.0,HARD,3.0,False,False,False,False,False,319.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,19,90.132,1965.21,2.0,HARD,4.0,False,False,False,False,False,303.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,20,90.128,2055.33,2.0,HARD,5.0,False,False,False,False,False,304.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,21,90.246,2145.712,2.0,HARD,6.0,False,False,False,False,False,302.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,22,90.756,2236.424,2.0,HARD,7.0,False,False,False,False,False,303.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,23,91.726,2328.065,2.0,HARD,8.0,False,False,False,False,False,313.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,24,90.791,2418.707,2.0,HARD,9.0,False,False,False,False,False,321.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,25,90.338,2509.144,2.0,HARD,10.0,False,False,False,False,False,303.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,26,90.993,2600.329,2.0,HARD,11.0,False,False,False,False,False,303.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,27,90.578,2690.772,2.0,HARD,12.0,False,False,False,False,False,304.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,28,90.322,2781.093,2.0,HARD,13.0,False,False,False,False,False,305.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,29,90.504,2871.665,2.0,HARD,14.0,False,False,False,False,False,303.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,30,90.514,2962.19,2.0,HARD,15.0,False,False,False,False,False,305.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,31,90.319,3052.556,2.0,HARD,16.0,False,False,False,False,False,304.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,32,90.243,3142.635,2.0,HARD,17.0,False,False,False,False,False,300.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,33,90.244,3232.995,2.0,HARD,18.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,34,90.033,3323.033,2.0,HARD,19.0,False,False,False,False,False,320.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,35,90.474,3413.519,2.0,HARD,20.0,False,False,False,False,False,302.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,36,90.622,3504.119,2.0,HARD,21.0,False,False,False,False,False,302.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,37,90.307,3594.382,2.0,HARD,22.0,False,False,False,False,False,302.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,38,90.138,3684.368,2.0,HARD,23.0,False,False,False,False,False,303.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,39,92.095,3776.652,2.0,HARD,24.0,False,False,False,False,False,301.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,40,90.447,3867.003,2.0,HARD,25.0,False,False,False,False,False,304.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,41,90.252,3957.51,2.0,HARD,26.0,False,False,False,False,False,304.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,42,90.742,4048.108,2.0,HARD,27.0,False,False,False,False,False,303.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,43,91.081,4139.118,2.0,HARD,28.0,False,False,False,False,False,301.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,44,90.431,4229.592,2.0,HARD,29.0,False,False,False,False,False,305.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,45,90.163,4319.854,2.0,HARD,30.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,46,90.113,4409.866,2.0,HARD,31.0,False,False,False,False,False,302.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,47,90.177,4499.944,2.0,HARD,32.0,False,False,False,False,False,301.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,48,90.359,4590.438,2.0,HARD,33.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,49,90.258,4680.664,2.0,HARD,34.0,False,False,False,False,False,302.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,50,90.986,4771.656,2.0,HARD,35.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,51,90.31,4861.964,2.0,HARD,36.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,52,90.984,4952.949,2.0,HARD,37.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,53,90.283,5043.185,2.0,HARD,38.0,False,False,False,False,False,306.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,54,90.272,5133.516,2.0,HARD,39.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,55,90.287,5223.796,2.0,HARD,40.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,56,90.208,5313.919,2.0,HARD,41.0,False,False,False,False,False,302.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,57,90.477,5404.453,2.0,HARD,42.0,False,False,False,False,False,301.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,OCO,Alpine,58,90.639,5495.051,2.0,HARD,43.0,False,False,False,False,False,299.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,1,98.485,304.128,1.0,MEDIUM,1.0,False,False,False,False,False,307.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,2,91.672,395.799,1.0,MEDIUM,2.0,False,False,False,False,False,284.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,3,90.469,485.985,1.0,MEDIUM,3.0,False,False,False,False,False,333.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,4,90.759,576.649,1.0,MEDIUM,4.0,False,False,False,False,False,308.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,5,90.797,667.546,1.0,MEDIUM,5.0,False,False,False,False,False,306.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,6,90.682,758.164,1.0,MEDIUM,6.0,False,False,False,False,False,316.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,7,90.818,849.018,1.0,MEDIUM,7.0,False,False,False,False,False,309.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,8,90.993,939.973,1.0,MEDIUM,8.0,False,False,False,False,False,313.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,9,91.287,1031.328,1.0,MEDIUM,9.0,False,False,False,False,False,311.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,10,91.214,1122.536,1.0,MEDIUM,10.0,False,False,False,False,False,302.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,11,91.535,1214.027,1.0,MEDIUM,11.0,False,False,False,False,False,319.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,12,90.874,1304.943,1.0,MEDIUM,12.0,False,False,False,False,False,331.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,13,91.309,1396.174,1.0,MEDIUM,13.0,False,False,False,False,False,306.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,14,91.19,1487.414,1.0,MEDIUM,14.0,False,False,False,False,False,299.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,15,91.225,1578.682,1.0,MEDIUM,15.0,False,False,False,False,False,308.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,16,91.375,1669.925,1.0,MEDIUM,16.0,False,False,False,False,False,308.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,17,93.256,1763.352,1.0,MEDIUM,17.0,True,False,False,False,False,308.0,26.7,32.3,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,18,109.031,1872.282,2.0,HARD,1.0,False,True,False,False,False,306.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,19,89.365,1961.661,2.0,HARD,2.0,False,False,False,False,False,305.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,20,89.107,2050.777,2.0,HARD,3.0,False,False,False,False,False,318.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,21,88.986,2139.718,2.0,HARD,4.0,False,False,False,False,False,329.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,22,89.719,2229.434,2.0,HARD,5.0,False,False,False,False,False,304.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,23,89.71,2319.237,2.0,HARD,6.0,False,False,False,False,False,324.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,24,90.001,2409.136,2.0,HARD,7.0,False,False,False,False,False,315.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,25,89.572,2498.706,2.0,HARD,8.0,False,False,False,False,False,332.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,26,89.864,2588.56,2.0,HARD,9.0,False,False,False,False,False,306.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,27,89.34,2678.034,2.0,HARD,10.0,False,False,False,False,False,318.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,28,88.954,2766.897,2.0,HARD,11.0,False,False,False,False,False,333.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,29,89.563,2856.396,2.0,HARD,12.0,False,False,False,False,False,298.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,30,89.48,2945.906,2.0,HARD,13.0,False,False,False,False,False,302.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,31,89.413,3035.447,2.0,HARD,14.0,False,False,False,False,False,305.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,32,89.314,3124.753,2.0,HARD,15.0,False,False,False,False,False,304.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,33,89.261,3214.012,2.0,HARD,16.0,False,False,False,False,False,305.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,34,89.316,3303.238,2.0,HARD,17.0,False,False,False,False,False,303.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,35,89.243,3392.445,2.0,HARD,18.0,False,False,False,False,False,303.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,36,88.928,3481.363,2.0,HARD,19.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,37,88.992,3570.364,2.0,HARD,20.0,False,False,False,False,False,300.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,38,89.043,3659.476,2.0,HARD,21.0,False,False,False,False,False,301.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,39,89.13,3748.578,2.0,HARD,22.0,False,False,False,False,False,302.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,40,88.909,3837.465,2.0,HARD,23.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,41,89.195,3926.797,2.0,HARD,24.0,False,False,False,False,False,302.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,42,90.958,4017.746,2.0,HARD,25.0,True,False,False,False,False,302.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,43,108.079,4125.835,3.0,HARD,1.0,False,True,False,False,False,306.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,44,87.493,4213.185,3.0,HARD,2.0,False,False,False,False,False,325.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,45,87.837,4301.075,3.0,HARD,3.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,46,87.914,4389.089,3.0,HARD,4.0,False,False,False,False,False,303.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,47,88.401,4477.497,3.0,HARD,5.0,False,False,False,False,False,328.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,48,87.97,4565.44,3.0,HARD,6.0,False,False,False,False,False,329.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,49,87.926,4653.176,3.0,HARD,7.0,False,False,False,False,False,298.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,50,87.758,4741.054,3.0,HARD,8.0,False,False,False,False,False,303.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,51,87.866,4828.864,3.0,HARD,9.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,52,87.886,4916.82,3.0,HARD,10.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,53,88.307,5005.1,3.0,HARD,11.0,False,False,False,False,False,304.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,54,88.024,5093.238,3.0,HARD,12.0,False,False,False,False,False,330.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,55,88.187,5181.275,3.0,HARD,13.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,56,87.896,5269.326,3.0,HARD,14.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,57,87.991,5357.217,3.0,HARD,15.0,False,False,False,False,False,305.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PER,Red Bull Racing,58,87.948,5445.204,3.0,HARD,16.0,False,False,False,False,False,332.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,1,94.328,299.971,1.0,MEDIUM,1.0,False,False,False,False,False,309.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,2,91.075,391.045,1.0,MEDIUM,2.0,False,False,False,False,False,302.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,3,90.631,481.679,1.0,MEDIUM,3.0,False,False,False,False,False,310.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,4,91.816,573.425,1.0,MEDIUM,4.0,False,False,False,False,False,306.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,5,90.419,663.886,1.0,MEDIUM,5.0,False,False,False,False,False,317.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,6,90.813,754.857,1.0,MEDIUM,6.0,False,False,False,False,False,316.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,7,90.953,845.684,1.0,MEDIUM,7.0,False,False,False,False,False,315.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,8,90.795,936.431,1.0,MEDIUM,8.0,False,False,False,False,False,302.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,9,90.899,1027.44,1.0,MEDIUM,9.0,False,False,False,False,False,305.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,10,91.239,1118.592,1.0,MEDIUM,10.0,False,False,False,False,False,302.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,11,92.448,1211.128,1.0,MEDIUM,11.0,False,False,False,False,False,312.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,12,91.304,1302.358,1.0,MEDIUM,12.0,False,False,False,False,False,313.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,13,92.981,1395.378,1.0,MEDIUM,13.0,True,False,False,False,False,299.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,14,110.084,1505.417,2.0,HARD,1.0,False,True,False,False,False,310.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,15,90.649,1596.012,2.0,HARD,2.0,False,False,False,False,False,313.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,16,90.276,1686.326,2.0,HARD,3.0,False,False,False,False,False,313.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,17,89.954,1776.284,2.0,HARD,4.0,False,False,False,False,False,313.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,18,90.438,1866.782,2.0,HARD,5.0,False,False,False,False,False,303.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,19,90.498,1957.216,2.0,HARD,6.0,False,False,False,False,False,304.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,20,90.088,2047.305,2.0,HARD,7.0,False,False,False,False,False,322.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,21,89.888,2137.057,2.0,HARD,8.0,False,False,False,False,False,305.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,22,90.496,2227.836,2.0,HARD,9.0,False,False,False,False,False,305.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,23,90.103,2317.755,2.0,HARD,10.0,False,False,False,False,False,311.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,24,89.958,2407.624,2.0,HARD,11.0,False,False,False,False,False,302.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,25,90.028,2497.881,2.0,HARD,12.0,False,False,False,False,False,301.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,26,89.918,2587.801,2.0,HARD,13.0,False,False,False,False,False,303.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,27,89.602,2677.312,2.0,HARD,14.0,False,False,False,False,False,304.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,28,91.036,2768.401,2.0,HARD,15.0,False,False,False,False,False,302.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,29,90.34,2858.782,2.0,HARD,16.0,False,False,False,False,False,309.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,30,90.497,2949.251,2.0,HARD,17.0,False,False,False,False,False,306.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,31,90.082,3039.319,2.0,HARD,18.0,False,False,False,False,False,308.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,32,89.847,3129.208,2.0,HARD,19.0,False,False,False,False,False,304.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,33,89.777,3218.95,2.0,HARD,20.0,False,False,False,False,False,305.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,34,89.841,3308.825,2.0,HARD,21.0,False,False,False,False,False,306.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,35,89.858,3398.435,2.0,HARD,22.0,False,False,False,False,False,302.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,36,91.58,3490.093,2.0,HARD,23.0,True,False,False,False,False,305.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,37,107.533,3597.623,3.0,HARD,1.0,False,True,False,False,False,305.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,38,88.138,3685.899,3.0,HARD,2.0,False,False,False,False,False,307.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,39,88.65,3774.629,3.0,HARD,3.0,False,False,False,False,False,328.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,40,88.683,3863.036,3.0,HARD,4.0,False,False,False,False,False,302.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,41,88.762,3952.004,3.0,HARD,5.0,False,False,False,False,False,303.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,42,88.978,4040.938,3.0,HARD,6.0,False,False,False,False,False,308.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,43,88.332,4129.197,3.0,HARD,7.0,False,False,False,False,False,305.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,44,88.489,4217.713,3.0,HARD,8.0,False,False,False,False,False,302.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,45,88.149,4305.934,3.0,HARD,9.0,False,False,False,False,False,308.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,46,88.806,4394.746,3.0,HARD,10.0,False,False,False,False,False,306.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,47,89.266,4484.096,3.0,HARD,11.0,False,False,False,False,False,312.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,48,89.061,4573.046,3.0,HARD,12.0,False,False,False,False,False,335.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,49,89.445,4662.382,3.0,HARD,13.0,False,False,False,False,False,300.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,50,88.761,4751.244,3.0,HARD,14.0,False,False,False,False,False,301.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,51,88.556,4839.757,3.0,HARD,15.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,52,88.397,4928.112,3.0,HARD,16.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,53,88.788,5016.909,3.0,HARD,17.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,54,88.536,5105.484,3.0,HARD,18.0,False,False,False,False,False,304.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,55,88.729,5194.316,3.0,HARD,19.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,56,88.706,5282.98,3.0,HARD,20.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,57,88.786,5371.731,3.0,HARD,21.0,False,False,False,False,False,308.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,PIA,McLaren,58,88.467,5460.239,3.0,HARD,22.0,False,False,False,False,False,308.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,1,100.391,306.034,1.0,MEDIUM,1.0,False,False,False,False,False,267.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,2,92.742,398.775,1.0,MEDIUM,2.0,False,False,False,False,False,304.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,3,91.519,490.363,1.0,MEDIUM,3.0,False,False,False,False,False,318.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,4,91.284,581.549,1.0,MEDIUM,4.0,False,False,False,False,False,320.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,5,91.326,672.918,1.0,MEDIUM,5.0,False,False,False,False,False,318.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,6,91.064,763.983,1.0,MEDIUM,6.0,False,False,False,False,False,317.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,7,93.072,857.115,1.0,MEDIUM,7.0,True,False,False,False,False,319.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,8,110.258,967.3,2.0,HARD,1.0,False,True,False,False,False,295.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,9,89.815,1057.169,2.0,HARD,2.0,False,False,False,False,False,295.0,26.9,32.7,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,10,90.238,1147.294,2.0,HARD,3.0,False,False,False,False,False,297.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,11,90.43,1237.735,2.0,HARD,4.0,False,False,False,False,False,294.0,26.9,32.8,52.0,0,2.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,12,90.078,1327.803,2.0,HARD,5.0,False,False,False,False,False,299.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,13,90.271,1418.074,2.0,HARD,6.0,False,False,False,False,False,301.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,14,90.424,1508.554,2.0,HARD,7.0,False,False,False,False,False,302.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,15,90.475,1598.963,2.0,HARD,8.0,False,False,False,False,False,301.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,16,90.482,1689.578,2.0,HARD,9.0,False,False,False,False,False,302.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,17,90.391,1779.768,2.0,HARD,10.0,False,False,False,False,False,300.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,18,90.697,1870.463,2.0,HARD,11.0,False,False,False,False,False,301.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,19,90.418,1960.871,2.0,HARD,12.0,False,False,False,False,False,302.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,20,91.085,2052.13,2.0,HARD,13.0,False,False,False,False,False,291.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,21,90.686,2142.855,2.0,HARD,14.0,False,False,False,False,False,306.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,22,90.883,2233.629,2.0,HARD,15.0,False,False,False,False,False,323.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,23,90.476,2324.081,2.0,HARD,16.0,False,False,False,False,False,301.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,24,90.295,2414.492,2.0,HARD,17.0,False,False,False,False,False,300.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,25,91.132,2505.391,2.0,HARD,18.0,False,False,False,False,False,300.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,26,91.949,2597.457,2.0,HARD,19.0,False,False,False,False,False,304.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,27,90.737,2688.322,2.0,HARD,20.0,False,False,False,False,False,303.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,28,90.697,2778.984,2.0,HARD,21.0,False,False,False,False,False,300.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,29,91.307,2870.296,2.0,HARD,22.0,False,False,False,False,False,300.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,30,90.678,2960.869,2.0,HARD,23.0,False,False,False,False,False,303.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,31,92.484,3053.455,2.0,HARD,24.0,True,False,False,False,False,299.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,32,110.058,3163.497,3.0,HARD,1.0,False,True,False,False,False,299.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,33,89.349,3252.787,3.0,HARD,2.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,34,89.584,3342.38,3.0,HARD,3.0,False,False,False,False,False,299.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,35,89.814,3432.172,3.0,HARD,4.0,False,False,False,False,False,303.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,36,90.531,3522.778,3.0,HARD,5.0,False,False,False,False,False,320.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,37,91.968,3614.792,3.0,HARD,6.0,False,False,False,False,False,311.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,38,91.008,3705.675,3.0,HARD,7.0,False,False,False,False,False,318.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,39,90.068,3795.734,3.0,HARD,8.0,False,False,False,False,False,314.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,40,88.841,3884.584,3.0,HARD,9.0,False,False,False,False,False,299.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,41,88.838,3973.564,3.0,HARD,10.0,False,False,False,False,False,297.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,42,88.581,4062.088,3.0,HARD,11.0,False,False,False,False,False,301.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,43,90.055,4152.123,3.0,HARD,12.0,False,False,False,False,False,324.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,44,88.818,4240.995,3.0,HARD,13.0,False,False,False,False,False,304.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,45,88.705,4329.646,3.0,HARD,14.0,False,False,False,False,False,302.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,46,88.708,4418.398,3.0,HARD,15.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,47,88.571,4506.916,3.0,HARD,16.0,False,False,False,False,False,304.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,48,88.702,4595.578,3.0,HARD,17.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,49,88.791,4684.447,3.0,HARD,18.0,False,False,False,False,False,303.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,50,89.065,4773.501,3.0,HARD,19.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,51,89.332,4862.814,3.0,HARD,20.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,52,88.743,4951.505,3.0,HARD,21.0,False,False,False,False,False,315.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,53,88.742,5040.253,3.0,HARD,22.0,False,False,False,False,False,302.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,54,88.76,5129.145,3.0,HARD,23.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,55,88.871,5217.911,3.0,HARD,24.0,False,False,False,False,False,305.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,56,88.929,5306.828,3.0,HARD,25.0,False,False,False,False,False,308.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,57,89.06,5395.973,3.0,HARD,26.0,False,False,False,False,False,308.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RIC,AlphaTauri,58,89.02,5484.901,3.0,HARD,27.0,False,False,False,False,False,309.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,1,95.235,300.878,1.0,MEDIUM,1.0,False,False,False,False,False,305.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,2,91.598,392.475,1.0,MEDIUM,2.0,False,False,False,False,False,295.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,3,90.598,483.067,1.0,MEDIUM,3.0,False,False,False,False,False,307.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,4,90.797,573.781,1.0,MEDIUM,4.0,False,False,False,False,False,308.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,5,90.689,664.578,1.0,MEDIUM,5.0,False,False,False,False,False,319.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,6,90.808,755.274,1.0,MEDIUM,6.0,False,False,False,False,False,305.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,7,90.842,846.198,1.0,MEDIUM,7.0,False,False,False,False,False,326.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,8,90.933,937.21,1.0,MEDIUM,8.0,False,False,False,False,False,301.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,9,90.767,1027.871,1.0,MEDIUM,9.0,False,False,False,False,False,313.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,10,91.14,1119.055,1.0,MEDIUM,10.0,False,False,False,False,False,303.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,11,90.856,1209.973,1.0,MEDIUM,11.0,False,False,False,False,False,319.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,12,90.95,1300.723,1.0,MEDIUM,12.0,False,False,False,False,False,292.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,13,90.816,1391.65,1.0,MEDIUM,13.0,False,False,False,False,False,296.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,14,92.471,1484.179,1.0,MEDIUM,14.0,True,False,False,False,False,302.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,15,109.517,1593.615,2.0,HARD,1.0,False,True,False,False,False,308.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,16,89.537,1683.055,2.0,HARD,2.0,False,False,False,False,False,310.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,17,90.049,1773.129,2.0,HARD,3.0,False,False,False,False,False,294.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,18,89.522,1862.835,2.0,HARD,4.0,False,False,False,False,False,319.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,19,90.358,1953.076,2.0,HARD,5.0,False,False,False,False,False,300.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,20,90.088,2043.165,2.0,HARD,6.0,False,False,False,False,False,300.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,21,90.118,2133.366,2.0,HARD,7.0,False,False,False,False,False,296.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,22,89.786,2223.095,2.0,HARD,8.0,False,False,False,False,False,326.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,23,89.672,2312.652,2.0,HARD,9.0,False,False,False,False,False,302.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,24,89.355,2402.068,2.0,HARD,10.0,False,False,False,False,False,303.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,25,89.545,2491.742,2.0,HARD,11.0,False,False,False,False,False,301.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,26,89.54,2581.173,2.0,HARD,12.0,False,False,False,False,False,302.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,27,89.432,2670.595,2.0,HARD,13.0,False,False,False,False,False,303.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,28,89.565,2760.227,2.0,HARD,14.0,False,False,False,False,False,303.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,29,89.722,2850.008,2.0,HARD,15.0,False,False,False,False,False,298.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,30,89.84,2939.813,2.0,HARD,16.0,False,False,False,False,False,304.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,31,89.402,3029.202,2.0,HARD,17.0,False,False,False,False,False,303.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,32,89.692,3118.835,2.0,HARD,18.0,False,False,False,False,False,304.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,33,89.593,3208.516,2.0,HARD,19.0,False,False,False,False,False,301.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,34,90.962,3299.509,2.0,HARD,20.0,True,False,False,False,False,301.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,35,109.329,3408.687,3.0,HARD,1.0,False,True,False,False,False,311.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,36,88.687,3497.513,3.0,HARD,2.0,False,False,False,False,False,322.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,37,88.943,3586.424,3.0,HARD,3.0,False,False,False,False,False,303.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,38,89.243,3675.457,3.0,HARD,4.0,False,False,False,False,False,314.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,39,89.194,3764.86,3.0,HARD,5.0,False,False,False,False,False,299.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,40,88.683,3853.411,3.0,HARD,6.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,41,88.612,3942.167,3.0,HARD,7.0,False,False,False,False,False,302.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,42,88.792,4031.002,3.0,HARD,8.0,False,False,False,False,False,304.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,43,88.524,4119.436,3.0,HARD,9.0,False,False,False,False,False,305.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,44,88.36,4207.709,3.0,HARD,10.0,False,False,False,False,False,304.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,45,88.187,4295.988,3.0,HARD,11.0,False,False,False,False,False,300.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,46,88.192,4384.164,3.0,HARD,12.0,False,False,False,False,False,308.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,47,88.261,4472.497,3.0,HARD,13.0,False,False,False,False,False,304.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,48,88.53,4561.015,3.0,HARD,14.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,49,88.428,4649.334,3.0,HARD,15.0,False,False,False,False,False,307.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,50,88.4,4737.946,3.0,HARD,16.0,False,False,False,False,False,304.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,51,88.692,4826.456,3.0,HARD,17.0,False,False,False,False,False,308.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,52,88.877,4915.452,3.0,HARD,18.0,False,False,False,False,False,302.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,53,88.825,5004.243,3.0,HARD,19.0,False,False,False,False,False,302.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,54,90.038,5094.189,3.0,HARD,20.0,False,False,False,False,False,308.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,55,88.976,5183.282,3.0,HARD,21.0,False,False,False,False,False,306.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,56,88.466,5271.615,3.0,HARD,22.0,False,False,False,False,False,304.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,57,88.557,5360.221,3.0,HARD,23.0,False,False,False,False,False,305.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,RUS,Mercedes,58,88.82,5449.014,3.0,HARD,24.0,False,False,False,False,False,307.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,1,100.172,305.815,1.0,HARD,1.0,False,False,False,False,False,279.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,2,91.98,397.794,1.0,HARD,2.0,False,False,False,False,False,313.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,3,91.308,488.887,1.0,HARD,3.0,False,False,False,False,False,308.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,4,91.099,580.161,1.0,HARD,4.0,False,False,False,False,False,308.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,5,91.158,671.36,1.0,HARD,5.0,False,False,False,False,False,306.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,6,91.175,762.485,1.0,HARD,6.0,False,False,False,False,False,307.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,7,91.301,853.797,1.0,HARD,7.0,False,False,False,False,False,305.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,8,91.263,945.087,1.0,HARD,8.0,False,False,False,False,False,306.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,9,90.965,1036.006,1.0,HARD,9.0,False,False,False,False,False,306.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,10,91.305,1127.392,1.0,HARD,10.0,False,False,False,False,False,304.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,11,91.085,1218.343,1.0,HARD,11.0,False,False,False,False,False,306.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,12,91.278,1309.66,1.0,HARD,12.0,False,False,False,False,False,308.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,13,91.385,1401.0,1.0,HARD,13.0,False,False,False,False,False,308.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,14,91.416,1492.327,1.0,HARD,14.0,False,False,False,False,False,310.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,15,91.619,1584.123,1.0,HARD,15.0,False,False,False,False,False,307.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,16,91.197,1675.309,1.0,HARD,16.0,False,False,False,False,False,304.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,17,91.621,1766.92,1.0,HARD,17.0,False,False,False,False,False,307.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,18,90.96,1857.711,1.0,HARD,18.0,False,False,False,False,False,309.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,19,91.551,1949.379,1.0,HARD,19.0,False,False,False,False,False,302.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,20,90.933,2040.353,1.0,HARD,20.0,False,False,False,False,False,303.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,21,92.184,2132.619,1.0,HARD,21.0,False,False,False,False,False,302.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,22,92.071,2224.599,1.0,HARD,22.0,False,False,False,False,False,312.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,23,93.587,2318.207,1.0,HARD,23.0,True,False,False,False,False,305.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,24,109.257,2427.298,2.0,HARD,1.0,False,True,False,False,False,300.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,25,90.188,2517.603,2.0,HARD,2.0,False,False,False,False,False,299.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,26,90.007,2607.655,2.0,HARD,3.0,False,False,False,False,False,303.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,27,89.841,2697.457,2.0,HARD,4.0,False,False,False,False,False,333.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,28,89.977,2787.358,2.0,HARD,5.0,False,False,False,False,False,325.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,29,89.64,2877.082,2.0,HARD,6.0,False,False,False,False,False,303.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,30,89.7,2966.813,2.0,HARD,7.0,False,False,False,False,False,300.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,31,89.764,3056.563,2.0,HARD,8.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,32,89.897,3146.524,2.0,HARD,9.0,False,False,False,False,False,311.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,33,89.76,3236.057,2.0,HARD,10.0,False,False,False,False,False,295.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,34,89.674,3325.908,2.0,HARD,11.0,False,False,False,False,False,301.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,35,89.494,3415.383,2.0,HARD,12.0,False,False,False,False,False,301.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,36,90.228,3505.585,2.0,HARD,13.0,False,False,False,False,False,300.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,37,89.807,3595.382,2.0,HARD,14.0,False,False,False,False,False,303.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,38,89.746,3685.054,2.0,HARD,15.0,False,False,False,False,False,312.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,39,90.581,3775.747,2.0,HARD,16.0,False,False,False,False,False,327.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,40,89.635,3865.363,2.0,HARD,17.0,False,False,False,False,False,300.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,41,89.495,3954.956,2.0,HARD,18.0,False,False,False,False,False,300.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,42,89.452,4044.412,2.0,HARD,19.0,False,False,False,False,False,301.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,43,89.612,4133.93,2.0,HARD,20.0,False,False,False,False,False,295.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,44,89.809,4223.642,2.0,HARD,21.0,False,False,False,False,False,302.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,45,90.132,4313.948,2.0,HARD,22.0,False,False,False,False,False,305.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,46,90.712,4404.605,2.0,HARD,23.0,False,False,False,False,False,314.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,47,91.102,4495.869,2.0,HARD,24.0,False,False,False,False,False,299.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,48,90.565,4586.269,2.0,HARD,25.0,False,False,False,False,False,273.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,49,90.033,4676.345,2.0,HARD,26.0,False,False,False,False,False,290.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,50,89.873,4766.215,2.0,HARD,27.0,False,False,False,False,False,289.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,51,89.718,4855.981,2.0,HARD,28.0,False,False,False,False,False,287.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,52,89.645,4945.642,2.0,HARD,29.0,False,False,False,False,False,289.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,53,89.775,5035.317,2.0,HARD,30.0,False,False,False,False,False,297.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,54,89.734,5125.057,2.0,HARD,31.0,False,False,False,False,False,293.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,55,89.654,5214.741,2.0,HARD,32.0,False,False,False,False,False,307.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,56,91.454,5306.212,2.0,HARD,33.0,True,False,False,False,False,299.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,57,110.847,5416.995,3.0,SOFT,1.0,False,True,False,False,False,304.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAI,Ferrari,58,,,,,,False,False,False,False,False,,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,1,102.485,308.128,1.0,MEDIUM,2.0,False,False,False,False,False,241.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,2,93.582,401.709,1.0,MEDIUM,3.0,False,False,False,False,False,321.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,3,91.4,493.166,1.0,MEDIUM,4.0,False,False,False,False,False,324.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,4,91.487,584.58,1.0,MEDIUM,5.0,False,False,False,False,False,317.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,5,92.275,676.852,1.0,MEDIUM,6.0,False,False,False,False,False,313.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,6,91.712,768.459,1.0,MEDIUM,7.0,False,False,False,False,False,311.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,7,91.157,859.685,1.0,MEDIUM,8.0,False,False,False,False,False,315.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,8,91.542,951.24,1.0,MEDIUM,9.0,False,False,False,False,False,312.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,9,91.408,1042.605,1.0,MEDIUM,10.0,False,False,False,False,False,310.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,10,92.038,1134.703,1.0,MEDIUM,11.0,False,False,False,False,False,312.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,11,91.882,1226.64,1.0,MEDIUM,12.0,False,False,False,False,False,310.0,26.9,32.8,52.0,0,2.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,12,91.889,1318.521,1.0,MEDIUM,13.0,False,False,False,False,False,309.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,13,92.05,1410.509,1.0,MEDIUM,14.0,False,False,False,False,False,309.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,14,91.825,1502.189,1.0,MEDIUM,15.0,False,False,False,False,False,311.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,15,94.856,1597.188,1.0,MEDIUM,16.0,True,False,False,False,False,310.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,16,111.904,1709.11,2.0,HARD,1.0,False,True,False,False,False,305.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,17,90.404,1799.546,2.0,HARD,2.0,False,False,False,False,False,307.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,18,91.295,1890.889,2.0,HARD,3.0,False,False,False,False,False,303.0,26.7,32.6,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,19,90.368,1981.274,2.0,HARD,4.0,False,False,False,False,False,307.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,20,90.406,2071.623,2.0,HARD,5.0,False,False,False,False,False,304.0,26.7,32.6,51.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,21,90.281,2161.825,2.0,HARD,6.0,False,False,False,False,False,306.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,22,90.434,2252.305,2.0,HARD,7.0,False,False,False,False,False,308.0,26.7,32.1,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,23,90.837,2343.035,2.0,HARD,8.0,False,False,False,False,False,308.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,24,90.609,2433.822,2.0,HARD,9.0,False,False,False,False,False,309.0,26.7,31.9,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,25,90.53,2524.32,2.0,HARD,10.0,False,False,False,False,False,313.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,26,90.608,2615.053,2.0,HARD,11.0,False,False,False,False,False,310.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,27,90.465,2705.425,2.0,HARD,12.0,False,False,False,False,False,313.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,28,90.987,2796.321,2.0,HARD,13.0,False,False,False,False,False,310.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,29,90.693,2887.104,2.0,HARD,14.0,False,False,False,False,False,312.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,30,90.642,2977.708,2.0,HARD,15.0,False,False,False,False,False,309.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,31,90.647,3068.259,2.0,HARD,16.0,False,False,False,False,False,312.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,32,91.13,3159.491,2.0,HARD,17.0,False,False,False,False,False,307.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,33,90.878,3250.3,2.0,HARD,18.0,False,False,False,False,False,309.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,34,90.769,3340.987,2.0,HARD,19.0,False,False,False,False,False,311.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,35,90.545,3431.496,2.0,HARD,20.0,False,False,False,False,False,314.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,36,90.74,3522.44,2.0,HARD,21.0,False,False,False,False,False,323.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,37,91.78,3614.151,2.0,HARD,22.0,False,False,False,False,False,316.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,38,91.231,3705.289,2.0,HARD,23.0,False,False,False,False,False,307.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,39,91.989,3797.436,2.0,HARD,24.0,False,False,False,False,False,310.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,40,91.754,3889.2,2.0,HARD,25.0,False,False,False,False,False,319.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,41,92.696,3981.876,2.0,HARD,26.0,True,False,False,False,False,314.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,42,110.027,4091.799,3.0,HARD,1.0,False,True,False,False,False,302.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,43,88.58,4180.476,3.0,HARD,2.0,False,False,False,False,False,307.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,44,88.645,4269.087,3.0,HARD,3.0,False,False,False,False,False,307.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,45,88.791,4357.904,3.0,HARD,4.0,False,False,False,False,False,313.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,46,88.918,4446.78,3.0,HARD,5.0,False,False,False,False,False,314.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,47,89.458,4536.24,3.0,HARD,6.0,False,False,False,False,False,335.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,48,89.931,4626.072,3.0,HARD,7.0,False,False,False,False,False,314.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,49,88.896,4715.13,3.0,HARD,8.0,False,False,False,False,False,315.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,50,88.98,4804.025,3.0,HARD,9.0,False,False,False,False,False,332.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,51,88.837,4892.772,3.0,HARD,10.0,False,False,False,False,False,309.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,52,88.64,4981.496,3.0,HARD,11.0,False,False,False,False,False,312.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,53,88.943,5070.438,3.0,HARD,12.0,False,False,False,False,False,309.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,54,88.923,5159.417,3.0,HARD,13.0,False,False,False,False,False,311.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,55,89.025,5248.44,3.0,HARD,14.0,False,False,False,False,False,312.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,56,89.43,5337.891,3.0,HARD,15.0,False,False,False,False,False,316.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,57,89.265,5427.131,3.0,HARD,16.0,False,False,False,False,False,322.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,SAR,Williams,58,89.379,5516.494,3.0,HARD,17.0,False,False,False,False,False,313.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,1,99.078,304.721,1.0,HARD,2.0,False,False,False,False,False,320.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,2,91.963,396.683,1.0,HARD,3.0,False,False,False,False,False,295.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,3,90.927,487.678,1.0,HARD,4.0,False,False,False,False,False,325.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,4,91.017,578.735,1.0,HARD,5.0,False,False,False,False,False,319.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,5,91.094,669.843,1.0,HARD,6.0,False,False,False,False,False,320.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,6,90.795,760.621,1.0,HARD,7.0,False,False,False,False,False,323.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,7,91.056,851.646,1.0,HARD,8.0,False,False,False,False,False,316.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,8,90.988,942.64,1.0,HARD,9.0,False,False,False,False,False,324.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,9,91.195,1033.861,1.0,HARD,10.0,False,False,False,False,False,311.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,10,91.074,1124.927,1.0,HARD,11.0,False,False,False,False,False,320.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,11,91.367,1216.234,1.0,HARD,12.0,False,False,False,False,False,320.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,12,91.555,1307.874,1.0,HARD,13.0,False,False,False,False,False,319.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,13,91.631,1399.481,1.0,HARD,14.0,False,False,False,False,False,314.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,14,91.693,1491.213,1.0,HARD,15.0,False,False,False,False,False,312.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,15,91.312,1582.378,1.0,HARD,16.0,False,False,False,False,False,322.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,16,91.293,1673.733,1.0,HARD,17.0,False,False,False,False,False,299.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,17,90.5,1764.252,1.0,HARD,18.0,False,False,False,False,False,327.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,18,91.011,1855.293,1.0,HARD,19.0,False,False,False,False,False,296.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,19,90.64,1945.796,1.0,HARD,20.0,False,False,False,False,False,300.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,20,90.655,2036.529,1.0,HARD,21.0,False,False,False,False,False,302.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,21,91.623,2128.277,1.0,HARD,22.0,False,False,False,False,False,296.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,22,92.915,2221.083,1.0,HARD,23.0,True,False,False,False,False,303.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,23,108.971,2330.138,2.0,HARD,2.0,False,True,False,False,False,317.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,24,90.353,2420.519,2.0,HARD,3.0,False,False,False,False,False,299.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,25,89.87,2510.254,2.0,HARD,4.0,False,False,False,False,False,326.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,26,88.86,2599.04,2.0,HARD,5.0,False,False,False,False,False,319.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,27,90.191,2689.292,2.0,HARD,6.0,False,False,False,False,False,299.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,28,90.312,2779.724,2.0,HARD,7.0,False,False,False,False,False,306.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,29,89.602,2869.185,2.0,HARD,8.0,False,False,False,False,False,325.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,30,89.736,2959.005,2.0,HARD,9.0,False,False,False,False,False,295.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,31,89.706,3048.693,2.0,HARD,10.0,False,False,False,False,False,300.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,32,89.831,3138.598,2.0,HARD,11.0,False,False,False,False,False,297.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,33,90.128,3228.691,2.0,HARD,12.0,False,False,False,False,False,302.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,34,89.921,3318.592,2.0,HARD,13.0,False,False,False,False,False,300.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,35,89.902,3408.494,2.0,HARD,14.0,False,False,False,False,False,301.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,36,90.486,3498.905,2.0,HARD,15.0,False,False,False,False,False,295.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,37,90.751,3589.544,2.0,HARD,16.0,False,False,False,False,False,288.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,38,90.403,3680.055,2.0,HARD,17.0,False,False,False,False,False,303.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,39,90.305,3770.409,2.0,HARD,18.0,False,False,False,False,False,300.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,40,90.099,3860.514,2.0,HARD,19.0,False,False,False,False,False,302.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,41,89.991,3950.546,2.0,HARD,20.0,False,False,False,False,False,300.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,42,91.64,4042.147,2.0,HARD,21.0,True,False,False,False,False,299.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,43,108.24,4150.433,3.0,MEDIUM,1.0,False,True,False,False,False,295.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,44,88.05,4238.633,3.0,MEDIUM,2.0,False,False,False,False,False,294.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,45,88.177,4326.618,3.0,MEDIUM,3.0,False,False,False,False,False,300.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,46,88.239,4414.914,3.0,MEDIUM,4.0,False,False,False,False,False,301.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,47,88.535,4503.474,3.0,MEDIUM,5.0,False,False,False,False,False,298.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,48,88.639,4592.733,3.0,MEDIUM,6.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,49,89.03,4681.155,3.0,MEDIUM,7.0,False,False,False,False,False,302.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,50,88.81,4769.934,3.0,MEDIUM,8.0,False,False,False,False,False,324.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,51,88.801,4858.642,3.0,MEDIUM,9.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,52,88.864,4947.626,3.0,MEDIUM,10.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,53,89.205,5036.732,3.0,MEDIUM,11.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,54,89.301,5126.03,3.0,MEDIUM,12.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,55,89.458,5215.514,3.0,MEDIUM,13.0,False,False,False,False,False,318.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,56,89.655,5305.147,3.0,MEDIUM,14.0,False,False,False,False,False,314.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,57,89.486,5394.556,3.0,MEDIUM,15.0,False,False,False,False,False,297.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,STR,Aston Martin,58,89.683,5484.392,3.0,MEDIUM,16.0,False,False,False,False,False,303.0,26.4,30.8,54.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,1,96.203,301.846,1.0,MEDIUM,1.0,False,False,False,False,False,312.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,2,91.674,393.519,1.0,MEDIUM,2.0,False,False,False,False,False,299.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,3,90.674,483.925,1.0,MEDIUM,3.0,False,False,False,False,False,304.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,4,90.757,574.585,1.0,MEDIUM,4.0,False,False,False,False,False,306.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,5,90.685,665.402,1.0,MEDIUM,5.0,False,False,False,False,False,309.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,6,90.786,756.065,1.0,MEDIUM,6.0,False,False,False,False,False,315.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,7,90.826,846.916,1.0,MEDIUM,7.0,False,False,False,False,False,316.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,8,91.097,937.936,1.0,MEDIUM,8.0,False,False,False,False,False,314.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,9,90.862,1028.841,1.0,MEDIUM,9.0,False,False,False,False,False,313.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,10,91.104,1119.91,1.0,MEDIUM,10.0,False,False,False,False,False,302.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,11,91.472,1211.386,1.0,MEDIUM,11.0,False,False,False,False,False,318.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,12,91.466,1303.129,1.0,MEDIUM,12.0,False,False,False,False,False,301.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,13,91.198,1394.173,1.0,MEDIUM,13.0,False,False,False,False,False,308.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,14,90.85,1484.855,1.0,MEDIUM,14.0,False,False,False,False,False,300.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,15,90.901,1575.936,1.0,MEDIUM,15.0,False,False,False,False,False,297.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,16,91.081,1666.834,1.0,MEDIUM,16.0,False,False,False,False,False,296.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,17,91.228,1758.199,1.0,MEDIUM,17.0,False,False,False,False,False,297.0,26.7,32.3,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,18,91.244,1849.354,1.0,MEDIUM,18.0,False,False,False,False,False,298.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,19,91.453,1940.843,1.0,MEDIUM,19.0,False,False,False,False,False,296.0,26.7,32.6,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,20,91.211,2032.272,1.0,MEDIUM,20.0,False,False,False,False,False,296.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,21,91.134,2123.21,1.0,MEDIUM,21.0,False,False,False,False,False,296.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,22,92.567,2215.829,1.0,MEDIUM,22.0,True,False,False,False,False,296.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,23,110.404,2326.134,2.0,HARD,1.0,False,True,False,False,False,314.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,24,90.313,2416.51,2.0,HARD,2.0,False,False,False,False,False,294.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,25,90.104,2506.488,2.0,HARD,3.0,False,False,False,False,False,299.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,26,89.724,2596.341,2.0,HARD,4.0,False,False,False,False,False,304.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,27,89.942,2686.199,2.0,HARD,5.0,False,False,False,False,False,299.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,28,89.892,2776.085,2.0,HARD,6.0,False,False,False,False,False,299.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,29,89.688,2865.958,2.0,HARD,7.0,False,False,False,False,False,299.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,30,89.989,2955.852,2.0,HARD,8.0,False,False,False,False,False,293.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,31,89.667,3045.467,2.0,HARD,9.0,False,False,False,False,False,301.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,32,89.968,3135.438,2.0,HARD,10.0,False,False,False,False,False,294.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,33,89.759,3225.322,2.0,HARD,11.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,34,89.976,3315.257,2.0,HARD,12.0,False,False,False,False,False,299.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,35,89.773,3404.897,2.0,HARD,13.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,36,89.64,3494.638,2.0,HARD,14.0,False,False,False,False,False,301.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,37,89.834,3584.456,2.0,HARD,15.0,False,False,False,False,False,295.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,38,90.579,3674.918,2.0,HARD,16.0,False,False,False,False,False,293.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,39,91.013,3766.132,2.0,HARD,17.0,False,False,False,False,False,299.0,26.6,31.5,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,40,89.633,3855.798,2.0,HARD,18.0,False,False,False,False,False,301.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,41,89.511,3945.253,2.0,HARD,19.0,False,False,False,False,False,302.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,42,90.349,4035.512,2.0,HARD,20.0,False,False,False,False,False,300.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,43,89.659,4125.196,2.0,HARD,21.0,False,False,False,False,False,305.0,26.6,31.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,44,89.732,4214.862,2.0,HARD,22.0,False,False,False,False,False,301.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,45,89.315,4304.288,2.0,HARD,23.0,False,False,False,False,False,304.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,46,89.41,4393.866,2.0,HARD,24.0,False,False,False,False,False,302.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,47,89.335,4483.087,2.0,HARD,25.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,48,90.932,4573.995,2.0,HARD,26.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,49,89.951,4663.904,2.0,HARD,27.0,False,False,False,False,False,302.0,26.4,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,50,89.643,4753.548,2.0,HARD,28.0,False,False,False,False,False,303.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,51,89.529,4843.027,2.0,HARD,29.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,52,89.454,4932.623,2.0,HARD,30.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,53,89.413,5021.909,2.0,HARD,31.0,False,False,False,False,False,302.0,26.6,31.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,54,89.385,5111.364,2.0,HARD,32.0,False,False,False,False,False,301.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,55,89.256,5200.656,2.0,HARD,33.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,56,91.027,5291.676,2.0,HARD,34.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,57,89.828,5381.46,2.0,HARD,35.0,False,False,False,False,False,306.0,26.3,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,TSU,AlphaTauri,58,90.38,5471.871,2.0,HARD,36.0,False,False,False,False,False,308.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,1,92.594,298.237,1.0,MEDIUM,1.0,False,False,False,False,False,304.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,2,90.71,388.946,1.0,MEDIUM,2.0,False,False,False,False,False,294.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,3,90.408,479.346,1.0,MEDIUM,3.0,False,False,False,False,False,299.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,4,90.716,570.075,1.0,MEDIUM,4.0,False,False,False,False,False,293.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,5,90.552,660.629,1.0,MEDIUM,5.0,False,False,False,False,False,291.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,6,90.44,751.141,1.0,MEDIUM,6.0,False,False,False,False,False,291.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,7,90.529,841.619,1.0,MEDIUM,7.0,False,False,False,False,False,294.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,8,90.516,932.137,1.0,MEDIUM,8.0,False,False,False,False,False,294.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,9,90.632,1022.83,1.0,MEDIUM,9.0,False,False,False,False,False,295.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,10,90.506,1113.328,1.0,MEDIUM,10.0,False,False,False,False,False,295.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,11,90.561,1203.819,1.0,MEDIUM,11.0,False,False,False,False,False,294.0,26.9,32.9,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,12,90.59,1294.519,1.0,MEDIUM,12.0,False,False,False,False,False,296.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,13,90.561,1385.083,1.0,MEDIUM,13.0,False,False,False,False,False,296.0,26.8,32.5,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,14,90.647,1475.699,1.0,MEDIUM,14.0,False,False,False,False,False,297.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,15,90.267,1565.927,1.0,MEDIUM,15.0,False,False,False,False,False,298.0,26.8,32.5,54.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,16,92.558,1658.452,1.0,MEDIUM,16.0,True,False,False,False,False,297.0,26.7,32.3,54.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,17,110.188,1768.643,2.0,HARD,1.0,False,True,False,False,False,292.0,26.7,32.3,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,18,89.896,1858.522,2.0,HARD,2.0,False,False,False,False,False,300.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,19,89.386,1947.995,2.0,HARD,3.0,False,False,False,False,False,323.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,20,89.628,2037.564,2.0,HARD,4.0,False,False,False,False,False,306.0,26.7,32.6,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,21,89.127,2126.781,2.0,HARD,5.0,False,False,False,False,False,312.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,22,89.689,2216.357,2.0,HARD,6.0,False,False,False,False,False,303.0,26.7,32.4,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,23,89.634,2306.051,2.0,HARD,7.0,False,False,False,False,False,297.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,24,89.293,2395.225,2.0,HARD,8.0,False,False,False,False,False,304.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,25,89.401,2484.707,2.0,HARD,9.0,False,False,False,False,False,301.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,26,89.289,2574.11,2.0,HARD,10.0,False,False,False,False,False,301.0,26.6,32.0,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,27,89.156,2663.194,2.0,HARD,11.0,False,False,False,False,False,302.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,28,89.217,2752.457,2.0,HARD,12.0,False,False,False,False,False,297.0,26.6,32.1,53.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,29,89.183,2841.579,2.0,HARD,13.0,False,False,False,False,False,301.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,30,89.266,2930.848,2.0,HARD,14.0,False,False,False,False,False,301.0,26.6,31.7,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,31,89.149,3020.011,2.0,HARD,15.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,32,89.1,3109.086,2.0,HARD,16.0,False,False,False,False,False,302.0,26.6,31.6,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,33,89.137,3198.263,2.0,HARD,17.0,False,False,False,False,False,302.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,34,89.077,3287.264,2.0,HARD,18.0,False,False,False,False,False,303.0,26.5,31.9,51.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,35,89.148,3376.397,2.0,HARD,19.0,False,False,False,False,False,301.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,36,88.902,3465.353,2.0,HARD,20.0,False,False,False,False,False,299.0,26.6,31.7,51.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,37,88.91,3554.36,2.0,HARD,21.0,False,False,False,False,False,300.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,38,89.073,3643.366,2.0,HARD,22.0,False,False,False,False,False,300.0,26.7,31.4,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,39,88.849,3732.203,2.0,HARD,23.0,False,False,False,False,False,302.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,40,89.053,3821.25,2.0,HARD,24.0,False,False,False,False,False,300.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,41,89.003,3910.246,2.0,HARD,25.0,False,False,False,False,False,301.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,42,89.082,3999.277,2.0,HARD,26.0,False,False,False,False,False,301.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,43,91.391,4090.772,2.0,HARD,27.0,True,False,False,False,False,302.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,44,108.17,4198.863,3.0,HARD,1.0,False,True,False,False,False,298.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,45,86.993,4285.919,3.0,HARD,2.0,False,False,False,False,False,299.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,46,87.902,4373.78,3.0,HARD,3.0,False,False,False,False,False,297.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,47,87.962,4461.73,3.0,HARD,4.0,False,False,False,False,False,298.0,26.5,31.2,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,48,87.968,4549.813,3.0,HARD,5.0,False,False,False,False,False,299.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,49,87.901,4637.651,3.0,HARD,6.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,50,88.04,4725.695,3.0,HARD,7.0,False,False,False,False,False,298.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,51,87.849,4813.441,3.0,HARD,8.0,False,False,False,False,False,297.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,52,87.851,4901.332,3.0,HARD,9.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,53,87.683,4989.117,3.0,HARD,10.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,54,87.513,5076.602,3.0,HARD,11.0,False,False,False,False,False,322.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,55,87.93,5164.455,3.0,HARD,12.0,False,False,False,False,False,298.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,56,87.727,5252.298,3.0,HARD,13.0,False,False,False,False,False,299.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,57,87.98,5340.128,3.0,HARD,14.0,False,False,False,False,False,299.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,58,88.545,5428.739,3.0,HARD,15.0,False,False,False,False,False,303.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,VER,Red Bull Racing,59,,,,,,False,False,False,False,False,,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,1,101.297,306.94,1.0,MEDIUM,1.0,False,False,False,False,False,303.0,27.1,33.6,49.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,2,92.533,399.472,1.0,MEDIUM,2.0,False,False,False,False,False,298.0,27.0,33.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,3,91.817,491.286,1.0,MEDIUM,3.0,False,False,False,False,False,321.0,27.1,33.7,49.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,4,91.303,582.787,1.0,MEDIUM,4.0,False,False,False,False,False,310.0,27.0,33.2,50.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,5,91.44,674.142,1.0,MEDIUM,5.0,False,False,False,False,False,300.0,27.0,33.1,50.0,0,2.4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,6,91.331,765.5,1.0,MEDIUM,6.0,False,False,False,False,False,313.0,27.0,33.0,50.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,7,91.227,856.77,1.0,MEDIUM,7.0,False,False,False,False,False,318.0,27.0,33.2,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,8,91.318,947.985,1.0,MEDIUM,8.0,False,False,False,False,False,294.0,26.9,33.0,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,9,91.662,1039.703,1.0,MEDIUM,9.0,False,False,False,False,False,306.0,26.9,32.8,51.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,10,91.936,1131.648,1.0,MEDIUM,10.0,False,False,False,False,False,301.0,26.9,32.7,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,11,91.845,1223.525,1.0,MEDIUM,11.0,False,False,False,False,False,316.0,26.9,32.8,52.0,0,2.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,12,92.298,1315.742,1.0,MEDIUM,12.0,False,False,False,False,False,303.0,26.8,32.8,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,13,93.899,1409.733,1.0,MEDIUM,13.0,True,False,False,False,False,300.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,14,112.402,1521.938,2.0,HARD,1.0,False,True,False,False,False,290.0,26.8,32.5,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,15,90.762,1612.953,2.0,HARD,2.0,False,False,False,False,False,292.0,26.8,32.3,54.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,16,90.842,1703.594,2.0,HARD,3.0,False,False,False,False,False,297.0,26.7,32.3,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,17,90.892,1794.425,2.0,HARD,4.0,False,False,False,False,False,298.0,26.6,32.6,53.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,18,90.973,1885.567,2.0,HARD,5.0,False,False,False,False,False,298.0,26.7,32.6,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,19,91.083,1976.676,2.0,HARD,6.0,False,False,False,False,False,299.0,26.7,32.5,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,20,91.099,2067.769,2.0,HARD,7.0,False,False,False,False,False,299.0,26.7,32.6,51.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,21,91.055,2158.709,2.0,HARD,8.0,False,False,False,False,False,295.0,26.7,32.4,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,22,90.353,2249.13,2.0,HARD,9.0,False,False,False,False,False,307.0,26.7,32.1,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,23,90.707,2339.765,2.0,HARD,10.0,False,False,False,False,False,297.0,26.7,32.1,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,24,90.957,2430.826,2.0,HARD,11.0,False,False,False,False,False,298.0,26.7,31.9,52.0,0,1.5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,25,90.695,2521.563,2.0,HARD,12.0,False,False,False,False,False,297.0,26.7,32.0,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,26,91.879,2613.434,2.0,HARD,13.0,False,False,False,False,False,307.0,26.7,32.0,52.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,27,90.619,2703.954,2.0,HARD,14.0,False,False,False,False,False,314.0,26.7,32.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,28,90.782,2794.881,2.0,HARD,15.0,False,False,False,False,False,315.0,26.6,32.1,52.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,29,90.608,2885.378,2.0,HARD,16.0,False,False,False,False,False,315.0,26.6,32.1,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,30,91.054,2976.604,2.0,HARD,17.0,False,False,False,False,False,301.0,26.6,31.9,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,31,90.935,3067.203,2.0,HARD,18.0,False,False,False,False,False,302.0,26.6,31.9,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,32,90.874,3158.25,2.0,HARD,19.0,False,False,False,False,False,300.0,26.6,31.7,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,33,90.844,3249.016,2.0,HARD,20.0,False,False,False,False,False,299.0,26.6,31.7,51.0,0,1.1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,34,90.941,3339.987,2.0,HARD,21.0,False,False,False,False,False,299.0,26.6,31.8,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,35,90.594,3430.499,2.0,HARD,22.0,False,False,False,False,False,298.0,26.6,31.7,51.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,36,90.67,3521.23,2.0,HARD,23.0,False,False,False,False,False,299.0,26.7,31.4,51.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,37,92.936,3614.214,2.0,HARD,24.0,True,False,False,False,False,295.0,26.7,31.4,51.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,38,110.896,3725.188,3.0,MEDIUM,1.0,False,True,False,False,False,295.0,26.6,31.4,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,39,88.951,3814.054,3.0,MEDIUM,2.0,False,False,False,False,False,296.0,26.6,31.1,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,40,89.081,3903.215,3.0,MEDIUM,3.0,False,False,False,False,False,319.0,26.6,31.1,52.0,0,1.6
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,41,89.402,3992.472,3.0,MEDIUM,4.0,False,False,False,False,False,298.0,26.6,31.3,52.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,42,88.972,4081.572,3.0,MEDIUM,5.0,False,False,False,False,False,302.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,43,88.746,4170.205,3.0,MEDIUM,6.0,False,False,False,False,False,318.0,26.5,31.3,52.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,44,89.083,4259.197,3.0,MEDIUM,7.0,False,False,False,False,False,298.0,26.5,31.3,52.0,0,1.2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,45,89.89,4349.175,3.0,MEDIUM,8.0,False,False,False,False,False,306.0,26.5,31.1,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,46,89.324,4438.561,3.0,MEDIUM,9.0,False,False,False,False,False,303.0,26.5,31.2,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,47,89.409,4528.035,3.0,MEDIUM,10.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,48,89.383,4617.368,3.0,MEDIUM,11.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,49,89.766,4707.25,3.0,MEDIUM,12.0,False,False,False,False,False,300.0,26.4,31.2,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,50,89.704,4796.874,3.0,MEDIUM,13.0,False,False,False,False,False,300.0,26.5,31.0,53.0,0,1.8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,51,89.702,4886.574,3.0,MEDIUM,14.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,52,89.608,4976.198,3.0,MEDIUM,15.0,False,False,False,False,False,303.0,26.5,31.0,53.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,53,89.781,5065.948,3.0,MEDIUM,16.0,False,False,False,False,False,302.0,26.5,31.1,53.0,0,2.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,54,90.289,5156.236,3.0,MEDIUM,17.0,False,False,False,False,False,295.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,55,90.416,5246.659,3.0,MEDIUM,18.0,False,False,False,False,False,301.0,26.5,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,56,90.2,5336.895,3.0,MEDIUM,19.0,False,False,False,False,False,299.0,26.4,31.0,53.0,0,1.7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,57,90.991,5427.873,3.0,MEDIUM,20.0,False,False,False,False,False,306.0,26.4,30.8,54.0,0,1.3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,70,16,59,ZHO,Alfa Romeo,58,90.327,5518.145,3.0,MEDIUM,21.0,False,False,False,False,False,325.0,26.4,30.8,54.0,0,1.2

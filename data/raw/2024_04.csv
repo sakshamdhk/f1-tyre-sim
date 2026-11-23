@@ -1,0 +1,909 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALB,Williams,1,,,1.0,SOFT,1.0,False,False,False,False,False,,22.6,39.5,33.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,1,141.126,2061.533,1.0,SOFT,1.0,True,False,False,False,False,196.0,22.6,39.3,32.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,2,1714.647,2077.827,2.0,SOFT,2.0,False,True,False,True,False,186.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,3,162.586,2240.206,2.0,SOFT,3.0,False,False,False,False,False,300.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,4,97.453,2337.723,2.0,SOFT,4.0,False,False,False,False,False,299.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,5,97.532,2435.253,2.0,SOFT,5.0,False,False,False,False,False,299.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,6,97.861,2533.155,2.0,SOFT,6.0,False,False,False,False,False,296.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,7,98.203,2631.352,2.0,SOFT,7.0,False,False,False,False,False,299.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,8,98.461,2729.862,2.0,SOFT,8.0,False,False,False,False,False,298.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,9,98.884,2828.561,2.0,SOFT,9.0,False,False,False,False,False,296.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,10,98.781,2927.455,2.0,SOFT,10.0,False,False,False,False,False,295.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,11,98.943,3026.405,2.0,SOFT,11.0,False,False,False,False,False,295.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,12,98.744,3125.183,2.0,SOFT,12.0,False,False,False,False,False,295.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,13,100.816,3225.836,2.0,SOFT,13.0,True,False,False,False,False,295.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,14,116.544,3342.388,3.0,MEDIUM,1.0,False,True,False,False,False,289.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,15,97.453,3439.971,3.0,MEDIUM,2.0,False,False,False,False,False,294.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,16,97.021,3536.983,3.0,MEDIUM,3.0,False,False,False,False,False,296.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,17,96.999,3634.051,3.0,MEDIUM,4.0,False,False,False,False,False,297.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,18,97.031,3731.022,3.0,MEDIUM,5.0,False,False,False,False,False,296.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,19,96.821,3827.747,3.0,MEDIUM,6.0,False,False,False,False,False,298.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,20,97.615,3925.385,3.0,MEDIUM,7.0,False,False,False,False,False,288.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,21,97.565,4023.061,3.0,MEDIUM,8.0,False,False,False,False,False,303.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,22,97.721,4120.791,3.0,MEDIUM,9.0,False,False,False,False,False,293.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,23,97.64,4218.247,3.0,MEDIUM,10.0,False,False,False,False,False,295.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,24,97.435,4315.942,3.0,MEDIUM,11.0,False,False,False,False,False,295.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,25,97.423,4413.217,3.0,MEDIUM,12.0,False,False,False,False,False,295.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,26,97.289,4510.447,3.0,MEDIUM,13.0,False,False,False,False,False,296.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,27,97.359,4607.918,3.0,MEDIUM,14.0,False,False,False,False,False,295.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,28,97.341,4705.082,3.0,MEDIUM,15.0,False,False,False,False,False,296.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,29,97.782,4802.967,3.0,MEDIUM,16.0,False,False,False,False,False,296.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,30,97.643,4900.591,3.0,MEDIUM,17.0,False,False,False,False,False,295.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,31,97.451,4998.13,3.0,MEDIUM,18.0,False,False,False,False,False,295.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,32,97.635,5095.741,3.0,MEDIUM,19.0,False,False,False,False,False,296.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,33,99.794,5195.526,3.0,MEDIUM,20.0,True,False,False,False,False,297.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,34,115.043,5310.497,4.0,HARD,1.0,False,True,False,False,False,295.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,35,95.771,5406.346,4.0,HARD,2.0,False,False,False,False,False,297.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,36,95.353,5501.735,4.0,HARD,3.0,False,False,False,False,False,296.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,37,95.381,5597.099,4.0,HARD,4.0,False,False,False,False,False,298.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,38,95.487,5692.582,4.0,HARD,5.0,False,False,False,False,False,298.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,39,95.97,5788.464,4.0,HARD,6.0,False,False,False,False,False,298.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,40,95.808,5884.338,4.0,HARD,7.0,False,False,False,False,False,297.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,41,95.574,5979.881,4.0,HARD,8.0,False,False,False,False,False,296.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,42,97.292,6077.195,4.0,HARD,9.0,False,False,False,False,True,297.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,43,96.092,6173.262,4.0,HARD,10.0,False,False,False,False,False,296.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,44,95.615,6268.868,4.0,HARD,11.0,False,False,False,False,False,296.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,45,95.636,6364.622,4.0,HARD,12.0,False,False,False,False,False,297.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,46,95.827,6460.28,4.0,HARD,13.0,False,False,False,False,False,297.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,47,95.862,6556.325,4.0,HARD,14.0,False,False,False,False,False,299.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,48,95.861,6652.12,4.0,HARD,15.0,False,False,False,False,False,287.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,49,95.831,6747.919,4.0,HARD,16.0,False,False,False,False,False,286.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,50,96.008,6843.89,4.0,HARD,17.0,False,False,False,False,False,299.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,51,96.069,6940.021,4.0,HARD,18.0,False,False,False,False,False,284.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,52,95.633,7035.578,4.0,HARD,19.0,False,False,False,False,False,283.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ALO,Aston Martin,53,94.726,7130.265,4.0,HARD,20.0,False,False,False,False,False,300.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,1,165.179,2085.586,1.0,SOFT,1.0,True,False,False,False,False,149.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,2,1708.578,2095.811,2.0,SOFT,2.0,False,True,False,True,False,174.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,3,148.991,2244.702,2.0,SOFT,3.0,False,False,False,False,False,294.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,4,99.462,2344.361,2.0,SOFT,4.0,False,False,False,False,False,299.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,5,98.279,2442.545,2.0,SOFT,5.0,False,False,False,False,False,299.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,6,101.288,2543.863,2.0,SOFT,6.0,True,False,False,False,False,296.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,7,117.449,2661.234,3.0,HARD,1.0,False,True,False,False,False,289.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,8,96.706,2758.045,3.0,HARD,2.0,False,False,False,False,False,288.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,9,97.406,2855.328,3.0,HARD,3.0,False,False,False,False,False,288.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,10,97.451,2952.848,3.0,HARD,4.0,False,False,False,False,False,291.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,11,98.432,3051.291,3.0,HARD,5.0,False,False,False,False,False,297.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,12,100.691,3152.047,3.0,HARD,6.0,False,False,False,False,False,287.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,13,98.282,3250.191,3.0,HARD,7.0,False,False,False,False,False,292.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,14,98.717,3348.833,3.0,HARD,8.0,False,False,False,False,False,296.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,15,100.42,3449.412,3.0,HARD,9.0,False,False,False,False,False,300.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,16,98.633,3548.06,3.0,HARD,10.0,False,False,False,False,False,294.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,17,98.718,3646.725,3.0,HARD,11.0,False,False,False,False,False,299.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,18,98.83,3745.557,3.0,HARD,12.0,False,False,False,False,False,293.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,19,99.632,3845.081,3.0,HARD,13.0,False,False,False,False,False,291.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,20,99.113,3944.366,3.0,HARD,14.0,False,False,False,False,False,297.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,21,99.457,4043.823,3.0,HARD,15.0,False,False,False,False,False,296.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,22,102.311,4146.017,3.0,HARD,16.0,True,False,False,False,False,299.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,23,121.647,4267.747,4.0,HARD,1.0,False,True,False,False,False,293.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,24,98.126,4365.928,4.0,HARD,2.0,False,False,False,False,False,301.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,25,96.608,4462.463,4.0,HARD,3.0,False,False,False,False,False,289.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,26,96.858,4559.233,4.0,HARD,4.0,False,False,False,False,False,291.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,27,96.622,4656.024,4.0,HARD,5.0,False,False,False,False,False,300.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,28,97.472,4753.41,4.0,HARD,6.0,False,False,False,False,False,301.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,29,97.712,4851.131,4.0,HARD,7.0,False,False,False,False,False,301.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,30,98.253,4949.481,4.0,HARD,8.0,False,False,False,False,False,294.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,31,98.058,5047.511,4.0,HARD,9.0,False,False,False,False,False,302.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,32,98.748,5146.128,4.0,HARD,10.0,False,False,False,False,False,297.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,33,98.722,5244.958,4.0,HARD,11.0,False,False,False,False,False,302.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,34,98.003,5342.95,4.0,HARD,12.0,False,False,False,False,False,302.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,35,98.007,5440.944,4.0,HARD,13.0,False,False,False,False,False,298.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,36,98.257,5539.164,4.0,HARD,14.0,False,False,False,False,False,298.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,37,97.602,5636.806,4.0,HARD,15.0,False,False,False,False,False,295.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,38,98.0,5734.853,4.0,HARD,16.0,False,False,False,False,False,296.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,39,97.232,5832.066,4.0,HARD,17.0,False,False,False,False,False,300.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,40,97.858,5929.798,4.0,HARD,18.0,False,False,False,False,False,293.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,41,97.312,6027.158,4.0,HARD,19.0,False,False,False,False,True,299.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,42,98.001,6125.153,4.0,HARD,20.0,False,False,False,False,True,292.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,43,97.444,6222.66,4.0,HARD,21.0,False,False,False,False,False,295.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,44,97.507,6320.089,4.0,HARD,22.0,False,False,False,False,False,297.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,45,98.734,6418.944,4.0,HARD,23.0,False,False,False,False,False,297.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,46,99.966,6518.772,4.0,HARD,24.0,False,False,False,False,False,290.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,47,97.9,6616.78,4.0,HARD,25.0,False,False,False,False,False,298.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,48,97.206,6713.973,4.0,HARD,26.0,False,False,False,False,False,297.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,49,96.944,6810.98,4.0,HARD,27.0,False,False,False,False,False,301.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,50,99.195,6910.057,4.0,HARD,28.0,False,False,False,False,False,301.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,51,97.156,7007.229,4.0,HARD,29.0,False,False,False,False,False,300.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,BOT,Kick Sauber,52,97.727,7104.974,4.0,HARD,30.0,False,False,False,False,False,302.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,1,173.696,2094.103,1.0,SOFT,1.0,True,False,False,False,False,123.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,2,1711.726,2107.476,2.0,HARD,1.0,False,True,False,True,False,277.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,3,138.362,2245.668,2.0,HARD,2.0,False,False,False,False,False,298.0,22.4,38.9,37.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,4,99.925,2345.677,2.0,HARD,3.0,False,False,False,False,False,296.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,5,99.473,2445.239,2.0,HARD,4.0,False,False,False,False,False,304.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,6,100.257,2545.448,2.0,HARD,5.0,False,False,False,False,False,302.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,7,100.248,2645.765,2.0,HARD,6.0,False,False,False,False,False,300.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,8,101.363,2746.987,2.0,HARD,7.0,False,False,False,False,False,300.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,9,100.78,2847.858,2.0,HARD,8.0,False,False,False,False,False,299.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,10,101.117,2949.054,2.0,HARD,9.0,False,False,False,False,False,291.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,11,101.628,3050.599,2.0,HARD,10.0,False,False,False,False,False,298.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,12,101.107,3151.643,2.0,HARD,11.0,False,False,False,False,False,300.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,13,102.475,3254.141,2.0,HARD,12.0,False,False,False,False,False,300.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,14,101.773,3355.853,2.0,HARD,13.0,False,False,False,False,False,299.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,15,101.38,3457.331,2.0,HARD,14.0,False,False,False,False,False,300.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,16,103.476,3560.82,2.0,HARD,15.0,True,False,False,False,False,296.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,17,118.732,3679.574,3.0,MEDIUM,1.0,False,True,False,False,False,297.0,21.1,34.8,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,18,98.374,3777.961,3.0,MEDIUM,2.0,False,False,False,False,False,295.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,19,98.599,3876.544,3.0,MEDIUM,3.0,False,False,False,False,False,294.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,20,98.741,3975.259,3.0,MEDIUM,4.0,False,False,False,False,False,294.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,21,98.415,4073.728,3.0,MEDIUM,5.0,False,False,False,False,False,294.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,22,98.382,4172.118,3.0,MEDIUM,6.0,False,False,False,False,False,295.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,23,99.816,4271.876,3.0,MEDIUM,7.0,False,False,False,False,False,298.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,24,98.781,4370.631,3.0,MEDIUM,8.0,False,False,False,False,False,298.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,25,99.034,4469.685,3.0,MEDIUM,9.0,False,False,False,False,False,297.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,26,98.958,4568.59,3.0,MEDIUM,10.0,False,False,False,False,False,299.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,27,98.902,4667.526,3.0,MEDIUM,11.0,False,False,False,False,False,299.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,28,98.873,4766.47,3.0,MEDIUM,12.0,False,False,False,False,False,299.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,29,99.052,4865.485,3.0,MEDIUM,13.0,False,False,False,False,False,298.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,30,98.894,4964.336,3.0,MEDIUM,14.0,False,False,False,False,False,298.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,31,99.45,5063.741,3.0,MEDIUM,15.0,False,False,False,False,False,299.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,32,101.728,5165.572,3.0,MEDIUM,16.0,True,False,False,False,False,299.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,33,117.833,5283.303,4.0,HARD,1.0,False,True,False,False,False,298.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,34,98.671,5382.019,4.0,HARD,2.0,False,False,False,False,False,288.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,35,97.656,5479.726,4.0,HARD,3.0,False,False,False,False,False,301.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,36,97.283,5577.066,4.0,HARD,4.0,False,False,False,False,False,300.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,37,98.426,5675.431,4.0,HARD,5.0,False,False,False,False,False,300.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,38,96.756,5772.089,4.0,HARD,6.0,False,False,False,False,False,301.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,39,100.223,5872.464,4.0,HARD,7.0,False,False,False,False,False,298.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,40,98.072,5970.507,4.0,HARD,8.0,False,False,False,False,False,305.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,41,97.477,6067.928,4.0,HARD,9.0,False,False,False,False,True,301.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,42,97.014,6164.866,4.0,HARD,10.0,False,False,False,False,False,297.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,43,96.799,6261.734,4.0,HARD,11.0,False,False,False,False,False,298.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,44,97.201,6358.943,4.0,HARD,12.0,False,False,False,False,False,299.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,45,96.942,6455.915,4.0,HARD,13.0,False,False,False,False,False,299.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,46,96.997,6552.928,4.0,HARD,14.0,False,False,False,False,False,299.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,47,96.759,6649.688,4.0,HARD,15.0,False,False,False,False,False,300.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,48,96.642,6746.321,4.0,HARD,16.0,False,False,False,False,False,300.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,49,98.65,6844.919,4.0,HARD,17.0,False,False,False,False,False,284.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,50,100.961,6945.832,4.0,HARD,18.0,False,False,False,False,False,302.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,51,97.721,7043.58,4.0,HARD,19.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,GAS,Alpine,52,97.505,7141.112,4.0,HARD,20.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,1,153.173,2073.58,1.0,MEDIUM,1.0,True,False,False,False,False,153.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,2,1709.973,2085.2,2.0,HARD,1.0,False,True,False,True,False,130.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,3,157.153,2242.302,2.0,HARD,2.0,False,False,False,False,False,298.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,4,98.303,2340.585,2.0,HARD,3.0,False,False,False,False,False,299.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,5,98.139,2438.812,2.0,HARD,4.0,False,False,False,False,False,298.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,6,98.19,2537.022,2.0,HARD,5.0,False,False,False,False,False,301.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,7,98.374,2635.399,2.0,HARD,6.0,False,False,False,False,False,299.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,8,98.096,2733.466,2.0,HARD,7.0,False,False,False,False,False,301.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,9,98.533,2831.935,2.0,HARD,8.0,False,False,False,False,False,299.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,10,98.703,2930.767,2.0,HARD,9.0,False,False,False,False,False,297.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,11,99.292,3029.953,2.0,HARD,10.0,False,False,False,False,False,300.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,12,99.202,3129.133,2.0,HARD,11.0,False,False,False,False,False,298.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,13,100.24,3229.367,2.0,HARD,12.0,False,False,False,False,False,298.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,14,99.053,3328.424,2.0,HARD,13.0,False,False,False,False,False,299.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,15,98.915,3427.336,2.0,HARD,14.0,False,False,False,False,False,299.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,16,98.693,3526.104,2.0,HARD,15.0,False,False,False,False,False,299.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,17,100.53,3626.497,2.0,HARD,16.0,False,False,False,False,False,250.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,18,99.304,3725.967,2.0,HARD,17.0,False,False,False,False,False,298.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,19,99.352,3825.253,2.0,HARD,18.0,False,False,False,False,False,302.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,20,98.619,3923.884,2.0,HARD,19.0,False,False,False,False,False,299.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,21,98.642,4022.594,2.0,HARD,20.0,False,False,False,False,False,298.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,22,99.823,4122.343,2.0,HARD,21.0,False,False,False,False,False,300.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,23,101.466,4223.871,2.0,HARD,22.0,True,False,False,False,False,298.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,24,115.127,4338.732,3.0,HARD,1.0,False,True,False,False,False,291.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,25,95.432,4434.359,3.0,HARD,2.0,False,False,False,False,False,296.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,26,95.447,4529.938,3.0,HARD,3.0,False,False,False,False,False,295.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,27,96.135,4625.947,3.0,HARD,4.0,False,False,False,False,False,297.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,28,96.295,4722.177,3.0,HARD,5.0,False,False,False,False,False,299.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,29,96.746,4818.958,3.0,HARD,6.0,False,False,False,False,False,298.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,30,96.399,4915.313,3.0,HARD,7.0,False,False,False,False,False,299.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,31,96.586,5011.997,3.0,HARD,8.0,False,False,False,False,False,297.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,32,96.601,5108.631,3.0,HARD,9.0,False,False,False,False,False,299.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,33,96.444,5205.057,3.0,HARD,10.0,False,False,False,False,False,299.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,34,96.707,5301.729,3.0,HARD,11.0,False,False,False,False,False,298.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,35,96.514,5398.152,3.0,HARD,12.0,False,False,False,False,False,300.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,36,96.191,5494.448,3.0,HARD,13.0,False,False,False,False,False,299.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,37,96.622,5591.114,3.0,HARD,14.0,False,False,False,False,False,300.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,38,97.458,5688.439,3.0,HARD,15.0,False,False,False,False,False,299.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,39,99.03,5787.508,3.0,HARD,16.0,True,False,False,False,False,299.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,40,114.409,5902.001,4.0,MEDIUM,2.0,False,True,False,False,False,293.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,41,93.952,5995.903,4.0,MEDIUM,3.0,False,False,False,False,True,296.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,42,94.238,6090.177,4.0,MEDIUM,4.0,False,False,False,False,True,297.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,43,94.082,6184.203,4.0,MEDIUM,5.0,False,False,False,False,False,297.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,44,94.337,6278.53,4.0,MEDIUM,6.0,False,False,False,False,False,298.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,45,94.791,6373.376,4.0,MEDIUM,7.0,False,False,False,False,False,298.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,46,94.798,6468.119,4.0,MEDIUM,8.0,False,False,False,False,False,298.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,47,94.679,6562.797,4.0,MEDIUM,9.0,False,False,False,False,False,299.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,48,94.9,6657.727,4.0,MEDIUM,10.0,False,False,False,False,False,299.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,49,95.047,6752.7,4.0,MEDIUM,11.0,False,False,False,False,False,300.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,50,95.43,6848.237,4.0,MEDIUM,12.0,False,False,False,False,False,302.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,51,95.476,6943.759,4.0,MEDIUM,13.0,False,False,False,False,False,302.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,52,95.235,7038.895,4.0,MEDIUM,14.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HAM,Mercedes,53,95.773,7134.684,4.0,MEDIUM,15.0,False,False,False,False,False,303.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,1,163.349,2083.756,1.0,SOFT,1.0,True,False,False,False,False,129.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,2,1708.601,2094.004,2.0,SOFT,2.0,False,True,False,True,False,208.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,3,153.011,2246.973,2.0,SOFT,3.0,False,False,False,False,False,297.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,4,100.374,2347.345,2.0,SOFT,4.0,False,False,False,False,False,306.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,5,101.491,2448.818,2.0,SOFT,5.0,True,False,False,False,False,305.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,6,117.275,2566.082,3.0,HARD,1.0,False,True,False,False,False,294.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,7,96.751,2662.956,3.0,HARD,2.0,False,False,False,False,False,302.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,8,97.616,2760.461,3.0,HARD,3.0,False,False,False,False,False,301.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,9,97.898,2858.481,3.0,HARD,4.0,False,False,False,False,False,303.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,10,98.34,2956.66,3.0,HARD,5.0,False,False,False,False,False,301.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,11,98.352,3055.007,3.0,HARD,6.0,False,False,False,False,False,303.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,12,98.847,3153.836,3.0,HARD,7.0,False,False,False,False,False,304.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,13,100.302,3254.183,3.0,HARD,8.0,False,False,False,False,False,289.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,14,98.617,3352.907,3.0,HARD,9.0,False,False,False,False,False,297.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,15,99.624,3452.369,3.0,HARD,10.0,False,False,False,False,False,304.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,16,99.355,3551.802,3.0,HARD,11.0,False,False,False,False,False,304.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,17,99.312,3651.154,3.0,HARD,12.0,False,False,False,False,False,306.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,18,98.476,3749.683,3.0,HARD,13.0,False,False,False,False,False,300.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,19,98.894,3848.407,3.0,HARD,14.0,False,False,False,False,False,303.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,20,99.343,3947.862,3.0,HARD,15.0,False,False,False,False,False,295.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,21,99.78,4047.584,3.0,HARD,16.0,False,False,False,False,False,289.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,22,99.694,4147.325,3.0,HARD,17.0,False,False,False,False,False,291.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,23,98.965,4246.205,3.0,HARD,18.0,False,False,False,False,False,300.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,24,99.261,4345.497,3.0,HARD,19.0,False,False,False,False,False,300.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,25,98.781,4444.356,3.0,HARD,20.0,False,False,False,False,False,301.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,26,99.042,4543.388,3.0,HARD,21.0,False,False,False,False,False,301.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,27,99.256,4642.625,3.0,HARD,22.0,False,False,False,False,False,300.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,28,99.17,4741.765,3.0,HARD,23.0,False,False,False,False,False,301.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,29,99.951,4841.767,3.0,HARD,24.0,False,False,False,False,False,301.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,30,99.183,4940.864,3.0,HARD,25.0,False,False,False,False,False,300.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,31,99.465,5040.332,3.0,HARD,26.0,False,False,False,False,False,300.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,32,100.248,5140.885,3.0,HARD,27.0,False,False,False,False,False,300.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,33,103.896,5244.505,3.0,HARD,28.0,True,False,False,False,False,306.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,34,117.385,5361.931,4.0,HARD,1.0,False,True,False,False,False,298.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,35,95.937,5457.856,4.0,HARD,2.0,False,False,False,False,False,302.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,36,95.858,5553.605,4.0,HARD,3.0,False,False,False,False,False,303.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,37,95.933,5649.695,4.0,HARD,4.0,False,False,False,False,False,304.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,38,96.13,5745.795,4.0,HARD,5.0,False,False,False,False,False,305.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,39,95.853,5841.572,4.0,HARD,6.0,False,False,False,False,False,306.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,40,95.705,5937.34,4.0,HARD,7.0,False,False,False,False,False,306.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,41,95.947,6033.272,4.0,HARD,8.0,False,False,False,False,True,306.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,42,96.374,6129.662,4.0,HARD,9.0,False,False,False,False,False,305.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,43,96.151,6225.823,4.0,HARD,10.0,False,False,False,False,False,307.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,44,96.769,6322.54,4.0,HARD,11.0,False,False,False,False,False,306.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,45,96.808,6419.429,4.0,HARD,12.0,False,False,False,False,False,309.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,46,98.169,6517.548,4.0,HARD,13.0,False,False,False,False,False,261.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,47,96.827,6614.377,4.0,HARD,14.0,False,False,False,False,False,308.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,48,95.733,6710.168,4.0,HARD,15.0,False,False,False,False,False,301.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,49,96.235,6806.328,4.0,HARD,16.0,False,False,False,False,False,303.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,50,95.718,6902.037,4.0,HARD,17.0,False,False,False,False,False,309.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,51,95.853,6997.876,4.0,HARD,18.0,False,False,False,False,False,309.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,HUL,Haas F1 Team,52,95.325,7093.207,4.0,HARD,19.0,False,False,False,False,False,305.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,1,155.059,2075.466,1.0,MEDIUM,1.0,True,False,False,False,False,151.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,2,1711.605,2088.718,2.0,MEDIUM,1.0,False,True,False,True,False,148.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,3,153.066,2241.715,2.0,MEDIUM,2.0,False,False,False,False,False,293.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,4,98.268,2339.902,2.0,MEDIUM,3.0,False,False,False,False,False,301.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,5,97.812,2437.807,2.0,MEDIUM,4.0,False,False,False,False,False,295.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,6,98.021,2535.874,2.0,MEDIUM,5.0,False,False,False,False,False,297.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,7,98.187,2633.938,2.0,MEDIUM,6.0,False,False,False,False,False,298.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,8,97.92,2731.911,2.0,MEDIUM,7.0,False,False,False,False,False,302.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,9,98.213,2830.181,2.0,MEDIUM,8.0,False,False,False,False,False,301.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,10,99.034,2929.182,2.0,MEDIUM,9.0,False,False,False,False,False,301.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,11,99.193,3028.423,2.0,MEDIUM,10.0,False,False,False,False,False,297.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,12,98.883,3127.221,2.0,MEDIUM,11.0,False,False,False,False,False,297.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,13,98.479,3225.629,2.0,MEDIUM,12.0,False,False,False,False,False,292.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,14,98.595,3324.226,2.0,MEDIUM,13.0,False,False,False,False,False,293.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,15,98.172,3422.551,2.0,MEDIUM,14.0,False,False,False,False,False,294.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,16,97.876,3520.412,2.0,MEDIUM,15.0,False,False,False,False,False,293.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,17,97.856,3618.203,2.0,MEDIUM,16.0,False,False,False,False,False,295.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,18,97.76,3716.007,2.0,MEDIUM,17.0,False,False,False,False,False,295.0,21.1,34.8,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,19,97.523,3813.508,2.0,MEDIUM,18.0,False,False,False,False,False,295.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,20,97.48,3911.052,2.0,MEDIUM,19.0,False,False,False,False,False,294.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,21,98.203,4009.259,2.0,MEDIUM,20.0,False,False,False,False,False,298.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,22,97.744,4106.944,2.0,MEDIUM,21.0,False,False,False,False,False,295.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,23,97.755,4204.687,2.0,MEDIUM,22.0,False,False,False,False,False,296.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,24,98.071,4302.795,2.0,MEDIUM,23.0,False,False,False,False,False,295.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,25,97.918,4400.637,2.0,MEDIUM,24.0,False,False,False,False,False,295.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,26,103.175,4503.834,2.0,MEDIUM,25.0,True,False,False,False,False,298.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,27,115.623,4619.509,3.0,HARD,1.0,False,True,False,False,False,293.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,28,96.09,4715.552,3.0,HARD,2.0,False,False,False,False,False,293.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,29,96.357,4811.989,3.0,HARD,3.0,False,False,False,False,False,295.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,30,96.225,4908.155,3.0,HARD,4.0,False,False,False,False,False,296.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,31,96.201,5004.296,3.0,HARD,5.0,False,False,False,False,False,297.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,32,96.144,5100.465,3.0,HARD,6.0,False,False,False,False,False,301.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,33,95.878,5196.472,3.0,HARD,7.0,False,False,False,False,False,298.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,34,96.32,5292.72,3.0,HARD,8.0,False,False,False,False,False,297.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,35,96.056,5388.599,3.0,HARD,9.0,False,False,False,False,False,299.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,36,96.681,5485.469,3.0,HARD,10.0,False,False,False,False,False,298.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,37,96.135,5581.53,3.0,HARD,11.0,False,False,False,False,False,297.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,38,96.029,5677.542,3.0,HARD,12.0,False,False,False,False,False,300.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,39,95.693,5773.234,3.0,HARD,13.0,False,False,False,False,False,303.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,40,96.341,5869.702,3.0,HARD,14.0,False,False,False,False,False,297.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,41,95.451,5965.099,3.0,HARD,15.0,False,False,False,False,False,298.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,42,95.797,6060.897,3.0,HARD,16.0,False,False,False,False,True,299.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,43,95.713,6156.573,3.0,HARD,17.0,False,False,False,False,False,298.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,44,95.685,6252.254,3.0,HARD,18.0,False,False,False,False,False,301.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,45,95.739,6348.042,3.0,HARD,19.0,False,False,False,False,False,296.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,46,96.778,6444.806,3.0,HARD,20.0,False,False,False,False,False,299.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,47,95.922,6540.769,3.0,HARD,21.0,False,False,False,False,False,297.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,48,95.502,6636.263,3.0,HARD,22.0,False,False,False,False,False,299.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,49,95.543,6731.695,3.0,HARD,23.0,False,False,False,False,False,298.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,50,95.274,6827.089,3.0,HARD,24.0,False,False,False,False,False,299.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,51,95.199,6922.282,3.0,HARD,25.0,False,False,False,False,False,300.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,52,95.316,7017.578,3.0,HARD,26.0,False,False,False,False,False,299.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,LEC,Ferrari,53,95.044,7112.533,3.0,HARD,27.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,1,185.724,2106.131,1.0,MEDIUM,1.0,True,False,False,False,False,123.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,2,1705.561,2113.339,2.0,MEDIUM,1.0,False,True,False,True,False,227.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,3,132.996,2246.1,2.0,MEDIUM,2.0,False,False,False,False,False,301.0,22.4,38.9,37.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,4,100.103,2346.173,2.0,MEDIUM,3.0,False,False,False,False,False,307.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,5,99.392,2445.778,2.0,MEDIUM,4.0,False,False,False,False,False,306.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,6,100.026,2545.79,2.0,MEDIUM,5.0,False,False,False,False,False,305.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,7,100.357,2646.073,2.0,MEDIUM,6.0,False,False,False,False,False,305.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,8,99.601,2745.61,2.0,MEDIUM,7.0,False,False,False,False,False,300.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,9,100.251,2845.921,2.0,MEDIUM,8.0,False,False,False,False,False,297.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,10,100.177,2946.161,2.0,MEDIUM,9.0,False,False,False,False,False,301.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,11,99.9,3046.091,2.0,MEDIUM,10.0,False,False,False,False,False,302.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,12,100.26,3146.325,2.0,MEDIUM,11.0,False,False,False,False,False,302.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,13,99.267,3245.511,2.0,MEDIUM,12.0,False,False,False,False,False,292.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,14,100.786,3346.241,2.0,MEDIUM,13.0,False,False,False,False,False,298.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,15,99.373,3445.755,2.0,MEDIUM,14.0,False,False,False,False,False,301.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,16,99.814,3545.571,2.0,MEDIUM,15.0,False,False,False,False,False,298.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,17,99.728,3645.256,2.0,MEDIUM,16.0,False,False,False,False,False,299.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,18,99.665,3744.931,2.0,MEDIUM,17.0,False,False,False,False,False,299.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,19,99.538,3844.447,2.0,MEDIUM,18.0,False,False,False,False,False,298.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,20,99.262,3943.714,2.0,MEDIUM,19.0,False,False,False,False,False,299.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,21,99.545,4043.276,2.0,MEDIUM,20.0,False,False,False,False,False,298.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,22,102.164,4145.489,2.0,MEDIUM,21.0,True,False,False,False,False,299.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,23,121.576,4266.93,3.0,HARD,1.0,False,True,False,False,False,304.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,24,96.654,4363.69,3.0,HARD,2.0,False,False,False,False,False,301.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,25,97.033,4460.689,3.0,HARD,3.0,False,False,False,False,False,297.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,26,97.145,4557.858,3.0,HARD,4.0,False,False,False,False,False,304.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,27,97.395,4655.219,3.0,HARD,5.0,False,False,False,False,False,302.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,28,97.504,4752.8,3.0,HARD,6.0,False,False,False,False,False,303.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,29,97.888,4850.628,3.0,HARD,7.0,False,False,False,False,False,303.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,30,98.014,4948.689,3.0,HARD,8.0,False,False,False,False,False,302.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,31,98.498,5047.193,3.0,HARD,9.0,False,False,False,False,False,302.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,32,98.657,5145.86,3.0,HARD,10.0,False,False,False,False,False,299.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,33,98.58,5244.409,3.0,HARD,11.0,False,False,False,False,False,300.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,34,97.93,5342.262,3.0,HARD,12.0,False,False,False,False,False,303.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,35,98.046,5440.312,3.0,HARD,13.0,False,False,False,False,False,296.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,36,98.078,5538.476,3.0,HARD,14.0,False,False,False,False,False,301.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,37,97.662,5636.114,3.0,HARD,15.0,False,False,False,False,False,300.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,38,97.789,5733.921,3.0,HARD,16.0,False,False,False,False,False,300.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,39,97.553,5831.502,3.0,HARD,17.0,False,False,False,False,False,302.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,40,97.542,5929.004,3.0,HARD,18.0,False,False,False,False,False,302.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,41,97.513,6026.447,3.0,HARD,19.0,False,False,False,False,True,301.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,42,97.968,6124.538,3.0,HARD,20.0,False,False,False,False,True,298.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,43,97.376,6221.895,3.0,HARD,21.0,False,False,False,False,False,300.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,44,97.475,6319.321,3.0,HARD,22.0,False,False,False,False,False,301.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,45,97.674,6416.972,3.0,HARD,23.0,False,False,False,False,False,302.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,46,98.332,6515.369,3.0,HARD,24.0,False,False,False,False,False,304.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,47,98.707,6614.092,3.0,HARD,25.0,False,False,False,False,False,305.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,48,98.319,6712.376,3.0,HARD,26.0,False,False,False,False,False,305.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,49,97.519,6809.846,3.0,HARD,27.0,False,False,False,False,False,303.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,50,97.42,6907.269,3.0,HARD,28.0,False,False,False,False,False,304.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,51,98.878,7006.14,3.0,HARD,29.0,False,False,False,False,False,302.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,MAG,Haas F1 Team,52,97.822,7103.963,3.0,HARD,30.0,False,False,False,False,False,305.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,1,135.293,2055.7,1.0,MEDIUM,1.0,True,False,False,False,False,179.0,22.6,39.3,32.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,2,1710.61,2067.957,2.0,MEDIUM,2.0,False,True,False,True,False,226.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,3,171.325,2239.258,2.0,MEDIUM,3.0,False,False,False,False,False,293.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,4,96.853,2336.08,2.0,MEDIUM,4.0,False,False,False,False,False,294.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,5,96.86,2432.938,2.0,MEDIUM,5.0,False,False,False,False,False,296.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,6,97.9,2530.811,2.0,MEDIUM,6.0,False,False,False,False,False,289.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,7,97.742,2628.637,2.0,MEDIUM,7.0,False,False,False,False,False,288.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,8,97.824,2726.297,2.0,MEDIUM,8.0,False,False,False,False,False,293.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,9,97.963,2824.316,2.0,MEDIUM,9.0,False,False,False,False,False,292.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,10,98.158,2922.474,2.0,MEDIUM,10.0,False,False,False,False,False,293.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,11,100.76,3023.204,2.0,MEDIUM,11.0,True,False,False,False,False,294.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,12,115.643,3138.936,3.0,HARD,1.0,False,True,False,False,False,293.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,13,95.761,3234.652,3.0,HARD,2.0,False,False,False,False,False,293.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,14,96.777,3331.5,3.0,HARD,3.0,False,False,False,False,False,292.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,15,96.788,3428.224,3.0,HARD,4.0,False,False,False,False,False,298.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,16,98.241,3526.444,3.0,HARD,5.0,False,False,False,False,False,297.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,17,97.807,3624.173,3.0,HARD,6.0,False,False,False,False,False,290.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,18,96.487,3720.762,3.0,HARD,7.0,False,False,False,False,False,296.0,21.1,34.8,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,19,96.783,3817.401,3.0,HARD,8.0,False,False,False,False,False,295.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,20,96.847,3914.444,3.0,HARD,9.0,False,False,False,False,False,295.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,21,96.996,4011.439,3.0,HARD,10.0,False,False,False,False,False,296.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,22,98.888,4110.217,3.0,HARD,11.0,False,False,False,False,False,297.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,23,98.213,4208.471,3.0,HARD,12.0,False,False,False,False,False,297.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,24,97.722,4306.225,3.0,HARD,13.0,False,False,False,False,False,295.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,25,97.558,4403.782,3.0,HARD,14.0,False,False,False,False,False,295.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,26,100.917,4504.75,3.0,HARD,15.0,True,False,False,False,False,300.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,27,116.621,4621.225,4.0,HARD,1.0,False,True,False,False,False,300.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,28,95.721,4717.09,4.0,HARD,2.0,False,False,False,False,False,294.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,29,96.258,4813.236,4.0,HARD,3.0,False,False,False,False,False,298.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,30,96.243,4909.463,4.0,HARD,4.0,False,False,False,False,False,295.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,31,96.225,5005.728,4.0,HARD,5.0,False,False,False,False,False,300.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,32,96.375,5102.066,4.0,HARD,6.0,False,False,False,False,False,297.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,33,96.34,5198.441,4.0,HARD,7.0,False,False,False,False,False,299.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,34,96.262,5294.686,4.0,HARD,8.0,False,False,False,False,False,297.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,35,96.614,5391.357,4.0,HARD,9.0,False,False,False,False,False,300.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,36,95.896,5487.19,4.0,HARD,10.0,False,False,False,False,False,300.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,37,96.412,5583.627,4.0,HARD,11.0,False,False,False,False,False,300.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,38,95.883,5679.509,4.0,HARD,12.0,False,False,False,False,False,300.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,39,95.706,5775.347,4.0,HARD,13.0,False,False,False,False,False,300.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,40,96.249,5871.446,4.0,HARD,14.0,False,False,False,False,False,302.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,41,95.229,5966.72,4.0,HARD,15.0,False,False,False,False,False,300.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,42,96.217,6062.992,4.0,HARD,16.0,False,False,False,False,True,298.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,43,95.92,6158.88,4.0,HARD,17.0,False,False,False,False,False,298.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,44,96.391,6255.236,4.0,HARD,18.0,False,False,False,False,False,300.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,45,96.224,6351.505,4.0,HARD,19.0,False,False,False,False,False,298.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,46,95.635,6447.066,4.0,HARD,20.0,False,False,False,False,False,299.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,47,95.633,6542.715,4.0,HARD,21.0,False,False,False,False,False,300.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,48,95.677,6638.37,4.0,HARD,22.0,False,False,False,False,False,300.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,49,95.354,6733.819,4.0,HARD,23.0,False,False,False,False,False,300.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,50,95.268,6828.99,4.0,HARD,24.0,False,False,False,False,False,301.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,51,95.186,6924.265,4.0,HARD,25.0,False,False,False,False,False,301.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,52,95.832,7020.07,4.0,HARD,26.0,False,False,False,False,False,301.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,NOR,McLaren,53,95.721,7115.734,4.0,HARD,27.0,False,False,False,False,False,302.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,1,170.671,2091.078,1.0,SOFT,1.0,True,False,False,False,False,115.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,2,1711.609,2104.334,2.0,HARD,1.0,False,True,False,True,False,270.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,3,140.237,2244.426,2.0,HARD,2.0,False,False,False,False,False,302.0,22.4,38.9,37.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,4,99.541,2343.986,2.0,HARD,3.0,False,False,False,False,False,300.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,5,100.081,2444.15,2.0,HARD,4.0,False,False,False,False,False,302.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,6,100.496,2544.636,2.0,HARD,5.0,False,False,False,False,False,300.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,7,99.744,2644.408,2.0,HARD,6.0,False,False,False,False,False,298.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,8,100.009,2744.276,2.0,HARD,7.0,False,False,False,False,False,296.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,9,100.294,2844.676,2.0,HARD,8.0,False,False,False,False,False,294.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,10,100.315,2944.98,2.0,HARD,9.0,False,False,False,False,False,295.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,11,100.371,3045.404,2.0,HARD,10.0,False,False,False,False,False,294.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,12,100.56,3145.844,2.0,HARD,11.0,False,False,False,False,False,295.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,13,101.341,3247.288,2.0,HARD,12.0,False,False,False,False,False,297.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,14,100.787,3347.991,2.0,HARD,13.0,False,False,False,False,False,300.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,15,100.961,3449.063,2.0,HARD,14.0,False,False,False,False,False,301.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,16,100.692,3549.741,2.0,HARD,15.0,False,False,False,False,False,300.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,17,100.929,3650.625,2.0,HARD,16.0,False,False,False,False,False,298.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,18,100.737,3751.392,2.0,HARD,17.0,False,False,False,False,False,300.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,19,102.283,3853.617,2.0,HARD,18.0,True,False,False,False,False,297.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,20,118.375,3972.0,3.0,HARD,1.0,False,True,False,False,False,292.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,21,97.716,4069.745,3.0,HARD,2.0,False,False,False,False,False,292.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,22,97.775,4167.582,3.0,HARD,3.0,False,False,False,False,False,292.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,23,99.219,4266.687,3.0,HARD,4.0,False,False,False,False,False,297.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,24,98.924,4365.603,3.0,HARD,5.0,False,False,False,False,False,298.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,25,99.084,4464.834,3.0,HARD,6.0,False,False,False,False,False,298.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,26,98.611,4563.43,3.0,HARD,7.0,False,False,False,False,False,296.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,27,98.943,4662.304,3.0,HARD,8.0,False,False,False,False,False,297.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,28,98.612,4760.924,3.0,HARD,9.0,False,False,False,False,False,298.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,29,98.702,4859.586,3.0,HARD,10.0,False,False,False,False,False,297.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,30,98.499,4958.157,3.0,HARD,11.0,False,False,False,False,False,297.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,31,98.662,5056.88,3.0,HARD,12.0,False,False,False,False,False,299.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,32,98.366,5155.214,3.0,HARD,13.0,False,False,False,False,False,298.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,33,100.764,5255.874,3.0,HARD,14.0,True,False,False,False,False,298.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,34,117.831,5373.681,4.0,MEDIUM,1.0,False,True,False,False,False,295.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,35,97.126,5470.834,4.0,MEDIUM,2.0,False,False,False,False,False,295.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,36,96.983,5567.803,4.0,MEDIUM,3.0,False,False,False,False,False,297.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,37,98.763,5666.574,4.0,MEDIUM,4.0,False,False,False,False,False,283.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,38,96.714,5763.293,4.0,MEDIUM,5.0,False,False,False,False,False,301.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,39,97.058,5860.445,4.0,MEDIUM,6.0,False,False,False,False,False,299.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,40,97.58,5958.044,4.0,MEDIUM,7.0,False,False,False,False,False,290.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,41,99.008,6056.946,4.0,MEDIUM,8.0,False,False,False,False,True,298.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,42,97.129,6154.105,4.0,MEDIUM,9.0,False,False,False,False,False,299.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,43,97.478,6251.658,4.0,MEDIUM,10.0,False,False,False,False,False,297.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,44,100.961,6352.566,4.0,MEDIUM,11.0,False,False,False,False,False,302.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,45,96.983,6449.562,4.0,MEDIUM,12.0,False,False,False,False,False,302.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,46,97.091,6546.659,4.0,MEDIUM,13.0,False,False,False,False,False,300.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,47,97.381,6643.963,4.0,MEDIUM,14.0,False,False,False,False,False,299.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,48,96.836,6740.831,4.0,MEDIUM,15.0,False,False,False,False,False,298.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,49,96.691,6837.56,4.0,MEDIUM,16.0,False,False,False,False,False,297.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,50,96.636,6934.178,4.0,MEDIUM,17.0,False,False,False,False,False,298.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,51,96.831,7030.969,4.0,MEDIUM,18.0,False,False,False,False,False,298.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,OCO,Alpine,52,96.232,7127.192,4.0,MEDIUM,19.0,False,False,False,False,False,300.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,1,133.193,2053.6,1.0,MEDIUM,1.0,True,False,False,False,False,169.0,22.6,39.3,32.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,2,1711.382,2066.629,2.0,MEDIUM,2.0,False,True,False,True,False,152.0,22.5,39.7,38.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,3,171.63,2238.298,2.0,MEDIUM,3.0,False,False,False,False,False,290.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,4,96.573,2334.925,2.0,MEDIUM,4.0,False,False,False,False,False,296.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,5,96.568,2431.446,2.0,MEDIUM,5.0,False,False,False,False,False,297.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,6,97.693,2529.061,2.0,MEDIUM,6.0,False,False,False,False,False,290.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,7,97.308,2626.454,2.0,MEDIUM,7.0,False,False,False,False,False,286.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,8,97.22,2723.593,2.0,MEDIUM,8.0,False,False,False,False,False,295.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,9,97.838,2821.504,2.0,MEDIUM,9.0,False,False,False,False,False,293.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,10,97.926,2919.364,2.0,MEDIUM,10.0,False,False,False,False,False,295.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,11,98.216,3017.596,2.0,MEDIUM,11.0,False,False,False,False,False,292.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,12,98.156,3115.8,2.0,MEDIUM,12.0,False,False,False,False,False,293.0,21.9,37.1,40.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,13,98.125,3213.911,2.0,MEDIUM,13.0,False,False,False,False,False,295.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,14,98.505,3312.4,2.0,MEDIUM,14.0,False,False,False,False,False,292.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,15,100.906,3413.285,2.0,MEDIUM,15.0,True,False,False,False,False,294.0,21.6,36.1,41.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,16,114.826,3528.08,3.0,MEDIUM,1.0,False,True,False,False,False,291.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,17,97.428,3625.535,3.0,MEDIUM,2.0,False,False,False,False,False,284.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,18,97.844,3723.432,3.0,MEDIUM,3.0,False,False,False,False,False,293.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,19,96.436,3819.852,3.0,MEDIUM,4.0,False,False,False,False,False,296.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,20,96.206,3915.982,3.0,MEDIUM,5.0,False,False,False,False,False,298.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,21,96.558,4012.569,3.0,MEDIUM,6.0,False,False,False,False,False,298.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,22,97.264,4109.927,3.0,MEDIUM,7.0,False,False,False,False,False,305.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,23,96.656,4206.465,3.0,MEDIUM,8.0,False,False,False,False,False,297.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,24,96.921,4303.487,3.0,MEDIUM,9.0,False,False,False,False,False,300.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,25,97.76,4401.199,3.0,MEDIUM,10.0,False,False,False,False,False,302.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,26,97.689,4498.853,3.0,MEDIUM,11.0,False,False,False,False,False,291.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,27,96.843,4595.738,3.0,MEDIUM,12.0,False,False,False,False,False,295.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,28,96.733,4692.545,3.0,MEDIUM,13.0,False,False,False,False,False,295.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,29,96.969,4789.426,3.0,MEDIUM,14.0,False,False,False,False,False,296.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,30,97.097,4886.531,3.0,MEDIUM,15.0,False,False,False,False,False,296.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,31,97.118,4983.693,3.0,MEDIUM,16.0,False,False,False,False,False,295.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,32,97.106,5080.853,3.0,MEDIUM,17.0,False,False,False,False,False,297.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,33,99.409,5180.122,3.0,MEDIUM,18.0,True,False,False,False,False,297.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,34,114.946,5295.123,4.0,HARD,1.0,False,True,False,False,False,305.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,35,93.945,5389.13,4.0,HARD,2.0,False,False,False,False,False,305.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,36,94.479,5483.667,4.0,HARD,3.0,False,False,False,False,False,291.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,37,94.808,5578.281,4.0,HARD,4.0,False,False,False,False,False,298.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,38,95.245,5673.453,4.0,HARD,5.0,False,False,False,False,False,298.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,39,94.99,5768.664,4.0,HARD,6.0,False,False,False,False,False,296.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,40,94.738,5863.393,4.0,HARD,7.0,False,False,False,False,False,300.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,41,95.03,5958.36,4.0,HARD,8.0,False,False,False,False,False,301.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,42,95.433,6053.824,4.0,HARD,9.0,False,False,False,False,True,298.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,43,95.099,6148.903,4.0,HARD,10.0,False,False,False,False,False,297.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,44,94.701,6243.578,4.0,HARD,11.0,False,False,False,False,False,297.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,45,94.996,6338.589,4.0,HARD,12.0,False,False,False,False,False,295.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,46,94.75,6433.333,4.0,HARD,13.0,False,False,False,False,False,297.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,47,95.056,6528.447,4.0,HARD,14.0,False,False,False,False,False,298.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,48,95.383,6623.828,4.0,HARD,15.0,False,False,False,False,False,290.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,49,95.035,6718.828,4.0,HARD,16.0,False,False,False,False,False,295.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,50,95.244,6814.071,4.0,HARD,17.0,False,False,False,False,False,293.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,51,94.89,6908.867,4.0,HARD,18.0,False,False,False,False,False,300.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,52,94.929,7003.873,4.0,HARD,19.0,False,False,False,False,False,299.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PER,Red Bull Racing,53,94.728,7098.562,4.0,HARD,20.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,1,144.812,2065.219,1.0,MEDIUM,1.0,True,False,False,False,False,177.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,2,1714.222,2081.088,2.0,MEDIUM,2.0,False,True,False,True,False,167.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,3,160.061,2241.159,2.0,MEDIUM,3.0,False,False,False,False,False,298.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,4,97.734,2338.912,2.0,MEDIUM,4.0,False,False,False,False,False,297.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,5,97.631,2436.49,2.0,MEDIUM,5.0,False,False,False,False,False,298.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,6,98.141,2534.643,2.0,MEDIUM,6.0,False,False,False,False,False,293.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,7,98.191,2632.831,2.0,MEDIUM,7.0,False,False,False,False,False,297.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,8,98.222,2731.012,2.0,MEDIUM,8.0,False,False,False,False,False,300.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,9,98.5,2829.611,2.0,MEDIUM,9.0,False,False,False,False,False,301.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,10,99.011,2928.849,2.0,MEDIUM,10.0,False,False,False,False,False,299.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,11,99.245,3027.839,2.0,MEDIUM,11.0,False,False,False,False,False,298.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,12,101.083,3128.891,2.0,MEDIUM,12.0,True,False,False,False,False,296.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,13,118.558,3247.424,3.0,HARD,1.0,False,True,False,False,False,298.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,14,97.675,3345.209,3.0,HARD,2.0,False,False,False,False,False,294.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,15,97.377,3442.524,3.0,HARD,3.0,False,False,False,False,False,291.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,16,97.058,3539.611,3.0,HARD,4.0,False,False,False,False,False,295.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,17,96.747,3636.352,3.0,HARD,5.0,False,False,False,False,False,299.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,18,96.822,3733.132,3.0,HARD,6.0,False,False,False,False,False,298.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,19,96.782,3829.892,3.0,HARD,7.0,False,False,False,False,False,300.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,20,96.984,3926.84,3.0,HARD,8.0,False,False,False,False,False,299.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,21,97.416,4024.259,3.0,HARD,9.0,False,False,False,False,False,300.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,22,98.625,4123.0,3.0,HARD,10.0,False,False,False,False,False,304.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,23,98.919,4221.824,3.0,HARD,11.0,False,False,False,False,False,303.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,24,97.175,4318.915,3.0,HARD,12.0,False,False,False,False,False,297.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,25,97.776,4416.8,3.0,HARD,13.0,False,False,False,False,False,297.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,26,97.364,4514.149,3.0,HARD,14.0,False,False,False,False,False,298.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,27,97.389,4611.545,3.0,HARD,15.0,False,False,False,False,False,297.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,28,97.438,4709.048,3.0,HARD,16.0,False,False,False,False,False,298.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,29,97.771,4806.721,3.0,HARD,17.0,False,False,False,False,False,297.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,30,97.946,4904.748,3.0,HARD,18.0,False,False,False,False,False,297.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,31,97.845,5002.668,3.0,HARD,19.0,False,False,False,False,False,296.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,32,99.482,5102.082,3.0,HARD,20.0,True,False,False,False,False,297.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,33,115.493,5217.531,4.0,HARD,1.0,False,True,False,False,False,295.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,34,95.255,5312.778,4.0,HARD,2.0,False,False,False,False,False,299.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,35,94.802,5407.601,4.0,HARD,3.0,False,False,False,False,False,298.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,36,95.128,5502.754,4.0,HARD,4.0,False,False,False,False,False,301.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,37,95.4,5598.148,4.0,HARD,5.0,False,False,False,False,False,304.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,38,95.267,5693.425,4.0,HARD,6.0,False,False,False,False,False,303.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,39,96.036,5789.355,4.0,HARD,7.0,False,False,False,False,False,303.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,40,95.888,5885.283,4.0,HARD,8.0,False,False,False,False,False,302.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,41,95.545,5980.754,4.0,HARD,9.0,False,False,False,False,False,302.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,42,97.548,6078.424,4.0,HARD,10.0,False,False,False,False,True,301.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,43,95.841,6174.321,4.0,HARD,11.0,False,False,False,False,False,301.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,44,95.539,6269.74,4.0,HARD,12.0,False,False,False,False,False,303.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,45,95.648,6365.498,4.0,HARD,13.0,False,False,False,False,False,301.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,46,95.755,6461.289,4.0,HARD,14.0,False,False,False,False,False,302.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,47,95.891,6557.064,4.0,HARD,15.0,False,False,False,False,False,304.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,48,95.898,6652.986,4.0,HARD,16.0,False,False,False,False,False,302.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,49,96.179,6749.254,4.0,HARD,17.0,False,False,False,False,False,302.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,50,96.228,6845.408,4.0,HARD,18.0,False,False,False,False,False,300.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,51,95.429,6940.918,4.0,HARD,19.0,False,False,False,False,False,303.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,52,96.164,7036.929,4.0,HARD,20.0,False,False,False,False,False,303.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,PIA,McLaren,53,96.611,7133.562,4.0,HARD,21.0,False,False,False,False,False,303.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RIC,RB,1,,,1.0,MEDIUM,1.0,False,False,False,False,False,,22.6,39.5,33.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,1,160.029,2080.436,1.0,MEDIUM,1.0,True,False,False,False,False,142.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,2,1708.819,2090.902,2.0,HARD,1.0,False,True,False,True,False,167.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,3,152.774,2243.688,2.0,HARD,2.0,False,False,False,False,False,296.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,4,98.976,2342.728,2.0,HARD,3.0,False,False,False,False,False,305.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,5,97.737,2440.46,2.0,HARD,4.0,False,False,False,False,False,298.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,6,98.392,2538.748,2.0,HARD,5.0,False,False,False,False,False,298.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,7,98.07,2636.893,2.0,HARD,6.0,False,False,False,False,False,299.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,8,98.192,2735.017,2.0,HARD,7.0,False,False,False,False,False,299.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,9,98.253,2833.357,2.0,HARD,8.0,False,False,False,False,False,298.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,10,98.368,2931.701,2.0,HARD,9.0,False,False,False,False,False,301.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,11,98.949,3030.666,2.0,HARD,10.0,False,False,False,False,False,301.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,12,99.212,3129.776,2.0,HARD,11.0,False,False,False,False,False,301.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,13,98.989,3228.864,2.0,HARD,12.0,False,False,False,False,False,301.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,14,98.428,3327.199,2.0,HARD,13.0,False,False,False,False,False,295.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,15,98.565,3425.736,2.0,HARD,14.0,False,False,False,False,False,296.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,16,98.658,3524.521,2.0,HARD,15.0,False,False,False,False,False,294.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,17,99.417,3623.847,2.0,HARD,16.0,False,False,False,False,False,297.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,18,100.317,3724.24,2.0,HARD,17.0,False,False,False,False,False,276.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,19,98.392,3822.582,2.0,HARD,18.0,False,False,False,False,False,296.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,20,98.463,3921.093,2.0,HARD,19.0,False,False,False,False,False,296.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,21,99.492,4020.532,2.0,HARD,20.0,False,False,False,False,False,300.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,22,100.895,4121.475,2.0,HARD,21.0,True,False,False,False,False,297.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,23,115.552,4236.894,3.0,HARD,1.0,False,True,False,False,False,293.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,24,95.149,4332.096,3.0,HARD,2.0,False,False,False,False,False,292.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,25,95.673,4427.888,3.0,HARD,3.0,False,False,False,False,False,294.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,26,95.775,4523.58,3.0,HARD,4.0,False,False,False,False,False,295.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,27,97.28,4620.898,3.0,HARD,5.0,False,False,False,False,False,299.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,28,97.564,4718.405,3.0,HARD,6.0,False,False,False,False,False,298.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,29,96.699,4815.088,3.0,HARD,7.0,False,False,False,False,False,300.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,30,96.493,4911.604,3.0,HARD,8.0,False,False,False,False,False,299.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,31,96.776,5008.382,3.0,HARD,9.0,False,False,False,False,False,298.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,32,96.744,5105.157,3.0,HARD,10.0,False,False,False,False,False,299.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,33,96.383,5201.568,3.0,HARD,11.0,False,False,False,False,False,299.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,34,96.704,5298.157,3.0,HARD,12.0,False,False,False,False,False,298.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,35,96.47,5394.657,3.0,HARD,13.0,False,False,False,False,False,299.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,36,96.468,5491.149,3.0,HARD,14.0,False,False,False,False,False,298.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,37,98.83,5590.021,3.0,HARD,15.0,True,False,False,False,False,298.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,38,113.925,5703.752,4.0,MEDIUM,2.0,False,True,False,False,False,294.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,39,94.404,5798.277,4.0,MEDIUM,3.0,False,False,False,False,False,296.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,40,94.537,5892.917,4.0,MEDIUM,4.0,False,False,False,False,False,296.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,41,94.541,5987.367,4.0,MEDIUM,5.0,False,False,False,False,True,296.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,42,95.299,6082.726,4.0,MEDIUM,6.0,False,False,False,False,True,297.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,43,95.141,6177.899,4.0,MEDIUM,7.0,False,False,False,False,False,298.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,44,94.834,6272.706,4.0,MEDIUM,8.0,False,False,False,False,False,299.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,45,94.913,6367.588,4.0,MEDIUM,9.0,False,False,False,False,False,300.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,46,95.115,6462.688,4.0,MEDIUM,10.0,False,False,False,False,False,301.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,47,95.317,6558.02,4.0,MEDIUM,11.0,False,False,False,False,False,302.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,48,95.423,6653.51,4.0,MEDIUM,12.0,False,False,False,False,False,306.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,49,96.024,6749.52,4.0,MEDIUM,13.0,False,False,False,False,False,307.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,50,96.465,6845.961,4.0,MEDIUM,14.0,False,False,False,False,False,304.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,51,95.429,6941.387,4.0,MEDIUM,15.0,False,False,False,False,False,305.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,52,95.743,7037.088,4.0,MEDIUM,16.0,False,False,False,False,False,304.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,RUS,Mercedes,53,94.902,7131.96,4.0,MEDIUM,17.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,1,138.083,2058.49,1.0,MEDIUM,1.0,True,False,False,False,False,180.0,22.6,39.3,32.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,2,1712.219,2072.356,2.0,MEDIUM,1.0,False,True,False,True,False,244.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,3,167.321,2239.563,2.0,MEDIUM,2.0,False,False,False,False,False,301.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,4,97.225,2336.953,2.0,MEDIUM,3.0,False,False,False,False,False,300.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,5,97.322,2434.203,2.0,MEDIUM,4.0,False,False,False,False,False,299.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,6,97.721,2531.919,2.0,MEDIUM,5.0,False,False,False,False,False,297.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,7,97.756,2629.703,2.0,MEDIUM,6.0,False,False,False,False,False,297.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,8,97.736,2727.47,2.0,MEDIUM,7.0,False,False,False,False,False,299.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,9,97.98,2825.386,2.0,MEDIUM,8.0,False,False,False,False,False,299.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,10,98.304,2923.807,2.0,MEDIUM,9.0,False,False,False,False,False,298.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,11,98.273,3022.046,2.0,MEDIUM,10.0,False,False,False,False,False,298.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,12,97.847,3119.791,2.0,MEDIUM,11.0,False,False,False,False,False,296.0,21.9,37.1,40.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,13,98.333,3218.122,2.0,MEDIUM,12.0,False,False,False,False,False,295.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,14,98.504,3316.678,2.0,MEDIUM,13.0,False,False,False,False,False,294.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,15,100.439,3417.118,2.0,MEDIUM,14.0,True,False,False,False,False,295.0,21.6,36.1,41.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,16,116.159,3533.318,3.0,MEDIUM,2.0,False,True,False,False,False,293.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,17,96.469,3629.7,3.0,MEDIUM,3.0,False,False,False,False,False,296.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,18,96.698,3726.406,3.0,MEDIUM,4.0,False,False,False,False,False,301.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,19,97.786,3824.181,3.0,MEDIUM,5.0,False,False,False,False,False,292.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,20,97.314,3921.365,3.0,MEDIUM,6.0,False,False,False,False,False,299.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,21,97.995,4019.565,3.0,MEDIUM,7.0,False,False,False,False,False,286.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,22,96.575,4115.944,3.0,MEDIUM,8.0,False,False,False,False,False,293.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,23,96.779,4212.803,3.0,MEDIUM,9.0,False,False,False,False,False,296.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,24,96.805,4309.644,3.0,MEDIUM,10.0,False,False,False,False,False,296.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,25,96.945,4406.72,3.0,MEDIUM,11.0,False,False,False,False,False,297.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,26,97.137,4503.75,3.0,MEDIUM,12.0,False,False,False,False,False,300.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,27,97.068,4600.851,3.0,MEDIUM,13.0,False,False,False,False,False,296.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,28,96.845,4697.728,3.0,MEDIUM,14.0,False,False,False,False,False,296.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,29,97.176,4794.859,3.0,MEDIUM,15.0,False,False,False,False,False,297.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,30,97.01,4891.899,3.0,MEDIUM,16.0,False,False,False,False,False,296.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,31,96.901,4988.746,3.0,MEDIUM,17.0,False,False,False,False,False,296.0,21.3,36.3,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,32,97.106,5085.917,3.0,MEDIUM,18.0,False,False,False,False,False,297.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,33,97.233,5183.16,3.0,MEDIUM,19.0,False,False,False,False,False,298.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,34,96.901,5280.048,3.0,MEDIUM,20.0,False,False,False,False,False,297.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,35,96.948,5377.091,3.0,MEDIUM,21.0,False,False,False,False,False,299.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,36,99.31,5476.289,3.0,MEDIUM,22.0,True,False,False,False,False,300.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,37,115.063,5591.26,4.0,HARD,1.0,False,True,False,False,False,307.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,38,93.995,5685.384,4.0,HARD,2.0,False,False,False,False,False,296.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,39,94.419,5779.693,4.0,HARD,3.0,False,False,False,False,False,297.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,40,94.396,5874.269,4.0,HARD,4.0,False,False,False,False,False,299.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,41,94.863,5969.017,4.0,HARD,5.0,False,False,False,False,False,300.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,42,95.293,6064.34,4.0,HARD,6.0,False,False,False,False,True,302.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,43,94.75,6159.096,4.0,HARD,7.0,False,False,False,False,False,306.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,44,94.336,6253.382,4.0,HARD,8.0,False,False,False,False,False,302.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,45,95.006,6348.343,4.0,HARD,9.0,False,False,False,False,False,302.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,46,93.841,6442.201,4.0,HARD,10.0,False,False,False,False,False,297.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,47,95.063,6537.34,4.0,HARD,11.0,False,False,False,False,False,295.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,48,94.962,6632.265,4.0,HARD,12.0,False,False,False,False,False,297.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,49,94.752,6727.014,4.0,HARD,13.0,False,False,False,False,False,296.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,50,94.636,6821.564,4.0,HARD,14.0,False,False,False,False,False,298.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,51,94.877,6916.56,4.0,HARD,15.0,False,False,False,False,False,298.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,52,95.203,7011.693,4.0,HARD,16.0,False,False,False,False,False,298.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAI,Ferrari,53,95.224,7106.933,4.0,HARD,17.0,False,False,False,False,False,303.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,1,188.975,2109.382,1.0,SOFT,1.0,True,False,False,False,False,118.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,2,1704.529,2115.558,2.0,HARD,1.0,False,True,False,True,False,278.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,3,132.603,2248.112,2.0,HARD,2.0,False,False,False,False,False,284.0,22.4,38.9,37.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,4,100.424,2348.6,2.0,HARD,3.0,False,False,False,False,False,295.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,5,99.668,2448.117,2.0,HARD,4.0,False,False,False,False,False,300.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,6,99.582,2547.634,2.0,HARD,5.0,False,False,False,False,False,297.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,7,100.055,2647.794,2.0,HARD,6.0,False,False,False,False,False,298.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,8,99.655,2747.507,2.0,HARD,7.0,False,False,False,False,False,303.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,9,100.871,2848.276,2.0,HARD,8.0,False,False,False,False,False,303.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,10,100.916,2949.313,2.0,HARD,9.0,False,False,False,False,False,283.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,11,99.348,3048.543,2.0,HARD,10.0,False,False,False,False,False,295.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,12,99.911,3148.46,2.0,HARD,11.0,False,False,False,False,False,296.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,13,100.197,3248.646,2.0,HARD,12.0,False,False,False,False,False,300.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,14,99.713,3348.402,2.0,HARD,13.0,False,False,False,False,False,303.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,15,99.368,3447.725,2.0,HARD,14.0,False,False,False,False,False,299.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,16,99.404,3547.129,2.0,HARD,15.0,False,False,False,False,False,300.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,17,99.216,3646.448,2.0,HARD,16.0,False,False,False,False,False,301.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,18,100.309,3746.767,2.0,HARD,17.0,False,False,False,False,False,301.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,19,99.537,3846.265,2.0,HARD,18.0,False,False,False,False,False,302.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,20,98.968,3945.239,2.0,HARD,19.0,False,False,False,False,False,303.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,21,99.612,4044.86,2.0,HARD,20.0,False,False,False,False,False,300.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,22,101.989,4146.819,2.0,HARD,21.0,True,False,False,False,False,302.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,23,121.843,4268.57,3.0,HARD,1.0,False,True,False,False,False,301.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,24,98.094,4366.749,3.0,HARD,2.0,False,False,False,False,False,303.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,25,98.43,4465.137,3.0,HARD,3.0,False,False,False,False,False,306.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,26,98.485,4563.655,3.0,HARD,4.0,False,False,False,False,False,304.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,27,96.59,4660.337,3.0,HARD,5.0,False,False,False,False,False,299.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,28,97.429,4757.667,3.0,HARD,6.0,False,False,False,False,False,299.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,29,97.679,4855.459,3.0,HARD,7.0,False,False,False,False,False,299.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,30,97.511,4952.915,3.0,HARD,8.0,False,False,False,False,False,299.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,31,97.495,5050.4,3.0,HARD,9.0,False,False,False,False,False,302.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,32,97.761,5148.236,3.0,HARD,10.0,False,False,False,False,False,302.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,33,98.166,5246.429,3.0,HARD,11.0,False,False,False,False,False,302.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,34,100.392,5346.662,3.0,HARD,12.0,True,False,False,False,False,302.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,35,116.181,5462.785,4.0,MEDIUM,1.0,False,True,False,False,False,298.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,36,95.497,5558.417,4.0,MEDIUM,2.0,False,False,False,False,False,295.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,37,96.103,5654.483,4.0,MEDIUM,3.0,False,False,False,False,False,299.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,38,96.149,5750.649,4.0,MEDIUM,4.0,False,False,False,False,False,297.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,39,96.25,5846.959,4.0,MEDIUM,5.0,False,False,False,False,False,297.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,40,96.282,5943.2,4.0,MEDIUM,6.0,False,False,False,False,False,300.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,41,143.782,6087.002,4.0,MEDIUM,7.0,True,False,False,False,True,249.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,42,115.171,6202.169,5.0,SOFT,1.0,False,True,False,False,False,298.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,43,94.9,6296.991,5.0,SOFT,2.0,False,False,False,False,False,298.0,20.1,32.9,53.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,44,95.087,6392.216,5.0,SOFT,3.0,False,False,False,False,False,298.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,45,95.35,6487.452,5.0,SOFT,4.0,False,False,False,False,False,298.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,46,95.778,6583.313,5.0,SOFT,5.0,False,False,False,False,False,297.0,19.8,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,47,95.701,6678.97,5.0,SOFT,6.0,False,False,False,False,False,298.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,48,95.837,6774.838,5.0,SOFT,7.0,False,False,False,False,False,298.0,19.8,31.8,55.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,49,95.619,6870.513,5.0,SOFT,8.0,False,False,False,False,False,299.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,50,95.49,6965.841,5.0,SOFT,9.0,False,False,False,False,False,299.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,51,95.233,7061.213,5.0,SOFT,10.0,False,False,False,False,False,299.0,19.6,31.3,56.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,SAR,Williams,52,97.715,7158.905,5.0,SOFT,11.0,False,False,False,False,False,299.0,19.5,31.5,57.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,1,180.068,2100.475,1.0,SOFT,1.0,True,False,False,False,False,121.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,2,1708.558,2110.68,2.0,SOFT,1.0,False,True,False,True,False,244.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,3,134.682,2342.993,2.0,SOFT,2.0,False,False,False,False,False,296.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,4,99.528,2344.729,2.0,SOFT,3.0,False,False,False,False,False,302.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,5,99.552,2444.355,2.0,SOFT,4.0,False,False,False,False,False,303.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,6,98.746,2543.107,2.0,SOFT,5.0,False,False,False,False,False,292.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,7,98.624,2641.717,2.0,SOFT,6.0,False,False,False,False,False,293.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,8,98.61,2740.373,2.0,SOFT,7.0,False,False,False,False,False,294.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,9,98.881,2839.127,2.0,SOFT,8.0,False,False,False,False,False,293.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,10,99.052,2938.318,2.0,SOFT,9.0,False,False,False,False,False,293.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,11,99.103,3037.428,2.0,SOFT,10.0,False,False,False,False,False,293.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,12,101.638,3139.059,2.0,SOFT,11.0,True,False,False,False,False,294.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,13,116.221,3255.217,3.0,MEDIUM,1.0,False,True,False,False,False,294.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,14,97.935,3353.217,3.0,MEDIUM,2.0,False,False,False,False,False,300.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,15,98.125,3451.367,3.0,MEDIUM,3.0,False,False,False,False,False,290.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,16,99.274,3550.546,3.0,MEDIUM,4.0,False,False,False,False,False,297.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,17,98.057,3648.734,3.0,MEDIUM,5.0,False,False,False,False,False,297.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,18,98.843,3747.403,3.0,MEDIUM,6.0,False,False,False,False,False,303.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,19,99.757,3847.335,3.0,MEDIUM,7.0,False,False,False,False,False,300.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,20,99.248,3946.572,3.0,MEDIUM,8.0,False,False,False,False,False,299.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,21,99.552,4046.011,3.0,MEDIUM,9.0,False,False,False,False,False,296.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,22,102.328,4148.485,3.0,MEDIUM,10.0,True,False,False,False,False,298.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,23,116.743,4265.116,4.0,HARD,1.0,False,True,False,False,False,295.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,24,96.761,4361.896,4.0,HARD,2.0,False,False,False,False,False,296.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,25,96.995,4458.865,4.0,HARD,3.0,False,False,False,False,False,297.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,26,97.307,4556.291,4.0,HARD,4.0,False,False,False,False,False,292.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,27,97.244,4653.523,4.0,HARD,5.0,False,False,False,False,False,293.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,28,97.088,4750.51,4.0,HARD,6.0,False,False,False,False,False,297.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,29,97.633,4848.156,4.0,HARD,7.0,False,False,False,False,False,295.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,30,97.361,4945.512,4.0,HARD,8.0,False,False,False,False,False,297.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,31,97.729,5043.33,4.0,HARD,9.0,False,False,False,False,False,299.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,32,98.202,5141.539,4.0,HARD,10.0,False,False,False,False,False,301.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,33,99.609,5241.126,4.0,HARD,11.0,False,False,False,False,False,291.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,34,99.55,5340.59,4.0,HARD,12.0,True,False,False,False,False,297.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,35,113.728,5454.281,5.0,SOFT,1.0,False,True,False,False,False,294.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,36,95.973,5550.31,5.0,SOFT,2.0,False,False,False,False,False,293.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,37,96.284,5646.641,5.0,SOFT,3.0,False,False,False,False,False,294.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,38,96.356,5742.974,5.0,SOFT,4.0,False,False,False,False,False,293.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,39,96.614,5839.606,5.0,SOFT,5.0,False,False,False,False,False,294.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,40,95.844,5935.485,5.0,SOFT,6.0,False,False,False,False,False,295.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,41,95.798,6031.237,5.0,SOFT,7.0,False,False,False,False,True,296.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,42,96.556,6127.744,5.0,SOFT,8.0,False,False,False,False,False,296.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,43,96.503,6224.221,5.0,SOFT,9.0,False,False,False,False,False,298.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,44,96.485,6320.76,5.0,SOFT,10.0,False,False,False,False,False,300.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,45,96.806,6417.617,5.0,SOFT,11.0,False,False,False,False,False,297.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,46,96.35,6513.92,5.0,SOFT,12.0,False,False,False,False,False,291.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,47,96.704,6610.608,5.0,SOFT,13.0,False,False,False,False,False,294.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,48,98.033,6708.695,5.0,SOFT,14.0,False,False,False,False,False,219.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,49,96.381,6805.061,5.0,SOFT,15.0,False,False,False,False,False,294.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,50,96.165,6901.185,5.0,SOFT,16.0,False,False,False,False,False,296.0,19.8,31.7,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,51,96.27,6997.496,5.0,SOFT,17.0,False,False,False,False,False,295.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,STR,Aston Martin,52,99.818,7097.307,5.0,SOFT,18.0,False,False,False,False,False,257.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,1,167.931,2088.338,1.0,MEDIUM,1.0,True,False,False,False,False,124.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,2,203.186,593.171,2.0,SOFT,4.0,False,True,False,True,False,298.0,22.6,39.9,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,3,,,2.0,SOFT,5.0,False,False,False,False,False,,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,4,99.108,2342.435,2.0,SOFT,6.0,False,False,False,False,False,299.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,5,99.508,2441.817,2.0,SOFT,7.0,False,False,False,False,False,301.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,6,98.887,2540.727,2.0,SOFT,8.0,False,False,False,False,False,300.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,7,100.998,2641.74,2.0,SOFT,9.0,True,False,False,False,False,300.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,8,118.044,2759.767,3.0,HARD,1.0,False,True,False,False,False,296.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,9,97.17,2856.932,3.0,HARD,2.0,False,False,False,False,False,299.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,10,97.496,2954.411,3.0,HARD,3.0,False,False,False,False,False,300.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,11,97.895,3052.412,3.0,HARD,4.0,False,False,False,False,False,301.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,12,100.057,3152.367,3.0,HARD,5.0,False,False,False,False,False,308.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,13,98.98,3251.395,3.0,HARD,6.0,False,False,False,False,False,301.0,21.6,36.6,41.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,14,98.51,3349.78,3.0,HARD,7.0,False,False,False,False,False,302.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,15,99.925,3449.788,3.0,HARD,8.0,False,False,False,False,False,307.0,21.5,36.0,41.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,16,100.096,3549.991,3.0,HARD,9.0,False,False,False,False,False,304.0,21.3,35.0,42.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,17,97.944,3647.919,3.0,HARD,10.0,False,False,False,False,False,302.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,18,99.27,3747.099,3.0,HARD,11.0,False,False,False,False,False,306.0,21.3,34.6,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,19,99.658,3846.853,3.0,HARD,12.0,False,False,False,False,False,306.0,21.2,34.5,42.0,0,2.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,20,99.1,3945.981,3.0,HARD,13.0,False,False,False,False,False,304.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,21,99.562,4045.471,3.0,HARD,14.0,False,False,False,False,False,302.0,21.0,34.4,45.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,22,101.916,4147.361,3.0,HARD,15.0,True,False,False,False,False,301.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,23,117.251,4264.652,4.0,HARD,1.0,False,True,False,False,False,293.0,21.1,35.4,46.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,24,96.637,4361.16,4.0,HARD,2.0,False,False,False,False,False,293.0,21.0,35.6,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,25,97.073,4458.314,4.0,HARD,3.0,False,False,False,False,False,295.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,26,97.037,4555.332,4.0,HARD,4.0,False,False,False,False,False,295.0,21.3,35.7,46.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,27,97.184,4652.48,4.0,HARD,5.0,False,False,False,False,False,296.0,21.4,35.7,47.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,28,97.227,4749.784,4.0,HARD,6.0,False,False,False,False,False,296.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,29,97.319,4847.095,4.0,HARD,7.0,False,False,False,False,False,297.0,21.4,36.4,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,30,97.617,4944.748,4.0,HARD,8.0,False,False,False,False,False,297.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,31,97.676,5042.332,4.0,HARD,9.0,False,False,False,False,False,299.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,32,98.624,5140.928,4.0,HARD,10.0,False,False,False,False,False,302.0,21.4,36.5,47.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,33,98.692,5239.685,4.0,HARD,11.0,False,False,False,False,False,295.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,34,97.793,5337.38,4.0,HARD,12.0,False,False,False,False,False,296.0,21.2,36.2,47.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,35,97.626,5435.194,4.0,HARD,13.0,False,False,False,False,False,296.0,21.0,35.1,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,36,97.103,5532.181,4.0,HARD,14.0,False,False,False,False,False,297.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,37,97.419,5629.679,4.0,HARD,15.0,False,False,False,False,False,296.0,20.9,34.5,48.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,38,97.442,5727.065,4.0,HARD,16.0,False,False,False,False,False,296.0,20.6,34.2,50.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,39,97.595,5824.732,4.0,HARD,17.0,False,False,False,False,False,296.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,40,97.441,5922.099,4.0,HARD,18.0,False,False,False,False,False,296.0,20.4,33.1,51.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,41,97.297,6019.415,4.0,HARD,19.0,False,False,False,False,True,296.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,42,97.493,6116.907,4.0,HARD,20.0,False,False,False,False,True,296.0,20.3,33.3,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,43,97.498,6214.425,4.0,HARD,21.0,False,False,False,False,False,296.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,44,97.329,6311.706,4.0,HARD,22.0,False,False,False,False,False,296.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,45,97.25,6409.037,4.0,HARD,23.0,False,False,False,False,False,295.0,20.0,32.5,54.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,46,97.046,6506.022,4.0,HARD,24.0,False,False,False,False,False,297.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,47,97.106,6603.108,4.0,HARD,25.0,False,False,False,False,False,296.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,48,97.038,6700.174,4.0,HARD,26.0,False,False,False,False,False,296.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,49,96.557,6796.712,4.0,HARD,27.0,False,False,False,False,False,296.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,50,96.388,6893.135,4.0,HARD,28.0,False,False,False,False,False,297.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,51,96.342,6989.439,4.0,HARD,29.0,False,False,False,False,False,298.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,TSU,RB,52,98.195,7087.724,4.0,HARD,30.0,False,False,False,False,False,301.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,1,131.236,2051.643,1.0,MEDIUM,1.0,True,False,False,False,False,184.0,22.6,39.3,32.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,2,1711.131,2064.421,2.0,MEDIUM,2.0,False,True,True,False,False,126.0,22.5,39.7,38.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,3,172.922,2237.368,2.0,MEDIUM,3.0,False,False,False,False,False,285.0,22.5,38.8,36.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,4,96.472,2333.861,2.0,MEDIUM,4.0,False,False,False,False,False,284.0,22.5,39.0,37.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,5,96.437,2430.229,2.0,MEDIUM,5.0,False,False,False,False,False,286.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,6,96.855,2527.07,2.0,MEDIUM,6.0,False,False,False,False,False,286.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,7,96.97,2624.088,2.0,MEDIUM,7.0,False,False,False,False,False,284.0,22.3,38.7,40.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,8,97.329,2721.409,2.0,MEDIUM,8.0,False,False,False,False,False,287.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,9,97.178,2818.584,2.0,MEDIUM,9.0,False,False,False,False,False,288.0,22.2,38.9,39.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,10,97.59,2916.18,2.0,MEDIUM,10.0,False,False,False,False,False,286.0,22.2,39.0,39.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,11,97.774,3013.915,2.0,MEDIUM,11.0,False,False,False,False,False,287.0,22.0,37.8,39.0,0,2.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,12,97.753,3111.681,2.0,MEDIUM,12.0,False,False,False,False,False,285.0,21.9,37.1,40.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,13,97.727,3209.316,2.0,MEDIUM,13.0,False,False,False,False,False,288.0,21.6,36.3,40.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,14,97.91,3307.362,2.0,MEDIUM,14.0,False,False,False,False,False,286.0,21.6,36.2,40.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,15,97.854,3405.138,2.0,MEDIUM,15.0,False,False,False,False,False,285.0,21.6,36.1,41.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,16,100.272,3505.372,2.0,MEDIUM,16.0,True,False,False,False,False,286.0,21.5,35.2,41.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,17,116.478,3621.839,3.0,MEDIUM,1.0,False,True,False,False,False,280.0,21.2,34.9,43.0,0,2.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,18,96.822,3718.765,3.0,MEDIUM,2.0,False,False,False,False,False,283.0,21.1,34.8,43.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,19,96.252,3814.981,3.0,MEDIUM,3.0,False,False,False,False,False,286.0,21.2,34.8,43.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,20,96.402,3911.378,3.0,MEDIUM,4.0,False,False,False,False,False,297.0,21.1,34.2,44.0,0,3.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,21,95.617,4007.02,3.0,MEDIUM,5.0,False,False,False,False,False,286.0,21.1,34.3,45.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,22,96.384,4103.342,3.0,MEDIUM,6.0,False,False,False,False,False,286.0,21.2,35.2,46.0,0,3.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,23,96.205,4199.567,3.0,MEDIUM,7.0,False,False,False,False,False,286.0,21.2,35.3,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,24,96.532,4296.086,3.0,MEDIUM,8.0,False,False,False,False,False,286.0,21.0,35.6,46.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,25,96.337,4392.455,3.0,MEDIUM,9.0,False,False,False,False,False,287.0,21.1,36.0,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,26,96.437,4488.88,3.0,MEDIUM,10.0,False,False,False,False,False,287.0,21.1,36.0,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,27,96.654,4585.471,3.0,MEDIUM,11.0,False,False,False,False,False,287.0,21.4,35.5,46.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,28,96.496,4681.993,3.0,MEDIUM,12.0,False,False,False,False,False,287.0,21.4,36.3,47.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,29,96.655,4778.652,3.0,MEDIUM,13.0,False,False,False,False,False,289.0,21.5,36.2,47.0,0,3.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,30,96.849,4875.477,3.0,MEDIUM,14.0,False,False,False,False,False,288.0,21.4,36.5,48.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,31,96.761,4972.238,3.0,MEDIUM,15.0,False,False,False,False,False,289.0,21.3,36.5,47.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,32,96.92,5069.198,3.0,MEDIUM,16.0,False,False,False,False,False,291.0,21.3,36.5,46.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,33,97.048,5166.299,3.0,MEDIUM,17.0,False,False,False,False,False,292.0,21.3,36.7,47.0,0,2.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,34,99.226,5265.514,3.0,MEDIUM,18.0,True,False,False,False,False,293.0,21.2,36.5,47.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,35,115.503,5381.054,4.0,HARD,1.0,False,True,False,False,False,297.0,21.0,35.5,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,36,94.619,5475.58,4.0,HARD,2.0,False,False,False,False,False,296.0,20.9,34.9,48.0,0,1.4
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,37,94.97,5570.581,4.0,HARD,3.0,False,False,False,False,False,298.0,20.9,34.6,48.0,0,1.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,38,94.986,5665.627,4.0,HARD,4.0,False,False,False,False,False,295.0,20.8,34.5,49.0,0,1.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,39,94.494,5760.084,4.0,HARD,5.0,False,False,False,False,False,294.0,20.6,34.0,50.0,0,1.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,40,94.343,5854.481,4.0,HARD,6.0,False,False,False,False,False,295.0,20.6,34.0,51.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,41,94.273,5948.699,4.0,HARD,7.0,False,False,False,False,False,297.0,20.4,33.1,52.0,0,1.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,42,94.965,6043.568,4.0,HARD,8.0,False,False,False,False,True,297.0,20.3,33.3,52.0,0,1.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,43,94.303,6138.005,4.0,HARD,9.0,False,False,False,False,False,297.0,20.3,33.1,52.0,0,1.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,44,94.455,6232.394,4.0,HARD,10.0,False,False,False,False,False,297.0,20.1,33.0,52.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,45,94.606,6327.083,4.0,HARD,11.0,False,False,False,False,False,297.0,20.0,32.6,53.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,46,94.61,6421.642,4.0,HARD,12.0,False,False,False,False,False,301.0,19.9,32.3,54.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,47,95.113,6516.764,4.0,HARD,13.0,False,False,False,False,False,301.0,19.9,32.2,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,48,95.75,6612.45,4.0,HARD,14.0,False,False,False,False,False,299.0,19.7,32.7,55.0,0,0.9
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,49,94.885,6707.301,4.0,HARD,15.0,False,False,False,False,False,302.0,19.8,31.9,54.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,50,93.706,6801.019,4.0,HARD,16.0,False,False,False,False,False,298.0,19.8,32.0,56.0,0,2.3
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,51,94.768,6895.993,4.0,HARD,17.0,False,False,False,False,False,297.0,19.8,32.0,56.0,0,2.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,52,94.97,6990.839,4.0,HARD,18.0,False,False,False,False,False,299.0,19.7,31.3,56.0,0,1.7
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,VER,Red Bull Racing,53,95.263,7086.112,4.0,HARD,19.0,False,False,False,False,False,295.0,19.6,31.3,56.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,1,195.562,2115.969,1.0,MEDIUM,1.0,True,False,False,False,False,118.0,22.5,39.1,34.0,0,3.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,2,1699.553,2117.169,2.0,SOFT,1.0,False,True,False,True,False,242.0,22.6,39.5,37.0,0,2.5
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,3,129.289,2246.319,2.0,SOFT,2.0,False,False,False,False,False,292.0,22.4,38.9,37.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,4,100.228,2346.593,2.0,SOFT,3.0,False,False,False,False,False,302.0,22.5,39.0,37.0,0,4.2
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,5,99.597,2446.226,2.0,SOFT,4.0,False,False,False,False,False,301.0,22.5,39.0,38.0,0,3.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,6,99.991,2546.203,2.0,SOFT,5.0,False,False,False,False,False,302.0,22.4,38.8,40.0,0,2.8
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,7,102.874,2649.162,2.0,SOFT,6.0,True,False,False,False,False,301.0,22.4,38.7,40.0,0,3.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,8,118.402,2767.413,3.0,HARD,1.0,False,True,False,False,False,291.0,22.3,38.8,38.0,0,4.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,9,97.16,2864.676,3.0,HARD,2.0,False,False,False,False,False,292.0,22.1,39.0,40.0,0,3.1
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,10,97.5,2962.196,3.0,HARD,3.0,False,False,False,False,False,288.0,22.1,38.5,38.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,11,101.117,3063.299,3.0,HARD,4.0,True,False,False,False,False,288.0,21.9,37.1,40.0,0,2.0
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,12,128.193,3191.444,4.0,HARD,5.0,False,True,False,False,False,285.0,21.7,36.7,39.0,0,2.6
+2024,4,Japanese Grand Prix,Suzuka,46,18,53,ZHO,Kick Sauber,13,,,,,,False,False,False,False,False,,21.6,36.3,40.0,0,2.3

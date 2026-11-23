@@ -1,0 +1,1310 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,2,82.217,371.063,1,MEDIUM,2,False,False,False,False,False,303.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,3,82.171,453.241,1,MEDIUM,3,False,False,False,False,False,310.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,4,82.278,535.388,1,MEDIUM,4,False,False,False,False,False,329.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,5,82.775,618.238,1,MEDIUM,5,False,False,False,False,False,337.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,6,82.498,700.738,1,MEDIUM,6,False,False,False,False,False,339.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,7,83.531,784.179,1,MEDIUM,7,False,False,False,False,False,329.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,8,83.225,867.46,1,MEDIUM,8,False,False,False,False,False,327.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,9,82.838,950.33,1,MEDIUM,9,False,False,False,False,False,330.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,10,82.787,1033.04,1,MEDIUM,10,False,False,False,False,False,308.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,11,82.421,1115.433,1,MEDIUM,11,False,False,False,False,False,305.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,12,82.119,1197.545,1,MEDIUM,12,False,False,False,False,False,303.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,13,82.263,1279.762,1,MEDIUM,13,False,False,False,False,False,,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,14,82.246,1362.002,1,MEDIUM,14,False,False,False,False,False,302.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,15,82.595,1444.583,1,MEDIUM,15,False,False,False,False,False,,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,16,83.579,1528.278,1,MEDIUM,16,False,False,False,False,False,304.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,17,83.526,1611.802,1,MEDIUM,17,False,False,False,False,False,,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,18,86.838,1698.607,1,MEDIUM,18,True,False,False,False,False,311.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,19,100.225,1798.842,2,SOFT,1,False,True,False,False,False,247.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,20,80.005,1878.936,2,SOFT,2,False,False,False,False,False,302.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,21,80.288,1959.219,2,SOFT,3,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,22,80.494,2039.693,2,SOFT,4,False,False,False,False,False,305.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,23,81.052,2120.688,2,SOFT,5,False,False,False,False,False,307.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,24,81.181,2201.976,2,SOFT,6,False,False,False,False,False,328.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,25,80.945,2282.76,2,SOFT,7,False,False,False,False,False,304.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,26,81.477,2364.414,2,SOFT,8,False,False,False,False,False,305.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,27,81.645,2446.058,2,SOFT,9,False,False,False,False,False,,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,28,81.416,2527.378,2,SOFT,10,False,False,False,False,False,300.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,29,81.102,2608.613,2,SOFT,11,False,False,False,False,False,303.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,30,81.419,2689.868,2,SOFT,12,False,False,False,False,False,304.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,31,81.252,2771.118,2,SOFT,13,False,False,False,False,False,303.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,32,81.17,2852.263,2,SOFT,14,False,False,False,False,False,304.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,33,80.993,2933.534,2,SOFT,15,False,False,False,False,False,,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,34,81.283,3014.693,2,SOFT,16,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,35,81.636,3096.202,2,SOFT,17,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,36,81.479,3177.713,2,SOFT,18,False,False,False,False,False,,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,37,81.577,3259.337,2,SOFT,19,False,False,False,False,False,303.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,38,81.737,3341.09,2,SOFT,20,False,False,False,False,False,304.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,39,82.269,3423.244,2,SOFT,21,False,False,False,False,False,,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,40,81.587,3504.964,2,SOFT,22,False,False,False,False,False,305.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,41,82.155,3587.081,2,SOFT,23,False,False,False,False,False,302.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,42,84.25,3671.36,2,SOFT,24,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,43,85.925,3757.212,2,SOFT,25,True,False,False,False,False,305.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,44,97.415,3854.479,3,SOFT,1,False,True,False,False,False,250.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,45,79.132,3933.742,3,SOFT,2,False,False,False,False,False,301.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,46,83.125,4016.848,3,SOFT,3,False,False,False,False,False,303.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,47,79.852,4096.818,3,SOFT,4,False,False,False,False,False,324.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,48,82.037,4178.763,3,SOFT,5,False,False,False,False,False,255.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,49,79.881,4258.707,3,SOFT,6,False,False,False,False,False,304.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,50,80.077,4338.751,3,SOFT,7,False,False,False,False,False,308.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,51,81.43,4420.239,3,SOFT,8,False,False,False,False,False,249.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,52,80.131,4500.363,3,SOFT,9,False,False,False,False,False,304.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,53,80.22,4580.653,3,SOFT,10,False,False,False,False,False,306.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,54,80.3,4660.805,3,SOFT,11,False,False,False,False,False,305.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,55,80.197,4741.077,3,SOFT,12,False,False,False,False,False,304.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,56,81.742,4822.822,3,SOFT,13,False,False,False,False,False,307.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,57,80.119,4902.954,3,SOFT,14,False,False,False,False,False,328.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,58,89.605,4992.655,3,SOFT,15,False,False,False,False,False,307.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,59,80.097,5072.701,3,SOFT,16,False,False,False,False,False,303.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,60,79.876,5152.529,3,SOFT,17,False,False,False,False,False,304.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,61,80.002,5232.47,3,SOFT,18,False,False,False,False,False,303.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,62,79.993,5312.443,3,SOFT,19,False,False,False,False,False,304.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,63,80.211,5392.64,3,SOFT,20,False,False,False,False,False,,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,64,80.235,5472.91,3,SOFT,21,False,False,False,False,False,,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALB,Williams,65,80.31,5553.209,3,SOFT,22,False,False,False,False,False,305.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,1,89.664,284.076,1,SOFT,1,False,False,False,False,False,276.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,2,82.501,366.576,1,SOFT,2,False,False,False,False,False,302.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,3,81.912,448.419,1,SOFT,3,False,False,False,False,False,329.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,4,81.955,530.362,1,SOFT,4,False,False,False,False,False,323.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,5,82.593,612.958,1,SOFT,5,False,False,False,False,False,316.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,6,83.536,696.624,1,SOFT,6,False,False,False,False,False,301.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,7,83.456,780.013,1,SOFT,7,False,False,False,False,False,302.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,8,82.542,862.609,1,SOFT,8,False,False,False,False,False,321.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,9,82.353,944.918,1,SOFT,9,False,False,False,False,False,327.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,10,82.426,1027.4,1,SOFT,10,False,False,False,False,False,324.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,11,81.955,1109.251,1,SOFT,11,False,False,False,False,False,327.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,12,81.05,1190.225,1,SOFT,12,False,False,False,False,False,324.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,13,81.589,1271.965,1,SOFT,13,False,False,False,False,False,305.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,14,81.855,1353.692,1,SOFT,14,False,False,False,False,False,303.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,15,81.84,1435.519,1,SOFT,15,False,False,False,False,False,304.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,16,82.546,1518.009,1,SOFT,16,False,False,False,False,False,307.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,17,83.26,1601.342,1,SOFT,17,False,False,False,False,False,325.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,18,82.186,1683.546,1,SOFT,18,False,False,False,False,False,308.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,19,85.298,1768.871,1,SOFT,19,True,False,False,False,False,304.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,20,98.729,1867.55,2,MEDIUM,2,False,True,False,False,False,253.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,21,80.488,1948.091,2,MEDIUM,3,False,False,False,False,False,302.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,22,80.345,2028.511,2,MEDIUM,4,False,False,False,False,False,307.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,23,80.773,2109.16,2,MEDIUM,5,False,False,False,False,False,332.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,24,81.14,2190.31,2,MEDIUM,6,False,False,False,False,False,305.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,25,81.199,2271.626,2,MEDIUM,7,False,False,False,False,False,308.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,26,81.291,2352.861,2,MEDIUM,8,False,False,False,False,False,,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,27,81.391,2434.443,2,MEDIUM,9,False,False,False,False,False,328.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,28,81.411,2515.615,2,MEDIUM,10,False,False,False,False,False,303.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,29,81.457,2597.157,2,MEDIUM,11,False,False,False,False,False,307.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,30,81.426,2678.48,2,MEDIUM,12,False,False,False,False,False,,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,31,81.276,2759.853,2,MEDIUM,13,False,False,False,False,False,305.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,32,80.904,2840.78,2,MEDIUM,14,False,False,False,False,False,307.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,33,81.093,2921.688,2,MEDIUM,15,False,False,False,False,False,308.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,34,81.916,3003.779,2,MEDIUM,16,False,False,False,False,False,295.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,35,81.192,3084.918,2,MEDIUM,17,False,False,False,False,False,308.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,36,81.028,3165.976,2,MEDIUM,18,False,False,False,False,False,310.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,37,80.993,3247.002,2,MEDIUM,19,False,False,False,False,False,326.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,38,80.536,3327.352,2,MEDIUM,20,False,False,False,False,False,327.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,39,82.382,3409.725,2,MEDIUM,21,False,False,False,False,False,307.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,40,81.113,3490.868,2,MEDIUM,22,False,False,False,False,False,305.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,41,81.139,3572.05,2,MEDIUM,23,False,False,False,False,False,306.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,42,80.537,3652.591,2,MEDIUM,24,False,False,False,False,False,304.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,43,80.435,3733.151,2,MEDIUM,25,False,False,False,False,False,301.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,44,80.539,3813.595,2,MEDIUM,26,False,False,False,False,False,302.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,45,84.032,3897.649,2,MEDIUM,27,True,False,False,False,False,297.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,46,98.308,3995.898,3,HARD,2,False,True,False,False,False,251.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,47,78.972,4074.884,3,HARD,3,False,False,False,False,False,295.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,48,78.727,4153.678,3,HARD,4,False,False,False,False,False,299.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,49,78.719,4232.377,3,HARD,5,False,False,False,False,False,298.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,50,78.334,4310.777,3,HARD,6,False,False,False,False,False,302.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,51,78.902,4389.619,3,HARD,7,False,False,False,False,False,296.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,52,79.666,4469.303,3,HARD,8,False,False,False,False,False,324.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,53,78.712,4548.078,3,HARD,9,False,False,False,False,False,327.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,54,79.415,4627.357,3,HARD,10,False,False,False,False,False,297.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,55,79.28,4706.813,3,HARD,11,False,False,False,False,False,,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,56,79.025,4785.658,3,HARD,12,False,False,False,False,False,300.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,57,81.003,4866.793,3,HARD,13,False,False,False,False,False,302.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,58,79.355,4946.022,3,HARD,14,False,False,False,False,False,305.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,59,79.876,5026.0,3,HARD,15,False,False,False,False,False,304.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,60,80.583,5106.632,3,HARD,16,False,False,False,False,False,291.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,61,79.652,5186.18,3,HARD,17,False,False,False,False,False,307.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,62,79.617,5265.797,3,HARD,18,False,False,False,False,False,302.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,63,79.64,5345.47,3,HARD,19,False,False,False,False,False,306.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,64,79.387,5424.835,3,HARD,20,False,False,False,False,False,,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ALO,Aston Martin,65,79.743,5504.545,3,HARD,21,False,False,False,False,False,305.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,1,90.349,284.761,1,SOFT,1,False,False,False,False,False,287.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,2,82.715,367.475,1,SOFT,2,False,False,False,False,False,310.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,3,82.113,449.689,1,SOFT,3,False,False,False,False,False,333.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,4,82.291,531.941,1,SOFT,4,False,False,False,False,False,326.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,5,82.662,614.707,1,SOFT,5,False,False,False,False,False,328.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,6,82.336,696.908,1,SOFT,6,False,False,False,False,False,306.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,7,82.3,779.196,1,SOFT,7,False,False,False,False,False,330.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,8,82.503,861.69,1,SOFT,8,False,False,False,False,False,304.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,9,82.292,944.087,1,SOFT,9,False,False,False,False,False,306.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,10,82.314,1026.364,1,SOFT,10,False,False,False,False,False,303.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,11,85.342,1111.751,1,SOFT,11,True,False,False,False,False,299.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,12,99.211,1210.884,2,SOFT,4,False,True,False,False,False,250.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,13,79.608,1290.5,2,SOFT,5,False,False,False,False,False,301.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,14,80.017,1370.579,2,SOFT,6,False,False,False,False,False,325.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,15,81.085,1451.55,2,SOFT,7,False,False,False,False,False,300.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,16,81.257,1532.742,2,SOFT,8,False,False,False,False,False,304.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,17,81.587,1614.486,2,SOFT,9,False,False,False,False,False,,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,18,81.601,1695.998,2,SOFT,10,False,False,False,False,False,306.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,19,81.23,1777.426,2,SOFT,11,False,False,False,False,False,325.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,20,81.612,1858.853,2,SOFT,12,False,False,False,False,False,304.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,21,81.686,1940.565,2,SOFT,13,False,False,False,False,False,302.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,22,81.931,2022.553,2,SOFT,14,False,False,False,False,False,,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,23,82.239,2104.796,2,SOFT,15,False,False,False,False,False,304.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,24,81.782,2186.556,2,SOFT,16,False,False,False,False,False,302.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,25,83.041,2269.618,2,SOFT,17,False,False,False,False,False,279.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,26,83.001,2352.625,2,SOFT,18,False,False,False,False,False,306.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,27,83.428,2435.968,2,SOFT,19,False,False,False,False,False,308.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,28,85.577,2521.584,2,SOFT,20,True,False,False,False,False,300.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,29,99.622,2621.199,3,HARD,1,False,True,False,False,False,252.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,30,80.195,2701.492,3,HARD,2,False,False,False,False,False,301.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,31,80.47,2781.778,3,HARD,3,False,False,False,False,False,302.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,32,81.613,2863.511,3,HARD,4,False,False,False,False,False,307.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,33,80.565,2944.111,3,HARD,5,False,False,False,False,False,323.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,34,80.744,3024.67,3,HARD,6,False,False,False,False,False,303.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,35,80.666,3105.462,3,HARD,7,False,False,False,False,False,302.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,36,80.604,3186.022,3,HARD,8,False,False,False,False,False,,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,37,80.815,3266.885,3,HARD,9,False,False,False,False,False,303.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,38,80.773,3347.631,3,HARD,10,False,False,False,False,False,,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,39,82.774,3430.353,3,HARD,11,False,False,False,False,False,,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,40,81.055,3511.546,3,HARD,12,False,False,False,False,False,321.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,41,84.249,3595.672,3,HARD,13,False,False,False,False,False,305.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,42,80.477,3676.206,3,HARD,14,False,False,False,False,False,329.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,43,82.645,3758.818,3,HARD,15,False,False,False,False,False,287.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,44,81.338,3840.157,3,HARD,16,False,False,False,False,False,303.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,45,80.81,3920.884,3,HARD,17,False,False,False,False,False,301.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,46,80.891,4001.983,3,HARD,18,False,False,False,False,False,,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,47,81.055,4082.949,3,HARD,19,False,False,False,False,False,300.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,48,82.101,4165.037,3,HARD,20,False,False,False,False,False,298.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,49,80.644,4245.754,3,HARD,21,False,False,False,False,False,301.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,50,81.587,4327.389,3,HARD,22,False,False,False,False,False,302.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,51,82.406,4409.71,3,HARD,23,False,False,False,False,False,304.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,52,82.596,4492.402,3,HARD,24,False,False,False,False,False,317.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,53,83.642,4575.87,3,HARD,25,False,False,False,False,False,303.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,54,80.795,4656.751,3,HARD,26,False,False,False,False,False,306.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,55,80.81,4737.563,3,HARD,27,False,False,False,False,False,303.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,56,80.369,4817.96,3,HARD,28,False,False,False,False,False,304.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,57,79.936,4897.835,3,HARD,29,False,False,False,False,False,301.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,58,81.902,4979.76,3,HARD,30,False,False,False,False,False,303.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,59,80.39,5060.197,3,HARD,31,False,False,False,False,False,329.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,60,82.699,5142.771,3,HARD,32,False,False,False,False,False,306.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,61,81.16,5224.048,3,HARD,33,False,False,False,False,False,305.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,62,80.876,5304.991,3,HARD,34,False,False,False,False,False,304.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,63,80.747,5385.611,3,HARD,35,False,False,False,False,False,303.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,64,81.325,5466.987,3,HARD,36,False,False,False,False,False,,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,BOT,Kick Sauber,65,81.432,5548.417,3,HARD,37,False,False,False,False,False,302.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,1,87.063,281.475,1,SOFT,4,False,False,False,False,False,286.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,2,81.157,362.631,1,SOFT,5,False,False,False,False,False,304.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,3,80.806,443.392,1,SOFT,6,False,False,False,False,False,320.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,4,80.679,524.024,1,SOFT,7,False,False,False,False,False,,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,5,80.78,604.899,1,SOFT,8,False,False,False,False,False,325.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,6,81.303,686.099,1,SOFT,9,False,False,False,False,False,,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,7,81.625,767.727,1,SOFT,10,False,False,False,False,False,,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,8,81.748,849.573,1,SOFT,11,False,False,False,False,False,305.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,9,81.681,931.218,1,SOFT,12,False,False,False,False,False,303.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,10,81.711,1012.831,1,SOFT,13,False,False,False,False,False,305.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,11,81.339,1094.291,1,SOFT,14,False,False,False,False,False,303.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,12,81.638,1175.984,1,SOFT,15,False,False,False,False,False,304.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,13,81.678,1257.534,1,SOFT,16,False,False,False,False,False,,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,14,85.491,1343.092,1,SOFT,17,True,False,False,False,False,302.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,15,102.656,1445.7,2,MEDIUM,1,False,True,False,False,False,251.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,16,79.989,1525.72,2,MEDIUM,2,False,False,False,False,False,329.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,17,80.203,1605.87,2,MEDIUM,3,False,False,False,False,False,327.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,18,80.396,1686.34,2,MEDIUM,4,False,False,False,False,False,304.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,19,80.432,1766.717,2,MEDIUM,5,False,False,False,False,False,,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,20,80.163,1846.795,2,MEDIUM,6,False,False,False,False,False,,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,21,80.678,1927.546,2,MEDIUM,7,False,False,False,False,False,302.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,22,80.544,2008.165,2,MEDIUM,8,False,False,False,False,False,303.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,23,80.419,2088.477,2,MEDIUM,9,False,False,False,False,False,304.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,24,80.496,2169.017,2,MEDIUM,10,False,False,False,False,False,303.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,25,80.637,2249.61,2,MEDIUM,11,False,False,False,False,False,,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,26,80.468,2330.115,2,MEDIUM,12,False,False,False,False,False,305.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,27,81.618,2411.733,2,MEDIUM,13,False,False,False,False,False,302.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,28,81.281,2493.054,2,MEDIUM,14,False,False,False,False,False,305.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,29,80.92,2574.022,2,MEDIUM,15,False,False,False,False,False,303.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,30,80.909,2654.822,2,MEDIUM,16,False,False,False,False,False,306.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,31,80.944,2735.819,2,MEDIUM,17,False,False,False,False,False,304.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,32,80.991,2816.861,2,MEDIUM,18,False,False,False,False,False,303.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,33,80.939,2897.736,2,MEDIUM,19,False,False,False,False,False,304.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,34,82.534,2980.318,2,MEDIUM,20,False,False,False,False,False,,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,35,81.527,3061.918,2,MEDIUM,21,False,False,False,False,False,306.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,36,81.01,3142.806,2,MEDIUM,22,False,False,False,False,False,305.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,37,81.282,3224.129,2,MEDIUM,23,False,False,False,False,False,,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,38,85.413,3309.474,2,MEDIUM,24,True,False,False,False,False,308.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,39,97.749,3407.207,3,HARD,1,False,True,False,False,False,253.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,40,79.539,3486.891,3,HARD,2,False,False,False,False,False,324.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,41,80.018,3566.796,3,HARD,3,False,False,False,False,False,302.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,42,79.64,3646.461,3,HARD,4,False,False,False,False,False,,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,43,79.825,3726.4,3,HARD,5,False,False,False,False,False,,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,44,79.618,3806.026,3,HARD,6,False,False,False,False,False,301.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,45,79.516,3885.494,3,HARD,7,False,False,False,False,False,300.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,46,79.441,3964.919,3,HARD,8,False,False,False,False,False,302.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,47,79.528,4044.478,3,HARD,9,False,False,False,False,False,298.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,48,79.52,4123.891,3,HARD,10,False,False,False,False,False,300.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,49,79.35,4203.226,3,HARD,11,False,False,False,False,False,,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,50,79.61,4282.992,3,HARD,12,False,False,False,False,False,301.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,51,79.045,4361.877,3,HARD,13,False,False,False,False,False,305.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,52,79.079,4441.019,3,HARD,14,False,False,False,False,False,301.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,53,79.174,4520.292,3,HARD,15,False,False,False,False,False,,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,54,79.049,4599.273,3,HARD,16,False,False,False,False,False,305.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,55,79.466,4678.734,3,HARD,17,False,False,False,False,False,306.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,56,79.62,4758.297,3,HARD,18,False,False,False,False,False,308.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,57,79.134,4837.497,3,HARD,19,False,False,False,False,False,325.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,58,79.247,4916.693,3,HARD,20,False,False,False,False,False,305.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,59,79.584,4996.185,3,HARD,21,False,False,False,False,False,307.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,60,79.576,5075.908,3,HARD,22,False,False,False,False,False,308.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,61,79.662,5155.585,3,HARD,23,False,False,False,False,False,,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,62,79.81,5235.383,3,HARD,24,False,False,False,False,False,309.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,63,79.867,5315.236,3,HARD,25,False,False,False,False,False,310.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,64,80.054,5395.24,3,HARD,26,False,False,False,False,False,308.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,65,79.808,5475.188,3,HARD,27,False,False,False,False,False,,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,GAS,Alpine,66,82.054,5557.244,3,HARD,28,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,1,84.895,279.307,1,SOFT,4,False,False,False,False,False,282.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,2,80.594,359.9,1,SOFT,5,False,False,False,False,False,296.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,3,80.421,440.276,1,SOFT,6,False,False,False,False,False,328.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,4,80.496,520.754,1,SOFT,7,False,False,False,False,False,324.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,5,81.05,601.97,1,SOFT,8,False,False,False,False,False,329.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,6,81.2,683.098,1,SOFT,9,False,False,False,False,False,331.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,7,81.223,764.307,1,SOFT,10,False,False,False,False,False,327.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,8,81.538,845.751,1,SOFT,11,False,False,False,False,False,330.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,9,81.207,927.083,1,SOFT,12,False,False,False,False,False,329.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,10,81.38,1008.387,1,SOFT,13,False,False,False,False,False,330.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,11,81.192,1089.692,1,SOFT,14,False,False,False,False,False,308.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,12,81.505,1171.054,1,SOFT,15,False,False,False,False,False,,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,13,81.45,1252.575,1,SOFT,16,False,False,False,False,False,,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,14,81.601,1334.086,1,SOFT,17,False,False,False,False,False,305.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,15,81.977,1416.186,1,SOFT,18,False,False,False,False,False,306.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,16,84.966,1501.056,1,SOFT,19,True,False,False,False,False,309.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,17,98.332,1599.44,2,MEDIUM,1,False,True,False,False,False,249.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,18,80.038,1679.548,2,MEDIUM,2,False,False,False,False,False,338.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,19,79.307,1758.807,2,MEDIUM,3,False,False,False,False,False,333.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,20,79.703,1838.47,2,MEDIUM,4,False,False,False,False,False,306.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,21,79.915,1918.459,2,MEDIUM,5,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,22,80.008,1998.387,2,MEDIUM,6,False,False,False,False,False,307.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,23,79.788,2078.099,2,MEDIUM,7,False,False,False,False,False,311.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,24,80.059,2158.279,2,MEDIUM,8,False,False,False,False,False,309.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,25,79.972,2238.076,2,MEDIUM,9,False,False,False,False,False,308.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,26,79.915,2318.041,2,MEDIUM,10,False,False,False,False,False,309.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,27,80.59,2398.782,2,MEDIUM,11,False,False,False,False,False,307.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,28,80.236,2478.953,2,MEDIUM,12,False,False,False,False,False,306.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,29,79.757,2558.8,2,MEDIUM,13,False,False,False,False,False,305.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,30,79.896,2638.56,2,MEDIUM,14,False,False,False,False,False,309.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,31,80.327,2718.933,2,MEDIUM,15,False,False,False,False,False,310.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,32,81.357,2800.401,2,MEDIUM,16,False,False,False,False,False,309.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,33,80.258,2880.585,2,MEDIUM,17,False,False,False,False,False,311.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,34,79.986,2960.556,2,MEDIUM,18,False,False,False,False,False,315.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,35,80.651,3041.093,2,MEDIUM,19,False,False,False,False,False,311.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,36,80.606,3121.831,2,MEDIUM,20,False,False,False,False,False,334.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,37,79.404,3201.07,2,MEDIUM,21,False,False,False,False,False,329.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,38,79.658,3280.919,2,MEDIUM,22,False,False,False,False,False,309.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,39,80.037,3360.961,2,MEDIUM,23,False,False,False,False,False,,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,40,80.032,3440.853,2,MEDIUM,24,False,False,False,False,False,308.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,41,79.6,3520.519,2,MEDIUM,25,False,False,False,False,False,,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,42,80.224,3600.767,2,MEDIUM,26,False,False,False,False,False,310.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,43,84.149,3684.878,2,MEDIUM,27,True,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,44,96.194,3781.149,3,SOFT,4,False,True,False,False,False,254.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,45,78.759,3859.869,3,SOFT,5,False,False,False,False,False,329.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,46,77.809,3937.668,3,SOFT,6,False,False,False,False,False,330.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,47,78.212,4015.831,3,SOFT,7,False,False,False,False,False,326.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,48,78.84,4094.665,3,SOFT,8,False,False,False,False,False,304.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,49,78.976,4173.735,3,SOFT,9,False,False,False,False,False,330.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,50,78.209,4251.91,3,SOFT,10,False,False,False,False,False,307.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,51,78.277,4330.184,3,SOFT,11,False,False,False,False,False,331.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,52,78.417,4408.626,3,SOFT,12,False,False,False,False,False,335.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,53,78.605,4487.17,3,SOFT,13,False,False,False,False,False,304.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,54,78.533,4565.703,3,SOFT,14,False,False,False,False,False,305.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,55,78.788,4644.584,3,SOFT,15,False,False,False,False,False,306.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,56,78.432,4722.962,3,SOFT,16,False,False,False,False,False,304.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,57,78.623,4801.577,3,SOFT,17,False,False,False,False,False,305.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,58,78.688,4880.218,3,SOFT,18,False,False,False,False,False,306.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,59,78.64,4958.87,3,SOFT,19,False,False,False,False,False,,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,60,78.635,5037.545,3,SOFT,20,False,False,False,False,False,310.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,61,78.839,5116.387,3,SOFT,21,False,False,False,False,False,309.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,62,79.337,5195.678,3,SOFT,22,False,False,False,False,False,312.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,63,78.942,5274.593,3,SOFT,23,False,False,False,False,False,333.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,64,79.166,5353.855,3,SOFT,24,False,False,False,False,False,309.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,65,79.009,5432.8,3,SOFT,25,False,False,False,False,False,,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HAM,Mercedes,66,80.041,5512.899,3,SOFT,26,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,1,88.394,282.806,1,SOFT,1,False,False,False,False,False,295.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,2,82.084,364.889,1,SOFT,2,False,False,False,False,False,307.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,3,81.383,446.377,1,SOFT,3,False,False,False,False,False,334.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,4,81.949,528.254,1,SOFT,4,False,False,False,False,False,306.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,5,81.858,610.029,1,SOFT,5,False,False,False,False,False,307.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,6,81.545,691.681,1,SOFT,6,False,False,False,False,False,304.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,7,81.698,773.335,1,SOFT,7,False,False,False,False,False,305.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,8,81.841,855.186,1,SOFT,8,False,False,False,False,False,,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,9,81.629,936.777,1,SOFT,9,False,False,False,False,False,306.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,10,81.852,1018.581,1,SOFT,10,False,False,False,False,False,,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,11,81.994,1100.659,1,SOFT,11,False,False,False,False,False,307.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,12,87.477,1188.201,1,SOFT,12,True,False,False,False,False,,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,13,100.395,1288.568,2,MEDIUM,1,False,True,False,False,False,253.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,14,80.698,1369.291,2,MEDIUM,2,False,False,False,False,False,302.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,15,80.312,1449.599,2,MEDIUM,3,False,False,False,False,False,309.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,16,81.125,1530.561,2,MEDIUM,4,False,False,False,False,False,312.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,17,81.428,1612.124,2,MEDIUM,5,False,False,False,False,False,311.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,18,80.756,1692.854,2,MEDIUM,6,False,False,False,False,False,330.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,19,81.174,1773.931,2,MEDIUM,7,False,False,False,False,False,308.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,20,81.137,1855.195,2,MEDIUM,8,False,False,False,False,False,,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,21,81.205,1936.337,2,MEDIUM,9,False,False,False,False,False,307.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,22,82.174,2018.601,2,MEDIUM,10,False,False,False,False,False,306.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,23,81.627,2100.16,2,MEDIUM,11,False,False,False,False,False,312.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,24,80.907,2181.139,2,MEDIUM,12,False,False,False,False,False,308.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,25,81.053,2262.121,2,MEDIUM,13,False,False,False,False,False,307.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,26,80.972,2343.168,2,MEDIUM,14,False,False,False,False,False,309.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,27,81.42,2424.58,2,MEDIUM,15,False,False,False,False,False,307.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,28,81.09,2505.618,2,MEDIUM,16,False,False,False,False,False,305.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,29,80.979,2586.527,2,MEDIUM,17,False,False,False,False,False,306.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,30,81.198,2667.809,2,MEDIUM,18,False,False,False,False,False,308.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,31,81.314,2749.096,2,MEDIUM,19,False,False,False,False,False,309.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,32,81.445,2830.621,2,MEDIUM,20,False,False,False,False,False,308.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,33,81.203,2911.767,2,MEDIUM,21,False,False,False,False,False,,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,34,81.627,2993.342,2,MEDIUM,22,False,False,False,False,False,310.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,35,81.255,3074.575,2,MEDIUM,23,False,False,False,False,False,309.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,36,81.04,3155.716,2,MEDIUM,24,False,False,False,False,False,,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,37,81.02,3236.725,2,MEDIUM,25,False,False,False,False,False,308.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,38,84.542,3321.18,2,MEDIUM,26,True,False,False,False,False,,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,39,99.454,3420.626,3,HARD,1,False,True,False,False,False,256.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,40,80.452,3501.158,3,HARD,2,False,False,False,False,False,305.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,41,80.122,3581.196,3,HARD,3,False,False,False,False,False,307.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,42,80.356,3661.648,3,HARD,4,False,False,False,False,False,310.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,43,79.023,3740.581,3,HARD,5,False,False,False,False,False,326.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,44,79.532,3820.134,3,HARD,6,False,False,False,False,False,305.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,45,79.415,3899.629,3,HARD,7,False,False,False,False,False,304.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,46,79.363,3979.015,3,HARD,8,False,False,False,False,False,305.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,47,79.264,4058.114,3,HARD,9,False,False,False,False,False,302.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,48,78.916,4137.138,3,HARD,10,False,False,False,False,False,303.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,49,78.609,4215.757,3,HARD,11,False,False,False,False,False,304.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,50,79.15,4294.929,3,HARD,12,False,False,False,False,False,308.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,51,78.943,4373.772,3,HARD,13,False,False,False,False,False,309.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,52,79.107,4453.006,3,HARD,14,False,False,False,False,False,,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,53,79.124,4532.078,3,HARD,15,False,False,False,False,False,330.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,54,79.451,4611.578,3,HARD,16,False,False,False,False,False,332.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,55,79.559,4691.128,3,HARD,17,False,False,False,False,False,311.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,56,79.163,4770.31,3,HARD,18,False,False,False,False,False,310.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,57,79.704,4849.939,3,HARD,19,False,False,False,False,False,311.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,58,79.661,4929.668,3,HARD,20,False,False,False,False,False,309.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,59,80.015,5009.595,3,HARD,21,False,False,False,False,False,311.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,60,79.572,5089.184,3,HARD,22,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,61,79.872,5169.096,3,HARD,23,False,False,False,False,False,,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,62,79.304,5248.316,3,HARD,24,False,False,False,False,False,,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,63,79.66,5328.087,3,HARD,25,False,False,False,False,False,312.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,64,79.985,5408.03,3,HARD,26,False,False,False,False,False,313.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,65,80.164,5488.217,3,HARD,27,False,False,False,False,False,311.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,HUL,Haas F1 Team,66,81.126,5569.327,3,HARD,28,False,False,False,False,False,,24.0,41.9,61.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,1,85.857,280.269,1,SOFT,1,False,False,False,False,False,285.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,2,80.842,361.11,1,SOFT,2,False,False,False,False,False,302.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,3,81.287,442.463,1,SOFT,3,False,False,False,False,False,307.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,4,80.569,522.936,1,SOFT,4,False,False,False,False,False,327.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,5,80.932,603.971,1,SOFT,5,False,False,False,False,False,328.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,6,81.227,685.096,1,SOFT,6,False,False,False,False,False,326.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,7,80.996,766.056,1,SOFT,7,False,False,False,False,False,,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,8,81.393,847.589,1,SOFT,8,False,False,False,False,False,331.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,9,81.33,928.801,1,SOFT,9,False,False,False,False,False,330.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,10,81.014,1009.823,1,SOFT,10,False,False,False,False,False,331.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,11,81.476,1091.293,1,SOFT,11,False,False,False,False,False,330.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,12,81.561,1172.966,1,SOFT,12,False,False,False,False,False,,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,13,81.275,1254.179,1,SOFT,13,False,False,False,False,False,331.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,14,81.594,1335.722,1,SOFT,14,False,False,False,False,False,330.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,15,81.703,1417.536,1,SOFT,15,False,False,False,False,False,329.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,16,80.893,1498.325,1,SOFT,16,False,False,False,False,False,,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,17,81.123,1579.468,1,SOFT,17,False,False,False,False,False,324.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,18,80.915,1660.343,1,SOFT,18,False,False,False,False,False,304.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,19,81.096,1741.431,1,SOFT,19,False,False,False,False,False,305.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,20,81.159,1822.646,1,SOFT,20,False,False,False,False,False,303.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,21,81.497,1904.284,1,SOFT,21,False,False,False,False,False,306.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,22,81.451,1985.94,1,SOFT,22,False,False,False,False,False,304.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,23,81.723,2067.377,1,SOFT,23,False,False,False,False,False,306.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,24,85.337,2152.747,1,SOFT,24,True,False,False,False,False,303.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,25,98.462,2251.068,2,MEDIUM,1,False,True,False,False,False,253.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,26,79.381,2330.525,2,MEDIUM,2,False,False,False,False,False,308.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,27,78.811,2409.405,2,MEDIUM,3,False,False,False,False,False,326.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,28,79.324,2488.634,2,MEDIUM,4,False,False,False,False,False,304.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,29,79.482,2568.114,2,MEDIUM,5,False,False,False,False,False,303.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,30,79.675,2648.008,2,MEDIUM,6,False,False,False,False,False,307.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,31,79.791,2727.642,2,MEDIUM,7,False,False,False,False,False,,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,32,79.509,2807.165,2,MEDIUM,8,False,False,False,False,False,308.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,33,79.535,2886.604,2,MEDIUM,9,False,False,False,False,False,309.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,34,79.61,2966.214,2,MEDIUM,10,False,False,False,False,False,311.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,35,80.177,3046.445,2,MEDIUM,11,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,36,79.907,3126.284,2,MEDIUM,12,False,False,False,False,False,,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,37,79.553,3205.824,2,MEDIUM,13,False,False,False,False,False,328.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,38,79.64,3285.396,2,MEDIUM,14,False,False,False,False,False,309.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,39,79.459,3365.052,2,MEDIUM,15,False,False,False,False,False,,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,40,79.665,3444.87,2,MEDIUM,16,False,False,False,False,False,308.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,41,79.662,3524.406,2,MEDIUM,17,False,False,False,False,False,,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,42,79.781,3604.113,2,MEDIUM,18,False,False,False,False,False,310.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,43,79.981,3684.197,2,MEDIUM,19,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,44,80.064,3764.049,2,MEDIUM,20,False,False,False,False,False,311.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,45,79.901,3844.095,2,MEDIUM,21,False,False,False,False,False,309.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,46,80.001,3924.018,2,MEDIUM,22,False,False,False,False,False,306.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,47,83.761,4007.846,2,MEDIUM,23,True,False,False,False,False,307.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,48,97.516,4105.324,3,SOFT,4,False,True,False,False,False,255.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,49,78.09,4183.417,3,SOFT,5,False,False,False,False,False,300.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,50,78.182,4261.686,3,SOFT,6,False,False,False,False,False,302.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,51,78.179,4339.87,3,SOFT,7,False,False,False,False,False,308.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,52,77.897,4417.728,3,SOFT,8,False,False,False,False,False,309.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,53,77.956,4495.58,3,SOFT,9,False,False,False,False,False,330.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,54,78.385,4574.141,3,SOFT,10,False,False,False,False,False,336.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,55,78.551,4652.607,3,SOFT,11,False,False,False,False,False,312.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,56,78.53,4731.01,3,SOFT,12,False,False,False,False,False,304.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,57,78.11,4809.265,3,SOFT,13,False,False,False,False,False,305.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,58,78.213,4887.408,3,SOFT,14,False,False,False,False,False,306.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,59,78.185,4965.575,3,SOFT,15,False,False,False,False,False,,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,60,78.447,5044.076,3,SOFT,16,False,False,False,False,False,308.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,61,78.735,5122.784,3,SOFT,17,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,62,78.533,5201.286,3,SOFT,18,False,False,False,False,False,310.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,63,78.965,5280.324,3,SOFT,19,False,False,False,False,False,312.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,64,79.03,5359.311,3,SOFT,20,False,False,False,False,False,,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,65,79.074,5438.434,3,SOFT,21,False,False,False,False,False,313.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,LEC,Ferrari,66,79.41,5517.794,3,SOFT,22,False,False,False,False,False,333.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,1,90.981,285.393,1,SOFT,1,False,False,False,False,False,311.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,2,83.073,368.465,1,SOFT,2,False,False,False,False,False,309.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,3,82.102,450.657,1,SOFT,3,False,False,False,False,False,337.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,4,82.38,532.999,1,SOFT,4,False,False,False,False,False,338.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,5,83.042,616.077,1,SOFT,5,False,False,False,False,False,343.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,6,82.446,698.519,1,SOFT,6,False,False,False,False,False,329.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,7,82.471,780.909,1,SOFT,7,False,False,False,False,False,309.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,8,82.22,863.2,1,SOFT,8,False,False,False,False,False,328.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,9,82.195,945.444,1,SOFT,9,False,False,False,False,False,330.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,10,86.084,1031.546,1,SOFT,10,True,False,False,False,False,331.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,11,100.571,1132.014,2,MEDIUM,1,False,True,False,False,False,252.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,12,81.47,1213.479,2,MEDIUM,2,False,False,False,False,False,303.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,13,80.964,1294.482,2,MEDIUM,3,False,False,False,False,False,306.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,14,81.224,1375.708,2,MEDIUM,4,False,False,False,False,False,305.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,15,81.439,1457.184,2,MEDIUM,5,False,False,False,False,False,306.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,16,81.51,1538.623,2,MEDIUM,6,False,False,False,False,False,307.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,17,81.34,1619.976,2,MEDIUM,7,False,False,False,False,False,305.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,18,81.287,1701.151,2,MEDIUM,8,False,False,False,False,False,308.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,19,80.95,1782.186,2,MEDIUM,9,False,False,False,False,False,,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,20,82.488,1864.641,2,MEDIUM,10,False,False,False,False,False,,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,21,81.786,1946.495,2,MEDIUM,11,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,22,81.595,2028.159,2,MEDIUM,12,False,False,False,False,False,310.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,23,82.566,2110.646,2,MEDIUM,13,False,False,False,False,False,,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,24,82.057,2192.735,2,MEDIUM,14,False,False,False,False,False,311.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,25,81.716,2274.5,2,MEDIUM,15,False,False,False,False,False,,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,26,81.817,2356.276,2,MEDIUM,16,False,False,False,False,False,308.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,27,82.342,2438.66,2,MEDIUM,17,False,False,False,False,False,309.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,28,81.945,2520.627,2,MEDIUM,18,False,False,False,False,False,305.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,29,85.381,2605.843,2,MEDIUM,19,True,False,False,False,False,307.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,30,107.447,2713.386,3,HARD,1,False,True,False,False,False,254.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,31,80.045,2793.483,3,HARD,2,False,False,False,False,False,305.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,32,79.927,2873.435,3,HARD,3,False,False,False,False,False,309.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,33,79.805,2953.197,3,HARD,4,False,False,False,False,False,311.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,34,80.206,3033.478,3,HARD,5,False,False,False,False,False,309.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,35,80.298,3113.713,3,HARD,6,False,False,False,False,False,308.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,36,80.48,3194.039,3,HARD,7,False,False,False,False,False,309.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,37,80.488,3274.711,3,HARD,8,False,False,False,False,False,310.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,38,80.327,3354.942,3,HARD,9,False,False,False,False,False,311.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,39,80.62,3435.518,3,HARD,10,False,False,False,False,False,310.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,40,81.685,3517.372,3,HARD,11,False,False,False,False,False,312.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,41,80.948,3598.162,3,HARD,12,False,False,False,False,False,315.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,42,80.912,3679.239,3,HARD,13,False,False,False,False,False,335.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,43,81.033,3760.085,3,HARD,14,False,False,False,False,False,312.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,44,81.124,3841.222,3,HARD,15,False,False,False,False,False,309.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,45,80.884,3922.039,3,HARD,16,False,False,False,False,False,308.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,46,81.131,4003.237,3,HARD,17,False,False,False,False,False,309.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,47,80.967,4084.534,3,HARD,18,False,False,False,False,False,307.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,48,81.784,4166.145,3,HARD,19,False,False,False,False,False,295.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,49,80.94,4246.995,3,HARD,20,False,False,False,False,False,308.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,50,81.147,4328.198,3,HARD,21,False,False,False,False,False,300.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,51,83.892,4412.111,3,HARD,22,False,False,False,False,False,330.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,52,82.938,4495.025,3,HARD,23,False,False,False,False,False,310.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,53,81.932,4576.874,3,HARD,24,False,False,False,False,False,330.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,54,80.894,4657.878,3,HARD,25,False,False,False,False,False,313.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,55,80.638,4738.464,3,HARD,26,False,False,False,False,False,310.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,56,80.584,4819.075,3,HARD,27,False,False,False,False,False,312.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,57,82.164,4901.309,3,HARD,28,False,False,False,False,False,311.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,58,81.049,4982.232,3,HARD,29,False,False,False,False,False,330.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,59,80.796,5063.036,3,HARD,30,False,False,False,False,False,313.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,60,80.996,5144.034,3,HARD,31,False,False,False,False,False,312.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,61,81.022,5225.092,3,HARD,32,False,False,False,False,False,,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,62,80.994,5306.119,3,HARD,33,False,False,False,False,False,313.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,63,81.008,5387.042,3,HARD,34,False,False,False,False,False,312.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,64,81.366,5468.491,3,HARD,35,False,False,False,False,False,311.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,MAG,Haas F1 Team,65,81.45,5549.915,3,HARD,36,False,False,False,False,False,312.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,1,84.415,278.827,1,SOFT,1,False,False,False,False,False,270.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,2,80.215,359.041,1,SOFT,2,False,False,False,False,False,299.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,3,80.243,439.351,1,SOFT,3,False,False,False,False,False,321.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,4,80.702,520.05,1,SOFT,4,False,False,False,False,False,318.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,5,81.134,601.133,1,SOFT,5,False,False,False,False,False,324.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,6,81.056,682.162,1,SOFT,6,False,False,False,False,False,320.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,7,81.293,763.45,1,SOFT,7,False,False,False,False,False,319.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,8,81.443,844.985,1,SOFT,8,False,False,False,False,False,320.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,9,81.143,925.987,1,SOFT,9,False,False,False,False,False,322.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,10,81.223,1007.313,1,SOFT,10,False,False,False,False,False,,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,11,81.285,1088.487,1,SOFT,11,False,False,False,False,False,323.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,12,81.354,1169.912,1,SOFT,12,False,False,False,False,False,324.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,13,81.432,1251.372,1,SOFT,13,False,False,False,False,False,,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,14,81.66,1332.97,1,SOFT,14,False,False,False,False,False,304.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,15,81.541,1414.582,1,SOFT,15,False,False,False,False,False,,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,16,80.471,1494.9,1,SOFT,16,False,False,False,False,False,321.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,17,80.908,1575.997,1,SOFT,17,False,False,False,False,False,300.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,18,80.447,1656.274,1,SOFT,18,False,False,False,False,False,298.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,19,80.635,1736.891,1,SOFT,19,False,False,False,False,False,300.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,20,80.816,1817.898,1,SOFT,20,False,False,False,False,False,299.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,21,80.907,1898.663,1,SOFT,21,False,False,False,False,False,301.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,22,80.928,1979.643,1,SOFT,22,False,False,False,False,False,300.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,23,85.185,2064.901,1,SOFT,23,True,False,False,False,False,303.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,24,97.673,2162.406,2,MEDIUM,1,False,True,False,False,False,250.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,25,78.503,2240.989,2,MEDIUM,2,False,False,False,False,False,304.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,26,79.856,2320.843,2,MEDIUM,3,False,False,False,False,False,328.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,27,79.317,2400.122,2,MEDIUM,4,False,False,False,False,False,327.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,28,79.835,2480.002,2,MEDIUM,5,False,False,False,False,False,306.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,29,79.72,2559.701,2,MEDIUM,6,False,False,False,False,False,,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,30,79.389,2639.056,2,MEDIUM,7,False,False,False,False,False,327.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,31,80.145,2719.332,2,MEDIUM,8,False,False,False,False,False,332.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,32,79.868,2799.093,2,MEDIUM,9,False,False,False,False,False,329.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,33,80.09,2879.225,2,MEDIUM,10,False,False,False,False,False,307.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,34,79.855,2959.036,2,MEDIUM,11,False,False,False,False,False,329.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,35,80.478,3039.525,2,MEDIUM,12,False,False,False,False,False,331.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,36,79.447,3118.943,2,MEDIUM,13,False,False,False,False,False,301.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,37,79.225,3198.299,2,MEDIUM,14,False,False,False,False,False,306.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,38,79.307,3277.557,2,MEDIUM,15,False,False,False,False,False,308.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,39,79.215,3356.774,2,MEDIUM,16,False,False,False,False,False,307.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,40,79.745,3436.598,2,MEDIUM,17,False,False,False,False,False,309.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,41,78.911,3515.448,2,MEDIUM,18,False,False,False,False,False,330.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,42,79.511,3594.979,2,MEDIUM,19,False,False,False,False,False,307.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,43,79.499,3674.514,2,MEDIUM,20,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,44,79.457,3753.972,2,MEDIUM,21,False,False,False,False,False,330.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,45,78.754,3832.651,2,MEDIUM,22,False,False,False,False,False,319.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,46,79.419,3911.99,2,MEDIUM,23,False,False,False,False,False,299.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,47,82.986,3995.027,2,MEDIUM,24,True,False,False,False,False,300.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,48,97.126,4092.1,3,SOFT,4,False,True,False,False,False,252.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,49,77.377,4169.574,3,SOFT,5,False,False,False,False,False,319.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,50,77.94,4247.535,3,SOFT,6,False,False,False,False,False,299.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,51,77.115,4324.689,3,SOFT,7,False,False,False,False,False,326.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,52,77.654,4402.376,3,SOFT,8,False,False,False,False,False,300.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,53,77.914,4480.232,3,SOFT,9,False,False,False,False,False,303.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,54,77.987,4558.272,3,SOFT,10,False,False,False,False,False,305.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,55,78.363,4636.562,3,SOFT,11,False,False,False,False,False,309.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,56,77.627,4714.222,3,SOFT,12,False,False,False,False,False,329.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,57,77.893,4792.008,3,SOFT,13,False,False,False,False,False,306.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,58,78.259,4870.339,3,SOFT,14,False,False,False,False,False,309.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,59,77.945,4948.194,3,SOFT,15,False,False,False,False,False,304.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,60,78.271,5026.508,3,SOFT,16,False,False,False,False,False,309.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,61,77.805,5104.413,3,SOFT,17,False,False,False,False,False,329.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,62,78.08,5182.467,3,SOFT,18,False,False,False,False,False,307.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,63,78.174,5260.519,3,SOFT,19,False,False,False,False,False,309.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,64,78.282,5338.964,3,SOFT,20,False,False,False,False,False,308.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,65,78.773,5417.642,3,SOFT,21,False,False,False,False,False,309.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,NOR,McLaren,66,79.682,5497.381,3,SOFT,22,False,False,False,False,False,310.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,1,87.846,282.258,1,SOFT,4,False,False,False,False,False,284.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,2,82.017,364.274,1,SOFT,5,False,False,False,False,False,305.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,3,80.809,445.193,1,SOFT,6,False,False,False,False,False,325.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,4,81.255,526.444,1,SOFT,7,False,False,False,False,False,,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,5,81.536,607.876,1,SOFT,8,False,False,False,False,False,304.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,6,81.29,689.233,1,SOFT,9,False,False,False,False,False,302.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,7,81.593,770.806,1,SOFT,10,False,False,False,False,False,,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,8,81.784,852.583,1,SOFT,11,False,False,False,False,False,,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,9,81.79,934.355,1,SOFT,12,False,False,False,False,False,,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,10,81.756,1016.071,1,SOFT,13,False,False,False,False,False,,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,11,81.875,1098.071,1,SOFT,14,False,False,False,False,False,303.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,12,81.905,1179.969,1,SOFT,15,False,False,False,False,False,,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,13,86.687,1266.557,1,SOFT,16,True,False,False,False,False,301.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,14,98.526,1365.106,2,MEDIUM,1,False,True,False,False,False,248.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,15,79.883,1445.021,2,MEDIUM,2,False,False,False,False,False,321.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,16,80.224,1525.201,2,MEDIUM,3,False,False,False,False,False,324.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,17,81.541,1606.859,2,MEDIUM,4,False,False,False,False,False,301.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,18,80.571,1687.373,2,MEDIUM,5,False,False,False,False,False,326.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,19,81.026,1768.336,2,MEDIUM,6,False,False,False,False,False,304.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,20,80.662,1849.077,2,MEDIUM,7,False,False,False,False,False,302.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,21,80.768,1929.91,2,MEDIUM,8,False,False,False,False,False,303.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,22,80.734,2010.554,2,MEDIUM,9,False,False,False,False,False,304.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,23,80.949,2091.427,2,MEDIUM,10,False,False,False,False,False,305.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,24,80.57,2172.039,2,MEDIUM,11,False,False,False,False,False,303.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,25,81.357,2253.435,2,MEDIUM,12,False,False,False,False,False,,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,26,81.033,2334.527,2,MEDIUM,13,False,False,False,False,False,306.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,27,81.269,2415.682,2,MEDIUM,14,False,False,False,False,False,303.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,28,81.644,2497.329,2,MEDIUM,15,False,False,False,False,False,302.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,29,82.216,2579.529,2,MEDIUM,16,False,False,False,False,False,301.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,30,83.348,2662.911,2,MEDIUM,17,False,False,False,False,False,305.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,31,81.776,2744.691,2,MEDIUM,18,False,False,False,False,False,,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,32,81.194,2825.812,2,MEDIUM,19,False,False,False,False,False,302.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,33,81.433,2907.364,2,MEDIUM,20,False,False,False,False,False,,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,34,81.479,2988.892,2,MEDIUM,21,False,False,False,False,False,304.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,35,81.702,3070.579,2,MEDIUM,22,False,False,False,False,False,303.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,36,81.423,3151.922,2,MEDIUM,23,False,False,False,False,False,302.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,37,85.378,3237.335,2,MEDIUM,24,True,False,False,False,False,,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,38,97.672,3334.918,3,HARD,1,False,True,False,False,False,251.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,39,81.476,3416.526,3,HARD,2,False,False,False,False,False,306.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,40,79.592,3496.007,3,HARD,3,False,False,False,False,False,322.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,41,79.889,3575.863,3,HARD,4,False,False,False,False,False,302.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,42,79.705,3655.687,3,HARD,5,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,43,79.626,3735.127,3,HARD,6,False,False,False,False,False,303.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,44,79.81,3815.132,3,HARD,7,False,False,False,False,False,302.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,45,79.706,3894.744,3,HARD,8,False,False,False,False,False,301.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,46,79.525,3974.261,3,HARD,9,False,False,False,False,False,319.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,47,79.802,4054.067,3,HARD,10,False,False,False,False,False,297.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,48,79.468,4133.676,3,HARD,11,False,False,False,False,False,296.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,49,79.614,4213.276,3,HARD,12,False,False,False,False,False,297.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,50,79.601,4292.761,3,HARD,13,False,False,False,False,False,299.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,51,80.01,4372.711,3,HARD,14,False,False,False,False,False,301.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,52,79.321,4452.105,3,HARD,15,False,False,False,False,False,,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,53,79.061,4531.226,3,HARD,16,False,False,False,False,False,302.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,54,78.982,4610.229,3,HARD,17,False,False,False,False,False,304.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,55,79.284,4689.485,3,HARD,18,False,False,False,False,False,,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,56,79.26,4768.796,3,HARD,19,False,False,False,False,False,302.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,57,79.324,4848.052,3,HARD,20,False,False,False,False,False,304.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,58,79.564,4927.684,3,HARD,21,False,False,False,False,False,302.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,59,79.796,5007.477,3,HARD,22,False,False,False,False,False,305.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,60,79.896,5087.321,3,HARD,23,False,False,False,False,False,,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,61,80.041,5167.373,3,HARD,24,False,False,False,False,False,306.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,62,79.687,5247.1,3,HARD,25,False,False,False,False,False,303.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,63,79.587,5326.679,3,HARD,26,False,False,False,False,False,,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,64,79.751,5406.466,3,HARD,27,False,False,False,False,False,304.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,65,79.94,5486.339,3,HARD,28,False,False,False,False,False,,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,OCO,Alpine,66,80.663,5567.031,3,HARD,29,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,1,89.141,283.553,1,SOFT,4,False,False,False,False,False,281.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,2,82.234,365.786,1,SOFT,5,False,False,False,False,False,302.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,3,81.849,447.503,1,SOFT,6,False,False,False,False,False,328.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,4,82.097,529.685,1,SOFT,7,False,False,False,False,False,301.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,5,81.655,611.259,1,SOFT,8,False,False,False,False,False,303.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,6,81.526,692.799,1,SOFT,9,False,False,False,False,False,,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,7,81.49,774.443,1,SOFT,10,False,False,False,False,False,304.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,8,82.01,856.29,1,SOFT,11,False,False,False,False,False,,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,9,81.481,937.817,1,SOFT,12,False,False,False,False,False,305.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,10,81.68,1019.507,1,SOFT,13,False,False,False,False,False,,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,11,81.734,1101.164,1,SOFT,14,False,False,False,False,False,327.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,12,81.983,1183.205,1,SOFT,15,False,False,False,False,False,331.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,13,85.586,1268.675,1,SOFT,16,True,False,False,False,False,302.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,14,99.168,1367.927,2,SOFT,4,False,True,False,False,False,250.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,15,80.167,1448.054,2,SOFT,5,False,False,False,False,False,299.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,16,80.583,1528.665,2,SOFT,6,False,False,False,False,False,306.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,17,80.42,1609.204,2,SOFT,7,False,False,False,False,False,326.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,18,80.162,1689.251,2,SOFT,8,False,False,False,False,False,305.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,19,80.559,1769.825,2,SOFT,9,False,False,False,False,False,,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,20,80.661,1850.459,2,SOFT,10,False,False,False,False,False,306.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,21,81.033,1931.482,2,SOFT,11,False,False,False,False,False,305.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,22,81.205,2012.826,2,SOFT,12,False,False,False,False,False,,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,23,81.082,2093.715,2,SOFT,13,False,False,False,False,False,306.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,24,80.609,2174.422,2,SOFT,14,False,False,False,False,False,304.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,25,80.593,2254.992,2,SOFT,15,False,False,False,False,False,303.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,26,80.821,2335.874,2,SOFT,16,False,False,False,False,False,307.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,27,80.918,2416.759,2,SOFT,17,False,False,False,False,False,306.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,28,82.179,2498.979,2,SOFT,18,False,False,False,False,False,305.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,29,81.234,2580.14,2,SOFT,19,False,False,False,False,False,307.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,30,81.403,2661.682,2,SOFT,20,False,False,False,False,False,330.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,31,85.42,2746.966,2,SOFT,21,True,False,False,False,False,303.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,32,96.491,2843.546,3,MEDIUM,1,False,True,False,False,False,250.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,33,78.652,2922.241,3,MEDIUM,2,False,False,False,False,False,305.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,34,79.548,3001.681,3,MEDIUM,3,False,False,False,False,False,329.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,35,79.316,3081.045,3,MEDIUM,4,False,False,False,False,False,330.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,36,78.936,3159.924,3,MEDIUM,5,False,False,False,False,False,328.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,37,79.059,3238.965,3,MEDIUM,6,False,False,False,False,False,304.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,38,79.488,3318.538,3,MEDIUM,7,False,False,False,False,False,307.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,39,78.99,3397.391,3,MEDIUM,8,False,False,False,False,False,324.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,40,79.367,3476.823,3,MEDIUM,9,False,False,False,False,False,302.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,41,79.387,3556.147,3,MEDIUM,10,False,False,False,False,False,303.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,42,79.072,3635.32,3,MEDIUM,11,False,False,False,False,False,302.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,43,79.48,3714.844,3,MEDIUM,12,False,False,False,False,False,,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,44,79.617,3794.455,3,MEDIUM,13,False,False,False,False,False,,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,45,79.469,3873.971,3,MEDIUM,14,False,False,False,False,False,300.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,46,79.406,3953.332,3,MEDIUM,15,False,False,False,False,False,302.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,47,79.846,4033.119,3,MEDIUM,16,False,False,False,False,False,301.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,48,79.811,4112.799,3,MEDIUM,17,False,False,False,False,False,302.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,49,83.203,4196.179,3,MEDIUM,18,True,False,False,False,False,303.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,50,96.99,4293.258,4,SOFT,4,False,True,False,False,False,252.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,51,77.785,4370.909,4,SOFT,5,False,False,False,False,False,323.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,52,78.373,4449.231,4,SOFT,6,False,False,False,False,False,297.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,53,78.29,4527.814,4,SOFT,7,False,False,False,False,False,299.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,54,78.43,4606.022,4,SOFT,8,False,False,False,False,False,302.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,55,78.54,4684.627,4,SOFT,9,False,False,False,False,False,304.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,56,78.572,4763.21,4,SOFT,10,False,False,False,False,False,,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,57,78.935,4842.044,4,SOFT,11,False,False,False,False,False,305.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,58,79.305,4921.363,4,SOFT,12,False,False,False,False,False,304.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,59,79.193,5000.712,4,SOFT,13,False,False,False,False,False,305.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,60,79.017,5079.541,4,SOFT,14,False,False,False,False,False,,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,61,78.772,5158.396,4,SOFT,15,False,False,False,False,False,,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,62,78.934,5237.325,4,SOFT,16,False,False,False,False,False,306.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,63,79.688,5316.979,4,SOFT,17,False,False,False,False,False,,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,64,79.357,5396.404,4,SOFT,18,False,False,False,False,False,307.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,65,79.124,5475.488,4,SOFT,19,False,False,False,False,False,308.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PER,Red Bull Racing,66,79.151,5554.59,4,SOFT,20,False,False,False,False,False,333.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,1,87.568,281.98,1,SOFT,4,False,False,False,False,False,278.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,2,81.607,363.586,1,SOFT,5,False,False,False,False,False,301.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,3,80.765,444.214,1,SOFT,6,False,False,False,False,False,323.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,4,80.797,525.145,1,SOFT,7,False,False,False,False,False,321.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,5,81.215,606.291,1,SOFT,8,False,False,False,False,False,304.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,6,81.056,687.445,1,SOFT,9,False,False,False,False,False,299.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,7,81.416,768.713,1,SOFT,10,False,False,False,False,False,301.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,8,81.53,850.377,1,SOFT,11,False,False,False,False,False,303.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,9,81.5,931.767,1,SOFT,12,False,False,False,False,False,324.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,10,82.049,1013.913,1,SOFT,13,False,False,False,False,False,328.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,11,81.486,1095.416,1,SOFT,14,False,False,False,False,False,323.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,12,81.683,1177.015,1,SOFT,15,False,False,False,False,False,306.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,13,81.918,1258.968,1,SOFT,16,False,False,False,False,False,305.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,14,82.316,1341.363,1,SOFT,17,False,False,False,False,False,303.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,15,81.492,1422.682,1,SOFT,18,False,False,False,False,False,300.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,16,81.532,1504.284,1,SOFT,19,False,False,False,False,False,302.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,17,81.853,1586.14,1,SOFT,20,False,False,False,False,False,297.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,18,81.505,1667.562,1,SOFT,21,False,False,False,False,False,298.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,19,81.727,1749.313,1,SOFT,22,False,False,False,False,False,299.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,20,81.883,1831.201,1,SOFT,23,False,False,False,False,False,298.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,21,87.064,1918.273,1,SOFT,24,True,False,False,False,False,300.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,22,99.096,2017.459,2,MEDIUM,1,False,True,False,False,False,252.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,23,79.833,2097.376,2,MEDIUM,2,False,False,False,False,False,301.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,24,79.991,2177.31,2,MEDIUM,3,False,False,False,False,False,300.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,25,79.731,2257.018,2,MEDIUM,4,False,False,False,False,False,302.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,26,79.853,2336.823,2,MEDIUM,5,False,False,False,False,False,306.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,27,80.231,2416.994,2,MEDIUM,6,False,False,False,False,False,327.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,28,80.626,2497.787,2,MEDIUM,7,False,False,False,False,False,325.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,29,79.823,2577.436,2,MEDIUM,8,False,False,False,False,False,323.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,30,80.01,2657.486,2,MEDIUM,9,False,False,False,False,False,305.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,31,79.875,2737.36,2,MEDIUM,10,False,False,False,False,False,,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,32,80.425,2817.816,2,MEDIUM,11,False,False,False,False,False,306.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,33,80.543,2898.37,2,MEDIUM,12,False,False,False,False,False,308.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,34,79.656,2978.094,2,MEDIUM,13,False,False,False,False,False,331.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,35,79.796,3057.776,2,MEDIUM,14,False,False,False,False,False,303.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,36,79.728,3137.487,2,MEDIUM,15,False,False,False,False,False,,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,37,79.661,3217.313,2,MEDIUM,16,False,False,False,False,False,305.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,38,79.785,3296.872,2,MEDIUM,17,False,False,False,False,False,,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,39,79.78,3376.836,2,MEDIUM,18,False,False,False,False,False,307.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,40,79.659,3456.448,2,MEDIUM,19,False,False,False,False,False,306.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,41,79.622,3536.065,2,MEDIUM,20,False,False,False,False,False,,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,42,79.93,3616.029,2,MEDIUM,21,False,False,False,False,False,308.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,43,80.15,3696.201,2,MEDIUM,22,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,44,79.925,3776.089,2,MEDIUM,23,False,False,False,False,False,302.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,45,80.667,3856.631,2,MEDIUM,24,False,False,False,False,False,300.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,46,84.084,3940.914,2,MEDIUM,25,True,False,False,False,False,304.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,47,97.819,4038.686,3,SOFT,4,False,True,False,False,False,251.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,48,79.317,4118.014,3,SOFT,5,False,False,False,False,False,295.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,49,78.159,4196.113,3,SOFT,6,False,False,False,False,False,296.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,50,78.257,4274.347,3,SOFT,7,False,False,False,False,False,302.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,51,78.181,4352.502,3,SOFT,8,False,False,False,False,False,303.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,52,78.492,4431.005,3,SOFT,9,False,False,False,False,False,,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,53,78.223,4509.28,3,SOFT,10,False,False,False,False,False,299.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,54,78.354,4587.64,3,SOFT,11,False,False,False,False,False,303.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,55,77.941,4665.673,3,SOFT,12,False,False,False,False,False,305.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,56,77.874,4743.449,3,SOFT,13,False,False,False,False,False,303.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,57,78.293,4821.721,3,SOFT,14,False,False,False,False,False,307.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,58,78.483,4900.217,3,SOFT,15,False,False,False,False,False,308.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,59,78.337,4978.555,3,SOFT,16,False,False,False,False,False,309.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,60,78.129,5056.707,3,SOFT,17,False,False,False,False,False,304.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,61,77.977,5134.736,3,SOFT,18,False,False,False,False,False,305.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,62,78.186,5212.925,3,SOFT,19,False,False,False,False,False,304.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,63,78.587,5291.428,3,SOFT,20,False,False,False,False,False,306.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,64,78.84,5370.207,3,SOFT,21,False,False,False,False,False,,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,65,79.297,5449.532,3,SOFT,22,False,False,False,False,False,307.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,PIA,McLaren,66,79.294,5528.865,3,SOFT,23,False,False,False,False,False,306.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,1,92.225,286.637,1,SOFT,1,False,False,False,False,False,298.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,2,82.721,369.357,1,SOFT,2,False,False,False,False,False,316.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,3,82.652,451.924,1,SOFT,3,False,False,False,False,False,336.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,4,82.374,534.411,1,SOFT,4,False,False,False,False,False,332.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,5,83.005,617.356,1,SOFT,5,False,False,False,False,False,333.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,6,82.92,700.275,1,SOFT,6,False,False,False,False,False,330.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,7,83.484,783.67,1,SOFT,7,False,False,False,False,False,331.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,8,83.066,866.82,1,SOFT,8,False,False,False,False,False,329.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,9,82.436,949.372,1,SOFT,9,False,False,False,False,False,327.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,10,81.77,1031.005,1,SOFT,10,False,False,False,False,False,323.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,11,82.102,1113.016,1,SOFT,11,False,False,False,False,False,303.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,12,81.857,1194.922,1,SOFT,12,False,False,False,False,False,305.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,13,81.974,1276.829,1,SOFT,13,False,False,False,False,False,304.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,14,81.902,1358.806,1,SOFT,14,False,False,False,False,False,303.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,15,82.433,1441.246,1,SOFT,15,False,False,False,False,False,,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,16,86.262,1527.492,1,SOFT,16,True,False,False,False,False,305.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,17,100.003,1627.506,2,MEDIUM,1,False,True,False,False,False,251.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,18,80.858,1708.455,2,MEDIUM,2,False,False,False,False,False,305.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,19,81.415,1789.858,2,MEDIUM,3,False,False,False,False,False,306.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,20,81.881,1871.62,2,MEDIUM,4,False,False,False,False,False,,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,21,80.964,1952.693,2,MEDIUM,5,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,22,80.849,2033.557,2,MEDIUM,6,False,False,False,False,False,310.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,23,81.358,2114.782,2,MEDIUM,7,False,False,False,False,False,307.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,24,81.123,2196.041,2,MEDIUM,8,False,False,False,False,False,306.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,25,81.122,2277.21,2,MEDIUM,9,False,False,False,False,False,307.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,26,81.337,2358.492,2,MEDIUM,10,False,False,False,False,False,306.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,27,81.663,2440.128,2,MEDIUM,11,False,False,False,False,False,308.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,28,81.558,2521.754,2,MEDIUM,12,False,False,False,False,False,305.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,29,81.43,2603.172,2,MEDIUM,13,False,False,False,False,False,308.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,30,81.052,2684.132,2,MEDIUM,14,False,False,False,False,False,324.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,31,81.542,2765.729,2,MEDIUM,15,False,False,False,False,False,305.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,32,81.578,2847.315,2,MEDIUM,16,False,False,False,False,False,306.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,33,81.117,2928.424,2,MEDIUM,17,False,False,False,False,False,307.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,34,81.033,3009.464,2,MEDIUM,18,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,35,81.17,3090.57,2,MEDIUM,19,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,36,81.059,3171.652,2,MEDIUM,20,False,False,False,False,False,306.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,37,81.14,3252.855,2,MEDIUM,21,False,False,False,False,False,,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,38,81.188,3334.008,2,MEDIUM,22,False,False,False,False,False,307.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,39,82.205,3416.171,2,MEDIUM,23,False,False,False,False,False,306.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,40,82.415,3498.511,2,MEDIUM,24,False,False,False,False,False,304.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,41,81.54,3580.153,2,MEDIUM,25,False,False,False,False,False,306.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,42,84.891,3665.026,2,MEDIUM,26,True,False,False,False,False,305.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,43,101.373,3766.386,3,HARD,1,False,True,False,False,False,252.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,44,81.034,3847.379,3,HARD,2,False,False,False,False,False,306.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,45,82.469,3929.844,3,HARD,3,False,False,False,False,False,304.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,46,80.945,4010.921,3,HARD,4,False,False,False,False,False,306.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,47,80.93,4091.792,3,HARD,5,False,False,False,False,False,302.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,48,83.762,4175.476,3,HARD,6,False,False,False,False,False,297.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,49,81.912,4257.45,3,HARD,7,False,False,False,False,False,304.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,50,79.843,4337.609,3,HARD,8,False,False,False,False,False,328.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,51,79.585,4416.951,3,HARD,9,False,False,False,False,False,305.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,52,81.027,4497.95,3,HARD,10,False,False,False,False,False,255.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,53,80.084,4578.15,3,HARD,11,False,False,False,False,False,309.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,54,80.277,4658.323,3,HARD,12,False,False,False,False,False,,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,55,80.999,4739.331,3,HARD,13,False,False,False,False,False,331.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,56,80.128,4819.39,3,HARD,14,False,False,False,False,False,326.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,57,79.768,4899.108,3,HARD,15,False,False,False,False,False,332.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,58,81.548,4980.618,3,HARD,16,False,False,False,False,False,308.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,59,79.996,5060.769,3,HARD,17,False,False,False,False,False,314.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,60,79.556,5140.428,3,HARD,18,False,False,False,False,False,330.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,61,79.45,5219.64,3,HARD,19,False,False,False,False,False,306.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,62,79.8,5299.542,3,HARD,20,False,False,False,False,False,,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,63,79.87,5379.481,3,HARD,21,False,False,False,False,False,305.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,64,80.194,5459.571,3,HARD,22,False,False,False,False,False,306.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RIC,RB,65,79.527,5539.104,3,HARD,23,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,1,83.042,277.454,1,SOFT,4,False,False,False,False,False,290.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,2,79.857,357.31,1,SOFT,5,False,False,False,False,False,293.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,3,81.103,438.41,1,SOFT,6,False,False,False,False,False,294.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,4,80.843,519.19,1,SOFT,7,False,False,False,False,False,300.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,5,80.923,600.161,1,SOFT,8,False,False,False,False,False,303.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,6,81.07,681.254,1,SOFT,9,False,False,False,False,False,297.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,7,81.306,762.503,1,SOFT,10,False,False,False,False,False,300.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,8,81.436,843.936,1,SOFT,11,False,False,False,False,False,302.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,9,81.168,925.085,1,SOFT,12,False,False,False,False,False,301.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,10,81.308,1006.429,1,SOFT,13,False,False,False,False,False,302.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,11,81.061,1087.452,1,SOFT,14,False,False,False,False,False,,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,12,81.383,1168.884,1,SOFT,15,False,False,False,False,False,,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,13,81.365,1250.214,1,SOFT,16,False,False,False,False,False,303.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,14,81.482,1331.638,1,SOFT,17,False,False,False,False,False,302.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,15,85.364,1417.175,1,SOFT,18,True,False,False,False,False,,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,16,100.24,1517.291,2,MEDIUM,1,False,True,False,False,False,252.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,17,80.277,1597.646,2,MEDIUM,2,False,False,False,False,False,303.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,18,79.511,1676.991,2,MEDIUM,3,False,False,False,False,False,301.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,19,79.539,1756.627,2,MEDIUM,4,False,False,False,False,False,303.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,20,79.972,1836.781,2,MEDIUM,5,False,False,False,False,False,304.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,21,80.34,1916.965,2,MEDIUM,6,False,False,False,False,False,305.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,22,80.093,1997.051,2,MEDIUM,7,False,False,False,False,False,304.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,23,79.871,2076.921,2,MEDIUM,8,False,False,False,False,False,307.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,24,80.032,2156.982,2,MEDIUM,9,False,False,False,False,False,306.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,25,79.772,2236.673,2,MEDIUM,10,False,False,False,False,False,305.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,26,80.279,2316.93,2,MEDIUM,11,False,False,False,False,False,307.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,27,80.222,2397.165,2,MEDIUM,12,False,False,False,False,False,304.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,28,80.201,2477.475,2,MEDIUM,13,False,False,False,False,False,,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,29,80.027,2557.481,2,MEDIUM,14,False,False,False,False,False,303.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,30,80.038,2637.542,2,MEDIUM,15,False,False,False,False,False,306.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,31,80.338,2717.834,2,MEDIUM,16,False,False,False,False,False,307.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,32,80.301,2798.194,2,MEDIUM,17,False,False,False,False,False,306.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,33,80.178,2878.364,2,MEDIUM,18,False,False,False,False,False,308.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,34,80.204,2958.584,2,MEDIUM,19,False,False,False,False,False,309.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,35,82.129,3040.644,2,MEDIUM,20,False,False,False,False,False,308.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,36,84.372,3124.985,2,MEDIUM,21,True,False,False,False,False,322.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,37,99.351,3224.335,3,HARD,1,False,True,False,False,False,252.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,38,78.367,3302.718,3,HARD,2,False,False,False,False,False,327.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,39,78.964,3381.649,3,HARD,3,False,False,False,False,False,307.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,40,79.428,3461.213,3,HARD,4,False,False,False,False,False,306.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,41,78.982,3540.058,3,HARD,5,False,False,False,False,False,307.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,42,79.033,3619.166,3,HARD,6,False,False,False,False,False,308.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,43,79.306,3698.434,3,HARD,7,False,False,False,False,False,309.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,44,79.019,3777.447,3,HARD,8,False,False,False,False,False,328.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,45,79.632,3857.02,3,HARD,9,False,False,False,False,False,309.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,46,78.291,3935.419,3,HARD,10,False,False,False,False,False,329.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,47,78.486,4013.844,3,HARD,11,False,False,False,False,False,300.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,48,80.06,4093.975,3,HARD,12,False,False,False,False,False,306.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,49,78.681,4172.604,3,HARD,13,False,False,False,False,False,309.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,50,78.29,4250.92,3,HARD,14,False,False,False,False,False,305.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,51,78.726,4329.671,3,HARD,15,False,False,False,False,False,311.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,52,80.241,4409.877,3,HARD,16,False,False,False,False,False,312.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,53,78.863,4488.76,3,HARD,17,False,False,False,False,False,325.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,54,78.86,4567.625,3,HARD,18,False,False,False,False,False,309.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,55,78.572,4646.136,3,HARD,19,False,False,False,False,False,310.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,56,78.792,4725.002,3,HARD,20,False,False,False,False,False,308.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,57,78.956,4803.961,3,HARD,21,False,False,False,False,False,309.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,58,78.641,4882.691,3,HARD,22,False,False,False,False,False,,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,59,78.877,4961.384,3,HARD,23,False,False,False,False,False,,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,60,79.108,5040.566,3,HARD,24,False,False,False,False,False,311.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,61,79.267,5119.853,3,HARD,25,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,62,79.304,5199.084,3,HARD,26,False,False,False,False,False,309.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,63,79.52,5278.724,3,HARD,27,False,False,False,False,False,312.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,64,79.372,5358.008,3,HARD,28,False,False,False,False,False,,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,65,79.634,5437.675,3,HARD,29,False,False,False,False,False,313.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,RUS,Mercedes,66,79.751,5517.346,3,HARD,30,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,1,86.541,280.953,1,SOFT,1,False,False,False,False,False,281.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,2,80.666,361.618,1,SOFT,2,False,False,False,False,False,304.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,3,80.046,441.714,1,SOFT,3,False,False,False,False,False,334.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,4,80.626,522.12,1,SOFT,4,False,False,False,False,False,304.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,5,80.8,603.123,1,SOFT,5,False,False,False,False,False,306.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,6,81.217,684.392,1,SOFT,6,False,False,False,False,False,303.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,7,81.146,765.411,1,SOFT,7,False,False,False,False,False,307.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,8,81.309,846.832,1,SOFT,8,False,False,False,False,False,311.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,9,81.221,927.947,1,SOFT,9,False,False,False,False,False,309.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,10,81.052,1009.053,1,SOFT,10,False,False,False,False,False,328.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,11,81.459,1090.52,1,SOFT,11,False,False,False,False,False,331.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,12,81.62,1172.032,1,SOFT,12,False,False,False,False,False,328.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,13,81.163,1253.291,1,SOFT,13,False,False,False,False,False,,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,14,81.646,1334.988,1,SOFT,14,False,False,False,False,False,,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,15,85.427,1420.407,1,SOFT,15,True,False,False,False,False,,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,16,98.064,1518.395,2,MEDIUM,1,False,True,False,False,False,258.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,17,80.665,1599.122,2,MEDIUM,2,False,False,False,False,False,330.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,18,79.85,1678.912,2,MEDIUM,3,False,False,False,False,False,326.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,19,81.079,1759.977,2,MEDIUM,4,False,False,False,False,False,306.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,20,80.0,1839.991,2,MEDIUM,5,False,False,False,False,False,307.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,21,80.125,1920.089,2,MEDIUM,6,False,False,False,False,False,308.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,22,79.952,2000.074,2,MEDIUM,7,False,False,False,False,False,,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,23,80.261,2080.3,2,MEDIUM,8,False,False,False,False,False,310.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,24,80.205,2160.493,2,MEDIUM,9,False,False,False,False,False,307.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,25,79.709,2240.272,2,MEDIUM,10,False,False,False,False,False,306.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,26,80.273,2320.374,2,MEDIUM,11,False,False,False,False,False,310.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,27,81.788,2402.259,2,MEDIUM,12,False,False,False,False,False,305.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,28,80.458,2482.812,2,MEDIUM,13,False,False,False,False,False,306.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,29,80.061,2562.785,2,MEDIUM,14,False,False,False,False,False,304.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,30,80.376,2643.164,2,MEDIUM,15,False,False,False,False,False,308.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,31,80.642,2723.973,2,MEDIUM,16,False,False,False,False,False,,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,32,80.183,2804.091,2,MEDIUM,17,False,False,False,False,False,307.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,33,80.145,2884.186,2,MEDIUM,18,False,False,False,False,False,308.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,34,80.231,2964.458,2,MEDIUM,19,False,False,False,False,False,309.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,35,80.708,3045.173,2,MEDIUM,20,False,False,False,False,False,308.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,36,83.733,3128.796,2,MEDIUM,21,True,False,False,False,False,309.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,37,98.592,3227.391,3,HARD,1,False,True,False,False,False,255.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,38,78.86,3306.332,3,HARD,2,False,False,False,False,False,309.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,39,78.539,3384.821,3,HARD,3,False,False,False,False,False,326.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,40,79.184,3464.029,3,HARD,4,False,False,False,False,False,306.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,41,78.909,3543.02,3,HARD,5,False,False,False,False,False,308.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,42,79.135,3622.028,3,HARD,6,False,False,False,False,False,,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,43,79.157,3701.273,3,HARD,7,False,False,False,False,False,,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,44,79.192,3780.412,3,HARD,8,False,False,False,False,False,311.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,45,79.136,3859.572,3,HARD,9,False,False,False,False,False,326.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,46,80.032,3939.679,3,HARD,10,False,False,False,False,False,310.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,47,79.02,4018.495,3,HARD,11,False,False,False,False,False,308.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,48,79.318,4097.924,3,HARD,12,False,False,False,False,False,307.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,49,79.52,4177.357,3,HARD,13,False,False,False,False,False,308.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,50,79.202,4256.745,3,HARD,14,False,False,False,False,False,307.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,51,79.046,4335.777,3,HARD,15,False,False,False,False,False,308.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,52,79.046,4414.708,3,HARD,16,False,False,False,False,False,305.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,53,79.259,4493.941,3,HARD,17,False,False,False,False,False,308.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,54,79.017,4573.021,3,HARD,18,False,False,False,False,False,309.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,55,81.334,4654.383,3,HARD,19,False,False,False,False,False,261.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,56,79.047,4733.443,3,HARD,20,False,False,False,False,False,308.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,57,78.97,4812.398,3,HARD,21,False,False,False,False,False,,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,58,78.871,4891.211,3,HARD,22,False,False,False,False,False,307.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,59,78.978,4970.152,3,HARD,23,False,False,False,False,False,,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,60,79.115,5049.332,3,HARD,24,False,False,False,False,False,309.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,61,79.151,5128.517,3,HARD,25,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,62,79.365,5207.795,3,HARD,26,False,False,False,False,False,307.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,63,79.479,5287.434,3,HARD,27,False,False,False,False,False,308.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,64,79.535,5366.912,3,HARD,28,False,False,False,False,False,307.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,65,79.612,5446.418,3,HARD,29,False,False,False,False,False,308.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAI,Ferrari,66,79.643,5526.11,3,HARD,30,False,False,False,False,False,307.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,1,91.865,286.277,1,SOFT,1,False,False,False,False,False,290.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,2,83.613,369.889,1,SOFT,2,False,False,False,False,False,306.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,3,82.491,452.355,1,SOFT,3,False,False,False,False,False,329.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,4,82.557,534.985,1,SOFT,4,False,False,False,False,False,330.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,5,82.869,617.924,1,SOFT,5,False,False,False,False,False,329.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,6,83.637,701.509,1,SOFT,6,False,False,False,False,False,,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,7,83.369,784.948,1,SOFT,7,False,False,False,False,False,,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,8,83.345,868.239,1,SOFT,8,False,False,False,False,False,328.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,9,82.787,951.0,1,SOFT,9,False,False,False,False,False,327.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,10,82.871,1033.836,1,SOFT,10,False,False,False,False,False,326.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,11,82.588,1116.342,1,SOFT,11,False,False,False,False,False,325.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,12,82.461,1198.908,1,SOFT,12,False,False,False,False,False,324.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,13,83.105,1282.005,1,SOFT,13,False,False,False,False,False,305.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,14,86.379,1368.277,1,SOFT,14,True,False,False,False,False,303.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,15,99.619,1468.019,2,MEDIUM,1,False,True,False,False,False,251.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,16,80.908,1548.993,2,MEDIUM,2,False,False,False,False,False,302.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,17,81.077,1630.136,2,MEDIUM,3,False,False,False,False,False,303.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,18,81.379,1711.475,2,MEDIUM,4,False,False,False,False,False,305.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,19,81.554,1792.906,2,MEDIUM,5,False,False,False,False,False,304.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,20,81.622,1874.479,2,MEDIUM,6,False,False,False,False,False,,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,21,81.34,1955.948,2,MEDIUM,7,False,False,False,False,False,303.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,22,81.884,2037.834,2,MEDIUM,8,False,False,False,False,False,305.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,23,81.942,2119.738,2,MEDIUM,9,False,False,False,False,False,306.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,24,83.109,2202.845,2,MEDIUM,10,False,False,False,False,False,305.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,25,82.33,2285.205,2,MEDIUM,11,False,False,False,False,False,326.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,26,82.547,2367.708,2,MEDIUM,12,False,False,False,False,False,305.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,27,82.578,2450.258,2,MEDIUM,13,False,False,False,False,False,303.0,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,28,82.587,2532.879,2,MEDIUM,14,False,False,False,False,False,301.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,29,82.425,2615.27,2,MEDIUM,15,False,False,False,False,False,303.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,30,82.812,2698.08,2,MEDIUM,16,False,False,False,False,False,,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,31,82.721,2780.828,2,MEDIUM,17,False,False,False,False,False,302.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,32,82.444,2863.291,2,MEDIUM,18,False,False,False,False,False,,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,33,82.943,2946.312,2,MEDIUM,19,False,False,False,False,False,306.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,34,85.825,3031.993,2,MEDIUM,20,True,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,35,100.595,3132.644,3,HARD,1,False,True,False,False,False,250.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,36,80.274,3213.004,3,HARD,2,False,False,False,False,False,304.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,37,80.402,3293.341,3,HARD,3,False,False,False,False,False,303.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,38,80.172,3373.593,3,HARD,4,False,False,False,False,False,304.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,39,80.416,3454.121,3,HARD,5,False,False,False,False,False,,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,40,80.448,3534.431,3,HARD,6,False,False,False,False,False,303.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,41,80.747,3615.181,3,HARD,7,False,False,False,False,False,,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,42,82.818,3698.019,3,HARD,8,False,False,False,False,False,278.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,43,82.152,3780.132,3,HARD,9,False,False,False,False,False,305.0,23.9,40.0,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,44,82.888,3862.995,3,HARD,10,False,False,False,False,False,286.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,45,80.945,3943.994,3,HARD,11,False,False,False,False,False,306.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,46,81.041,4024.897,3,HARD,12,False,False,False,False,False,302.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,47,82.298,4107.349,3,HARD,13,False,False,False,False,False,299.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,48,81.033,4188.297,3,HARD,14,False,False,False,False,False,301.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,49,81.073,4269.422,3,HARD,15,False,False,False,False,False,300.0,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,50,80.983,4350.359,3,HARD,16,False,False,False,False,False,303.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,51,81.939,4432.38,3,HARD,17,False,False,False,False,False,300.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,52,81.025,4513.377,3,HARD,18,False,False,False,False,False,304.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,53,81.083,4594.407,3,HARD,19,False,False,False,False,False,,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,54,81.199,4675.634,3,HARD,20,False,False,False,False,False,,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,55,81.966,4757.639,3,HARD,21,False,False,False,False,False,,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,56,82.226,4839.778,3,HARD,22,False,False,False,False,False,295.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,57,82.922,4922.726,3,HARD,23,False,False,False,False,False,304.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,58,81.489,5004.202,3,HARD,24,False,False,False,False,False,306.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,59,81.553,5086.0,3,HARD,25,False,False,False,False,False,305.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,60,84.685,5170.452,3,HARD,26,False,False,False,False,False,302.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,61,81.305,5251.827,3,HARD,27,False,False,False,False,False,308.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,62,81.376,5333.116,3,HARD,28,False,False,False,False,False,305.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,63,81.612,5414.708,3,HARD,29,False,False,False,False,False,,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,SAR,Williams,64,85.203,5499.939,3,HARD,30,False,False,False,False,False,302.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,1,89.938,284.35,1,SOFT,1,False,False,False,False,False,295.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,2,82.587,366.936,1,SOFT,2,False,False,False,False,False,303.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,3,82.004,449.052,1,SOFT,3,False,False,False,False,False,334.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,4,82.128,531.191,1,SOFT,4,False,False,False,False,False,327.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,5,82.263,613.347,1,SOFT,5,False,False,False,False,False,328.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,6,82.13,695.646,1,SOFT,6,False,False,False,False,False,327.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,7,82.416,777.921,1,SOFT,7,False,False,False,False,False,301.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,8,82.359,860.408,1,SOFT,8,False,False,False,False,False,,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,9,81.858,942.224,1,SOFT,9,False,False,False,False,False,302.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,10,81.75,1023.869,1,SOFT,10,False,False,False,False,False,,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,11,81.967,1105.954,1,SOFT,11,False,False,False,False,False,,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,12,82.256,1188.178,1,SOFT,12,False,False,False,False,False,303.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,13,82.185,1270.417,1,SOFT,13,False,False,False,False,False,302.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,14,81.768,1352.056,1,SOFT,14,False,False,False,False,False,300.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,15,81.918,1433.968,1,SOFT,15,False,False,False,False,False,,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,16,81.955,1515.925,1,SOFT,16,False,False,False,False,False,302.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,17,86.896,1602.83,1,SOFT,17,True,False,False,False,False,299.0,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,18,99.122,1702.012,2,MEDIUM,2,False,True,False,False,False,252.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,19,80.615,1782.684,2,MEDIUM,3,False,False,False,False,False,325.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,20,80.783,1863.422,2,MEDIUM,4,False,False,False,False,False,330.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,21,81.212,1944.597,2,MEDIUM,5,False,False,False,False,False,303.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,22,81.328,2026.044,2,MEDIUM,6,False,False,False,False,False,305.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,23,81.366,2107.371,2,MEDIUM,7,False,False,False,False,False,306.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,24,81.568,2188.819,2,MEDIUM,8,False,False,False,False,False,307.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,25,81.131,2270.082,2,MEDIUM,9,False,False,False,False,False,308.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,26,81.092,2351.143,2,MEDIUM,10,False,False,False,False,False,332.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,27,81.3,2432.364,2,MEDIUM,11,False,False,False,False,False,301.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,28,81.244,2513.69,2,MEDIUM,12,False,False,False,False,False,,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,29,81.101,2594.728,2,MEDIUM,13,False,False,False,False,False,305.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,30,81.454,2676.172,2,MEDIUM,14,False,False,False,False,False,306.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,31,81.481,2757.628,2,MEDIUM,15,False,False,False,False,False,,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,32,81.275,2838.963,2,MEDIUM,16,False,False,False,False,False,,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,33,80.972,2919.872,2,MEDIUM,17,False,False,False,False,False,,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,34,81.339,3001.38,2,MEDIUM,18,False,False,False,False,False,307.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,35,82.413,3083.78,2,MEDIUM,19,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,36,81.262,3164.941,2,MEDIUM,20,False,False,False,False,False,308.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,37,85.201,3250.102,2,MEDIUM,21,True,False,False,False,False,306.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,38,100.958,3351.121,3,HARD,2,False,True,False,False,False,253.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,39,80.421,3431.485,3,HARD,3,False,False,False,False,False,304.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,40,80.289,3511.748,3,HARD,4,False,False,False,False,False,310.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,41,80.921,3592.725,3,HARD,5,False,False,False,False,False,327.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,42,80.926,3673.553,3,HARD,6,False,False,False,False,False,304.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,43,81.539,3755.117,3,HARD,7,False,False,False,False,False,276.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,44,81.548,3836.689,3,HARD,8,False,False,False,False,False,306.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,45,80.288,3917.033,3,HARD,9,False,False,False,False,False,299.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,46,80.301,3997.368,3,HARD,10,False,False,False,False,False,303.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,47,79.704,4077.093,3,HARD,11,False,False,False,False,False,301.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,48,79.749,4156.83,3,HARD,12,False,False,False,False,False,302.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,49,79.341,4236.222,3,HARD,13,False,False,False,False,False,301.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,50,79.318,4315.483,3,HARD,14,False,False,False,False,False,303.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,51,79.739,4395.167,3,HARD,15,False,False,False,False,False,301.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,52,81.436,4476.681,3,HARD,16,False,False,False,False,False,300.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,53,79.832,4556.477,3,HARD,17,False,False,False,False,False,306.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,54,79.488,4636.006,3,HARD,18,False,False,False,False,False,305.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,55,80.854,4716.776,3,HARD,19,False,False,False,False,False,303.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,56,79.643,4796.61,3,HARD,20,False,False,False,False,False,305.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,57,79.541,4876.074,3,HARD,21,False,False,False,False,False,,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,58,79.595,4955.587,3,HARD,22,False,False,False,False,False,304.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,59,79.773,5035.318,3,HARD,23,False,False,False,False,False,306.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,60,79.627,5115.052,3,HARD,24,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,61,79.747,5194.699,3,HARD,25,False,False,False,False,False,305.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,62,81.533,5276.208,3,HARD,26,False,False,False,False,False,289.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,63,80.02,5356.274,3,HARD,27,False,False,False,False,False,309.0,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,64,80.139,5436.505,3,HARD,28,False,False,False,False,False,308.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,STR,Aston Martin,65,83.904,5520.32,3,HARD,29,False,False,False,False,False,305.0,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,1,90.554,284.966,1,SOFT,1,False,False,False,False,False,312.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,2,82.957,367.922,1,SOFT,2,False,False,False,False,False,305.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,3,82.193,450.34,1,SOFT,3,False,False,False,False,False,332.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,4,82.407,532.746,1,SOFT,4,False,False,False,False,False,329.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,5,82.919,615.632,1,SOFT,5,False,False,False,False,False,,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,6,83.724,699.444,1,SOFT,6,False,False,False,False,False,308.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,7,83.735,783.204,1,SOFT,7,False,False,False,False,False,327.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,8,82.959,866.058,1,SOFT,8,False,False,False,False,False,326.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,9,86.004,952.162,1,SOFT,9,True,False,False,False,False,308.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,10,98.886,1051.0,2,MEDIUM,1,False,True,False,False,False,249.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,11,81.644,1132.58,2,MEDIUM,2,False,False,False,False,False,305.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,12,82.341,1214.966,2,MEDIUM,3,False,False,False,False,False,328.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,13,81.817,1296.77,2,MEDIUM,4,False,False,False,False,False,307.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,14,81.511,1378.319,2,MEDIUM,5,False,False,False,False,False,305.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,15,81.553,1459.812,2,MEDIUM,6,False,False,False,False,False,306.0,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,16,82.033,1541.831,2,MEDIUM,7,False,False,False,False,False,307.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,17,81.523,1623.403,2,MEDIUM,8,False,False,False,False,False,305.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,18,82.182,1705.398,2,MEDIUM,9,False,False,False,False,False,307.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,19,81.744,1787.275,2,MEDIUM,10,False,False,False,False,False,,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,20,82.962,1870.131,2,MEDIUM,11,False,False,False,False,False,305.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,21,81.392,1951.642,2,MEDIUM,12,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,22,83.793,2035.476,2,MEDIUM,13,False,False,False,False,False,304.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,23,81.748,2117.223,2,MEDIUM,14,False,False,False,False,False,309.0,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,24,81.615,2198.787,2,MEDIUM,15,False,False,False,False,False,308.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,25,81.791,2280.55,2,MEDIUM,16,False,False,False,False,False,,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,26,82.011,2362.578,2,MEDIUM,17,False,False,False,False,False,307.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,27,85.581,2448.208,2,MEDIUM,18,True,False,False,False,False,306.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,28,99.737,2547.835,3,HARD,1,False,True,False,False,False,248.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,29,79.573,2627.628,3,HARD,2,False,False,False,False,False,303.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,30,79.755,2707.29,3,HARD,3,False,False,False,False,False,306.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,31,80.378,2787.585,3,HARD,4,False,False,False,False,False,305.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,32,80.323,2868.019,3,HARD,5,False,False,False,False,False,306.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,33,80.172,2948.274,3,HARD,6,False,False,False,False,False,309.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,34,80.557,3028.646,3,HARD,7,False,False,False,False,False,310.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,35,80.188,3108.81,3,HARD,8,False,False,False,False,False,324.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,36,82.771,3191.607,3,HARD,9,False,False,False,False,False,307.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,37,80.653,3272.308,3,HARD,10,False,False,False,False,False,309.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,38,80.849,3353.229,3,HARD,11,False,False,False,False,False,,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,39,81.026,3434.146,3,HARD,12,False,False,False,False,False,308.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,40,82.1,3516.239,3,HARD,13,False,False,False,False,False,309.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,41,81.475,3597.769,3,HARD,14,False,False,False,False,False,329.0,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,42,84.313,3682.097,3,HARD,15,False,False,False,False,False,309.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,43,80.875,3762.953,3,HARD,16,False,False,False,False,False,325.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,44,86.386,3849.288,3,HARD,17,True,False,False,False,False,306.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,45,101.067,3950.301,4,SOFT,1,False,True,False,False,False,247.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,46,80.706,4031.139,4,SOFT,2,False,False,False,False,False,301.0,24.1,42.7,61.0,0,2.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,47,80.461,4111.59,4,SOFT,3,False,False,False,False,False,,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,48,82.703,4194.277,4,SOFT,4,False,False,False,False,False,302.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,49,81.799,4276.078,4,SOFT,5,False,False,False,False,False,,24.1,41.9,62.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,50,79.815,4355.881,4,SOFT,6,False,False,False,False,False,309.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,51,79.678,4435.559,4,SOFT,7,False,False,False,False,False,305.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,52,79.818,4515.431,4,SOFT,8,False,False,False,False,False,304.0,24.2,42.5,61.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,53,80.029,4595.499,4,SOFT,9,False,False,False,False,False,309.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,54,80.437,4675.924,4,SOFT,10,False,False,False,False,False,310.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,55,79.564,4755.371,4,SOFT,11,False,False,False,False,False,323.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,56,79.447,4834.778,4,SOFT,12,False,False,False,False,False,304.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,57,79.464,4914.232,4,SOFT,13,False,False,False,False,False,305.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,58,79.642,4994.136,4,SOFT,14,False,False,False,False,False,306.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,59,80.129,5074.173,4,SOFT,15,False,False,False,False,False,310.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,60,79.796,5153.875,4,SOFT,16,False,False,False,False,False,,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,61,80.117,5233.972,4,SOFT,17,False,False,False,False,False,309.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,62,84.052,5318.154,4,SOFT,18,False,False,False,False,False,310.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,63,80.309,5398.361,4,SOFT,19,False,False,False,False,False,329.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,64,80.103,5478.586,4,SOFT,20,False,False,False,False,False,309.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,TSU,RB,65,80.515,5558.936,4,SOFT,21,False,False,False,False,False,,23.8,42.2,62.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,1,83.634,278.046,1,SOFT,4,False,False,False,False,False,270.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,2,79.871,357.916,1,SOFT,5,False,False,False,False,False,300.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,3,79.364,437.298,1,SOFT,6,False,False,False,False,False,324.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,4,80.766,518.055,1,SOFT,7,False,False,False,False,False,292.0,24.1,38.3,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,5,80.827,598.928,1,SOFT,8,False,False,False,False,False,296.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,6,80.876,679.653,1,SOFT,9,False,False,False,False,False,295.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,7,80.973,760.77,1,SOFT,10,False,False,False,False,False,293.0,24.0,41.4,67.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,8,80.989,841.64,1,SOFT,11,False,False,False,False,False,296.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,9,81.042,922.798,1,SOFT,12,False,False,False,False,False,295.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,10,81.003,1003.725,1,SOFT,13,False,False,False,False,False,296.0,24.2,42.5,65.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,11,80.954,1084.729,1,SOFT,14,False,False,False,False,False,297.0,24.1,42.3,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,12,81.376,1166.024,1,SOFT,15,False,False,False,False,False,298.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,13,80.807,1246.978,1,SOFT,16,False,False,False,False,False,299.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,14,80.989,1327.87,1,SOFT,17,False,False,False,False,False,298.0,24.4,42.3,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,15,81.097,1409.038,1,SOFT,18,False,False,False,False,False,,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,16,81.223,1490.224,1,SOFT,19,False,False,False,False,False,300.0,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,17,84.876,1575.089,1,SOFT,20,True,False,False,False,False,,24.6,41.0,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,18,97.657,1672.714,2,MEDIUM,1,False,True,False,False,False,248.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,19,79.725,1752.494,2,MEDIUM,2,False,False,False,False,False,300.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,20,79.966,1832.451,2,MEDIUM,3,False,False,False,False,False,301.0,24.1,39.2,65.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,21,80.304,1912.725,2,MEDIUM,4,False,False,False,False,False,306.0,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,22,79.742,1992.3,2,MEDIUM,5,False,False,False,False,False,301.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,23,79.605,2072.099,2,MEDIUM,6,False,False,False,False,False,304.0,23.7,41.3,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,24,79.701,2151.776,2,MEDIUM,7,False,False,False,False,False,303.0,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,25,79.363,2231.103,2,MEDIUM,8,False,False,False,False,False,301.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,26,79.882,2311.085,2,MEDIUM,9,False,False,False,False,False,302.0,24.0,41.5,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,27,79.694,2390.683,2,MEDIUM,10,False,False,False,False,False,300.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,28,80.101,2470.805,2,MEDIUM,11,False,False,False,False,False,,24.2,42.0,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,29,79.792,2550.641,2,MEDIUM,12,False,False,False,False,False,299.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,30,79.807,2630.456,2,MEDIUM,13,False,False,False,False,False,305.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,31,80.011,2710.396,2,MEDIUM,14,False,False,False,False,False,306.0,24.3,42.7,61.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,32,79.891,2790.372,2,MEDIUM,15,False,False,False,False,False,304.0,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,33,79.836,2870.225,2,MEDIUM,16,False,False,False,False,False,307.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,34,79.958,2950.23,2,MEDIUM,17,False,False,False,False,False,309.0,24.4,40.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,35,80.185,3030.346,2,MEDIUM,18,False,False,False,False,False,308.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,36,79.926,3110.256,2,MEDIUM,19,False,False,False,False,False,307.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,37,79.803,3190.082,2,MEDIUM,20,False,False,False,False,False,308.0,24.0,40.9,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,38,79.813,3269.859,2,MEDIUM,21,False,False,False,False,False,306.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,39,79.669,3349.571,2,MEDIUM,22,False,False,False,False,False,,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,40,80.31,3429.824,2,MEDIUM,23,False,False,False,False,False,307.0,24.1,39.8,62.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,41,79.648,3509.522,2,MEDIUM,24,False,False,False,False,False,304.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,42,79.92,3589.467,2,MEDIUM,25,False,False,False,False,False,,23.9,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,43,80.301,3669.697,2,MEDIUM,26,False,False,False,False,False,305.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,44,83.427,3753.159,2,MEDIUM,27,True,False,False,False,False,303.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,45,97.053,3850.142,3,SOFT,1,False,True,False,False,False,249.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,46,77.886,3928.035,3,SOFT,2,False,False,False,False,False,302.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,47,77.998,4006.075,3,SOFT,3,False,False,False,False,False,,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,48,78.416,4084.352,3,SOFT,4,False,False,False,False,False,,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,49,78.254,4162.664,3,SOFT,5,False,False,False,False,False,319.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,50,78.074,4240.774,3,SOFT,6,False,False,False,False,False,300.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,51,77.958,4318.726,3,SOFT,7,False,False,False,False,False,303.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,52,77.931,4396.758,3,SOFT,8,False,False,False,False,False,302.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,53,78.14,4474.845,3,SOFT,9,False,False,False,False,False,305.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,54,77.776,4552.677,3,SOFT,10,False,False,False,False,False,303.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,55,78.021,4630.614,3,SOFT,11,False,False,False,False,False,306.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,56,78.354,4709.053,3,SOFT,12,False,False,False,False,False,308.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,57,78.127,4787.177,3,SOFT,13,False,False,False,False,False,305.0,24.4,41.3,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,58,78.187,4865.339,3,SOFT,14,False,False,False,False,False,307.0,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,59,78.114,4943.469,3,SOFT,15,False,False,False,False,False,301.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,60,78.165,5021.799,3,SOFT,16,False,False,False,False,False,303.0,24.1,40.3,62.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,61,78.36,5099.91,3,SOFT,17,False,False,False,False,False,304.0,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,62,78.301,5178.259,3,SOFT,18,False,False,False,False,False,,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,63,78.543,5256.975,3,SOFT,19,False,False,False,False,False,306.0,23.8,39.6,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,64,79.072,5335.83,3,SOFT,20,False,False,False,False,False,,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,65,79.467,5415.369,3,SOFT,21,False,False,False,False,False,308.0,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,VER,Red Bull Racing,66,79.774,5495.013,3,SOFT,22,False,False,False,False,False,324.0,23.7,41.6,63.0,0,0.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,1,91.494,285.906,1,SOFT,1,False,False,False,False,False,288.0,24.3,40.9,66.0,0,3.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,2,83.016,368.921,1,SOFT,2,False,False,False,False,False,309.0,24.2,39.8,67.0,0,2.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,3,82.516,451.436,1,SOFT,3,False,False,False,False,False,337.0,24.1,38.7,67.0,1,3.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,4,82.358,533.689,1,SOFT,4,False,False,False,False,False,328.0,24.1,39.5,68.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,5,82.81,616.661,1,SOFT,5,False,False,False,False,False,332.0,23.9,40.6,67.0,0,3.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,6,82.951,699.599,1,SOFT,6,False,False,False,False,False,333.0,23.9,41.4,67.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,7,82.487,781.989,1,SOFT,7,False,False,False,False,False,328.0,24.1,41.4,68.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,8,82.57,864.539,1,SOFT,8,False,False,False,False,False,309.0,24.3,42.4,66.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,9,85.889,950.488,1,SOFT,9,True,False,False,False,False,307.0,24.3,42.5,65.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,10,98.315,1048.774,2,MEDIUM,1,False,True,False,False,False,250.0,24.1,42.4,64.0,0,2.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,11,80.219,1129.032,2,MEDIUM,2,False,False,False,False,False,299.0,24.2,41.8,64.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,12,80.151,1209.036,2,MEDIUM,3,False,False,False,False,False,300.0,24.3,41.6,65.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,13,80.739,1289.892,2,MEDIUM,4,False,False,False,False,False,301.0,24.4,41.6,64.0,0,1.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,14,81.869,1371.807,2,MEDIUM,5,False,False,False,False,False,305.0,24.3,42.4,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,15,81.376,1453.127,2,MEDIUM,6,False,False,False,False,False,,24.3,42.3,63.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,16,81.382,1534.338,2,MEDIUM,7,False,False,False,False,False,,24.4,41.7,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,17,81.607,1616.205,2,MEDIUM,8,False,False,False,False,False,302.0,24.7,40.6,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,18,81.546,1697.627,2,MEDIUM,9,False,False,False,False,False,305.0,24.7,39.9,62.0,0,2.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,19,81.379,1778.984,2,MEDIUM,10,False,False,False,False,False,308.0,24.3,39.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,20,81.512,1860.661,2,MEDIUM,11,False,False,False,False,False,305.0,24.0,39.3,64.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,21,81.79,1942.251,2,MEDIUM,12,False,False,False,False,False,,23.9,39.7,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,22,81.671,2024.081,2,MEDIUM,13,False,False,False,False,False,308.0,23.9,40.5,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,23,81.796,2105.773,2,MEDIUM,14,False,False,False,False,False,,23.8,42.7,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,24,81.561,2187.425,2,MEDIUM,15,False,False,False,False,False,,24.0,42.3,62.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,25,80.469,2267.835,2,MEDIUM,16,False,False,False,False,False,328.0,24.0,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,26,81.268,2349.085,2,MEDIUM,17,False,False,False,False,False,304.0,24.0,42.0,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,27,81.179,2430.263,2,MEDIUM,18,False,False,False,False,False,303.0,24.1,41.5,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,28,81.254,2511.604,2,MEDIUM,19,False,False,False,False,False,300.0,24.2,42.6,62.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,29,81.057,2592.579,2,MEDIUM,20,False,False,False,False,False,303.0,24.2,43.0,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,30,81.471,2674.015,2,MEDIUM,21,False,False,False,False,False,305.0,24.3,42.7,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,31,81.426,2755.58,2,MEDIUM,22,False,False,False,False,False,,24.1,41.8,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,32,81.387,2836.921,2,MEDIUM,23,False,False,False,False,False,303.0,24.3,41.4,61.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,33,80.995,2917.877,2,MEDIUM,24,False,False,False,False,False,304.0,24.4,40.6,61.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,34,81.273,2999.209,2,MEDIUM,25,False,False,False,False,False,305.0,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,35,81.418,3080.552,2,MEDIUM,26,False,False,False,False,False,,24.3,40.1,62.0,0,0.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,36,82.152,3162.746,2,MEDIUM,27,False,False,False,False,False,306.0,24.1,40.2,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,37,81.523,3244.265,2,MEDIUM,28,False,False,False,False,False,307.0,24.1,41.5,62.0,0,1.6
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,38,81.23,3325.591,2,MEDIUM,29,False,False,False,False,False,306.0,24.1,41.5,62.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,39,81.386,3406.906,2,MEDIUM,30,False,False,False,False,False,305.0,24.1,41.2,61.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,40,82.219,3489.117,2,MEDIUM,31,False,False,False,False,False,302.0,24.0,39.5,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,41,85.635,3574.761,2,MEDIUM,32,True,False,False,False,False,306.0,24.0,39.7,64.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,42,101.908,3676.62,3,HARD,1,False,True,False,False,False,252.0,23.9,39.5,63.0,0,0.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,43,78.979,3755.704,3,HARD,2,False,False,False,False,False,328.0,23.9,39.5,63.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,44,79.246,3834.789,3,HARD,3,False,False,False,False,False,330.0,23.8,41.0,64.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,45,79.373,3914.156,3,HARD,4,False,False,False,False,False,301.0,23.9,41.1,64.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,46,79.226,3993.548,3,HARD,5,False,False,False,False,False,300.0,24.1,42.5,62.0,0,0.8
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,47,79.198,4072.575,3,HARD,6,False,False,False,False,False,293.0,24.1,42.7,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,48,79.138,4151.821,3,HARD,7,False,False,False,False,False,294.0,24.3,41.9,61.0,0,2.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,49,78.918,4230.747,3,HARD,8,False,False,False,False,False,293.0,24.2,41.9,61.0,0,2.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,50,78.771,4309.439,3,HARD,9,False,False,False,False,False,297.0,24.1,42.2,62.0,0,1.9
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,51,79.426,4388.859,3,HARD,10,False,False,False,False,False,296.0,24.1,42.6,63.0,0,2.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,52,79.908,4468.784,3,HARD,11,False,False,False,False,False,300.0,24.2,42.5,62.0,0,1.7
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,53,80.885,4549.7,3,HARD,12,False,False,False,False,False,299.0,24.3,42.4,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,54,80.055,4629.726,3,HARD,13,False,False,False,False,False,303.0,24.5,42.4,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,55,81.227,4711.088,3,HARD,14,False,False,False,False,False,271.0,24.5,43.6,61.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,56,79.544,4790.613,3,HARD,15,False,False,False,False,False,305.0,24.3,41.1,62.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,57,80.813,4871.393,3,HARD,16,False,False,False,False,False,,24.3,41.1,63.0,0,1.4
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,58,79.368,4950.673,3,HARD,17,False,False,False,False,False,327.0,24.3,40.7,62.0,0,1.5
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,59,79.651,5030.449,3,HARD,18,False,False,False,False,False,308.0,24.1,40.3,63.0,0,1.1
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,60,79.743,5110.122,3,HARD,19,False,False,False,False,False,,24.0,39.9,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,61,79.809,5189.977,3,HARD,20,False,False,False,False,False,306.0,24.0,39.5,62.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,62,79.831,5269.876,3,HARD,21,False,False,False,False,False,307.0,23.9,39.8,63.0,0,1.2
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,63,79.787,5349.586,3,HARD,22,False,False,False,False,False,,23.9,39.1,62.0,0,1.0
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,64,80.01,5429.702,3,HARD,23,False,False,False,False,False,,23.6,40.4,63.0,0,1.3
+2024,10,Spanish Grand Prix,Catalunya,15,14,66,ZHO,Kick Sauber,65,80.985,5510.621,3,HARD,24,False,False,False,False,False,305.0,23.8,42.2,62.0,0,0.9

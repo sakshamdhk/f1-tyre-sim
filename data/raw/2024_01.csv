@@ -1,0 +1,1130 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,1,104.246,326.587,1,SOFT,1,False,False,False,False,True,260.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,2,98.826,425.412,1,SOFT,2,False,False,False,False,False,295.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,3,98.507,524.038,1,SOFT,3,False,False,False,False,False,312.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,4,98.422,622.494,1,SOFT,4,False,False,False,False,False,319.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,5,98.509,720.896,1,SOFT,5,False,False,False,False,False,310.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,6,98.575,819.509,1,SOFT,6,False,False,False,False,False,316.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,7,98.971,918.507,1,SOFT,7,False,False,False,False,False,302.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,8,98.66,1017.081,1,SOFT,8,False,False,False,False,False,293.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,9,98.652,1115.799,1,SOFT,9,False,False,False,False,False,298.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,10,98.952,1214.769,1,SOFT,10,False,False,False,False,True,295.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,11,98.835,1313.613,1,SOFT,11,False,False,False,False,False,297.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,12,98.934,1412.537,1,SOFT,12,False,False,False,False,False,,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,13,98.823,1511.29,1,SOFT,13,False,False,False,False,False,293.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,14,98.977,1610.265,1,SOFT,14,False,False,False,False,False,296.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,15,101.171,1711.461,1,SOFT,15,True,False,False,False,False,293.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,16,119.341,1830.819,2,HARD,1,False,True,False,False,False,217.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,17,97.392,1928.243,2,HARD,2,False,False,False,False,False,330.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,18,97.59,2025.784,2,HARD,3,False,False,False,False,False,294.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,19,97.763,2123.596,2,HARD,4,False,False,False,False,False,293.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,20,97.701,2221.235,2,HARD,5,False,False,False,False,False,296.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,21,97.918,2319.172,2,HARD,6,False,False,False,False,False,,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,22,98.031,2417.234,2,HARD,7,False,False,False,False,False,300.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,23,97.869,2515.067,2,HARD,8,False,False,False,False,False,296.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,24,98.204,2613.249,2,HARD,9,False,False,False,False,False,329.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,25,98.226,2711.524,2,HARD,10,False,False,False,False,False,313.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,26,98.1,2809.737,2,HARD,11,False,False,False,False,False,328.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,27,98.296,2907.971,2,HARD,12,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,28,98.048,3006.095,2,HARD,13,False,False,False,False,False,313.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,29,97.879,3103.807,2,HARD,14,False,False,False,False,False,309.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,30,97.968,3201.794,2,HARD,15,False,False,False,False,False,313.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,31,98.135,3299.986,2,HARD,16,False,False,False,False,False,326.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,32,98.183,3398.476,2,HARD,17,False,False,False,False,False,308.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,33,98.346,3496.434,2,HARD,18,False,False,False,False,False,289.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,34,97.75,3594.29,2,HARD,19,False,False,False,False,False,291.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,35,97.767,3692.051,2,HARD,20,False,False,False,False,False,298.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,36,100.333,3792.263,2,HARD,21,True,False,False,False,False,297.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,37,117.632,3909.906,3,HARD,1,False,True,False,False,False,218.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,38,96.129,4006.114,3,HARD,2,False,False,False,False,False,304.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,39,95.856,4101.947,3,HARD,3,False,False,False,False,False,305.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,40,95.723,4197.688,3,HARD,4,False,False,False,False,False,,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,41,95.885,4293.578,3,HARD,5,False,False,False,False,False,300.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,42,95.799,4389.384,3,HARD,6,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,43,95.766,4485.134,3,HARD,7,False,False,False,False,False,292.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,44,95.783,4580.894,3,HARD,8,False,False,False,False,False,296.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,45,95.758,4676.724,3,HARD,9,False,False,False,False,False,301.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,46,96.008,4772.686,3,HARD,10,False,False,False,False,False,298.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,47,96.026,4868.775,3,HARD,11,False,False,False,False,False,300.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,48,96.135,4964.805,3,HARD,12,False,False,False,False,False,297.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,49,97.102,5061.978,3,HARD,13,False,False,False,False,False,298.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,50,97.616,5159.558,3,HARD,14,False,False,False,False,False,290.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,51,97.493,5257.104,3,HARD,15,False,False,False,False,False,307.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,52,96.218,5353.301,3,HARD,16,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,53,96.308,5449.65,3,HARD,17,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,54,96.334,5545.884,3,HARD,18,False,False,False,False,False,296.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,55,96.593,5642.545,3,HARD,19,False,False,False,False,False,306.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALB,Williams,56,96.922,5739.482,3,HARD,20,False,False,False,False,False,307.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,1,102.058,324.399,1,SOFT,4,False,False,False,False,True,258.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,2,98.02,422.418,1,SOFT,5,False,False,False,False,False,293.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,3,99.046,521.503,1,SOFT,6,False,False,False,False,False,290.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,4,97.776,619.226,1,SOFT,7,False,False,False,False,False,323.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,5,99.292,718.576,1,SOFT,8,False,False,False,False,False,300.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,6,98.053,816.587,1,SOFT,9,False,False,False,False,False,312.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,7,98.008,914.623,1,SOFT,10,False,False,False,False,False,315.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,8,98.103,1012.828,1,SOFT,11,False,False,False,False,False,,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,9,98.896,1111.69,1,SOFT,12,False,False,False,False,False,303.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,10,99.325,1210.915,1,SOFT,13,False,False,False,False,True,294.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,11,98.554,1309.589,1,SOFT,14,False,False,False,False,False,316.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,12,98.543,1408.113,1,SOFT,15,False,False,False,False,False,320.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,13,98.587,1506.588,1,SOFT,16,False,False,False,False,False,297.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,14,98.612,1605.311,1,SOFT,17,False,False,False,False,False,,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,15,101.101,1706.427,1,SOFT,18,True,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,16,118.814,1825.134,2,HARD,1,False,True,False,False,False,220.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,17,96.97,1922.236,2,HARD,2,False,False,False,False,False,310.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,18,97.361,2019.445,2,HARD,3,False,False,False,False,False,291.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,19,97.072,2116.736,2,HARD,4,False,False,False,False,False,297.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,20,97.357,2213.988,2,HARD,5,False,False,False,False,False,294.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,21,97.342,2311.37,2,HARD,6,False,False,False,False,False,295.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,22,97.122,2408.583,2,HARD,7,False,False,False,False,False,300.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,23,97.265,2505.737,2,HARD,8,False,False,False,False,False,294.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,24,97.046,2602.709,2,HARD,9,False,False,False,False,False,299.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,25,97.179,2699.929,2,HARD,10,False,False,False,False,False,302.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,26,97.638,2797.582,2,HARD,11,False,False,False,False,False,296.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,27,96.945,2894.52,2,HARD,12,False,False,False,False,False,292.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,28,97.256,2991.76,2,HARD,13,False,False,False,False,False,298.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,29,97.104,3088.831,2,HARD,14,False,False,False,False,False,297.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,30,96.982,3185.904,2,HARD,15,False,False,False,False,False,298.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,31,96.957,3282.902,2,HARD,16,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,32,97.056,3379.834,2,HARD,17,False,False,False,False,False,,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,33,97.202,3477.114,2,HARD,18,False,False,False,False,False,,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,34,97.601,3574.791,2,HARD,19,False,False,False,False,False,300.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,35,97.273,3671.958,2,HARD,20,False,False,False,False,False,,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,36,98.343,3770.239,2,HARD,21,False,False,False,False,False,294.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,37,96.799,3867.053,2,HARD,22,False,False,False,False,False,323.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,38,97.297,3964.428,2,HARD,23,False,False,False,False,False,301.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,39,97.946,4062.32,2,HARD,24,False,False,False,False,False,295.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,40,98.061,4160.452,2,HARD,25,False,False,False,False,False,296.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,41,100.261,4260.64,2,HARD,26,True,False,False,False,False,302.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,42,116.899,4377.549,3,HARD,1,False,True,False,False,False,221.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,43,95.107,4472.6,3,HARD,2,False,False,False,False,False,293.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,44,94.981,4567.631,3,HARD,3,False,False,False,False,False,309.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,45,94.872,4662.517,3,HARD,4,False,False,False,False,False,290.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,46,95.126,4757.69,3,HARD,5,False,False,False,False,False,302.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,47,95.225,4852.853,3,HARD,6,False,False,False,False,False,299.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,48,94.199,4947.041,3,HARD,7,False,False,False,False,False,324.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,49,94.571,5041.697,3,HARD,8,False,False,False,False,False,291.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,50,94.677,5136.351,3,HARD,9,False,False,False,False,False,294.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,51,94.916,5231.226,3,HARD,10,False,False,False,False,False,,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,52,94.862,5326.061,3,HARD,11,False,False,False,False,False,295.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,53,95.249,5421.321,3,HARD,12,False,False,False,False,False,296.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,54,95.745,5517.062,3,HARD,13,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,55,95.066,5612.133,3,HARD,14,False,False,False,False,False,294.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,56,95.014,5707.115,3,HARD,15,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ALO,Aston Martin,57,95.276,5802.414,3,HARD,16,False,False,False,False,False,,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,1,108.853,331.194,1,SOFT,1,False,False,False,False,True,256.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,2,98.259,429.452,1,SOFT,2,False,False,False,False,False,299.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,3,98.837,528.587,1,SOFT,3,False,False,False,False,False,305.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,4,98.643,627.067,1,SOFT,4,False,False,False,False,False,300.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,5,100.087,727.206,1,SOFT,5,False,False,False,False,False,323.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,6,99.206,826.359,1,SOFT,6,False,False,False,False,False,314.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,7,98.654,925.11,1,SOFT,7,False,False,False,False,False,318.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,8,98.968,1024.083,1,SOFT,8,False,False,False,False,False,320.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,9,99.425,1123.436,1,SOFT,9,False,False,False,False,False,319.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,10,99.112,1222.485,1,SOFT,10,False,False,False,False,True,318.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,11,99.187,1321.653,1,SOFT,11,False,False,False,False,False,301.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,12,103.145,1424.964,1,SOFT,12,True,False,False,False,False,303.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,13,121.081,1545.995,2,HARD,1,False,True,False,False,False,215.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,14,96.454,1642.43,2,HARD,2,False,False,False,False,False,321.0,18.1,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,15,97.287,1739.717,2,HARD,3,False,False,False,False,False,303.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,16,97.718,1837.415,2,HARD,4,False,False,False,False,False,295.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,17,97.765,1935.222,2,HARD,5,False,False,False,False,False,297.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,18,97.918,2033.128,2,HARD,6,False,False,False,False,False,299.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,19,97.662,2130.699,2,HARD,7,False,False,False,False,False,315.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,20,98.285,2229.094,2,HARD,8,False,False,False,False,False,,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,21,97.73,2326.815,2,HARD,9,False,False,False,False,False,,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,22,97.998,2424.794,2,HARD,10,False,False,False,False,False,298.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,23,98.18,2522.856,2,HARD,11,False,False,False,False,False,299.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,24,98.146,2621.176,2,HARD,12,False,False,False,False,False,,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,25,98.262,2719.379,2,HARD,13,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,26,98.308,2817.58,2,HARD,14,False,False,False,False,False,303.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,27,98.426,2916.038,2,HARD,15,False,False,False,False,False,302.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,28,98.595,3014.646,2,HARD,16,False,False,False,False,False,,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,29,98.654,3113.233,2,HARD,17,False,False,False,False,False,299.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,30,101.252,3214.625,2,HARD,18,True,False,False,False,False,300.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,31,170.266,3384.955,3,HARD,1,False,True,False,False,False,186.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,32,96.763,3481.686,3,HARD,2,False,False,False,False,False,295.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,33,96.202,3577.853,3,HARD,3,False,False,False,False,False,298.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,34,98.009,3675.863,3,HARD,4,False,False,False,False,False,299.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,35,96.578,3772.37,3,HARD,5,False,False,False,False,False,300.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,36,96.792,3869.143,3,HARD,6,False,False,False,False,False,303.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,37,98.008,3967.166,3,HARD,7,False,False,False,False,False,264.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,38,97.774,4064.933,3,HARD,8,False,False,False,False,False,259.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,39,97.189,4162.122,3,HARD,9,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,40,97.393,4259.545,3,HARD,10,False,False,False,False,False,301.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,41,96.437,4356.084,3,HARD,11,False,False,False,False,False,298.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,42,96.374,4452.402,3,HARD,12,False,False,False,False,False,297.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,43,96.569,4548.937,3,HARD,13,False,False,False,False,False,298.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,44,96.63,4645.592,3,HARD,14,False,False,False,False,False,295.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,45,96.663,4742.288,3,HARD,15,False,False,False,False,False,296.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,46,96.297,4838.493,3,HARD,16,False,False,False,False,False,298.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,47,96.604,4935.118,3,HARD,17,False,False,False,False,False,296.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,48,96.765,5031.937,3,HARD,18,False,False,False,False,False,297.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,49,96.91,5128.853,3,HARD,19,False,False,False,False,False,299.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,50,96.91,5225.771,3,HARD,20,False,False,False,False,False,296.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,51,96.819,5322.583,3,HARD,21,False,False,False,False,False,297.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,52,96.949,5419.634,3,HARD,22,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,53,99.035,5518.453,3,HARD,23,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,54,97.095,5615.57,3,HARD,24,False,False,False,False,False,322.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,55,97.205,5712.899,3,HARD,25,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,BOT,Kick Sauber,56,97.956,5810.778,3,HARD,26,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,1,107.68,330.021,1,SOFT,1,False,False,False,False,True,272.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,2,99.059,429.079,1,SOFT,2,False,False,False,False,False,266.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,3,98.744,527.931,1,SOFT,3,False,False,False,False,False,302.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,4,98.503,626.337,1,SOFT,4,False,False,False,False,False,,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,5,98.664,725.162,1,SOFT,5,False,False,False,False,False,301.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,6,99.099,824.193,1,SOFT,6,False,False,False,False,False,297.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,7,99.078,923.178,1,SOFT,7,False,False,False,False,False,,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,8,99.287,1022.54,1,SOFT,8,False,False,False,False,False,304.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,9,99.452,1122.05,1,SOFT,9,False,False,False,False,False,310.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,10,98.929,1220.964,1,SOFT,10,False,False,False,False,True,300.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,11,98.656,1319.404,1,SOFT,11,False,False,False,False,False,296.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,12,101.456,1420.963,1,SOFT,12,True,False,False,False,False,301.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,13,124.565,1545.611,2,HARD,1,False,True,False,False,False,215.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,14,97.689,1643.293,2,HARD,2,False,False,False,False,False,296.0,18.1,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,15,97.492,1740.76,2,HARD,3,False,False,False,False,False,311.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,16,97.521,1838.263,2,HARD,4,False,False,False,False,False,309.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,17,97.949,1936.178,2,HARD,5,False,False,False,False,False,310.0,18.1,23.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,18,97.791,2034.021,2,HARD,6,False,False,False,False,False,312.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,19,97.702,2131.737,2,HARD,7,False,False,False,False,False,311.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,20,98.036,2229.648,2,HARD,8,False,False,False,False,False,303.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,21,98.094,2327.724,2,HARD,9,False,False,False,False,False,300.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,22,97.868,2425.624,2,HARD,10,False,False,False,False,False,308.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,23,98.104,2523.696,2,HARD,11,False,False,False,False,False,305.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,24,98.192,2621.991,2,HARD,12,False,False,False,False,False,303.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,25,98.16,2720.058,2,HARD,13,False,False,False,False,False,308.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,26,98.379,2818.67,2,HARD,14,False,False,False,False,False,309.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,27,98.4,2916.837,2,HARD,15,False,False,False,False,False,308.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,28,98.615,3015.606,2,HARD,16,False,False,False,False,False,299.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,29,98.55,3113.978,2,HARD,17,False,False,False,False,False,306.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,30,98.832,3212.829,2,HARD,18,False,False,False,False,False,302.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,31,100.432,3313.24,2,HARD,19,True,False,False,False,False,308.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,32,119.77,3432.954,3,HARD,1,False,True,False,False,False,219.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,33,96.112,3529.221,3,HARD,2,False,False,False,False,False,290.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,34,96.622,3625.904,3,HARD,3,False,False,False,False,False,287.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,35,96.313,3722.214,3,HARD,4,False,False,False,False,False,290.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,36,96.45,3818.579,3,HARD,5,False,False,False,False,False,,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,37,96.629,3915.204,3,HARD,6,False,False,False,False,False,291.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,38,96.802,4011.974,3,HARD,7,False,False,False,False,False,289.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,39,96.537,4108.521,3,HARD,8,False,False,False,False,False,291.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,40,96.742,4205.243,3,HARD,9,False,False,False,False,False,290.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,41,96.571,4301.899,3,HARD,10,False,False,False,False,False,293.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,42,96.631,4398.502,3,HARD,11,False,False,False,False,False,292.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,43,99.291,4497.771,3,HARD,12,True,False,False,False,False,,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,44,116.481,4614.314,4,SOFT,1,False,True,False,False,False,221.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,45,94.805,4709.107,4,SOFT,2,False,False,False,False,False,295.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,46,95.293,4804.428,4,SOFT,3,False,False,False,False,False,289.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,47,95.341,4899.679,4,SOFT,4,False,False,False,False,False,290.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,48,95.411,4995.208,4,SOFT,5,False,False,False,False,False,,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,49,95.511,5090.724,4,SOFT,6,False,False,False,False,False,291.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,50,95.228,5185.948,4,SOFT,7,False,False,False,False,False,293.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,51,95.334,5281.252,4,SOFT,8,False,False,False,False,False,292.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,52,95.511,5377.066,4,SOFT,9,False,False,False,False,False,291.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,53,95.389,5472.162,4,SOFT,10,False,False,False,False,False,294.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,54,95.853,5567.918,4,SOFT,11,False,False,False,False,False,291.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,55,95.908,5663.883,4,SOFT,12,False,False,False,False,False,293.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,GAS,Alpine,56,96.086,5759.961,4,SOFT,13,False,False,False,False,False,295.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,1,103.452,325.793,1,SOFT,4,False,False,False,False,True,249.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,2,98.273,424.065,1,SOFT,5,False,False,False,False,False,301.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,3,98.303,522.503,1,SOFT,6,False,False,False,False,False,311.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,4,98.287,620.774,1,SOFT,7,False,False,False,False,False,297.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,5,98.35,719.053,1,SOFT,8,False,False,False,False,False,296.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,6,98.183,817.326,1,SOFT,9,False,False,False,False,False,301.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,7,97.839,915.186,1,SOFT,10,False,False,False,False,False,293.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,8,98.221,1013.358,1,SOFT,11,False,False,False,False,False,304.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,9,98.645,1112.097,1,SOFT,12,False,False,False,False,False,311.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,10,98.037,1210.113,1,SOFT,13,False,False,False,False,True,320.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,11,98.236,1308.184,1,SOFT,14,False,False,False,False,False,290.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,12,100.889,1409.154,1,SOFT,15,True,False,False,False,False,294.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,13,118.645,1527.77,2,HARD,1,False,True,False,False,False,216.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,14,97.178,1625.029,2,HARD,2,False,False,False,False,False,288.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,15,97.264,1722.18,2,HARD,3,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,16,97.091,1819.286,2,HARD,4,False,False,False,False,False,286.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,17,97.111,1916.421,2,HARD,5,False,False,False,False,False,295.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,18,96.85,2013.384,2,HARD,6,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,19,96.694,2109.998,2,HARD,7,False,False,False,False,False,292.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,20,96.264,2206.374,2,HARD,8,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,21,96.51,2302.783,2,HARD,9,False,False,False,False,False,294.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,22,96.633,2399.496,2,HARD,10,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,23,96.717,2496.186,2,HARD,11,False,False,False,False,False,294.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,24,96.666,2592.802,2,HARD,12,False,False,False,False,False,,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,25,96.919,2689.704,2,HARD,13,False,False,False,False,False,297.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,26,96.714,2786.556,2,HARD,14,False,False,False,False,False,298.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,27,97.201,2883.704,2,HARD,15,False,False,False,False,False,296.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,28,96.692,2980.341,2,HARD,16,False,False,False,False,False,298.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,29,96.786,3077.183,2,HARD,17,False,False,False,False,False,,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,30,97.244,3174.325,2,HARD,18,False,False,False,False,False,296.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,31,96.975,3271.367,2,HARD,19,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,32,97.325,3368.596,2,HARD,20,False,False,False,False,False,298.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,33,99.696,3468.257,2,HARD,21,True,False,False,False,False,300.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,34,114.974,3583.294,3,HARD,1,False,True,False,False,False,219.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,35,95.489,3678.952,3,HARD,2,False,False,False,False,False,302.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,36,95.279,3774.047,3,HARD,3,False,False,False,False,False,297.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,37,95.597,3869.708,3,HARD,4,False,False,False,False,False,302.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,38,94.966,3964.695,3,HARD,5,False,False,False,False,False,316.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,39,94.722,4059.41,3,HARD,6,False,False,False,False,False,313.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,40,95.041,4154.456,3,HARD,7,False,False,False,False,False,296.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,41,94.94,4249.652,3,HARD,8,False,False,False,False,False,297.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,42,94.996,4344.379,3,HARD,9,False,False,False,False,False,298.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,43,94.935,4439.256,3,HARD,10,False,False,False,False,False,297.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,44,95.169,4534.435,3,HARD,11,False,False,False,False,False,,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,45,95.184,4629.597,3,HARD,12,False,False,False,False,False,298.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,46,95.285,4724.928,3,HARD,13,False,False,False,False,False,300.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,47,95.226,4820.164,3,HARD,14,False,False,False,False,False,296.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,48,96.165,4916.399,3,HARD,15,False,False,False,False,False,,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,49,95.914,5012.302,3,HARD,16,False,False,False,False,False,297.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,50,95.612,5107.925,3,HARD,17,False,False,False,False,False,302.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,51,95.532,5203.457,3,HARD,18,False,False,False,False,False,298.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,52,95.479,5298.914,3,HARD,19,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,53,95.55,5394.468,3,HARD,20,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,54,95.974,5490.395,3,HARD,21,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,55,95.633,5586.091,3,HARD,22,False,False,False,False,False,304.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,56,95.706,5681.713,3,HARD,23,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HAM,Mercedes,57,96.138,5777.877,3,HARD,24,False,False,False,False,False,,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,1,113.929,336.27,1,SOFT,1,True,False,False,False,True,266.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,2,130.911,467.18,2,HARD,1,False,True,False,False,False,212.0,18.3,23.8,49.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,3,97.317,564.607,2,HARD,2,False,False,False,False,False,293.0,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,4,97.349,661.937,2,HARD,3,False,False,False,False,False,292.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,5,97.663,759.612,2,HARD,4,False,False,False,False,False,295.0,18.3,23.5,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,6,97.896,857.505,2,HARD,5,False,False,False,False,False,,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,7,97.682,955.213,2,HARD,6,False,False,False,False,False,,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,8,97.82,1053.057,2,HARD,7,False,False,False,False,False,296.0,18.2,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,9,97.883,1150.855,2,HARD,8,False,False,False,False,True,297.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,10,98.37,1249.284,2,HARD,9,False,False,False,False,True,299.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,11,97.638,1346.789,2,HARD,10,False,False,False,False,False,,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,12,97.706,1444.596,2,HARD,11,False,False,False,False,False,,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,13,97.801,1542.337,2,HARD,12,False,False,False,False,False,300.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,14,97.879,1640.251,2,HARD,13,False,False,False,False,False,302.0,18.1,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,15,98.11,1738.439,2,HARD,14,False,False,False,False,False,304.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,16,97.796,1836.228,2,HARD,15,False,False,False,False,False,,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,17,97.891,1934.003,2,HARD,16,False,False,False,False,False,,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,18,98.216,2032.261,2,HARD,17,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,19,97.862,2130.167,2,HARD,18,False,False,False,False,False,303.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,20,100.798,2230.913,2,HARD,19,True,False,False,False,False,304.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,21,118.699,2349.591,3,HARD,1,False,True,False,False,False,215.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,22,96.858,2446.486,3,HARD,2,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,23,96.725,2543.285,3,HARD,3,False,False,False,False,False,298.0,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,24,96.626,2639.908,3,HARD,4,False,False,False,False,False,297.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,25,96.652,2736.521,3,HARD,5,False,False,False,False,False,298.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,26,96.548,2833.059,3,HARD,6,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,27,96.647,2929.617,3,HARD,7,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,28,97.254,3026.91,3,HARD,8,False,False,False,False,False,299.0,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,29,96.837,3123.858,3,HARD,9,False,False,False,False,False,302.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,30,96.691,3220.512,3,HARD,10,False,False,False,False,False,304.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,31,96.578,3317.053,3,HARD,11,False,False,False,False,False,,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,32,96.935,3413.947,3,HARD,12,False,False,False,False,False,,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,33,96.784,3510.65,3,HARD,13,False,False,False,False,False,,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,34,96.692,3607.484,3,HARD,14,False,False,False,False,False,,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,35,96.959,3704.518,3,HARD,15,False,False,False,False,False,303.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,36,96.795,3801.084,3,HARD,16,False,False,False,False,False,304.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,37,96.723,3897.875,3,HARD,17,False,False,False,False,False,,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,38,100.083,3998.001,3,HARD,18,False,False,False,False,False,,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,39,97.476,4095.569,3,HARD,19,False,False,False,False,False,325.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,40,97.088,4192.615,3,HARD,20,False,False,False,False,False,304.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,41,99.569,4292.277,3,HARD,21,True,False,False,False,False,,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,42,116.108,4408.351,4,SOFT,2,False,True,False,False,False,221.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,43,95.76,4504.046,4,SOFT,3,False,False,False,False,False,303.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,44,95.59,4599.592,4,SOFT,4,False,False,False,False,False,304.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,45,95.119,4694.641,4,SOFT,5,False,False,False,False,False,303.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,46,94.834,4789.518,4,SOFT,6,False,False,False,False,False,,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,47,95.226,4884.915,4,SOFT,7,False,False,False,False,False,304.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,48,95.146,4979.912,4,SOFT,8,False,False,False,False,False,306.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,49,95.494,5075.415,4,SOFT,9,False,False,False,False,False,307.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,50,95.167,5170.672,4,SOFT,10,False,False,False,False,False,332.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,51,95.529,5266.088,4,SOFT,11,False,False,False,False,False,305.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,52,95.921,5362.11,4,SOFT,12,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,53,95.994,5458.016,4,SOFT,13,False,False,False,False,False,306.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,54,95.786,5553.887,4,SOFT,14,False,False,False,False,False,305.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,55,95.736,5649.673,4,SOFT,15,False,False,False,False,False,,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,HUL,Haas F1 Team,56,95.602,5745.218,4,SOFT,16,False,False,False,False,False,306.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,1,98.679,321.02,1,SOFT,4,False,False,False,False,True,255.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,2,96.862,417.881,1,SOFT,5,False,False,False,False,False,293.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,3,98.062,515.995,1,SOFT,6,False,False,False,False,False,296.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,4,97.752,613.765,1,SOFT,7,False,False,False,False,False,313.0,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,5,98.131,711.911,1,SOFT,8,False,False,False,False,False,298.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,6,97.782,809.586,1,SOFT,9,False,False,False,False,False,312.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,7,98.957,908.681,1,SOFT,10,False,False,False,False,False,310.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,8,98.136,1006.708,1,SOFT,11,False,False,False,False,False,316.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,9,97.844,1104.657,1,SOFT,12,False,False,False,False,False,314.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,10,97.884,1202.466,1,SOFT,13,False,False,False,False,True,316.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,11,101.737,1304.282,1,SOFT,14,True,False,False,False,False,297.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,12,117.471,1421.753,2,HARD,1,False,True,False,False,False,220.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,13,96.432,1518.145,2,HARD,2,False,False,False,False,False,314.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,14,96.756,1615.056,2,HARD,3,False,False,False,False,False,305.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,15,96.813,1711.735,2,HARD,4,False,False,False,False,False,298.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,16,96.673,1808.376,2,HARD,5,False,False,False,False,False,320.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,17,97.302,1905.529,2,HARD,6,False,False,False,False,False,318.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,18,97.438,2003.089,2,HARD,7,False,False,False,False,False,298.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,19,96.821,2099.957,2,HARD,8,False,False,False,False,False,,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,20,96.794,2196.719,2,HARD,9,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,21,96.977,2293.675,2,HARD,10,False,False,False,False,False,300.0,18.1,23.1,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,22,96.796,2390.443,2,HARD,11,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,23,96.987,2487.463,2,HARD,12,False,False,False,False,False,300.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,24,96.924,2584.419,2,HARD,13,False,False,False,False,False,298.0,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,25,96.76,2681.202,2,HARD,14,False,False,False,False,False,299.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,26,96.81,2777.984,2,HARD,15,False,False,False,False,False,300.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,27,96.831,2874.864,2,HARD,16,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,28,96.907,2971.694,2,HARD,17,False,False,False,False,False,300.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,29,96.963,3068.625,2,HARD,18,False,False,False,False,False,,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,30,97.158,3165.846,2,HARD,19,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,31,97.031,3262.808,2,HARD,20,False,False,False,False,False,300.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,32,96.941,3359.638,2,HARD,21,False,False,False,False,False,294.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,33,96.741,3456.575,2,HARD,22,False,False,False,False,False,298.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,34,99.614,3556.125,2,HARD,23,True,False,False,False,False,296.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,35,116.166,3672.345,3,HARD,1,False,True,False,False,False,219.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,36,94.09,3766.408,3,HARD,2,False,False,False,False,False,318.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,37,94.897,3861.372,3,HARD,3,False,False,False,False,False,293.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,38,94.783,3956.101,3,HARD,4,False,False,False,False,False,298.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,39,95.087,4051.242,3,HARD,5,False,False,False,False,False,,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,40,94.859,4146.093,3,HARD,6,False,False,False,False,False,299.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,41,95.028,4240.997,3,HARD,7,False,False,False,False,False,,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,42,94.982,4336.005,3,HARD,8,False,False,False,False,False,305.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,43,95.192,4431.306,3,HARD,9,False,False,False,False,False,315.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,44,95.051,4526.273,3,HARD,10,False,False,False,False,False,313.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,45,95.22,4621.453,3,HARD,11,False,False,False,False,False,318.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,46,95.058,4716.557,3,HARD,12,False,False,False,False,False,320.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,47,95.057,4811.578,3,HARD,13,False,False,False,False,False,301.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,48,95.308,4906.927,3,HARD,14,False,False,False,False,False,295.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,49,95.302,5002.342,3,HARD,15,False,False,False,False,False,298.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,50,95.383,5097.629,3,HARD,16,False,False,False,False,False,299.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,51,95.418,5193.039,3,HARD,17,False,False,False,False,False,,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,52,95.394,5288.499,3,HARD,18,False,False,False,False,False,298.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,53,95.48,5383.954,3,HARD,19,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,54,95.265,5479.228,3,HARD,20,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,55,95.785,5574.973,3,HARD,21,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,56,95.924,5670.965,3,HARD,22,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,LEC,Ferrari,57,96.324,5767.217,3,HARD,23,False,False,False,False,False,,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,1,104.851,327.192,1,SOFT,1,False,False,False,False,True,254.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,2,98.911,426.102,1,SOFT,2,False,False,False,False,False,287.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,3,98.399,524.528,1,SOFT,3,False,False,False,False,False,320.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,4,98.497,622.95,1,SOFT,4,False,False,False,False,False,323.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,5,98.576,721.494,1,SOFT,5,False,False,False,False,False,318.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,6,98.529,820.073,1,SOFT,6,False,False,False,False,False,323.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,7,100.058,920.104,1,SOFT,7,False,False,False,False,False,331.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,8,99.172,1019.261,1,SOFT,8,False,False,False,False,False,306.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,9,98.861,1118.193,1,SOFT,9,False,False,False,False,False,292.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,10,98.747,1216.882,1,SOFT,10,False,False,False,False,True,298.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,11,101.088,1318.059,1,SOFT,11,True,False,False,False,False,297.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,12,119.682,1437.623,2,HARD,1,False,True,False,False,False,219.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,13,96.89,1534.57,2,HARD,2,False,False,False,False,False,300.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,14,97.59,1632.049,2,HARD,3,False,False,False,False,False,313.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,15,98.332,1730.423,2,HARD,4,False,False,False,False,False,319.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,16,97.749,1828.167,2,HARD,5,False,False,False,False,False,324.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,17,98.282,1926.443,2,HARD,6,False,False,False,False,False,315.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,18,97.583,2024.084,2,HARD,7,False,False,False,False,False,320.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,19,97.792,2121.883,2,HARD,8,False,False,False,False,False,321.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,20,98.062,2219.916,2,HARD,9,False,False,False,False,False,303.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,21,98.01,2317.973,2,HARD,10,False,False,False,False,False,302.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,22,98.147,2416.146,2,HARD,11,False,False,False,False,False,,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,23,98.293,2514.372,2,HARD,12,False,False,False,False,False,,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,24,98.156,2612.634,2,HARD,13,False,False,False,False,False,307.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,25,98.29,2710.804,2,HARD,14,False,False,False,False,False,301.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,26,98.093,2809.028,2,HARD,15,False,False,False,False,False,308.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,27,98.226,2907.266,2,HARD,16,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,28,97.936,3004.939,2,HARD,17,False,False,False,False,False,300.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,29,97.965,3103.074,2,HARD,18,False,False,False,False,False,301.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,30,98.04,3201.114,2,HARD,19,False,False,False,False,False,305.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,31,98.0,3299.168,2,HARD,20,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,32,100.565,3399.652,2,HARD,21,True,False,False,False,False,,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,33,116.655,3516.392,3,HARD,1,False,True,False,False,False,221.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,34,95.57,3611.968,3,HARD,2,False,False,False,False,False,297.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,35,95.698,3707.758,3,HARD,3,False,False,False,False,False,298.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,36,95.851,3803.405,3,HARD,4,False,False,False,False,False,331.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,37,95.741,3899.233,3,HARD,5,False,False,False,False,False,301.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,38,96.042,3995.178,3,HARD,6,False,False,False,False,False,,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,39,95.876,4091.256,3,HARD,7,False,False,False,False,False,300.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,40,96.071,4187.183,3,HARD,8,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,41,96.34,4283.538,3,HARD,9,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,42,96.31,4379.835,3,HARD,10,False,False,False,False,False,300.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,43,96.232,4476.106,3,HARD,11,False,False,False,False,False,301.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,44,96.249,4572.308,3,HARD,12,False,False,False,False,False,304.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,45,96.349,4668.714,3,HARD,13,False,False,False,False,False,303.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,46,96.446,4765.141,3,HARD,14,False,False,False,False,False,302.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,47,96.454,4861.483,3,HARD,15,False,False,False,False,False,303.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,48,96.679,4958.713,3,HARD,16,False,False,False,False,False,,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,49,96.842,5055.092,3,HARD,17,False,False,False,False,False,307.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,50,97.035,5152.071,3,HARD,18,False,False,False,False,False,,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,51,96.929,5249.035,3,HARD,19,False,False,False,False,False,306.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,52,96.93,5345.994,3,HARD,20,False,False,False,False,False,305.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,53,97.958,5443.968,3,HARD,21,False,False,False,False,False,302.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,54,96.89,5540.81,3,HARD,22,False,False,False,False,False,327.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,55,97.457,5638.21,3,HARD,23,False,False,False,False,False,310.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,MAG,Haas F1 Team,56,97.584,5735.848,3,HARD,24,False,False,False,False,False,309.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,1,102.596,324.937,1,SOFT,4,False,False,False,False,True,237.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,2,98.01,422.946,1,SOFT,5,False,False,False,False,False,298.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,3,97.787,520.747,1,SOFT,6,False,False,False,False,False,318.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,4,97.45,618.078,1,SOFT,7,False,False,False,False,False,294.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,5,97.794,716.022,1,SOFT,8,False,False,False,False,False,,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,6,97.896,813.881,1,SOFT,9,False,False,False,False,False,301.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,7,97.86,911.789,1,SOFT,10,False,False,False,False,False,302.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,8,98.134,1009.864,1,SOFT,11,False,False,False,False,False,303.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,9,98.064,1107.91,1,SOFT,12,False,False,False,False,False,302.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,10,97.936,1205.884,1,SOFT,13,False,False,False,False,True,,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,11,98.172,1304.097,1,SOFT,14,False,False,False,False,False,,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,12,98.082,1402.084,1,SOFT,15,False,False,False,False,False,300.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,13,100.635,1502.76,1,SOFT,16,True,False,False,False,False,,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,14,117.77,1620.441,2,HARD,1,False,True,False,False,False,220.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,15,96.912,1717.467,2,HARD,2,False,False,False,False,False,294.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,16,96.565,1813.953,2,HARD,3,False,False,False,False,False,298.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,17,96.776,1910.692,2,HARD,4,False,False,False,False,False,296.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,18,96.508,2007.367,2,HARD,5,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,19,96.416,2103.771,2,HARD,6,False,False,False,False,False,295.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,20,96.501,2200.233,2,HARD,7,False,False,False,False,False,,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,21,96.62,2296.963,2,HARD,8,False,False,False,False,False,296.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,22,96.668,2393.446,2,HARD,9,False,False,False,False,False,,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,23,96.696,2490.276,2,HARD,10,False,False,False,False,False,,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,24,96.823,2587.064,2,HARD,11,False,False,False,False,False,,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,25,96.73,2683.835,2,HARD,12,False,False,False,False,False,302.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,26,96.566,2780.365,2,HARD,13,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,27,96.726,2877.122,2,HARD,14,False,False,False,False,False,,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,28,97.018,2974.173,2,HARD,15,False,False,False,False,False,300.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,29,97.041,3071.114,2,HARD,16,False,False,False,False,False,,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,30,96.986,3168.066,2,HARD,17,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,31,97.083,3265.121,2,HARD,18,False,False,False,False,False,302.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,32,97.171,3362.402,2,HARD,19,False,False,False,False,False,300.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,33,99.626,3462.035,2,HARD,20,True,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,34,116.898,3578.786,3,HARD,1,False,True,False,False,False,218.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,35,94.476,3673.325,3,HARD,2,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,36,95.69,3769.019,3,HARD,3,False,False,False,False,False,316.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,37,95.067,3864.036,3,HARD,4,False,False,False,False,False,304.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,38,95.149,3959.313,3,HARD,5,False,False,False,False,False,302.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,39,94.88,4054.146,3,HARD,6,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,40,95.276,4149.361,3,HARD,7,False,False,False,False,False,303.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,41,95.069,4244.574,3,HARD,8,False,False,False,False,False,,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,42,95.165,4339.735,3,HARD,9,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,43,95.295,4435.007,3,HARD,10,False,False,False,False,False,303.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,44,95.346,4530.299,3,HARD,11,False,False,False,False,False,304.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,45,95.338,4625.639,3,HARD,12,False,False,False,False,False,302.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,46,95.371,4721.046,3,HARD,13,False,False,False,False,False,,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,47,95.485,4816.536,3,HARD,14,False,False,False,False,False,299.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,48,95.717,4912.181,3,HARD,15,False,False,False,False,False,303.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,49,95.674,5007.909,3,HARD,16,False,False,False,False,False,302.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,50,95.657,5103.66,3,HARD,17,False,False,False,False,False,303.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,51,96.038,5199.612,3,HARD,18,False,False,False,False,False,,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,52,95.922,5295.47,3,HARD,19,False,False,False,False,False,300.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,53,95.782,5391.368,3,HARD,20,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,54,95.934,5487.324,3,HARD,21,False,False,False,False,False,304.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,55,96.223,5583.586,3,HARD,22,False,False,False,False,False,302.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,56,95.976,5679.489,3,HARD,23,False,False,False,False,False,305.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,NOR,McLaren,57,96.582,5775.999,3,HARD,24,False,False,False,False,False,304.0,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,1,107.083,329.424,1,SOFT,1,False,False,False,False,True,255.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,2,99.094,428.517,1,SOFT,2,False,False,False,False,False,283.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,3,98.771,527.307,1,SOFT,3,False,False,False,False,False,295.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,4,98.625,626.016,1,SOFT,4,False,False,False,False,False,306.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,5,98.64,724.565,1,SOFT,5,False,False,False,False,False,305.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,6,98.874,823.48,1,SOFT,6,False,False,False,False,False,301.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,7,99.152,922.553,1,SOFT,7,False,False,False,False,False,304.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,8,99.422,1022.121,1,SOFT,8,False,False,False,False,False,313.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,9,99.312,1121.306,1,SOFT,9,False,False,False,False,False,303.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,10,101.642,1222.982,1,SOFT,10,True,False,False,False,True,312.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,11,119.014,1341.838,2,HARD,1,False,True,False,False,False,215.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,12,97.599,1439.565,2,HARD,2,False,False,False,False,False,291.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,13,97.363,1537.014,2,HARD,3,False,False,False,False,False,,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,14,97.537,1634.441,2,HARD,4,False,False,False,False,False,292.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,15,97.843,1732.254,2,HARD,5,False,False,False,False,False,290.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,16,97.902,1830.222,2,HARD,6,False,False,False,False,False,293.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,17,98.911,1929.015,2,HARD,7,False,False,False,False,False,301.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,18,98.12,2027.255,2,HARD,8,False,False,False,False,False,310.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,19,98.332,2125.558,2,HARD,9,False,False,False,False,False,295.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,20,98.185,2223.858,2,HARD,10,False,False,False,False,False,289.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,21,99.363,2323.136,2,HARD,11,False,False,False,False,False,290.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,22,98.655,2421.799,2,HARD,12,False,False,False,False,False,293.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,23,98.407,2520.193,2,HARD,13,False,False,False,False,False,289.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,24,98.42,2618.635,2,HARD,14,False,False,False,False,False,288.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,25,98.494,2717.128,2,HARD,15,False,False,False,False,False,291.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,26,98.665,2815.92,2,HARD,16,False,False,False,False,False,289.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,27,98.549,2914.299,2,HARD,17,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,28,98.372,3012.692,2,HARD,18,False,False,False,False,False,290.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,29,98.556,3111.24,2,HARD,19,False,False,False,False,False,288.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,30,101.21,3212.504,2,HARD,20,True,False,False,False,False,291.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,31,119.322,3331.851,3,HARD,1,False,True,False,False,False,215.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,32,96.887,3428.735,3,HARD,2,False,False,False,False,False,292.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,33,96.704,3525.35,3,HARD,3,False,False,False,False,False,289.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,34,96.226,3621.64,3,HARD,4,False,False,False,False,False,290.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,35,96.354,3717.984,3,HARD,5,False,False,False,False,False,288.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,36,97.229,3815.226,3,HARD,6,False,False,False,False,False,290.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,37,96.58,3911.779,3,HARD,7,False,False,False,False,False,294.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,38,96.814,4008.56,3,HARD,8,False,False,False,False,False,293.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,39,96.552,4105.081,3,HARD,9,False,False,False,False,False,290.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,40,96.608,4201.851,3,HARD,10,False,False,False,False,False,291.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,41,96.621,4298.37,3,HARD,11,False,False,False,False,False,290.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,42,96.592,4395.034,3,HARD,12,False,False,False,False,False,,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,43,96.679,4491.568,3,HARD,13,False,False,False,False,False,289.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,44,96.649,4588.333,3,HARD,14,False,False,False,False,False,290.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,45,98.049,4686.342,3,HARD,15,False,False,False,False,False,,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,46,96.975,4783.333,3,HARD,16,False,False,False,False,False,294.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,47,96.656,4880.017,3,HARD,17,False,False,False,False,False,293.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,48,97.117,4977.115,3,HARD,18,False,False,False,False,False,292.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,49,97.726,5074.817,3,HARD,19,False,False,False,False,False,,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,50,97.784,5172.69,3,HARD,20,False,False,False,False,False,295.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,51,97.091,5269.784,3,HARD,21,False,False,False,False,False,,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,52,98.631,5368.459,3,HARD,22,False,False,False,False,False,292.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,53,97.145,5465.491,3,HARD,23,False,False,False,False,False,313.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,54,98.707,5564.131,3,HARD,24,False,False,False,False,False,294.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,55,97.393,5661.558,3,HARD,25,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,OCO,Alpine,56,97.415,5759.4,3,HARD,26,False,False,False,False,False,,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,1,100.537,322.878,1,SOFT,4,False,False,False,False,True,259.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,2,96.541,419.418,1,SOFT,5,False,False,False,False,False,302.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,3,97.297,516.718,1,SOFT,6,False,False,False,False,False,315.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,4,97.722,614.404,1,SOFT,7,False,False,False,False,False,314.0,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,5,98.044,712.459,1,SOFT,8,False,False,False,False,False,320.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,6,97.823,810.243,1,SOFT,9,False,False,False,False,False,,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,7,97.821,908.155,1,SOFT,10,False,False,False,False,False,316.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,8,97.838,1005.913,1,SOFT,11,False,False,False,False,False,302.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,9,97.596,1103.449,1,SOFT,12,False,False,False,False,False,,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,10,97.63,1201.181,1,SOFT,13,False,False,False,False,True,300.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,11,97.836,1299.026,1,SOFT,14,False,False,False,False,False,,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,12,100.277,1399.276,1,SOFT,15,True,False,False,False,False,312.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,13,117.624,1517.212,2,HARD,1,False,True,False,False,False,217.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,14,95.606,1612.47,2,HARD,2,False,False,False,False,False,320.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,15,96.815,1709.284,2,HARD,3,False,False,False,False,False,299.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,16,95.783,1805.096,2,HARD,4,False,False,False,False,False,316.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,17,96.454,1901.54,2,HARD,5,False,False,False,False,False,294.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,18,96.311,1997.885,2,HARD,6,False,False,False,False,False,291.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,19,96.038,2093.894,2,HARD,7,False,False,False,False,False,298.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,20,96.278,2190.171,2,HARD,8,False,False,False,False,False,,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,21,96.165,2286.449,2,HARD,9,False,False,False,False,False,,18.1,23.1,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,22,96.037,2382.429,2,HARD,10,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,23,96.249,2478.624,2,HARD,11,False,False,False,False,False,299.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,24,96.211,2574.782,2,HARD,12,False,False,False,False,False,,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,25,96.344,2671.167,2,HARD,13,False,False,False,False,False,297.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,26,96.347,2767.573,2,HARD,14,False,False,False,False,False,298.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,27,96.233,2863.808,2,HARD,15,False,False,False,False,False,299.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,28,96.226,2959.989,2,HARD,16,False,False,False,False,False,,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,29,96.437,3056.361,2,HARD,17,False,False,False,False,False,298.0,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,30,96.313,3152.796,2,HARD,18,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,31,96.339,3249.112,2,HARD,19,False,False,False,False,False,,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,32,96.276,3345.325,2,HARD,20,False,False,False,False,False,300.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,33,96.564,3442.005,2,HARD,21,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,34,96.378,3538.265,2,HARD,22,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,35,96.776,3635.099,2,HARD,23,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,36,99.365,3734.524,2,HARD,24,True,False,False,False,False,,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,37,115.808,3850.277,3,SOFT,1,False,True,False,False,False,223.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,38,94.804,3945.01,3,SOFT,2,False,False,False,False,False,295.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,39,94.607,4039.658,3,SOFT,3,False,False,False,False,False,294.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,40,94.364,4134.085,3,SOFT,4,False,False,False,False,False,297.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,41,94.4,4228.455,3,SOFT,5,False,False,False,False,False,301.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,42,94.525,4322.929,3,SOFT,6,False,False,False,False,False,,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,43,94.797,4417.76,3,SOFT,7,False,False,False,False,False,,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,44,94.799,4512.615,3,SOFT,8,False,False,False,False,False,298.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,45,94.592,4607.167,3,SOFT,9,False,False,False,False,False,,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,46,94.844,4701.976,3,SOFT,10,False,False,False,False,False,297.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,47,94.73,4796.785,3,SOFT,11,False,False,False,False,False,299.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,48,94.885,4891.569,3,SOFT,12,False,False,False,False,False,302.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,49,94.966,4986.525,3,SOFT,13,False,False,False,False,False,300.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,50,95.082,5081.634,3,SOFT,14,False,False,False,False,False,301.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,51,94.94,5176.703,3,SOFT,15,False,False,False,False,False,304.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,52,95.183,5271.716,3,SOFT,16,False,False,False,False,False,299.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,53,95.842,5367.591,3,SOFT,17,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,54,95.459,5463.058,3,SOFT,18,False,False,False,False,False,302.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,55,95.611,5558.674,3,SOFT,19,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,56,95.568,5654.225,3,SOFT,20,False,False,False,False,False,304.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PER,Red Bull Racing,57,95.746,5750.08,3,SOFT,21,False,False,False,False,False,306.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,1,102.96,325.301,1,SOFT,4,False,False,False,False,True,259.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,2,98.382,423.682,1,SOFT,5,False,False,False,False,False,302.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,3,98.258,521.995,1,SOFT,6,False,False,False,False,False,318.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,4,97.897,619.907,1,SOFT,7,False,False,False,False,False,300.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,5,97.859,717.771,1,SOFT,8,False,False,False,False,False,323.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,6,97.955,815.593,1,SOFT,9,False,False,False,False,False,290.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,7,97.984,913.722,1,SOFT,10,False,False,False,False,False,300.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,8,97.956,1011.565,1,SOFT,11,False,False,False,False,False,296.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,9,98.096,1109.739,1,SOFT,12,False,False,False,False,False,299.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,10,98.073,1207.779,1,SOFT,13,False,False,False,False,True,302.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,11,98.397,1306.243,1,SOFT,14,False,False,False,False,False,303.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,12,100.739,1406.982,1,SOFT,15,True,False,False,False,False,302.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,13,118.689,1525.521,2,HARD,1,False,True,False,False,False,218.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,14,96.796,1622.338,2,HARD,2,False,False,False,False,False,299.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,15,96.823,1719.275,2,HARD,3,False,False,False,False,False,302.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,16,96.427,1815.609,2,HARD,4,False,False,False,False,False,305.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,17,96.872,1912.422,2,HARD,5,False,False,False,False,False,304.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,18,97.095,2009.673,2,HARD,6,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,19,96.577,2106.22,2,HARD,7,False,False,False,False,False,303.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,20,96.644,2202.854,2,HARD,8,False,False,False,False,False,302.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,21,96.733,2299.567,2,HARD,9,False,False,False,False,False,301.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,22,96.555,2396.214,2,HARD,10,False,False,False,False,False,302.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,23,96.68,2492.829,2,HARD,11,False,False,False,False,False,303.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,24,96.884,2589.662,2,HARD,12,False,False,False,False,False,301.0,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,25,97.008,2686.742,2,HARD,13,False,False,False,False,False,304.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,26,96.882,2783.605,2,HARD,14,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,27,96.905,2880.578,2,HARD,15,False,False,False,False,False,302.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,28,96.905,2977.396,2,HARD,16,False,False,False,False,False,300.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,29,97.179,3074.663,2,HARD,17,False,False,False,False,False,303.0,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,30,97.177,3171.725,2,HARD,18,False,False,False,False,False,,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,31,97.57,3269.37,2,HARD,19,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,32,97.163,3366.467,2,HARD,20,False,False,False,False,False,302.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,33,97.088,3463.63,2,HARD,21,False,False,False,False,False,,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,34,99.211,3562.73,2,HARD,22,True,False,False,False,False,,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,35,119.703,3682.396,3,HARD,1,False,True,False,False,False,223.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,36,95.153,3777.607,3,HARD,2,False,False,False,False,False,302.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,37,94.774,3872.418,3,HARD,3,False,False,False,False,False,301.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,38,95.298,3967.712,3,HARD,4,False,False,False,False,False,307.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,39,94.983,4062.753,3,HARD,5,False,False,False,False,False,325.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,40,95.005,4157.792,3,HARD,6,False,False,False,False,False,321.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,41,95.109,4252.744,3,HARD,7,False,False,False,False,False,301.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,42,95.341,4348.177,3,HARD,8,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,43,95.258,4443.5,3,HARD,9,False,False,False,False,False,301.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,44,95.238,4538.675,3,HARD,10,False,False,False,False,False,299.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,45,95.306,4633.98,3,HARD,11,False,False,False,False,False,300.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,46,95.296,4729.245,3,HARD,12,False,False,False,False,False,,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,47,95.376,4824.624,3,HARD,13,False,False,False,False,False,,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,48,95.702,4920.336,3,HARD,14,False,False,False,False,False,299.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,49,95.653,5015.993,3,HARD,15,False,False,False,False,False,301.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,50,95.984,5111.91,3,HARD,16,False,False,False,False,False,,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,51,95.8,5207.751,3,HARD,17,False,False,False,False,False,300.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,52,96.024,5303.841,3,HARD,18,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,53,95.739,5399.664,3,HARD,19,False,False,False,False,False,302.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,54,96.107,5495.711,3,HARD,20,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,55,95.973,5591.585,3,HARD,21,False,False,False,False,False,300.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,56,96.1,5687.763,3,HARD,22,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,PIA,McLaren,57,95.92,5783.668,3,HARD,23,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,1,106.178,328.519,1,SOFT,4,False,False,False,False,True,257.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,2,99.509,428.027,1,SOFT,5,False,False,False,False,False,300.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,3,98.76,526.754,1,SOFT,6,False,False,False,False,False,313.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,4,98.61,625.273,1,SOFT,7,False,False,False,False,False,322.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,5,98.704,724.027,1,SOFT,8,False,False,False,False,False,306.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,6,98.689,822.657,1,SOFT,9,False,False,False,False,False,,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,7,99.193,921.927,1,SOFT,10,False,False,False,False,False,294.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,8,99.529,1021.458,1,SOFT,11,False,False,False,False,False,312.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,9,99.338,1120.741,1,SOFT,12,False,False,False,False,False,311.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,10,98.782,1219.577,1,SOFT,13,False,False,False,False,True,301.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,11,99.033,1318.625,1,SOFT,14,False,False,False,False,False,292.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,12,98.893,1417.476,1,SOFT,15,False,False,False,False,False,,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,13,102.173,1519.575,1,SOFT,16,True,False,False,False,False,295.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,14,119.408,1639.148,2,HARD,1,False,True,False,False,False,218.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,15,97.07,1736.155,2,HARD,2,False,False,False,False,False,299.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,16,97.176,1833.394,2,HARD,3,False,False,False,False,False,298.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,17,97.29,1930.663,2,HARD,4,False,False,False,False,False,302.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,18,97.7,2028.339,2,HARD,5,False,False,False,False,False,298.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,19,98.35,2126.743,2,HARD,6,False,False,False,False,False,303.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,20,97.865,2224.525,2,HARD,7,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,21,97.392,2322.008,2,HARD,8,False,False,False,False,False,312.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,22,97.75,2419.548,2,HARD,9,False,False,False,False,False,296.0,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,23,97.772,2517.719,2,HARD,10,False,False,False,False,False,295.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,24,97.766,2615.175,2,HARD,11,False,False,False,False,False,301.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,25,97.973,2713.168,2,HARD,12,False,False,False,False,False,306.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,26,98.029,2811.261,2,HARD,13,False,False,False,False,False,302.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,27,98.152,2909.401,2,HARD,14,False,False,False,False,False,303.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,28,98.045,3007.427,2,HARD,15,False,False,False,False,False,306.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,29,97.96,3105.235,2,HARD,16,False,False,False,False,False,,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,30,97.978,3203.415,2,HARD,17,False,False,False,False,False,307.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,31,98.154,3301.544,2,HARD,18,False,False,False,False,False,305.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,32,98.025,3399.468,2,HARD,19,False,False,False,False,False,307.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,33,98.15,3497.688,2,HARD,20,False,False,False,False,False,303.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,34,98.246,3596.03,2,HARD,21,False,False,False,False,False,,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,35,100.595,3696.545,2,HARD,22,True,False,False,False,False,,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,36,116.995,3813.393,3,SOFT,1,False,True,False,False,False,221.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,37,95.163,3908.763,3,SOFT,2,False,False,False,False,False,302.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,38,95.46,4004.195,3,SOFT,3,False,False,False,False,False,300.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,39,95.475,4099.703,3,SOFT,4,False,False,False,False,False,301.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,40,95.578,4195.217,3,SOFT,5,False,False,False,False,False,303.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,41,95.644,4290.882,3,SOFT,6,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,42,95.338,4386.189,3,SOFT,7,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,43,95.56,4481.788,3,SOFT,8,False,False,False,False,False,,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,44,95.49,4577.235,3,SOFT,9,False,False,False,False,False,301.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,45,95.57,4672.836,3,SOFT,10,False,False,False,False,False,303.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,46,95.507,4768.239,3,SOFT,11,False,False,False,False,False,304.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,47,95.831,4864.224,3,SOFT,12,False,False,False,False,False,302.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,48,96.236,4960.48,3,SOFT,13,False,False,False,False,False,304.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,49,96.442,5056.789,3,SOFT,14,False,False,False,False,False,306.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,50,96.609,5153.444,3,SOFT,15,False,False,False,False,False,321.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,51,97.103,5250.51,3,SOFT,16,False,False,False,False,False,323.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,52,97.529,5348.147,3,SOFT,17,False,False,False,False,False,319.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,53,96.745,5444.736,3,SOFT,18,False,False,False,False,False,294.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,54,96.661,5541.532,3,SOFT,19,False,False,False,False,False,320.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,55,97.375,5638.881,3,SOFT,20,False,False,False,False,False,326.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RIC,RB,56,97.662,5736.588,3,SOFT,21,False,False,False,False,False,317.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,1,99.682,322.023,1,SOFT,4,False,False,False,False,True,256.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,2,96.635,418.657,1,SOFT,5,False,False,False,False,False,298.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,3,96.406,515.102,1,SOFT,6,False,False,False,False,False,318.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,4,97.738,612.796,1,SOFT,7,False,False,False,False,False,296.0,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,5,98.116,710.884,1,SOFT,8,False,False,False,False,False,287.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,6,97.784,808.689,1,SOFT,9,False,False,False,False,False,289.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,7,98.082,906.705,1,SOFT,10,False,False,False,False,False,286.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,8,97.862,1004.674,1,SOFT,11,False,False,False,False,False,288.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,9,97.73,1102.428,1,SOFT,12,False,False,False,False,False,292.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,10,97.782,1200.162,1,SOFT,13,False,False,False,False,True,288.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,11,100.515,1300.573,1,SOFT,14,True,False,False,False,False,284.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,12,118.46,1419.083,2,HARD,1,False,True,False,False,False,215.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,13,97.167,1516.266,2,HARD,2,False,False,False,False,False,296.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,14,97.571,1613.846,2,HARD,3,False,False,False,False,False,319.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,15,96.922,1710.858,2,HARD,4,False,False,False,False,False,291.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,16,96.683,1807.452,2,HARD,5,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,17,96.234,1903.576,2,HARD,6,False,False,False,False,False,298.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,18,97.819,2001.623,2,HARD,7,False,False,False,False,False,290.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,19,97.233,2098.774,2,HARD,8,False,False,False,False,False,293.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,20,96.732,2195.471,2,HARD,9,False,False,False,False,False,292.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,21,96.769,2292.198,2,HARD,10,False,False,False,False,False,294.0,18.1,23.1,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,22,96.992,2389.18,2,HARD,11,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,23,96.954,2486.183,2,HARD,12,False,False,False,False,False,290.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,24,96.736,2582.917,2,HARD,13,False,False,False,False,False,295.0,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,25,96.928,2679.896,2,HARD,14,False,False,False,False,False,,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,26,96.801,2776.666,2,HARD,15,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,27,96.815,2873.489,2,HARD,16,False,False,False,False,False,294.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,28,96.911,2970.353,2,HARD,17,False,False,False,False,False,,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,29,97.066,3067.467,2,HARD,18,False,False,False,False,False,295.0,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,30,97.186,3164.673,2,HARD,19,False,False,False,False,False,294.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,31,99.405,3264.115,2,HARD,20,True,False,False,False,False,295.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,32,117.267,3381.244,3,HARD,1,False,True,False,False,False,217.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,33,95.838,3477.17,3,HARD,2,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,34,95.241,3572.483,3,HARD,3,False,False,False,False,False,309.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,35,95.772,3668.112,3,HARD,4,False,False,False,False,False,297.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,36,95.434,3763.567,3,HARD,5,False,False,False,False,False,296.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,37,95.481,3859.047,3,HARD,6,False,False,False,False,False,298.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,38,95.479,3954.549,3,HARD,7,False,False,False,False,False,297.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,39,95.204,4049.828,3,HARD,8,False,False,False,False,False,299.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,40,95.065,4144.814,3,HARD,9,False,False,False,False,False,,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,41,95.093,4239.921,3,HARD,10,False,False,False,False,False,296.0,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,42,95.136,4335.059,3,HARD,11,False,False,False,False,False,294.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,43,95.193,4430.333,3,HARD,12,False,False,False,False,False,,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,44,95.162,4525.492,3,HARD,13,False,False,False,False,False,295.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,45,95.276,4620.733,3,HARD,14,False,False,False,False,False,300.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,46,96.657,4717.513,3,HARD,15,False,False,False,False,False,302.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,47,95.805,4813.155,3,HARD,16,False,False,False,False,False,323.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,48,96.059,4909.207,3,HARD,17,False,False,False,False,False,305.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,49,95.954,5005.259,3,HARD,18,False,False,False,False,False,299.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,50,96.181,5101.369,3,HARD,19,False,False,False,False,False,300.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,51,95.852,5197.252,3,HARD,20,False,False,False,False,False,305.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,52,96.186,5293.485,3,HARD,21,False,False,False,False,False,303.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,53,95.979,5389.356,3,HARD,22,False,False,False,False,False,302.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,54,96.013,5485.4,3,HARD,23,False,False,False,False,False,,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,55,96.151,5581.549,3,HARD,24,False,False,False,False,False,303.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,56,96.35,5677.823,3,HARD,25,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,RUS,Mercedes,57,96.44,5774.638,3,HARD,26,False,False,False,False,False,300.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,1,101.034,323.375,1,SOFT,4,False,False,False,False,True,256.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,2,97.236,420.61,1,SOFT,5,False,False,False,False,False,297.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,3,97.08,517.679,1,SOFT,6,False,False,False,False,False,300.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,4,97.264,614.999,1,SOFT,7,False,False,False,False,False,304.0,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,5,98.032,712.98,1,SOFT,8,False,False,False,False,False,324.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,6,97.741,810.851,1,SOFT,9,False,False,False,False,False,325.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,7,98.26,909.073,1,SOFT,10,False,False,False,False,False,326.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,8,98.183,1007.231,1,SOFT,11,False,False,False,False,False,316.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,9,98.03,1105.261,1,SOFT,12,False,False,False,False,False,323.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,10,97.608,1202.796,1,SOFT,13,False,False,False,False,True,319.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,11,97.656,1300.534,1,SOFT,14,False,False,False,False,False,324.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,12,97.65,1398.146,1,SOFT,15,False,False,False,False,False,299.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,13,97.243,1495.37,1,SOFT,16,False,False,False,False,False,298.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,14,99.753,1595.128,1,SOFT,17,True,False,False,False,False,,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,15,117.225,1712.415,2,HARD,1,False,True,False,False,False,220.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,16,96.376,1808.791,2,HARD,2,False,False,False,False,False,325.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,17,95.507,1904.179,2,HARD,3,False,False,False,False,False,332.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,18,96.088,2000.272,2,HARD,4,False,False,False,False,False,322.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,19,96.236,2096.487,2,HARD,5,False,False,False,False,False,293.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,20,96.034,2192.658,2,HARD,6,False,False,False,False,False,297.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,21,96.104,2288.683,2,HARD,7,False,False,False,False,False,298.0,18.1,23.1,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,22,96.008,2384.726,2,HARD,8,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,23,96.149,2480.922,2,HARD,9,False,False,False,False,False,300.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,24,96.2,2577.091,2,HARD,10,False,False,False,False,False,301.0,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,25,96.22,2673.294,2,HARD,11,False,False,False,False,False,,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,26,96.221,2769.479,2,HARD,12,False,False,False,False,False,302.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,27,96.272,2865.899,2,HARD,13,False,False,False,False,False,301.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,28,96.534,2962.289,2,HARD,14,False,False,False,False,False,299.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,29,96.6,3058.902,2,HARD,15,False,False,False,False,False,301.0,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,30,96.337,3155.206,2,HARD,16,False,False,False,False,False,303.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,31,96.537,3251.848,2,HARD,17,False,False,False,False,False,301.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,32,96.762,3348.58,2,HARD,18,False,False,False,False,False,303.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,33,96.556,3445.118,2,HARD,19,False,False,False,False,False,,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,34,96.551,3541.683,2,HARD,20,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,35,99.274,3640.966,2,HARD,21,True,False,False,False,False,,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,36,115.62,3756.549,3,HARD,1,False,True,False,False,False,222.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,37,95.302,3851.887,3,HARD,2,False,False,False,False,False,296.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,38,95.1,3946.892,3,HARD,3,False,False,False,False,False,300.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,39,94.709,4041.626,3,HARD,4,False,False,False,False,False,299.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,40,94.739,4136.4,3,HARD,5,False,False,False,False,False,303.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,41,95.041,4231.482,3,HARD,6,False,False,False,False,False,,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,42,94.861,4326.301,3,HARD,7,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,43,94.795,4421.14,3,HARD,8,False,False,False,False,False,302.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,44,94.507,4515.636,3,HARD,9,False,False,False,False,False,301.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,45,94.79,4610.504,3,HARD,10,False,False,False,False,False,,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,46,94.853,4705.246,3,HARD,11,False,False,False,False,False,300.0,17.8,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,47,94.901,4800.213,3,HARD,12,False,False,False,False,False,303.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,48,94.981,4895.209,3,HARD,13,False,False,False,False,False,,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,49,95.44,4990.639,3,HARD,14,False,False,False,False,False,302.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,50,95.142,5085.699,3,HARD,15,False,False,False,False,False,303.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,51,95.282,5181.048,3,HARD,16,False,False,False,False,False,304.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,52,95.083,5276.033,3,HARD,17,False,False,False,False,False,303.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,53,95.211,5371.386,3,HARD,18,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,54,95.309,5466.608,3,HARD,19,False,False,False,False,False,306.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,55,95.407,5562.054,3,HARD,20,False,False,False,False,False,,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,56,95.305,5657.294,3,HARD,21,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAI,Ferrari,57,95.327,5752.598,3,HARD,22,False,False,False,False,False,305.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,1,106.397,328.738,1,SOFT,1,False,False,False,False,True,231.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,2,98.481,427.218,1,SOFT,2,False,False,False,False,False,308.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,3,98.707,525.876,1,SOFT,3,False,False,False,False,False,,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,4,98.39,624.364,1,SOFT,4,False,False,False,False,False,309.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,5,98.757,723.1,1,SOFT,5,False,False,False,False,False,312.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,6,98.582,821.649,1,SOFT,6,False,False,False,False,False,308.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,7,99.464,921.089,1,SOFT,7,False,False,False,False,False,313.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,8,99.58,1020.671,1,SOFT,8,False,False,False,False,False,,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,9,99.366,1120.089,1,SOFT,9,False,False,False,False,False,310.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,10,161.86,1281.849,1,SOFT,10,True,False,False,False,True,293.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,11,132.438,1414.373,2,HARD,1,False,True,False,False,False,203.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,12,98.493,1512.812,2,HARD,2,False,False,False,False,False,297.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,13,100.989,1613.816,2,HARD,3,False,False,False,False,False,298.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,14,101.47,1715.406,2,HARD,4,False,False,False,False,False,255.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,15,97.594,1812.895,2,HARD,5,False,False,False,False,False,303.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,16,101.37,1914.303,2,HARD,6,False,False,False,False,False,227.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,17,99.758,2014.012,2,HARD,7,False,False,False,False,False,294.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,18,98.077,2112.15,2,HARD,8,False,False,False,False,False,291.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,19,97.742,2209.807,2,HARD,9,False,False,False,False,False,295.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,20,97.82,2307.612,2,HARD,10,False,False,False,False,False,297.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,21,98.009,2405.667,2,HARD,11,False,False,False,False,False,293.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,22,97.728,2503.41,2,HARD,12,False,False,False,False,False,296.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,23,97.621,2601.056,2,HARD,13,False,False,False,False,False,295.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,24,99.437,2700.488,2,HARD,14,False,False,False,False,False,296.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,25,99.093,2799.639,2,HARD,15,False,False,False,False,False,290.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,26,97.859,2897.395,2,HARD,16,False,False,False,False,False,297.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,27,98.288,2995.746,2,HARD,17,False,False,False,False,False,294.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,28,100.535,3096.242,2,HARD,18,True,False,False,False,False,295.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,29,121.581,3217.793,3,HARD,1,False,True,False,False,False,218.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,30,95.715,3313.534,3,HARD,2,False,False,False,False,False,298.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,31,96.713,3410.321,3,HARD,3,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,32,96.563,3506.845,3,HARD,4,False,False,False,False,False,297.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,33,97.433,3604.287,3,HARD,5,False,False,False,False,False,295.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,34,96.475,3700.686,3,HARD,6,False,False,False,False,False,296.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,35,96.859,3797.643,3,HARD,7,False,False,False,False,False,293.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,36,96.462,3894.177,3,HARD,8,False,False,False,False,False,295.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,37,96.785,3990.868,3,HARD,9,False,False,False,False,False,296.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,38,96.732,4087.525,3,HARD,10,False,False,False,False,False,298.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,39,97.016,4184.61,3,HARD,11,False,False,False,False,False,296.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,40,99.817,4284.472,3,HARD,12,True,False,False,False,False,297.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,41,120.282,4404.712,4,SOFT,1,False,True,False,False,False,188.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,42,94.735,4499.452,4,SOFT,2,False,False,False,False,False,295.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,43,95.001,4594.49,4,SOFT,3,False,False,False,False,False,297.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,44,95.13,4689.536,4,SOFT,4,False,False,False,False,False,295.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,45,95.333,4784.848,4,SOFT,5,False,False,False,False,False,292.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,46,95.939,4880.803,4,SOFT,6,False,False,False,False,False,286.0,17.8,21.9,51.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,47,96.729,4977.478,4,SOFT,7,False,False,False,False,False,313.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,48,95.688,5073.297,4,SOFT,8,False,False,False,False,False,325.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,49,95.59,5168.863,4,SOFT,9,False,False,False,False,False,297.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,50,95.66,5264.472,4,SOFT,10,False,False,False,False,False,293.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,51,95.972,5360.47,4,SOFT,11,False,False,False,False,False,291.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,52,95.987,5456.664,4,SOFT,12,False,False,False,False,False,292.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,53,96.088,5552.609,4,SOFT,13,False,False,False,False,False,,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,54,99.614,5652.138,4,SOFT,14,False,False,False,False,False,,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,SAR,Williams,55,96.209,5748.385,4,SOFT,15,False,False,False,False,False,296.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,1,110.537,332.878,1,SOFT,1,False,False,False,False,True,266.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,2,97.987,430.864,1,SOFT,2,False,False,False,False,False,287.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,3,98.279,529.37,1,SOFT,3,False,False,False,False,False,298.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,4,98.364,627.655,1,SOFT,4,False,False,False,False,False,314.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,5,98.725,726.357,1,SOFT,5,False,False,False,False,False,325.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,6,98.925,825.263,1,SOFT,6,False,False,False,False,False,297.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,7,98.769,924.123,1,SOFT,7,False,False,False,False,False,296.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,8,98.857,1022.883,1,SOFT,8,False,False,False,False,False,321.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,9,102.112,1124.968,1,SOFT,9,True,False,False,False,False,313.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,10,117.815,1242.852,2,HARD,1,False,True,False,False,True,218.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,11,96.494,1339.296,2,HARD,2,False,False,False,False,False,298.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,12,97.175,1436.56,2,HARD,3,False,False,False,False,False,300.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,13,97.289,1533.786,2,HARD,4,False,False,False,False,False,296.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,14,97.624,1631.334,2,HARD,5,False,False,False,False,False,299.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,15,97.533,1728.941,2,HARD,6,False,False,False,False,False,300.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,16,98.027,1826.875,2,HARD,7,False,False,False,False,False,296.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,17,98.777,1925.687,2,HARD,8,False,False,False,False,False,291.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,18,97.417,2023.176,2,HARD,9,False,False,False,False,False,324.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,19,97.554,2120.748,2,HARD,10,False,False,False,False,False,317.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,20,97.859,2218.61,2,HARD,11,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,21,98.022,2316.652,2,HARD,12,False,False,False,False,False,,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,22,98.175,2414.775,2,HARD,13,False,False,False,False,False,301.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,23,97.826,2512.629,2,HARD,14,False,False,False,False,False,298.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,24,98.138,2610.677,2,HARD,15,False,False,False,False,False,301.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,25,97.994,2708.779,2,HARD,16,False,False,False,False,False,,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,26,98.133,2806.81,2,HARD,17,False,False,False,False,False,,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,27,100.71,2907.537,2,HARD,18,True,False,False,False,False,296.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,28,116.64,3024.143,3,HARD,1,False,True,False,False,False,220.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,29,95.854,3120.18,3,HARD,2,False,False,False,False,False,299.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,30,95.632,3215.723,3,HARD,3,False,False,False,False,False,324.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,31,96.202,3311.872,3,HARD,4,False,False,False,False,False,302.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,32,95.821,3407.695,3,HARD,5,False,False,False,False,False,326.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,33,96.349,3504.142,3,HARD,6,False,False,False,False,False,325.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,34,96.332,3600.492,3,HARD,7,False,False,False,False,False,296.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,35,96.242,3696.758,3,HARD,8,False,False,False,False,False,294.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,36,96.086,3792.758,3,HARD,9,False,False,False,False,False,299.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,37,95.987,3888.655,3,HARD,10,False,False,False,False,False,298.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,38,96.364,3984.993,3,HARD,11,False,False,False,False,False,,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,39,96.353,4081.555,3,HARD,12,False,False,False,False,False,,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,40,96.485,4177.995,3,HARD,13,False,False,False,False,False,,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,41,96.322,4274.221,3,HARD,14,False,False,False,False,False,,17.9,22.3,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,42,96.343,4370.594,3,HARD,15,False,False,False,False,False,,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,43,96.304,4466.956,3,HARD,16,False,False,False,False,False,,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,44,96.564,4563.506,3,HARD,17,False,False,False,False,False,,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,45,96.243,4659.707,3,HARD,18,False,False,False,False,False,,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,46,96.379,4756.082,3,HARD,19,False,False,False,False,False,,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,47,96.298,4852.492,3,HARD,20,False,False,False,False,False,,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,48,97.325,4949.728,3,HARD,21,False,False,False,False,False,290.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,49,96.871,5046.668,3,HARD,22,False,False,False,False,False,301.0,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,50,96.541,5143.178,3,HARD,23,False,False,False,False,False,300.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,51,96.763,5239.884,3,HARD,24,False,False,False,False,False,299.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,52,96.934,5336.816,3,HARD,25,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,53,96.64,5433.508,3,HARD,26,False,False,False,False,False,300.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,54,96.693,5530.234,3,HARD,27,False,False,False,False,False,299.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,55,96.68,5626.859,3,HARD,28,False,False,False,False,False,300.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,56,96.582,5723.412,3,HARD,29,False,False,False,False,False,,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,STR,Aston Martin,57,97.335,5820.763,3,HARD,30,False,False,False,False,False,,17.6,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,1,103.848,326.189,1,SOFT,1,False,False,False,False,True,274.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,2,98.689,424.877,1,SOFT,2,False,False,False,False,False,289.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,3,98.431,523.424,1,SOFT,3,False,False,False,False,False,311.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,4,98.31,621.637,1,SOFT,4,False,False,False,False,False,309.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,5,98.321,719.995,1,SOFT,5,False,False,False,False,False,,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,6,98.361,818.443,1,SOFT,6,False,False,False,False,False,306.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,7,98.364,916.763,1,SOFT,7,False,False,False,False,False,305.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,8,98.513,1015.277,1,SOFT,8,False,False,False,False,False,303.0,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,9,98.554,1113.788,1,SOFT,9,False,False,False,False,False,297.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,10,98.912,1212.781,1,SOFT,10,False,False,False,False,True,298.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,11,98.799,1311.481,1,SOFT,11,False,False,False,False,False,302.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,12,98.769,1410.273,1,SOFT,12,False,False,False,False,False,299.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,13,98.86,1509.042,1,SOFT,13,False,False,False,False,False,294.0,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,14,101.138,1610.231,1,SOFT,14,True,False,False,False,False,297.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,15,119.588,1729.856,2,HARD,1,False,True,False,False,False,219.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,16,97.516,1827.415,2,HARD,2,False,False,False,False,False,300.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,17,97.482,1924.856,2,HARD,3,False,False,False,False,False,320.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,18,97.359,2022.115,2,HARD,4,False,False,False,False,False,304.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,19,97.396,2119.59,2,HARD,5,False,False,False,False,False,305.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,20,97.766,2217.427,2,HARD,6,False,False,False,False,False,299.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,21,97.777,2315.168,2,HARD,7,False,False,False,False,False,301.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,22,97.837,2412.971,2,HARD,8,False,False,False,False,False,298.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,23,97.671,2510.621,2,HARD,9,False,False,False,False,False,301.0,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,24,97.634,2608.355,2,HARD,10,False,False,False,False,False,302.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,25,97.851,2706.271,2,HARD,11,False,False,False,False,False,315.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,26,98.058,2804.21,2,HARD,12,False,False,False,False,False,321.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,27,98.083,2902.337,2,HARD,13,False,False,False,False,False,314.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,28,98.164,3000.527,2,HARD,14,False,False,False,False,False,302.0,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,29,97.777,3098.215,2,HARD,15,False,False,False,False,False,299.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,30,97.477,3195.675,2,HARD,16,False,False,False,False,False,,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,31,97.468,3293.244,2,HARD,17,False,False,False,False,False,,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,32,97.847,3391.075,2,HARD,18,False,False,False,False,False,,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,33,97.498,3488.488,2,HARD,19,False,False,False,False,False,300.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,34,100.835,3589.394,2,HARD,20,True,False,False,False,False,301.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,35,117.417,3706.854,3,HARD,1,False,True,False,False,False,221.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,36,97.706,3804.546,3,HARD,2,False,False,False,False,False,302.0,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,37,95.833,3900.297,3,HARD,3,False,False,False,False,False,315.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,38,97.046,3997.396,3,HARD,4,False,False,False,False,False,303.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,39,96.125,4093.523,3,HARD,5,False,False,False,False,False,304.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,40,96.263,4189.788,3,HARD,6,False,False,False,False,False,300.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,41,96.179,4286.029,3,HARD,7,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,42,95.981,4381.866,3,HARD,8,False,False,False,False,False,300.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,43,95.956,4477.937,3,HARD,9,False,False,False,False,False,303.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,44,96.144,4574.076,3,HARD,10,False,False,False,False,False,300.0,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,45,95.964,4670.026,3,HARD,11,False,False,False,False,False,303.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,46,96.187,4766.183,3,HARD,12,False,False,False,False,False,302.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,47,96.396,4862.533,3,HARD,13,False,False,False,False,False,301.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,48,96.554,4959.225,3,HARD,14,False,False,False,False,False,304.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,49,96.695,5055.931,3,HARD,15,False,False,False,False,False,314.0,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,50,96.827,5152.635,3,HARD,16,False,False,False,False,False,320.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,51,97.067,5249.775,3,HARD,17,False,False,False,False,False,323.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,52,99.042,5348.782,3,HARD,18,False,False,False,False,False,324.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,53,96.838,5445.712,3,HARD,19,False,False,False,False,False,316.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,54,96.672,5542.32,3,HARD,20,False,False,False,False,False,319.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,55,97.269,5639.613,3,HARD,21,False,False,False,False,False,326.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,TSU,RB,56,97.473,5736.971,3,HARD,22,False,False,False,False,False,324.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,1,97.759,320.1,1,SOFT,4,False,False,False,False,True,251.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,2,96.296,416.395,1,SOFT,5,False,False,False,False,False,287.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,3,96.753,513.131,1,SOFT,6,False,False,False,False,False,290.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,4,96.647,609.777,1,SOFT,7,False,False,False,False,False,,18.3,23.7,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,5,97.173,706.877,1,SOFT,8,False,False,False,False,False,289.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,6,97.092,804.07,1,SOFT,9,False,False,False,False,False,296.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,7,97.038,901.118,1,SOFT,10,False,False,False,False,False,291.0,18.3,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,8,97.024,998.156,1,SOFT,11,False,False,False,False,False,,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,9,97.229,1095.273,1,SOFT,12,False,False,False,False,False,292.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,10,96.96,1192.364,1,SOFT,13,False,False,False,False,True,293.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,11,97.085,1289.36,1,SOFT,14,False,False,False,False,True,292.0,18.2,23.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,12,97.045,1386.381,1,SOFT,15,False,False,False,False,False,,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,13,97.03,1483.429,1,SOFT,16,False,False,False,False,False,,18.3,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,14,97.028,1580.421,1,SOFT,17,False,False,False,False,False,293.0,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,15,97.011,1677.48,1,SOFT,18,False,False,False,False,False,,18.1,23.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,16,97.168,1774.675,1,SOFT,19,False,False,False,False,False,292.0,18.1,23.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,17,99.896,1874.583,1,SOFT,20,True,False,False,False,False,293.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,18,117.854,1992.315,2,HARD,1,False,True,False,False,False,212.0,18.1,23.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,19,95.283,2087.761,2,HARD,2,False,False,False,False,False,288.0,18.1,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,20,95.16,2182.818,2,HARD,3,False,False,False,False,False,291.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,21,95.316,2278.167,2,HARD,4,False,False,False,False,False,293.0,18.1,23.1,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,22,95.204,2373.361,2,HARD,5,False,False,False,False,False,294.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,23,95.216,2468.556,2,HARD,6,False,False,False,False,False,,18.1,23.2,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,24,95.289,2563.97,2,HARD,7,False,False,False,False,False,,18.1,23.0,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,25,95.342,2659.258,2,HARD,8,False,False,False,False,False,295.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,26,95.223,2754.452,2,HARD,9,False,False,False,False,False,,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,27,95.581,2850.036,2,HARD,10,False,False,False,False,False,294.0,18.1,22.9,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,28,95.477,2945.448,2,HARD,11,False,False,False,False,False,293.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,29,95.793,3041.353,2,HARD,12,False,False,False,False,False,,18.1,22.8,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,30,95.771,3137.121,2,HARD,13,False,False,False,False,False,294.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,31,95.679,3232.819,2,HARD,14,False,False,False,False,False,295.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,32,95.886,3328.715,2,HARD,15,False,False,False,False,False,296.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,33,95.863,3424.443,2,HARD,16,False,False,False,False,False,295.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,34,96.133,3520.584,2,HARD,17,False,False,False,False,False,296.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,35,96.018,3616.927,2,HARD,18,False,False,False,False,False,295.0,18.0,22.7,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,36,96.205,3712.904,2,HARD,19,False,False,False,False,False,297.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,37,99.234,3812.174,2,HARD,20,True,False,False,False,False,,18.0,22.6,50.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,38,116.445,3928.486,3,SOFT,1,False,True,False,False,False,217.0,17.9,22.6,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,39,92.608,4021.152,3,SOFT,2,False,False,False,False,False,299.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,40,96.589,4117.931,3,SOFT,3,False,False,False,False,False,275.0,17.9,22.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,41,95.29,4213.103,3,SOFT,4,False,False,False,False,False,292.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,42,94.667,4307.723,3,SOFT,5,False,False,False,False,False,294.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,43,94.151,4401.903,3,SOFT,6,False,False,False,False,False,296.0,17.9,22.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,44,94.531,4496.422,3,SOFT,7,False,False,False,False,False,293.0,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,45,94.249,4590.655,3,SOFT,8,False,False,False,False,False,295.0,17.9,22.1,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,46,94.193,4684.898,3,SOFT,9,False,False,False,False,False,297.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,47,94.239,4779.112,3,SOFT,10,False,False,False,False,False,295.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,48,94.35,4873.463,3,SOFT,11,False,False,False,False,False,297.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,49,94.403,4967.907,3,SOFT,12,False,False,False,False,False,298.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,50,94.783,5062.571,3,SOFT,13,False,False,False,False,False,,17.7,21.9,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,51,94.34,5156.97,3,SOFT,14,False,False,False,False,False,314.0,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,52,94.906,5251.935,3,SOFT,15,False,False,False,False,False,299.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,53,95.6,5347.449,3,SOFT,16,False,False,False,False,False,300.0,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,54,95.334,5442.818,3,SOFT,17,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,55,95.184,5538.037,3,SOFT,18,False,False,False,False,False,296.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,56,94.671,5632.709,3,SOFT,19,False,False,False,False,False,297.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,VER,Red Bull Racing,57,94.923,5727.617,3,SOFT,20,False,False,False,False,False,296.0,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,1,105.213,327.554,1,SOFT,1,False,False,False,False,True,269.0,18.3,23.8,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,2,98.92,426.473,1,SOFT,2,False,False,False,False,False,302.0,18.3,23.8,49.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,3,98.582,525.03,1,SOFT,3,False,False,False,False,False,322.0,18.3,23.8,49.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,4,98.428,623.533,1,SOFT,4,False,False,False,False,False,318.0,18.3,23.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,5,98.798,722.277,1,SOFT,5,False,False,False,False,False,306.0,18.3,23.5,50.0,0,1.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,6,98.488,820.905,1,SOFT,6,False,False,False,False,False,320.0,18.3,23.5,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,7,99.517,920.318,1,SOFT,7,False,False,False,False,False,314.0,18.3,23.7,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,8,99.646,1020.072,1,SOFT,8,False,False,False,False,False,,18.2,23.7,50.0,0,1.1
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,9,101.849,1121.774,1,SOFT,9,True,False,False,False,False,310.0,18.2,23.5,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,10,119.328,1241.261,2,HARD,1,False,True,False,False,True,220.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,11,96.365,1337.456,2,HARD,2,False,False,False,False,False,297.0,18.2,23.5,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,12,96.995,1434.442,2,HARD,3,False,False,False,False,False,301.0,18.3,23.6,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,13,97.436,1531.92,2,HARD,4,False,False,False,False,False,298.0,18.2,23.4,50.0,0,1.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,14,97.482,1629.385,2,HARD,5,False,False,False,False,False,,18.2,23.3,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,15,97.5,1726.827,2,HARD,6,False,False,False,False,False,,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,16,97.659,1824.514,2,HARD,7,False,False,False,False,False,301.0,18.1,23.3,50.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,17,98.475,1923.083,2,HARD,8,False,False,False,False,False,295.0,18.1,23.4,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,18,97.552,2020.614,2,HARD,9,False,False,False,False,False,312.0,18.1,23.3,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,19,97.652,2118.186,2,HARD,10,False,False,False,False,False,318.0,18.1,23.3,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,20,97.749,2216.101,2,HARD,11,False,False,False,False,False,303.0,18.1,23.2,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,21,97.947,2314.035,2,HARD,12,False,False,False,False,False,302.0,18.1,23.1,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,22,97.852,2411.785,2,HARD,13,False,False,False,False,False,300.0,18.1,23.2,50.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,23,97.788,2509.652,2,HARD,14,False,False,False,False,False,,18.1,23.0,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,24,97.894,2607.545,2,HARD,15,False,False,False,False,False,301.0,18.1,23.0,49.0,0,0.9
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,25,97.883,2705.43,2,HARD,16,False,False,False,False,False,300.0,18.1,23.0,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,26,97.995,2803.387,2,HARD,17,False,False,False,False,False,303.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,27,98.053,2901.426,2,HARD,18,False,False,False,False,False,302.0,18.1,22.9,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,28,100.675,3002.167,2,HARD,19,True,False,False,False,False,,18.1,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,29,117.076,3119.224,3,HARD,1,False,True,False,False,False,223.0,18.0,22.8,49.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,30,95.458,3214.643,3,HARD,2,False,False,False,False,False,302.0,18.0,22.6,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,31,96.297,3311.059,3,HARD,3,False,False,False,False,False,299.0,18.0,22.7,49.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,32,96.048,3406.927,3,HARD,4,False,False,False,False,False,316.0,18.0,22.7,49.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,33,97.971,3504.999,3,HARD,5,False,False,False,False,False,301.0,18.0,22.7,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,34,96.518,3601.383,3,HARD,6,False,False,False,False,False,316.0,17.9,22.7,49.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,35,96.546,3698.068,3,HARD,7,False,False,False,False,False,319.0,18.0,22.6,49.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,36,96.931,3794.878,3,HARD,8,False,False,False,False,False,301.0,18.0,22.6,50.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,37,96.805,3891.866,3,HARD,9,False,False,False,False,False,303.0,17.9,22.5,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,38,96.857,3988.58,3,HARD,10,False,False,False,False,False,302.0,17.9,22.6,50.0,0,0.8
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,39,96.637,4085.178,3,HARD,11,False,False,False,False,False,303.0,17.9,22.4,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,40,96.683,4181.879,3,HARD,12,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,41,96.695,4278.732,3,HARD,13,False,False,False,False,False,302.0,17.9,22.4,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,42,96.652,4375.311,3,HARD,14,False,False,False,False,False,301.0,17.9,22.4,50.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,43,96.771,4471.952,3,HARD,15,False,False,False,False,False,,17.9,22.2,50.0,0,0.6
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,44,97.417,4569.508,3,HARD,16,False,False,False,False,False,,17.9,22.2,50.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,45,96.68,4666.091,3,HARD,17,False,False,False,False,False,302.0,17.8,22.1,51.0,0,0.5
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,46,96.741,4762.874,3,HARD,18,False,False,False,False,False,298.0,17.8,22.0,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,47,96.561,4859.46,3,HARD,19,False,False,False,False,False,299.0,17.8,21.9,51.0,0,0.7
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,48,96.654,4956.099,3,HARD,20,False,False,False,False,False,,17.7,22.0,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,49,96.72,5052.77,3,HARD,21,False,False,False,False,False,,17.7,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,50,96.792,5149.587,3,HARD,22,False,False,False,False,False,,17.7,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,51,97.042,5246.661,3,HARD,23,False,False,False,False,False,298.0,17.6,22.0,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,52,97.394,5344.058,3,HARD,24,False,False,False,False,False,,17.6,21.9,51.0,0,0.4
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,53,97.141,5441.208,3,HARD,25,False,False,False,False,False,301.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,54,98.389,5539.656,3,HARD,26,False,False,False,False,False,298.0,17.6,21.9,51.0,0,0.3
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,55,97.383,5637.003,3,HARD,27,False,False,False,False,False,304.0,17.6,21.9,51.0,0,0.0
+2024,1,Bahrain Grand Prix,Sakhir,63,15,57,ZHO,Kick Sauber,56,97.333,5734.294,3,HARD,28,False,False,False,False,False,302.0,17.7,22.0,51.0,0,0.0

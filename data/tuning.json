@@ -1,0 +1,190 @@
+{
+ "cv": {
+  "baseline": {
+   "0": {},
+   "1": {},
+   "2": {},
+   "3": {},
+   "4": {}
+  },
+  "linear": {
+   "0": {},
+   "1": {},
+   "2": {},
+   "3": {},
+   "4": {}
+  },
+  "ridge": {
+   "0": {
+    "alpha": "100000.0"
+   },
+   "1": {
+    "alpha": "10"
+   },
+   "2": {
+    "alpha": "100000.0"
+   },
+   "3": {
+    "alpha": "100000.0"
+   },
+   "4": {
+    "alpha": "100000.0"
+   }
+  },
+  "rf": {
+   "0": {
+    "n_estimators": "200",
+    "min_samples_leaf": "100",
+    "max_features": "0.5"
+   },
+   "1": {
+    "n_estimators": "200",
+    "min_samples_leaf": "20",
+    "max_features": "0.5"
+   },
+   "2": {
+    "n_estimators": "200",
+    "min_samples_leaf": "20",
+    "max_features": "0.5"
+   },
+   "3": {
+    "n_estimators": "200",
+    "min_samples_leaf": "20",
+    "max_features": "0.5"
+   },
+   "4": {
+    "n_estimators": "200",
+    "min_samples_leaf": "100",
+    "max_features": "0.5"
+   }
+  },
+  "gbm": {
+   "0": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "15",
+    "l2_regularization": "1.0"
+   },
+   "1": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "15",
+    "l2_regularization": "0.0"
+   },
+   "2": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "15",
+    "l2_regularization": "1.0"
+   },
+   "3": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "31",
+    "l2_regularization": "1.0"
+   },
+   "4": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "15",
+    "l2_regularization": "0.0"
+   }
+  },
+  "mlp": {
+   "0": {
+    "hidden": "(16, 8)",
+    "wd": "0.01",
+    "dropout": "0.2"
+   },
+   "1": {
+    "hidden": "(32, 16)",
+    "wd": "0.1",
+    "dropout": "0.2"
+   },
+   "2": {
+    "hidden": "(16, 8)",
+    "wd": "0.01",
+    "dropout": "0.2"
+   },
+   "3": {
+    "hidden": "(32, 16)",
+    "wd": "0.01",
+    "dropout": "0.2"
+   },
+   "4": {
+    "hidden": "(32, 16)",
+    "wd": "0.1",
+    "dropout": "0.5"
+   }
+  },
+  "degnet": {
+   "0": {
+    "features": "full",
+    "hidden": "(16, 8)",
+    "wd": "0.3",
+    "n": "1"
+   },
+   "1": {
+    "features": "phys",
+    "hidden": "(16, 8)",
+    "wd": "0.1",
+    "n": "1"
+   },
+   "2": {
+    "features": "full",
+    "hidden": "(16, 8)",
+    "wd": "0.1",
+    "n": "1"
+   },
+   "3": {
+    "features": "full",
+    "hidden": "(16, 8)",
+    "wd": "0.3",
+    "n": "1"
+   },
+   "4": {
+    "features": "phys",
+    "hidden": "(16, 8)",
+    "wd": "0.1",
+    "n": "1"
+   }
+  }
+ },
+ "temporal": {
+  "baseline": {
+   "2024": {}
+  },
+  "linear": {
+   "2024": {}
+  },
+  "ridge": {
+   "2024": {
+    "alpha": "100000.0"
+   }
+  },
+  "rf": {
+   "2024": {
+    "n_estimators": "200",
+    "min_samples_leaf": "20",
+    "max_features": "0.5"
+   }
+  },
+  "gbm": {
+   "2024": {
+    "learning_rate": "0.03",
+    "max_leaf_nodes": "15",
+    "l2_regularization": "1.0"
+   }
+  },
+  "mlp": {
+   "2024": {
+    "hidden": "(32, 16)",
+    "wd": "0.01",
+    "dropout": "0.5"
+   }
+  },
+  "degnet": {
+   "2024": {
+    "features": "phys",
+    "hidden": "(16, 8)",
+    "wd": "0.3",
+    "n": "1"
+   }
+  }
+ }
+}

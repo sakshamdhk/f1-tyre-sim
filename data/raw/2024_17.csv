@@ -1,0 +1,974 @@
+Year,Round,Race,Location,CircuitKey,Corners,TotalLaps,Driver,Team,LapNumber,LapTimeS,SessionTimeS,Stint,Compound,TyreLife,PitIn,PitOut,Neutralised,Restart,Yellow,SpeedST,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,1,119.39,370.234,1.0,HARD,1.0,False,False,False,False,False,321.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,2,110.846,481.079,1.0,HARD,2.0,False,False,False,False,False,321.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,3,110.457,591.629,1.0,HARD,3.0,False,False,False,False,False,323.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,4,110.185,701.837,1.0,HARD,4.0,False,False,False,False,False,323.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,5,109.78,811.699,1.0,HARD,5.0,False,False,False,False,False,323.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,6,109.64,921.491,1.0,HARD,6.0,False,False,False,False,False,322.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,7,109.533,1030.765,1.0,HARD,7.0,False,False,False,False,False,322.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,8,109.207,1140.043,1.0,HARD,8.0,False,False,False,False,False,324.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,9,109.358,1249.451,1.0,HARD,9.0,False,False,False,False,False,324.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,10,109.291,1358.637,1.0,HARD,10.0,False,False,False,False,False,323.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,11,109.199,1467.795,1.0,HARD,11.0,False,False,False,False,False,320.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,12,109.191,1576.9,1.0,HARD,12.0,False,False,False,False,False,318.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,13,109.04,1686.002,1.0,HARD,13.0,False,False,False,False,False,317.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,14,108.783,1794.897,1.0,HARD,14.0,False,False,False,False,False,316.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,15,108.779,1903.822,1.0,HARD,15.0,False,False,False,False,False,316.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,16,108.677,2012.294,1.0,HARD,16.0,False,False,False,False,False,315.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,17,110.315,2122.629,1.0,HARD,17.0,False,False,False,False,False,320.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,18,109.962,2232.637,1.0,HARD,18.0,False,False,False,False,False,319.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,19,109.777,2342.284,1.0,HARD,19.0,False,False,False,False,False,319.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,20,109.282,2451.604,1.0,HARD,20.0,False,False,False,False,False,318.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,21,109.213,2560.87,1.0,HARD,21.0,False,False,False,False,False,319.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,22,109.181,2670.045,1.0,HARD,22.0,False,False,False,False,False,317.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,23,109.247,2779.336,1.0,HARD,23.0,False,False,False,False,False,316.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,24,110.191,2889.381,1.0,HARD,24.0,False,False,False,False,False,322.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,25,109.231,2998.73,1.0,HARD,25.0,False,False,False,False,False,319.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,26,109.179,3107.938,1.0,HARD,26.0,False,False,False,False,False,318.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,27,109.077,3216.912,1.0,HARD,27.0,False,False,False,False,False,318.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,28,109.115,3326.111,1.0,HARD,28.0,False,False,False,False,False,318.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,29,109.187,3435.365,1.0,HARD,29.0,False,False,False,False,False,319.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,30,109.041,3544.283,1.0,HARD,30.0,False,False,False,False,False,317.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,31,112.482,3656.837,1.0,HARD,31.0,True,False,False,False,False,317.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,32,125.956,3782.753,2.0,MEDIUM,1.0,False,True,False,False,False,323.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,33,107.551,3890.339,2.0,MEDIUM,2.0,False,False,False,False,False,325.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,34,108.556,3998.859,2.0,MEDIUM,3.0,False,False,False,False,False,326.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,35,109.733,4108.658,2.0,MEDIUM,4.0,False,False,False,False,False,326.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,36,107.955,4216.533,2.0,MEDIUM,5.0,False,False,False,False,True,326.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,37,108.394,4325.089,2.0,MEDIUM,6.0,False,False,False,False,False,326.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,38,108.124,4433.044,2.0,MEDIUM,7.0,False,False,False,False,False,321.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,39,108.117,4541.158,2.0,MEDIUM,8.0,False,False,False,False,False,322.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,40,107.613,4649.045,2.0,MEDIUM,9.0,False,False,False,False,False,322.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,41,107.953,4756.746,2.0,MEDIUM,10.0,False,False,False,False,False,321.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,42,107.213,4863.956,2.0,MEDIUM,11.0,False,False,False,False,False,322.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,43,106.947,4970.955,2.0,MEDIUM,12.0,False,False,False,False,False,322.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,44,107.04,5077.92,2.0,MEDIUM,13.0,False,False,False,False,False,323.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,45,107.392,5185.25,2.0,MEDIUM,14.0,False,False,False,False,False,323.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,46,107.586,5293.027,2.0,MEDIUM,15.0,False,False,False,False,False,323.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,47,107.569,5400.455,2.0,MEDIUM,16.0,False,False,False,False,False,322.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,48,107.153,5507.726,2.0,MEDIUM,17.0,False,False,False,False,False,323.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,49,107.35,5615.029,2.0,MEDIUM,18.0,False,False,False,False,True,322.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,50,149.028,5764.099,2.0,MEDIUM,19.0,False,False,True,False,True,204.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALB,Williams,51,152.68,5916.613,2.0,MEDIUM,20.0,False,False,True,False,True,216.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,1,117.849,368.693,1.0,MEDIUM,2.0,False,False,False,False,False,323.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,2,110.081,478.773,1.0,MEDIUM,3.0,False,False,False,False,False,323.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,3,110.262,588.991,1.0,MEDIUM,4.0,False,False,False,False,False,323.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,4,109.975,698.993,1.0,MEDIUM,5.0,False,False,False,False,False,323.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,5,110.103,809.446,1.0,MEDIUM,6.0,False,False,False,False,False,321.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,6,109.937,918.988,1.0,MEDIUM,7.0,False,False,False,False,False,320.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,7,109.66,1028.69,1.0,MEDIUM,8.0,False,False,False,False,False,321.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,8,109.132,1137.769,1.0,MEDIUM,9.0,False,False,False,False,False,321.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,9,109.056,1246.994,1.0,MEDIUM,10.0,False,False,False,False,False,322.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,10,109.354,1356.327,1.0,MEDIUM,11.0,False,False,False,False,False,322.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,11,113.492,1469.704,1.0,MEDIUM,12.0,True,False,False,False,False,322.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,12,125.549,1595.303,2.0,HARD,2.0,False,True,False,False,False,322.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,13,109.286,1704.572,2.0,HARD,3.0,False,False,False,False,False,324.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,14,109.222,1813.716,2.0,HARD,4.0,False,False,False,False,False,323.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,15,109.984,1923.802,2.0,HARD,5.0,False,False,False,False,False,328.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,16,108.759,2032.558,2.0,HARD,6.0,False,False,False,False,False,327.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,17,109.1,2141.622,2.0,HARD,7.0,False,False,False,False,False,322.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,18,109.515,2251.131,2.0,HARD,8.0,False,False,False,False,False,322.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,19,109.239,2360.467,2.0,HARD,9.0,False,False,False,False,False,320.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,20,109.379,2469.861,2.0,HARD,10.0,False,False,False,False,False,319.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,21,109.151,2579.004,2.0,HARD,11.0,False,False,False,False,False,321.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,22,109.047,2688.023,2.0,HARD,12.0,False,False,False,False,False,319.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,23,109.104,2797.086,2.0,HARD,13.0,False,False,False,False,False,319.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,24,108.835,2905.995,2.0,HARD,14.0,False,False,False,False,False,322.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,25,109.02,3014.987,2.0,HARD,15.0,False,False,False,False,False,320.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,26,109.178,3124.053,2.0,HARD,16.0,False,False,False,False,False,320.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,27,108.729,3233.062,2.0,HARD,17.0,False,False,False,False,False,321.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,28,108.635,3341.505,2.0,HARD,18.0,False,False,False,False,False,322.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,29,108.782,3450.201,2.0,HARD,19.0,False,False,False,False,False,321.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,30,109.589,3559.797,2.0,HARD,20.0,False,False,False,False,False,320.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,31,108.979,3668.874,2.0,HARD,21.0,False,False,False,False,False,320.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,32,110.08,3778.901,2.0,HARD,22.0,False,False,False,False,False,320.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,33,108.825,3887.597,2.0,HARD,23.0,False,False,False,False,False,320.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,34,109.26,3997.015,2.0,HARD,24.0,False,False,False,False,False,320.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,35,109.533,4106.462,2.0,HARD,25.0,False,False,False,False,False,322.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,36,108.206,4214.727,2.0,HARD,26.0,False,False,False,False,True,321.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,37,107.889,4322.683,2.0,HARD,27.0,False,False,False,False,False,322.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,38,108.131,4430.798,2.0,HARD,28.0,False,False,False,False,False,322.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,39,107.97,4538.704,2.0,HARD,29.0,False,False,False,False,False,322.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,40,107.719,4646.475,2.0,HARD,30.0,False,False,False,False,False,321.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,41,107.956,4754.441,2.0,HARD,31.0,False,False,False,False,False,320.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,42,107.351,4861.712,2.0,HARD,32.0,False,False,False,False,False,322.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,43,107.486,4969.21,2.0,HARD,33.0,False,False,False,False,False,321.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,44,107.465,5076.791,2.0,HARD,34.0,False,False,False,False,False,322.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,45,107.498,5184.14,2.0,HARD,35.0,False,False,False,False,False,322.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,46,107.571,5291.768,2.0,HARD,36.0,False,False,False,False,False,321.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,47,107.354,5399.184,2.0,HARD,37.0,False,False,False,False,False,321.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,48,107.057,5506.204,2.0,HARD,38.0,False,False,False,False,False,321.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,49,107.152,5613.359,2.0,HARD,39.0,False,False,False,False,True,320.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,50,149.162,5762.567,2.0,HARD,40.0,False,False,True,False,True,195.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ALO,Aston Martin,51,152.276,5914.705,2.0,HARD,41.0,False,False,True,False,True,201.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,1,120.311,371.155,1.0,MEDIUM,1.0,False,False,False,False,False,318.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,2,110.738,481.892,1.0,MEDIUM,2.0,False,False,False,False,False,320.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,3,110.677,592.704,1.0,MEDIUM,3.0,False,False,False,False,False,320.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,4,110.282,702.936,1.0,MEDIUM,4.0,False,False,False,False,False,323.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,5,110.51,813.329,1.0,MEDIUM,5.0,False,False,False,False,False,321.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,6,110.991,924.529,1.0,MEDIUM,6.0,False,False,False,False,False,318.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,7,110.084,1034.481,1.0,MEDIUM,7.0,False,False,False,False,False,318.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,8,111.194,1145.605,1.0,MEDIUM,8.0,False,False,False,False,False,320.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,9,109.877,1255.615,1.0,MEDIUM,9.0,False,False,False,False,False,320.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,10,111.117,1366.756,1.0,MEDIUM,10.0,False,False,False,False,False,322.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,11,110.119,1476.921,1.0,MEDIUM,11.0,False,False,False,False,False,320.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,12,110.055,1586.92,1.0,MEDIUM,12.0,False,False,False,False,False,319.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,13,110.193,1697.224,1.0,MEDIUM,13.0,False,False,False,False,False,318.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,14,114.465,1811.511,1.0,MEDIUM,14.0,True,False,False,False,False,318.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,15,126.955,1938.477,2.0,HARD,1.0,False,True,False,False,False,321.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,16,110.038,2048.657,2.0,HARD,2.0,False,False,False,False,False,324.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,17,109.571,2158.068,2.0,HARD,3.0,False,False,False,False,False,327.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,18,108.714,2266.839,2.0,HARD,4.0,False,False,False,False,False,319.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,19,108.457,2375.408,2.0,HARD,5.0,False,False,False,False,False,319.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,20,108.769,2483.95,2.0,HARD,6.0,False,False,False,False,False,318.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,21,108.487,2592.623,2.0,HARD,7.0,False,False,False,False,False,324.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,22,109.905,2702.387,2.0,HARD,8.0,False,False,False,False,False,316.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,23,108.487,2811.149,2.0,HARD,9.0,False,False,False,False,False,318.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,24,108.214,2919.115,2.0,HARD,10.0,False,False,False,False,False,319.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,25,108.113,3027.421,2.0,HARD,11.0,False,False,False,False,False,318.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,26,108.305,3135.529,2.0,HARD,12.0,False,False,False,False,False,318.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,27,108.004,3243.659,2.0,HARD,13.0,False,False,False,False,False,320.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,28,108.312,3351.899,2.0,HARD,14.0,False,False,False,False,False,323.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,29,108.703,3460.492,2.0,HARD,15.0,False,False,False,False,False,324.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,30,108.046,3568.801,2.0,HARD,16.0,False,False,False,False,False,319.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,31,107.552,3676.188,2.0,HARD,17.0,False,False,False,False,False,320.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,32,108.147,3784.452,2.0,HARD,18.0,False,False,False,False,False,320.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,33,108.578,3893.02,2.0,HARD,19.0,False,False,False,False,False,321.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,34,108.342,4001.236,2.0,HARD,20.0,False,False,False,False,False,322.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,35,108.655,4109.965,2.0,HARD,21.0,False,False,False,False,False,325.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,36,108.819,4218.794,2.0,HARD,22.0,False,False,False,False,True,327.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,37,110.561,4329.467,2.0,HARD,23.0,False,False,False,False,False,325.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,38,109.56,4439.091,2.0,HARD,24.0,False,False,False,False,False,324.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,39,108.85,4547.746,2.0,HARD,25.0,False,False,False,False,False,325.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,40,109.166,4657.002,2.0,HARD,26.0,False,False,False,False,False,323.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,41,110.629,4767.718,2.0,HARD,27.0,False,False,False,False,False,320.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,42,107.883,4875.475,2.0,HARD,28.0,False,False,False,False,False,323.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,43,107.681,4983.151,2.0,HARD,29.0,False,False,False,False,False,321.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,44,107.345,5090.498,2.0,HARD,30.0,False,False,False,False,False,323.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,45,107.68,5198.179,2.0,HARD,31.0,False,False,False,False,False,324.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,46,107.281,5305.523,2.0,HARD,32.0,False,False,False,False,False,323.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,47,107.048,5412.496,2.0,HARD,33.0,False,False,False,False,False,325.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,48,107.369,5519.804,2.0,HARD,34.0,False,False,False,False,False,324.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,49,107.435,5627.298,2.0,HARD,35.0,False,False,False,False,True,325.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,50,141.914,5769.133,2.0,HARD,36.0,False,False,True,False,True,186.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BEA,Haas F1 Team,51,153.249,5922.317,2.0,HARD,37.0,False,False,True,False,True,169.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,1,124.901,375.745,1.0,MEDIUM,2.0,False,False,False,False,False,322.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,2,114.291,490.035,1.0,MEDIUM,3.0,False,False,False,False,False,320.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,3,112.71,602.822,1.0,MEDIUM,4.0,False,False,False,False,False,320.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,4,111.585,714.351,1.0,MEDIUM,5.0,False,False,False,False,False,322.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,5,113.313,827.648,1.0,MEDIUM,6.0,False,False,False,False,False,320.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,6,111.039,938.72,1.0,MEDIUM,7.0,False,False,False,False,False,319.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,7,111.374,1050.008,1.0,MEDIUM,8.0,False,False,False,False,False,318.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,8,111.315,1161.485,1.0,MEDIUM,9.0,False,False,False,False,False,317.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,9,111.467,1272.85,1.0,MEDIUM,10.0,False,False,False,False,False,317.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,10,112.685,1385.569,1.0,MEDIUM,11.0,False,False,False,False,False,319.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,11,117.809,1503.388,1.0,MEDIUM,12.0,True,False,False,False,False,314.0,26.8,44.7,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,12,126.862,1630.191,2.0,HARD,2.0,False,True,False,False,False,315.0,26.9,44.8,38.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,13,109.999,1740.272,2.0,HARD,3.0,False,False,False,False,False,314.0,27.0,44.7,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,14,110.005,1850.174,2.0,HARD,4.0,False,False,False,False,False,314.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,15,109.708,1959.96,2.0,HARD,5.0,False,False,False,False,False,315.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,16,109.744,2069.615,2.0,HARD,6.0,False,False,False,False,False,316.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,17,109.792,2179.403,2.0,HARD,7.0,False,False,False,False,False,316.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,18,109.718,2289.177,2.0,HARD,8.0,False,False,False,False,False,316.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,19,109.911,2399.143,2.0,HARD,9.0,False,False,False,False,False,315.0,26.5,43.9,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,20,109.692,2509.135,2.0,HARD,10.0,False,False,False,False,False,315.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,21,109.687,2618.491,2.0,HARD,11.0,False,False,False,False,False,316.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,22,109.727,2728.194,2.0,HARD,12.0,False,False,False,False,False,314.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,23,109.77,2838.076,2.0,HARD,13.0,False,False,False,False,False,315.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,24,109.617,2947.638,2.0,HARD,14.0,False,False,False,False,False,314.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,25,109.463,3057.043,2.0,HARD,15.0,False,False,False,False,False,316.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,26,109.646,3166.745,2.0,HARD,16.0,False,False,False,False,False,315.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,27,109.455,3276.066,2.0,HARD,17.0,False,False,False,False,False,316.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,28,109.459,3385.658,2.0,HARD,18.0,False,False,False,False,False,316.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,29,109.321,3494.989,2.0,HARD,19.0,False,False,False,False,False,316.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,30,109.41,3604.346,2.0,HARD,20.0,False,False,False,False,False,315.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,31,109.406,3713.772,2.0,HARD,21.0,False,False,False,False,False,315.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,32,109.281,3823.082,2.0,HARD,22.0,False,False,False,False,False,314.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,33,111.477,3934.58,2.0,HARD,23.0,False,False,False,False,False,318.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,34,109.598,4044.107,2.0,HARD,24.0,False,False,False,False,False,317.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,35,109.231,4153.379,2.0,HARD,25.0,False,False,False,False,True,318.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,36,109.038,4262.242,2.0,HARD,26.0,False,False,False,False,False,319.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,37,108.871,4371.171,2.0,HARD,27.0,False,False,False,False,False,318.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,38,108.836,4480.165,2.0,HARD,28.0,False,False,False,False,False,317.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,39,109.012,4589.009,2.0,HARD,29.0,False,False,False,False,False,317.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,40,108.501,4697.613,2.0,HARD,30.0,False,False,False,False,False,317.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,41,108.418,4806.01,2.0,HARD,31.0,False,False,False,False,False,319.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,42,108.742,4914.776,2.0,HARD,32.0,False,False,False,False,False,321.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,43,108.467,5023.242,2.0,HARD,33.0,False,False,False,False,False,319.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,44,108.683,5132.0,2.0,HARD,34.0,False,False,False,False,False,320.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,45,108.498,5240.49,2.0,HARD,35.0,False,False,False,False,False,321.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,46,110.67,5350.974,2.0,HARD,36.0,False,False,False,False,False,320.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,47,108.863,5459.918,2.0,HARD,37.0,False,False,False,False,False,318.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,48,114.753,5574.602,2.0,HARD,38.0,False,False,False,False,False,316.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,49,127.663,5702.313,2.0,HARD,39.0,False,False,True,False,True,127.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,BOT,Kick Sauber,50,152.351,5854.795,2.0,HARD,40.0,False,False,True,False,True,188.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,1,118.796,369.64,1.0,MEDIUM,1.0,False,False,False,False,False,322.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,2,110.41,480.049,1.0,MEDIUM,2.0,False,False,False,False,False,322.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,3,110.414,590.445,1.0,MEDIUM,3.0,False,False,False,False,False,323.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,4,109.916,700.375,1.0,MEDIUM,4.0,False,False,False,False,False,324.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,5,110.137,810.379,1.0,MEDIUM,5.0,False,False,False,False,False,324.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,6,109.722,920.123,1.0,MEDIUM,6.0,False,False,False,False,False,322.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,7,109.483,1029.613,1.0,MEDIUM,7.0,False,False,False,False,False,323.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,8,109.302,1138.995,1.0,MEDIUM,8.0,False,False,False,False,False,325.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,9,109.403,1248.392,1.0,MEDIUM,9.0,False,False,False,False,False,324.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,10,113.374,1361.706,1.0,MEDIUM,10.0,True,False,False,False,False,323.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,11,126.259,1488.016,2.0,HARD,1.0,False,True,False,False,False,319.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,12,109.173,1597.137,2.0,HARD,2.0,False,False,False,False,False,324.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,13,109.417,1706.686,2.0,HARD,3.0,False,False,False,False,False,325.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,14,109.367,1815.913,2.0,HARD,4.0,False,False,False,False,False,323.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,15,109.339,1925.352,2.0,HARD,5.0,False,False,False,False,False,322.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,16,109.745,2035.082,2.0,HARD,6.0,False,False,False,False,False,325.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,17,109.243,2144.289,2.0,HARD,7.0,False,False,False,False,False,324.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,18,109.258,2253.566,2.0,HARD,8.0,False,False,False,False,False,325.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,19,109.1,2362.627,2.0,HARD,9.0,False,False,False,False,False,326.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,20,109.028,2471.727,2.0,HARD,10.0,False,False,False,False,False,321.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,21,109.237,2580.874,2.0,HARD,11.0,False,False,False,False,False,322.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,22,108.851,2689.823,2.0,HARD,12.0,False,False,False,False,False,321.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,23,109.008,2798.825,2.0,HARD,13.0,False,False,False,False,False,322.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,24,108.745,2907.576,2.0,HARD,14.0,False,False,False,False,False,324.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,25,108.92,3016.492,2.0,HARD,15.0,False,False,False,False,False,322.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,26,109.148,3125.627,2.0,HARD,16.0,False,False,False,False,False,322.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,27,108.98,3234.5,2.0,HARD,17.0,False,False,False,False,False,323.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,28,109.258,3343.801,2.0,HARD,18.0,False,False,False,False,False,323.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,29,108.924,3452.683,2.0,HARD,19.0,False,False,False,False,False,322.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,30,108.987,3561.808,2.0,HARD,20.0,False,False,False,False,False,322.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,31,108.951,3670.678,2.0,HARD,21.0,False,False,False,False,False,322.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,32,108.85,3779.812,2.0,HARD,22.0,False,False,False,False,False,324.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,33,109.367,3888.907,2.0,HARD,23.0,False,False,False,False,False,324.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,34,109.161,3998.087,2.0,HARD,24.0,False,False,False,False,False,324.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,35,109.737,4107.75,2.0,HARD,25.0,False,False,False,False,False,324.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,36,110.858,4218.92,2.0,HARD,26.0,False,False,False,False,True,324.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,37,110.229,4329.004,2.0,HARD,27.0,False,False,False,False,False,323.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,38,109.52,4438.381,2.0,HARD,28.0,False,False,False,False,False,322.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,39,109.034,4547.4,2.0,HARD,29.0,False,False,False,False,False,322.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,40,108.416,4656.181,2.0,HARD,30.0,False,False,False,False,False,322.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,41,108.416,4764.321,2.0,HARD,31.0,False,False,False,False,False,321.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,42,107.833,4872.147,2.0,HARD,32.0,False,False,False,False,False,322.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,43,107.476,4979.597,2.0,HARD,33.0,False,False,False,False,False,322.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,44,107.274,5086.846,2.0,HARD,34.0,False,False,False,False,False,324.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,45,107.454,5194.473,2.0,HARD,35.0,False,False,False,False,False,324.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,46,107.5,5301.826,2.0,HARD,36.0,False,False,False,False,False,324.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,47,107.741,5409.51,2.0,HARD,37.0,False,False,False,False,False,323.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,48,107.369,5516.93,2.0,HARD,38.0,False,False,False,False,False,323.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,49,108.223,5625.072,2.0,HARD,39.0,False,False,False,False,True,320.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,50,140.687,5765.873,2.0,HARD,40.0,False,False,True,False,True,194.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,COL,Williams,51,153.011,5918.758,2.0,HARD,41.0,False,False,True,False,True,206.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,1,124.824,375.668,1.0,HARD,1.0,False,False,False,False,False,331.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,2,112.861,488.528,1.0,HARD,2.0,False,False,False,False,False,325.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,3,111.565,600.162,1.0,HARD,3.0,False,False,False,False,False,326.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,4,109.849,710.006,1.0,HARD,4.0,False,False,False,False,False,324.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,5,110.116,820.082,1.0,HARD,5.0,False,False,False,False,False,323.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,6,110.071,930.148,1.0,HARD,6.0,False,False,False,False,False,320.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,7,109.908,1040.182,1.0,HARD,7.0,False,False,False,False,False,320.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,8,109.707,1149.814,1.0,HARD,8.0,False,False,False,False,False,321.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,9,109.776,1259.65,1.0,HARD,9.0,False,False,False,False,False,320.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,10,109.479,1369.262,1.0,HARD,10.0,False,False,False,False,False,322.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,11,110.305,1479.45,1.0,HARD,11.0,False,False,False,False,False,320.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,12,110.207,1589.624,1.0,HARD,12.0,False,False,False,False,False,322.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,13,110.586,1700.143,1.0,HARD,13.0,False,False,False,False,False,323.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,14,110.56,1810.721,1.0,HARD,14.0,False,False,False,False,False,324.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,15,111.674,1922.374,1.0,HARD,15.0,False,False,False,False,False,318.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,16,110.412,2032.878,1.0,HARD,16.0,False,False,False,False,False,316.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,17,110.314,2143.105,1.0,HARD,17.0,False,False,False,False,False,321.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,18,109.879,2253.058,1.0,HARD,18.0,False,False,False,False,False,319.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,19,109.647,2362.705,1.0,HARD,19.0,False,False,False,False,False,318.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,20,110.731,2473.51,1.0,HARD,20.0,False,False,False,False,False,319.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,21,110.09,2583.529,1.0,HARD,21.0,False,False,False,False,False,319.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,22,110.329,2693.809,1.0,HARD,22.0,False,False,False,False,False,317.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,23,109.639,2803.477,1.0,HARD,23.0,False,False,False,False,False,317.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,24,109.699,2913.074,1.0,HARD,24.0,False,False,False,False,False,318.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,25,109.69,3022.832,1.0,HARD,25.0,False,False,False,False,False,316.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,26,110.054,3132.887,1.0,HARD,26.0,False,False,False,False,False,318.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,27,109.311,3242.24,1.0,HARD,27.0,False,False,False,False,False,320.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,28,109.294,3351.701,1.0,HARD,28.0,False,False,False,False,False,320.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,29,108.98,3460.533,1.0,HARD,29.0,False,False,False,False,False,319.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,30,111.275,3571.951,1.0,HARD,30.0,False,False,False,False,False,320.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,31,109.319,3681.101,1.0,HARD,31.0,False,False,False,False,False,319.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,32,109.223,3790.247,1.0,HARD,32.0,False,False,False,False,False,319.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,33,108.774,3899.083,1.0,HARD,33.0,False,False,False,False,False,319.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,34,108.737,4007.93,1.0,HARD,34.0,False,False,False,False,False,319.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,35,108.832,4116.619,1.0,HARD,35.0,False,False,False,False,False,320.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,36,108.95,4225.599,1.0,HARD,36.0,False,False,False,False,True,320.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,37,108.778,4334.307,1.0,HARD,37.0,False,False,False,False,False,319.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,38,108.916,4443.542,1.0,HARD,38.0,False,False,False,False,False,319.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,39,108.738,4552.037,1.0,HARD,39.0,False,False,False,False,False,320.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,40,108.503,4660.798,1.0,HARD,40.0,False,False,False,False,False,320.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,41,108.725,4769.215,1.0,HARD,41.0,False,False,False,False,False,321.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,42,108.827,4878.074,1.0,HARD,42.0,False,False,False,False,False,321.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,43,108.529,4986.644,1.0,HARD,43.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,44,108.2,5095.099,1.0,HARD,44.0,False,False,False,False,False,321.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,45,108.048,5202.909,1.0,HARD,45.0,False,False,False,False,False,320.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,46,108.349,5311.229,1.0,HARD,46.0,False,False,False,False,False,320.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,47,108.018,5419.184,1.0,HARD,47.0,False,False,False,False,False,319.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,48,108.364,5527.603,1.0,HARD,48.0,False,False,False,False,False,319.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,49,108.461,5636.313,1.0,HARD,49.0,False,False,False,False,True,318.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,50,145.969,5782.002,1.0,HARD,50.0,True,False,True,False,True,176.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,GAS,Alpine,51,164.48,5946.422,2.0,SOFT,1.0,False,True,True,False,True,250.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,2,112.922,489.817,1.0,MEDIUM,2.0,False,False,False,False,False,330.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,3,110.97,600.871,1.0,MEDIUM,3.0,False,False,False,False,False,327.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,4,110.351,711.277,1.0,MEDIUM,4.0,False,False,False,False,False,326.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,5,110.358,821.622,1.0,MEDIUM,5.0,False,False,False,False,False,323.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,6,109.791,931.318,1.0,MEDIUM,6.0,False,False,False,False,False,323.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,7,109.399,1040.79,1.0,MEDIUM,7.0,False,False,False,False,False,325.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,8,109.59,1150.385,1.0,MEDIUM,8.0,False,False,False,False,False,325.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,9,109.698,1260.024,1.0,MEDIUM,9.0,False,False,False,False,False,326.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,10,109.993,1370.043,1.0,MEDIUM,10.0,False,False,False,False,False,326.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,11,110.712,1480.78,1.0,MEDIUM,11.0,False,False,False,False,False,322.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,12,115.287,1596.057,1.0,MEDIUM,12.0,True,False,False,False,False,322.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,13,126.757,1722.731,2.0,HARD,1.0,False,True,False,False,False,324.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,14,108.984,1831.866,2.0,HARD,2.0,False,False,False,False,False,324.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,15,108.754,1940.541,2.0,HARD,3.0,False,False,False,False,False,334.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,16,108.527,2049.049,2.0,HARD,4.0,False,False,False,False,False,328.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,17,109.487,2158.644,2.0,HARD,5.0,False,False,False,False,False,330.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,18,108.632,2267.185,2.0,HARD,6.0,False,False,False,False,False,329.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,19,108.563,2375.759,2.0,HARD,7.0,False,False,False,False,False,327.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,20,108.495,2484.332,2.0,HARD,8.0,False,False,False,False,False,328.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,21,109.616,2593.973,2.0,HARD,9.0,False,False,False,False,False,327.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,22,110.666,2704.601,2.0,HARD,10.0,False,False,False,False,False,333.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,23,108.588,2813.046,2.0,HARD,11.0,False,False,False,False,False,323.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,24,108.433,2921.54,2.0,HARD,12.0,False,False,False,False,False,325.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,25,108.29,3029.912,2.0,HARD,13.0,False,False,False,False,False,325.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,26,107.828,3137.705,2.0,HARD,14.0,False,False,False,False,False,324.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,27,107.898,3245.586,2.0,HARD,15.0,False,False,False,False,False,325.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,28,108.045,3353.655,2.0,HARD,16.0,False,False,False,False,False,327.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,29,107.777,3461.391,2.0,HARD,17.0,False,False,False,False,False,328.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,30,108.494,3569.996,2.0,HARD,18.0,False,False,False,False,False,326.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,31,108.128,3677.943,2.0,HARD,19.0,False,False,False,False,False,325.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,32,107.867,3785.906,2.0,HARD,20.0,False,False,False,False,False,326.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,33,107.33,3893.19,2.0,HARD,21.0,False,False,False,False,False,330.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,34,109.101,4002.303,2.0,HARD,22.0,False,False,False,False,False,329.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,35,107.998,4110.293,2.0,HARD,23.0,False,False,False,False,False,331.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,36,108.903,4219.146,2.0,HARD,24.0,False,False,False,False,True,332.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,37,110.671,4329.952,2.0,HARD,25.0,False,False,False,False,False,330.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,38,109.22,4439.111,2.0,HARD,26.0,False,False,False,False,False,331.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,39,109.264,4548.606,2.0,HARD,27.0,False,False,False,False,False,329.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,40,108.576,4657.193,2.0,HARD,28.0,False,False,False,False,False,333.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,41,108.492,4765.83,2.0,HARD,29.0,False,False,False,False,False,326.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,42,107.3,4872.796,2.0,HARD,30.0,False,False,False,False,False,329.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,43,107.679,4980.468,2.0,HARD,31.0,False,False,False,False,False,328.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,44,108.135,5088.597,2.0,HARD,32.0,False,False,False,False,False,327.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,45,107.629,5196.308,2.0,HARD,33.0,False,False,False,False,False,327.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,46,107.667,5303.866,2.0,HARD,34.0,False,False,False,False,False,326.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,47,107.3,5411.134,2.0,HARD,35.0,False,False,False,False,False,327.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,48,107.236,5518.369,2.0,HARD,36.0,False,False,False,False,False,327.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,49,107.947,5626.32,2.0,HARD,37.0,False,False,False,False,True,329.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,50,141.579,5767.955,2.0,HARD,38.0,False,False,True,False,True,190.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HAM,Mercedes,51,153.777,5921.59,2.0,HARD,39.0,False,False,True,False,True,186.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,1,124.297,375.141,1.0,MEDIUM,1.0,False,False,False,False,False,326.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,2,112.034,487.174,1.0,MEDIUM,2.0,False,False,False,False,False,325.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,3,110.45,597.663,1.0,MEDIUM,3.0,False,False,False,False,False,323.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,4,110.277,707.895,1.0,MEDIUM,4.0,False,False,False,False,False,323.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,5,109.113,816.955,1.0,MEDIUM,5.0,False,False,False,False,False,323.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,6,109.761,927.017,1.0,MEDIUM,6.0,False,False,False,False,False,322.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,7,109.918,1036.613,1.0,MEDIUM,7.0,False,False,False,False,False,322.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,8,109.333,1146.308,1.0,MEDIUM,8.0,False,False,False,False,False,325.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,9,109.819,1256.125,1.0,MEDIUM,9.0,False,False,False,False,False,326.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,10,109.401,1365.241,1.0,MEDIUM,10.0,False,False,False,False,False,321.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,11,109.554,1474.656,1.0,MEDIUM,11.0,False,False,False,False,False,318.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,12,109.484,1584.211,1.0,MEDIUM,12.0,False,False,False,False,False,318.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,13,109.797,1693.95,1.0,MEDIUM,13.0,False,False,False,False,False,318.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,14,110.366,1804.398,1.0,MEDIUM,14.0,False,False,False,False,False,316.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,15,114.956,1919.319,1.0,MEDIUM,15.0,True,False,False,False,False,316.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,16,126.435,2045.845,2.0,HARD,1.0,False,True,False,False,False,317.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,17,109.105,2154.979,2.0,HARD,2.0,False,False,False,False,False,319.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,18,109.153,2264.109,2.0,HARD,3.0,False,False,False,False,False,319.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,19,108.539,2372.633,2.0,HARD,4.0,False,False,False,False,False,319.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,20,108.001,2480.578,2.0,HARD,5.0,False,False,False,False,False,324.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,21,108.275,2588.883,2.0,HARD,6.0,False,False,False,False,False,319.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,22,108.925,2697.799,2.0,HARD,7.0,False,False,False,False,False,316.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,23,108.804,2806.632,2.0,HARD,8.0,False,False,False,False,False,318.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,24,107.925,2914.495,2.0,HARD,9.0,False,False,False,False,False,321.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,25,108.093,3022.689,2.0,HARD,10.0,False,False,False,False,False,325.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,26,108.387,3131.032,2.0,HARD,11.0,False,False,False,False,False,317.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,27,108.337,3239.573,2.0,HARD,12.0,False,False,False,False,False,320.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,28,108.567,3348.094,2.0,HARD,13.0,False,False,False,False,False,321.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,29,108.314,3456.528,2.0,HARD,14.0,False,False,False,False,False,320.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,30,108.263,3564.788,2.0,HARD,15.0,False,False,False,False,False,320.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,31,108.105,3672.633,2.0,HARD,16.0,False,False,False,False,False,321.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,32,109.185,3782.084,2.0,HARD,17.0,False,False,False,False,False,320.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,33,107.811,3889.475,2.0,HARD,18.0,False,False,False,False,False,324.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,34,108.69,3998.312,2.0,HARD,19.0,False,False,False,False,False,326.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,35,109.429,4107.685,2.0,HARD,20.0,False,False,False,False,False,331.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,36,108.542,4216.289,2.0,HARD,21.0,False,False,False,False,True,322.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,37,108.515,4324.762,2.0,HARD,22.0,False,False,False,False,False,320.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,38,109.638,4434.485,2.0,HARD,23.0,False,False,False,False,False,322.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,39,108.637,4543.104,2.0,HARD,24.0,False,False,False,False,False,322.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,40,108.125,4651.155,2.0,HARD,25.0,False,False,False,False,False,322.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,41,107.993,4759.189,2.0,HARD,26.0,False,False,False,False,False,320.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,42,107.691,4866.851,2.0,HARD,27.0,False,False,False,False,False,322.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,43,108.322,4975.234,2.0,HARD,28.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,44,107.934,5083.204,2.0,HARD,29.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,45,107.827,5191.264,2.0,HARD,30.0,False,False,False,False,False,320.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,46,107.957,5299.159,2.0,HARD,31.0,False,False,False,False,False,320.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,47,107.693,5406.64,2.0,HARD,32.0,False,False,False,False,False,320.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,48,109.587,5516.249,2.0,HARD,33.0,False,False,False,False,False,293.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,49,109.408,5625.579,2.0,HARD,34.0,False,False,False,False,True,324.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,50,145.325,5771.007,2.0,HARD,35.0,False,False,True,False,True,179.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,HUL,Haas F1 Team,51,151.839,5922.819,2.0,HARD,36.0,False,False,True,False,True,175.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,1,112.579,363.423,1.0,MEDIUM,1.0,False,False,False,False,False,311.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,2,109.283,472.705,1.0,MEDIUM,2.0,False,False,False,False,False,312.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,3,108.412,581.066,1.0,MEDIUM,3.0,False,False,False,False,False,312.0,26.7,45.7,40.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,4,108.408,689.599,1.0,MEDIUM,4.0,False,False,False,False,False,314.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,5,108.314,797.773,1.0,MEDIUM,5.0,False,False,False,False,False,315.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,6,108.052,905.794,1.0,MEDIUM,6.0,False,False,False,False,False,313.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,7,108.511,1014.522,1.0,MEDIUM,7.0,False,False,False,False,False,313.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,8,107.672,1122.016,1.0,MEDIUM,8.0,False,False,False,False,False,312.0,26.2,44.7,40.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,9,107.828,1229.873,1.0,MEDIUM,9.0,False,False,False,False,False,313.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,10,108.094,1338.004,1.0,MEDIUM,10.0,False,False,False,False,False,314.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,11,107.922,1445.874,1.0,MEDIUM,11.0,False,False,False,False,False,314.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,12,108.09,1554.095,1.0,MEDIUM,12.0,False,False,False,False,False,313.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,13,108.461,1662.471,1.0,MEDIUM,13.0,False,False,False,False,False,314.0,26.9,44.8,38.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,14,108.831,1771.377,1.0,MEDIUM,14.0,False,False,False,False,False,313.0,27.0,44.7,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,15,109.99,1881.32,1.0,MEDIUM,15.0,False,False,False,False,False,314.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,16,113.844,1995.157,1.0,MEDIUM,16.0,True,False,False,False,False,313.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,17,126.071,2121.2,2.0,HARD,1.0,False,True,False,False,False,315.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,18,108.358,2229.6,2.0,HARD,2.0,False,False,False,False,False,313.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,19,107.893,2337.39,2.0,HARD,3.0,False,False,False,False,False,314.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,20,109.643,2447.42,2.0,HARD,4.0,False,False,False,False,False,319.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,21,107.94,2555.087,2.0,HARD,5.0,False,False,False,False,False,320.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,22,107.737,2662.781,2.0,HARD,6.0,False,False,False,False,False,320.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,23,107.519,2770.316,2.0,HARD,7.0,False,False,False,False,False,319.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,24,107.186,2877.462,2.0,HARD,8.0,False,False,False,False,False,321.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,25,107.361,2984.823,2.0,HARD,9.0,False,False,False,False,False,322.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,26,107.314,3092.094,2.0,HARD,10.0,False,False,False,False,False,321.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,27,107.397,3199.91,2.0,HARD,11.0,False,False,False,False,False,321.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,28,107.282,3306.863,2.0,HARD,12.0,False,False,False,False,False,323.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,29,107.858,3414.697,2.0,HARD,13.0,False,False,False,False,False,322.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,30,107.528,3522.201,2.0,HARD,14.0,False,False,False,False,False,323.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,31,108.113,3630.316,2.0,HARD,15.0,False,False,False,False,False,322.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,32,107.834,3738.202,2.0,HARD,16.0,False,False,False,False,False,322.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,33,108.936,3847.188,2.0,HARD,17.0,False,False,False,False,False,320.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,34,107.834,3954.899,2.0,HARD,18.0,False,False,False,False,False,322.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,35,107.643,4062.63,2.0,HARD,19.0,False,False,False,False,False,321.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,36,108.047,4170.617,2.0,HARD,20.0,False,False,False,False,True,322.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,37,107.831,4278.429,2.0,HARD,21.0,False,False,False,False,False,322.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,38,107.516,4385.955,2.0,HARD,22.0,False,False,False,False,False,324.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,39,107.877,4493.87,2.0,HARD,23.0,False,False,False,False,False,323.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,40,107.49,4601.264,2.0,HARD,24.0,False,False,False,False,False,324.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,41,107.908,4709.252,2.0,HARD,25.0,False,False,False,False,False,325.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,42,107.977,4817.446,2.0,HARD,26.0,False,False,False,False,False,323.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,43,107.615,4924.81,2.0,HARD,27.0,False,False,False,False,False,323.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,44,107.067,5031.928,2.0,HARD,28.0,False,False,False,False,False,325.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,45,107.912,5140.06,2.0,HARD,29.0,False,False,False,False,False,325.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,46,107.744,5247.843,2.0,HARD,30.0,False,False,False,False,False,325.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,47,107.857,5355.465,2.0,HARD,31.0,False,False,False,False,False,322.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,48,108.387,5463.758,2.0,HARD,32.0,False,False,False,False,False,318.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,49,108.626,5572.822,2.0,HARD,33.0,False,False,False,False,False,316.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,50,112.773,5685.201,2.0,HARD,34.0,False,False,True,False,True,320.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,LEC,Ferrari,51,155.025,5840.143,2.0,HARD,35.0,False,False,True,False,True,211.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,1,124.139,374.983,1.0,HARD,1.0,False,False,False,False,False,316.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,2,111.638,486.62,1.0,HARD,2.0,False,False,False,False,False,324.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,3,110.219,596.938,1.0,HARD,3.0,False,False,False,False,False,320.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,4,109.767,706.636,1.0,HARD,4.0,False,False,False,False,False,321.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,5,109.386,816.035,1.0,HARD,5.0,False,False,False,False,False,321.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,6,109.509,925.823,1.0,HARD,6.0,False,False,False,False,False,321.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,7,109.104,1034.615,1.0,HARD,7.0,False,False,False,False,False,325.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,8,109.281,1144.259,1.0,HARD,8.0,False,False,False,False,False,320.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,9,108.811,1252.759,1.0,HARD,9.0,False,False,False,False,False,320.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,10,108.978,1361.798,1.0,HARD,10.0,False,False,False,False,False,321.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,11,108.556,1470.313,1.0,HARD,11.0,False,False,False,False,False,321.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,12,108.887,1579.134,1.0,HARD,12.0,False,False,False,False,False,319.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,13,109.033,1688.452,1.0,HARD,13.0,False,False,False,False,False,320.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,14,108.92,1797.063,1.0,HARD,14.0,False,False,False,False,False,317.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,15,110.169,1907.233,1.0,HARD,15.0,False,False,False,False,False,316.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,16,109.329,2016.899,1.0,HARD,16.0,False,False,False,False,False,318.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,17,108.709,2125.313,1.0,HARD,17.0,False,False,False,False,False,322.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,18,109.231,2234.617,1.0,HARD,18.0,False,False,False,False,False,320.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,19,109.082,2343.555,1.0,HARD,19.0,False,False,False,False,False,321.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,20,109.473,2453.203,1.0,HARD,20.0,False,False,False,False,False,320.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,21,108.888,2562.343,1.0,HARD,21.0,False,False,False,False,False,321.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,22,108.935,2671.294,1.0,HARD,22.0,False,False,False,False,False,320.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,23,109.749,2781.006,1.0,HARD,23.0,False,False,False,False,False,320.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,24,110.053,2890.777,1.0,HARD,24.0,False,False,False,False,False,322.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,25,108.579,2999.308,1.0,HARD,25.0,False,False,False,False,False,321.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,26,108.942,3108.325,1.0,HARD,26.0,False,False,False,False,False,323.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,27,109.141,3217.339,1.0,HARD,27.0,False,False,False,False,False,322.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,28,109.045,3326.464,1.0,HARD,28.0,False,False,False,False,False,322.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,29,109.267,3435.694,1.0,HARD,29.0,False,False,False,False,False,323.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,30,108.91,3544.973,1.0,HARD,30.0,False,False,False,False,False,322.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,31,108.802,3653.442,1.0,HARD,31.0,False,False,False,False,False,321.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,32,107.933,3761.374,1.0,HARD,32.0,False,False,False,False,False,316.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,33,107.947,3869.377,1.0,HARD,33.0,False,False,False,False,False,316.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,34,107.534,3976.819,1.0,HARD,34.0,False,False,False,False,False,318.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,35,107.667,4084.499,1.0,HARD,35.0,False,False,False,False,False,318.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,36,107.509,4192.125,1.0,HARD,36.0,False,False,False,False,True,318.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,37,111.037,4303.161,1.0,HARD,37.0,True,False,False,False,False,319.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,38,122.491,4425.599,2.0,MEDIUM,1.0,False,True,False,False,False,318.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,39,105.662,4531.191,2.0,MEDIUM,2.0,False,False,False,False,False,317.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,40,105.842,4637.029,2.0,MEDIUM,3.0,False,False,False,False,False,318.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,41,106.104,4743.255,2.0,MEDIUM,4.0,False,False,False,False,False,318.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,42,105.255,4848.452,2.0,MEDIUM,5.0,False,False,False,False,False,319.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,43,105.432,4954.168,2.0,MEDIUM,6.0,False,False,False,False,False,319.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,44,105.591,5059.76,2.0,MEDIUM,7.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,45,105.863,5165.433,2.0,MEDIUM,8.0,False,False,False,False,False,320.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,46,105.886,5271.279,2.0,MEDIUM,9.0,False,False,False,False,False,321.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,47,106.051,5377.574,2.0,MEDIUM,10.0,False,False,False,False,False,321.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,48,106.143,5483.724,2.0,MEDIUM,11.0,False,False,False,False,False,326.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,49,105.626,5589.236,2.0,MEDIUM,12.0,False,False,False,False,False,320.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,50,124.244,5713.2,2.0,MEDIUM,13.0,False,False,True,False,True,186.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,NOR,McLaren,51,152.179,5865.431,2.0,MEDIUM,14.0,False,False,True,False,True,178.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,2,113.518,491.714,1.0,HARD,5.0,False,False,False,False,False,322.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,3,112.028,603.826,1.0,HARD,6.0,False,False,False,False,False,324.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,4,111.514,715.323,1.0,HARD,7.0,False,False,False,False,False,325.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,5,113.318,828.694,1.0,HARD,8.0,False,False,False,False,False,324.0,26.4,44.5,39.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,6,111.59,940.282,1.0,HARD,9.0,False,False,False,False,False,321.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,7,111.006,1051.331,1.0,HARD,10.0,False,False,False,False,False,323.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,8,111.396,1162.676,1.0,HARD,11.0,False,False,False,False,False,321.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,9,111.284,1273.885,1.0,HARD,12.0,False,False,False,False,False,322.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,10,111.515,1385.711,1.0,HARD,13.0,False,False,False,False,False,326.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,11,110.455,1495.914,1.0,HARD,14.0,False,False,False,False,False,322.0,26.8,44.7,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,12,110.578,1606.707,1.0,HARD,15.0,False,False,False,False,False,321.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,13,109.904,1716.312,1.0,HARD,16.0,False,False,False,False,False,322.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,14,110.542,1826.886,1.0,HARD,17.0,False,False,False,False,False,320.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,15,110.556,1937.421,1.0,HARD,18.0,False,False,False,False,False,319.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,16,111.138,2048.825,1.0,HARD,19.0,False,False,False,False,False,318.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,17,112.19,2161.016,1.0,HARD,20.0,False,False,False,False,False,321.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,18,110.598,2271.384,1.0,HARD,21.0,False,False,False,False,False,321.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,19,110.988,2382.707,1.0,HARD,22.0,False,False,False,False,False,319.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,20,110.801,2493.285,1.0,HARD,23.0,False,False,False,False,False,319.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,21,110.349,2603.887,1.0,HARD,24.0,False,False,False,False,False,320.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,22,110.499,2714.035,1.0,HARD,25.0,False,False,False,False,False,317.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,23,110.812,2824.884,1.0,HARD,26.0,False,False,False,False,False,316.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,24,110.527,2935.364,1.0,HARD,27.0,False,False,False,False,False,319.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,25,110.162,3045.541,1.0,HARD,28.0,False,False,False,False,False,317.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,26,109.944,3155.479,1.0,HARD,29.0,False,False,False,False,False,317.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,27,109.753,3265.219,1.0,HARD,30.0,False,False,False,False,False,320.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,28,109.607,3374.759,1.0,HARD,31.0,False,False,False,False,False,319.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,29,109.526,3484.324,1.0,HARD,32.0,False,False,False,False,False,320.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,30,109.485,3593.908,1.0,HARD,33.0,False,False,False,False,False,319.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,31,109.702,3703.5,1.0,HARD,34.0,False,False,False,False,False,318.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,32,109.419,3813.236,1.0,HARD,35.0,False,False,False,False,False,317.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,33,109.086,3922.002,1.0,HARD,36.0,False,False,False,False,False,321.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,34,109.383,4031.487,1.0,HARD,37.0,False,False,False,False,False,319.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,35,108.831,4140.208,1.0,HARD,38.0,False,False,False,False,False,317.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,36,115.839,4256.056,1.0,HARD,39.0,False,False,False,False,True,317.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,37,109.555,4365.705,1.0,HARD,40.0,False,False,False,False,False,317.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,38,109.112,4474.985,1.0,HARD,41.0,False,False,False,False,False,316.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,39,108.944,4583.789,1.0,HARD,42.0,False,False,False,False,False,316.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,40,109.273,4692.999,1.0,HARD,43.0,False,False,False,False,False,315.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,41,109.059,4801.995,1.0,HARD,44.0,False,False,False,False,False,315.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,42,109.315,4911.369,1.0,HARD,45.0,False,False,False,False,False,317.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,43,108.994,5020.358,1.0,HARD,46.0,False,False,False,False,False,316.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,44,109.269,5129.745,1.0,HARD,47.0,False,False,False,False,False,317.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,45,109.018,5238.621,1.0,HARD,48.0,False,False,False,False,False,316.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,46,109.419,5348.066,1.0,HARD,49.0,False,False,False,False,False,316.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,47,109.507,5457.506,1.0,HARD,50.0,False,False,False,False,False,316.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,48,111.775,5569.494,1.0,HARD,51.0,False,False,False,False,False,322.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,49,115.188,5684.58,1.0,HARD,52.0,True,False,True,False,True,319.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,OCO,Alpine,50,166.111,5850.596,2.0,SOFT,1.0,False,True,True,False,True,184.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,1,114.298,365.142,1.0,MEDIUM,1.0,False,False,False,False,False,315.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,2,109.236,474.377,1.0,MEDIUM,2.0,False,False,False,False,False,316.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,3,108.814,583.298,1.0,MEDIUM,3.0,False,False,False,False,False,316.0,26.7,45.7,40.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,4,108.727,691.955,1.0,MEDIUM,4.0,False,False,False,False,False,318.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,5,108.768,800.855,1.0,MEDIUM,5.0,False,False,False,False,False,317.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,6,108.604,909.34,1.0,MEDIUM,6.0,False,False,False,False,False,314.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,7,108.519,1017.919,1.0,MEDIUM,7.0,False,False,False,False,False,316.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,8,108.153,1126.006,1.0,MEDIUM,8.0,False,False,False,False,False,316.0,26.2,44.7,40.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,9,107.826,1233.927,1.0,MEDIUM,9.0,False,False,False,False,False,317.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,10,108.769,1342.578,1.0,MEDIUM,10.0,False,False,False,False,False,316.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,11,108.721,1451.442,1.0,MEDIUM,11.0,False,False,False,False,False,317.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,12,109.117,1560.451,1.0,MEDIUM,12.0,False,False,False,False,False,316.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,13,113.398,1673.966,1.0,MEDIUM,13.0,True,False,False,False,False,316.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,14,124.864,1798.71,2.0,HARD,1.0,False,True,False,False,False,315.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,15,108.585,1907.328,2.0,HARD,2.0,False,False,False,False,False,321.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,16,107.14,2014.503,2.0,HARD,3.0,False,False,False,False,False,318.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,17,108.836,2123.298,2.0,HARD,4.0,False,False,False,False,False,322.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,18,109.43,2232.794,2.0,HARD,5.0,False,False,False,False,False,322.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,19,107.572,2340.269,2.0,HARD,6.0,False,False,False,False,False,314.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,20,107.655,2448.023,2.0,HARD,7.0,False,False,False,False,False,317.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,21,107.719,2555.702,2.0,HARD,8.0,False,False,False,False,False,319.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,22,108.111,2663.863,2.0,HARD,9.0,False,False,False,False,False,318.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,23,107.46,2771.737,2.0,HARD,10.0,False,False,False,False,False,317.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,24,107.385,2878.69,2.0,HARD,11.0,False,False,False,False,False,320.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,25,107.485,2986.148,2.0,HARD,12.0,False,False,False,False,False,320.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,26,107.591,3093.766,2.0,HARD,13.0,False,False,False,False,False,318.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,27,107.333,3201.319,2.0,HARD,14.0,False,False,False,False,False,317.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,28,107.464,3308.612,2.0,HARD,15.0,False,False,False,False,False,319.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,29,107.633,3416.185,2.0,HARD,16.0,False,False,False,False,False,319.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,30,107.536,3523.927,2.0,HARD,17.0,False,False,False,False,False,320.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,31,107.927,3631.942,2.0,HARD,18.0,False,False,False,False,False,320.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,32,107.63,3739.15,2.0,HARD,19.0,False,False,False,False,False,317.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,33,108.442,3847.688,2.0,HARD,20.0,False,False,False,False,False,320.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,34,108.143,3955.804,2.0,HARD,21.0,False,False,False,False,False,321.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,35,108.209,4064.038,2.0,HARD,22.0,False,False,False,False,False,318.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,36,108.518,4172.754,2.0,HARD,23.0,False,False,False,False,True,319.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,37,108.328,4280.859,2.0,HARD,24.0,False,False,False,False,False,319.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,38,107.787,4388.668,2.0,HARD,25.0,False,False,False,False,False,319.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,39,107.632,4496.279,2.0,HARD,26.0,False,False,False,False,False,318.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,40,107.609,4603.925,2.0,HARD,27.0,False,False,False,False,False,318.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,41,107.089,4711.012,2.0,HARD,28.0,False,False,False,False,False,320.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,42,107.139,4818.109,2.0,HARD,29.0,False,False,False,False,False,322.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,43,107.96,4926.016,2.0,HARD,30.0,False,False,False,False,False,321.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,44,107.43,5033.559,2.0,HARD,31.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,45,107.57,5141.149,2.0,HARD,32.0,False,False,False,False,False,321.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,46,107.013,5248.301,2.0,HARD,33.0,False,False,False,False,False,323.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,47,107.645,5355.827,2.0,HARD,34.0,False,False,False,False,False,324.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,48,108.303,5464.092,2.0,HARD,35.0,False,False,False,False,False,321.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,49,108.45,5572.527,2.0,HARD,36.0,False,False,False,False,False,320.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PER,Red Bull Racing,50,,,,,,False,False,False,False,False,,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,1,113.386,364.23,1.0,MEDIUM,1.0,False,False,False,False,False,317.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,2,108.944,473.173,1.0,MEDIUM,2.0,False,False,False,False,False,319.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,3,108.811,581.836,1.0,MEDIUM,3.0,False,False,False,False,False,318.0,26.7,45.7,40.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,4,108.408,690.606,1.0,MEDIUM,4.0,False,False,False,False,False,320.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,5,108.07,798.391,1.0,MEDIUM,5.0,False,False,False,False,False,321.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,6,108.848,907.477,1.0,MEDIUM,6.0,False,False,False,False,False,317.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,7,108.755,1015.983,1.0,MEDIUM,7.0,False,False,False,False,False,317.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,8,108.297,1124.601,1.0,MEDIUM,8.0,False,False,False,False,False,316.0,26.2,44.7,40.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,9,108.225,1232.575,1.0,MEDIUM,9.0,False,False,False,False,False,317.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,10,108.601,1341.174,1.0,MEDIUM,10.0,False,False,False,False,False,317.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,11,108.304,1449.474,1.0,MEDIUM,11.0,False,False,False,False,False,317.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,12,108.948,1558.369,1.0,MEDIUM,12.0,False,False,False,False,False,317.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,13,109.194,1667.54,1.0,MEDIUM,13.0,False,False,False,False,False,317.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,14,109.577,1777.185,1.0,MEDIUM,14.0,False,False,False,False,False,316.0,27.0,44.7,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,15,113.511,1891.013,1.0,MEDIUM,15.0,True,False,False,False,False,315.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,16,123.253,2013.897,2.0,HARD,1.0,False,True,False,False,False,318.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,17,108.556,2122.502,2.0,HARD,2.0,False,False,False,False,False,328.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,18,107.817,2230.274,2.0,HARD,3.0,False,False,False,False,False,319.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,19,107.465,2337.92,2.0,HARD,4.0,False,False,False,False,False,319.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,20,108.866,2446.746,2.0,HARD,5.0,False,False,False,False,False,315.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,21,107.854,2554.807,2.0,HARD,6.0,False,False,False,False,False,316.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,22,107.751,2662.335,2.0,HARD,7.0,False,False,False,False,False,315.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,23,107.481,2769.803,2.0,HARD,8.0,False,False,False,False,False,316.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,24,107.066,2876.852,2.0,HARD,9.0,False,False,False,False,False,318.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,25,107.408,2984.082,2.0,HARD,10.0,False,False,False,False,False,318.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,26,107.528,3091.746,2.0,HARD,11.0,False,False,False,False,False,316.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,27,107.368,3199.103,2.0,HARD,12.0,False,False,False,False,False,317.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,28,107.558,3306.647,2.0,HARD,13.0,False,False,False,False,False,317.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,29,107.601,3414.344,2.0,HARD,14.0,False,False,False,False,False,318.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,30,107.661,3521.992,2.0,HARD,15.0,False,False,False,False,False,318.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,31,107.923,3629.838,2.0,HARD,16.0,False,False,False,False,False,317.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,32,108.135,3738.026,2.0,HARD,17.0,False,False,False,False,False,315.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,33,108.436,3846.419,2.0,HARD,18.0,False,False,False,False,False,317.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,34,107.927,3954.4,2.0,HARD,19.0,False,False,False,False,False,318.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,35,107.821,4062.252,2.0,HARD,20.0,False,False,False,False,False,317.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,36,107.873,4170.079,2.0,HARD,21.0,False,False,False,False,True,319.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,37,107.857,4278.014,2.0,HARD,22.0,False,False,False,False,False,319.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,38,107.682,4385.804,2.0,HARD,23.0,False,False,False,False,False,320.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,39,107.776,4493.666,2.0,HARD,24.0,False,False,False,False,False,319.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,40,107.721,4601.184,2.0,HARD,25.0,False,False,False,False,False,318.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,41,107.875,4708.919,2.0,HARD,26.0,False,False,False,False,False,319.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,42,107.688,4816.918,2.0,HARD,27.0,False,False,False,False,False,320.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,43,107.616,4924.485,2.0,HARD,28.0,False,False,False,False,False,320.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,44,107.365,5031.6,2.0,HARD,29.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,45,107.727,5139.324,2.0,HARD,30.0,False,False,False,False,False,320.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,46,107.269,5246.631,2.0,HARD,31.0,False,False,False,False,False,320.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,47,107.06,5353.689,2.0,HARD,32.0,False,False,False,False,False,323.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,48,107.488,5461.414,2.0,HARD,33.0,False,False,False,False,False,324.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,49,107.547,5569.051,2.0,HARD,34.0,False,False,False,False,False,320.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,50,107.258,5676.046,2.0,HARD,35.0,False,False,False,False,True,322.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,PIA,McLaren,51,153.334,5829.288,2.0,HARD,36.0,False,False,True,False,True,180.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,1,124.327,375.171,1.0,HARD,2.0,False,False,False,False,False,323.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,2,112.896,488.066,1.0,HARD,3.0,False,False,False,False,False,322.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,3,111.71,599.833,1.0,HARD,4.0,False,False,False,False,False,324.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,4,109.436,709.21,1.0,HARD,5.0,False,False,False,False,False,323.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,5,109.69,818.976,1.0,HARD,6.0,False,False,False,False,False,321.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,6,109.7,928.682,1.0,HARD,7.0,False,False,False,False,False,320.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,7,109.297,1037.98,1.0,HARD,8.0,False,False,False,False,False,322.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,8,109.721,1147.678,1.0,HARD,9.0,False,False,False,False,False,322.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,9,109.513,1257.136,1.0,HARD,10.0,False,False,False,False,False,323.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,10,110.118,1367.383,1.0,HARD,11.0,False,False,False,False,False,325.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,11,110.332,1477.66,1.0,HARD,12.0,False,False,False,False,False,321.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,12,110.73,1588.258,1.0,HARD,13.0,False,False,False,False,False,322.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,13,110.925,1699.227,1.0,HARD,14.0,False,False,False,False,False,319.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,14,111.455,1810.641,1.0,HARD,15.0,False,False,False,False,False,318.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,15,113.237,1924.304,1.0,HARD,16.0,False,False,False,False,False,319.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,16,111.252,2035.279,1.0,HARD,17.0,False,False,False,False,False,317.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,17,111.619,2147.03,1.0,HARD,18.0,False,False,False,False,False,321.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,18,111.379,2258.202,1.0,HARD,19.0,False,False,False,False,False,318.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,19,111.033,2369.258,1.0,HARD,20.0,False,False,False,False,False,317.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,20,111.449,2480.697,1.0,HARD,21.0,False,False,False,False,False,316.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,21,111.501,2592.255,1.0,HARD,22.0,False,False,False,False,False,318.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,22,112.589,2704.775,1.0,HARD,23.0,False,False,False,False,False,318.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,23,111.304,2816.154,1.0,HARD,24.0,False,False,False,False,False,317.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,24,110.531,2926.643,1.0,HARD,25.0,False,False,False,False,False,318.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,25,110.119,3036.773,1.0,HARD,26.0,False,False,False,False,False,317.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,26,109.724,3146.47,1.0,HARD,27.0,False,False,False,False,False,316.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,27,109.355,3255.775,1.0,HARD,28.0,False,False,False,False,False,317.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,28,109.328,3365.124,1.0,HARD,29.0,False,False,False,False,False,318.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,29,108.994,3474.208,1.0,HARD,30.0,False,False,False,False,False,318.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,30,109.231,3583.683,1.0,HARD,31.0,False,False,False,False,False,317.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,31,108.948,3692.379,1.0,HARD,32.0,False,False,False,False,False,317.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,32,108.668,3801.117,1.0,HARD,33.0,False,False,False,False,False,317.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,33,108.457,3909.374,1.0,HARD,34.0,False,False,False,False,False,317.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,34,108.549,4018.001,1.0,HARD,35.0,False,False,False,False,False,317.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,35,108.869,4126.907,1.0,HARD,36.0,False,False,False,False,False,318.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,36,108.755,4235.675,1.0,HARD,37.0,False,False,False,False,True,318.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,37,108.623,4344.24,1.0,HARD,38.0,False,False,False,False,False,318.0,26.4,42.7,35.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,38,108.864,4453.201,1.0,HARD,39.0,False,False,False,False,False,316.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,39,108.38,4561.474,1.0,HARD,40.0,False,False,False,False,False,318.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,40,108.452,4669.95,1.0,HARD,41.0,False,False,False,False,False,317.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,41,108.54,4778.535,1.0,HARD,42.0,False,False,False,False,False,317.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,42,108.863,4887.387,1.0,HARD,43.0,False,False,False,False,False,318.0,25.8,41.3,37.0,0,3.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,43,108.924,4996.261,1.0,HARD,44.0,False,False,False,False,False,318.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,44,108.762,5105.135,1.0,HARD,45.0,False,False,False,False,False,320.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,45,108.507,5213.601,1.0,HARD,46.0,False,False,False,False,False,318.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,46,108.679,5322.249,1.0,HARD,47.0,False,False,False,False,False,317.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,47,109.14,5431.424,1.0,HARD,48.0,False,False,False,False,False,318.0,26.4,42.0,33.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,48,109.604,5540.976,1.0,HARD,49.0,False,False,False,False,False,317.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,49,113.511,5654.446,1.0,HARD,50.0,True,False,False,False,True,317.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,50,167.496,5821.909,2.0,SOFT,1.0,False,True,True,False,True,204.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RIC,RB,51,154.226,5976.131,2.0,SOFT,2.0,False,False,True,False,True,181.0,26.5,40.3,39.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,1,116.817,367.661,1.0,MEDIUM,1.0,False,False,False,False,False,321.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,2,109.738,477.398,1.0,MEDIUM,2.0,False,False,False,False,False,323.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,3,109.359,586.767,1.0,MEDIUM,3.0,False,False,False,False,False,323.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,4,109.199,696.021,1.0,MEDIUM,4.0,False,False,False,False,False,325.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,5,108.952,804.986,1.0,MEDIUM,5.0,False,False,False,False,False,325.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,6,109.581,914.512,1.0,MEDIUM,6.0,False,False,False,False,False,323.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,7,109.315,1023.852,1.0,MEDIUM,7.0,False,False,False,False,False,323.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,8,109.351,1133.16,1.0,MEDIUM,8.0,False,False,False,False,False,322.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,9,109.423,1242.586,1.0,MEDIUM,9.0,False,False,False,False,False,321.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,10,109.712,1352.418,1.0,MEDIUM,10.0,False,False,False,False,False,321.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,11,109.833,1462.196,1.0,MEDIUM,11.0,False,False,False,False,False,321.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,12,114.565,1576.745,1.0,MEDIUM,12.0,True,False,False,False,False,320.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,13,124.183,1700.88,2.0,HARD,1.0,False,True,False,False,False,328.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,14,109.818,1810.717,2.0,HARD,2.0,False,False,False,False,False,331.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,15,109.067,1919.974,2.0,HARD,3.0,False,False,False,False,False,322.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,16,108.606,2028.462,2.0,HARD,4.0,False,False,False,False,False,320.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,17,108.043,2136.434,2.0,HARD,5.0,False,False,False,False,False,322.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,18,108.224,2244.615,2.0,HARD,6.0,False,False,False,False,False,322.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,19,108.35,2353.04,2.0,HARD,7.0,False,False,False,False,False,321.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,20,108.387,2461.452,2.0,HARD,8.0,False,False,False,False,False,321.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,21,108.37,2569.718,2.0,HARD,9.0,False,False,False,False,False,321.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,22,108.198,2678.295,2.0,HARD,10.0,False,False,False,False,False,321.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,23,108.293,2786.334,2.0,HARD,11.0,False,False,False,False,False,321.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,24,107.988,2894.258,2.0,HARD,12.0,False,False,False,False,False,324.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,25,108.205,3002.429,2.0,HARD,13.0,False,False,False,False,False,324.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,26,108.326,3110.823,2.0,HARD,14.0,False,False,False,False,False,325.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,27,108.794,3219.586,2.0,HARD,15.0,False,False,False,False,False,324.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,28,108.217,3327.798,2.0,HARD,16.0,False,False,False,False,False,326.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,29,108.998,3436.872,2.0,HARD,17.0,False,False,False,False,False,329.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,30,108.967,3545.862,2.0,HARD,18.0,False,False,False,False,False,327.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,31,108.392,3654.236,2.0,HARD,19.0,False,False,False,False,False,331.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,32,109.052,3763.266,2.0,HARD,20.0,False,False,False,False,False,326.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,33,107.706,3870.988,2.0,HARD,21.0,False,False,False,False,False,327.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,34,107.443,3978.37,2.0,HARD,22.0,False,False,False,False,False,325.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,35,107.702,4085.927,2.0,HARD,23.0,False,False,False,False,False,325.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,36,107.681,4193.795,2.0,HARD,24.0,False,False,False,False,True,324.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,37,107.809,4301.568,2.0,HARD,25.0,False,False,False,False,False,325.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,38,107.649,4409.2,2.0,HARD,26.0,False,False,False,False,False,321.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,39,107.138,4516.374,2.0,HARD,27.0,False,False,False,False,False,320.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,40,107.0,4623.366,2.0,HARD,28.0,False,False,False,False,False,322.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,41,106.852,4730.285,2.0,HARD,29.0,False,False,False,False,False,321.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,42,106.846,4837.081,2.0,HARD,30.0,False,False,False,False,False,322.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,43,106.727,4943.749,2.0,HARD,31.0,False,False,False,False,False,321.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,44,106.707,5050.517,2.0,HARD,32.0,False,False,False,False,False,321.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,45,106.628,5157.069,2.0,HARD,33.0,False,False,False,False,False,323.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,46,106.727,5263.833,2.0,HARD,34.0,False,False,False,False,False,323.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,47,106.664,5370.588,2.0,HARD,35.0,False,False,False,False,False,323.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,48,107.016,5477.743,2.0,HARD,36.0,False,False,False,False,False,323.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,49,106.707,5584.274,2.0,HARD,37.0,False,False,False,False,False,321.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,50,123.467,5707.638,2.0,HARD,38.0,False,False,True,False,True,190.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,RUS,Mercedes,51,152.94,5860.552,2.0,HARD,39.0,False,False,True,False,True,170.0,26.5,40.8,37.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,1,115.203,366.047,1.0,MEDIUM,1.0,False,False,False,False,False,316.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,2,109.12,475.166,1.0,MEDIUM,2.0,False,False,False,False,False,318.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,3,109.375,584.571,1.0,MEDIUM,3.0,False,False,False,False,False,318.0,26.7,45.7,40.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,4,109.167,693.821,1.0,MEDIUM,4.0,False,False,False,False,False,319.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,5,109.039,802.732,1.0,MEDIUM,5.0,False,False,False,False,False,318.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,6,108.826,911.58,1.0,MEDIUM,6.0,False,False,False,False,False,316.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,7,108.596,1020.246,1.0,MEDIUM,7.0,False,False,False,False,False,317.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,8,108.482,1128.696,1.0,MEDIUM,8.0,False,False,False,False,False,316.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,9,108.154,1236.846,1.0,MEDIUM,9.0,False,False,False,False,False,316.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,10,108.389,1345.29,1.0,MEDIUM,10.0,False,False,False,False,False,317.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,11,108.77,1454.042,1.0,MEDIUM,11.0,False,False,False,False,False,317.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,12,109.348,1563.421,1.0,MEDIUM,12.0,False,False,False,False,False,315.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,13,108.594,1671.985,1.0,MEDIUM,13.0,False,False,False,False,False,318.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,14,108.672,1780.595,1.0,MEDIUM,14.0,False,False,False,False,False,314.0,27.0,44.7,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,15,109.316,1889.875,1.0,MEDIUM,15.0,False,False,False,False,False,315.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,16,109.36,1999.297,1.0,MEDIUM,16.0,False,False,False,False,False,313.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,17,113.944,2113.169,1.0,MEDIUM,17.0,True,False,False,False,False,312.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,18,125.361,2238.577,2.0,HARD,1.0,False,True,False,False,False,316.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,19,107.939,2346.568,2.0,HARD,2.0,False,False,False,False,False,316.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,20,108.091,2454.721,2.0,HARD,3.0,False,False,False,False,False,319.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,21,107.879,2562.559,2.0,HARD,4.0,False,False,False,False,False,323.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,22,108.582,2671.133,2.0,HARD,5.0,False,False,False,False,False,324.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,23,108.331,2779.778,2.0,HARD,6.0,False,False,False,False,False,320.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,24,108.474,2887.994,2.0,HARD,7.0,False,False,False,False,False,315.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,25,107.746,2995.593,2.0,HARD,8.0,False,False,False,False,False,316.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,26,107.593,3103.302,2.0,HARD,9.0,False,False,False,False,False,315.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,27,107.325,3210.64,2.0,HARD,10.0,False,False,False,False,False,316.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,28,107.072,3317.66,2.0,HARD,11.0,False,False,False,False,False,315.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,29,107.448,3425.149,2.0,HARD,12.0,False,False,False,False,False,317.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,30,107.826,3532.935,2.0,HARD,13.0,False,False,False,False,False,316.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,31,107.388,3640.258,2.0,HARD,14.0,False,False,False,False,False,315.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,32,107.33,3747.725,2.0,HARD,15.0,False,False,False,False,False,315.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,33,107.205,3855.073,2.0,HARD,16.0,False,False,False,False,False,315.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,34,107.402,3962.265,2.0,HARD,17.0,False,False,False,False,False,316.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,35,107.31,4069.572,2.0,HARD,18.0,False,False,False,False,False,317.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,36,107.473,4176.992,2.0,HARD,19.0,False,False,False,False,True,318.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,37,108.379,4285.365,2.0,HARD,20.0,False,False,False,False,False,318.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,38,107.116,4392.479,2.0,HARD,21.0,False,False,False,False,False,319.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,39,107.229,4499.675,2.0,HARD,22.0,False,False,False,False,False,318.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,40,106.964,4606.779,2.0,HARD,23.0,False,False,False,False,False,320.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,41,107.458,4714.173,2.0,HARD,24.0,False,False,False,False,False,319.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,42,106.928,4821.159,2.0,HARD,25.0,False,False,False,False,False,320.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,43,107.267,4928.366,2.0,HARD,26.0,False,False,False,False,False,322.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,44,107.081,5035.409,2.0,HARD,27.0,False,False,False,False,False,322.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,45,107.262,5142.654,2.0,HARD,28.0,False,False,False,False,False,322.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,46,106.866,5249.598,2.0,HARD,29.0,False,False,False,False,False,323.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,47,106.934,5356.477,2.0,HARD,30.0,False,False,False,False,False,325.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,48,108.117,5464.817,2.0,HARD,31.0,False,False,False,False,False,324.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,49,108.443,5573.393,2.0,HARD,32.0,False,False,False,False,False,322.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,SAI,Ferrari,50,,,,,,False,False,False,False,False,,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,1,131.452,382.296,1.0,MEDIUM,2.0,True,False,False,False,False,295.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,2,128.417,510.712,2.0,HARD,2.0,False,True,False,False,False,317.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,3,110.819,621.579,2.0,HARD,3.0,False,False,False,False,False,318.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,4,110.48,732.138,2.0,HARD,4.0,False,False,False,False,False,318.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,5,109.97,842.061,2.0,HARD,5.0,False,False,False,False,False,318.0,26.4,44.5,39.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,6,109.519,951.52,2.0,HARD,6.0,False,False,False,False,False,318.0,26.5,44.9,39.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,7,109.687,1061.127,2.0,HARD,7.0,False,False,False,False,False,318.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,8,110.315,1171.5,2.0,HARD,8.0,False,False,False,False,False,317.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,9,109.143,1280.622,2.0,HARD,9.0,False,False,False,False,False,319.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,10,109.432,1390.058,2.0,HARD,10.0,False,False,False,False,False,321.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,11,109.972,1500.118,2.0,HARD,11.0,False,False,False,False,False,322.0,26.8,44.7,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,12,110.952,1610.985,2.0,HARD,12.0,False,False,False,False,False,318.0,26.9,44.8,38.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,13,109.594,1720.454,2.0,HARD,13.0,False,False,False,False,False,319.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,14,109.412,1830.051,2.0,HARD,14.0,False,False,False,False,False,319.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,15,110.76,1940.748,2.0,HARD,15.0,False,False,False,False,False,320.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,16,111.103,2051.863,2.0,HARD,16.0,False,False,False,False,False,321.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,17,110.709,2162.645,2.0,HARD,17.0,False,False,False,False,False,322.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,18,110.45,2273.303,2.0,HARD,18.0,False,False,False,False,False,322.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,19,110.234,2383.287,2.0,HARD,19.0,False,False,False,False,False,322.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,20,110.293,2493.591,2.0,HARD,20.0,False,False,False,False,False,321.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,21,110.509,2604.103,2.0,HARD,21.0,False,False,False,False,False,322.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,22,115.365,2719.43,2.0,HARD,22.0,True,False,False,False,False,320.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,23,125.467,2844.993,3.0,HARD,2.0,False,True,False,False,False,317.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,24,109.018,2953.97,3.0,HARD,3.0,False,False,False,False,False,318.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,25,108.895,3062.833,3.0,HARD,4.0,False,False,False,False,False,319.0,26.2,43.3,39.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,26,108.843,3171.934,3.0,HARD,5.0,False,False,False,False,False,319.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,27,108.708,3280.365,3.0,HARD,6.0,False,False,False,False,False,320.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,28,108.512,3388.889,3.0,HARD,7.0,False,False,False,False,False,320.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,29,108.603,3497.488,3.0,HARD,8.0,False,False,False,False,False,320.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,30,108.665,3606.1,3.0,HARD,9.0,False,False,False,False,False,320.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,31,108.148,3714.421,3.0,HARD,10.0,False,False,False,False,False,321.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,32,108.849,3823.093,3.0,HARD,11.0,False,False,False,False,False,321.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,33,109.568,3932.863,3.0,HARD,12.0,False,False,False,False,False,318.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,34,108.592,4041.266,3.0,HARD,13.0,False,False,False,False,False,318.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,35,108.441,4149.777,3.0,HARD,14.0,False,False,False,False,True,318.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,36,108.67,4258.429,3.0,HARD,15.0,False,False,False,False,True,320.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,37,108.422,4366.861,3.0,HARD,16.0,False,False,False,False,False,320.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,38,108.903,4475.738,3.0,HARD,17.0,False,False,False,False,False,319.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,39,108.312,4583.973,3.0,HARD,18.0,False,False,False,False,False,321.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,40,109.405,4693.509,3.0,HARD,19.0,False,False,False,False,False,320.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,41,109.67,4803.161,3.0,HARD,20.0,False,False,False,False,False,318.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,42,109.547,4912.775,3.0,HARD,21.0,False,False,False,False,False,319.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,43,108.783,5021.456,3.0,HARD,22.0,False,False,False,False,False,318.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,44,108.745,5130.24,3.0,HARD,23.0,False,False,False,False,False,320.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,45,122.165,5252.407,3.0,HARD,24.0,False,False,False,False,False,286.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,STR,Aston Martin,46,,,,,,False,False,False,False,False,,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,1,124.139,374.983,1.0,MEDIUM,2.0,False,False,False,False,False,306.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,2,111.648,486.63,1.0,MEDIUM,3.0,False,False,False,False,False,320.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,3,113.328,599.939,1.0,MEDIUM,4.0,False,False,False,False,False,321.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,4,113.997,713.951,1.0,MEDIUM,5.0,False,False,False,False,False,320.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,5,113.121,827.005,1.0,MEDIUM,6.0,False,False,False,False,False,319.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,6,111.278,938.386,1.0,MEDIUM,7.0,False,False,False,False,False,317.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,7,111.075,1049.362,1.0,MEDIUM,8.0,False,False,False,False,False,318.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,8,110.887,1160.368,1.0,MEDIUM,9.0,False,False,False,False,False,317.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,9,111.141,1271.474,1.0,MEDIUM,10.0,False,False,False,False,False,318.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,10,110.899,1382.383,1.0,MEDIUM,11.0,False,False,False,False,False,318.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,11,112.485,1494.862,1.0,MEDIUM,12.0,False,False,False,False,False,317.0,26.8,44.7,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,12,121.304,1616.139,1.0,MEDIUM,13.0,True,False,False,False,False,315.0,26.9,44.8,38.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,13,131.939,1748.074,2.0,HARD,2.0,False,True,False,False,False,317.0,27.0,44.7,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,14,125.9,1873.989,2.0,HARD,3.0,False,False,False,False,False,221.0,26.8,44.1,37.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,TSU,RB,15,,,,,,False,False,False,False,False,,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,1,115.933,366.777,1.0,MEDIUM,1.0,False,False,False,False,False,319.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,2,109.632,476.408,1.0,MEDIUM,2.0,False,False,False,False,False,319.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,3,109.13,585.477,1.0,MEDIUM,3.0,False,False,False,False,False,321.0,26.7,45.7,40.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,4,109.608,695.185,1.0,MEDIUM,4.0,False,False,False,False,False,321.0,26.8,45.4,38.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,5,109.245,804.379,1.0,MEDIUM,5.0,False,False,False,False,False,320.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,6,108.795,913.266,1.0,MEDIUM,6.0,False,False,False,False,False,318.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,7,108.797,1022.039,1.0,MEDIUM,7.0,False,False,False,False,False,319.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,8,108.643,1130.629,1.0,MEDIUM,8.0,False,False,False,False,False,318.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,9,108.448,1239.004,1.0,MEDIUM,9.0,False,False,False,False,False,318.0,26.2,44.4,40.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,10,109.448,1348.589,1.0,MEDIUM,10.0,False,False,False,False,False,317.0,26.7,44.8,38.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,11,109.645,1458.231,1.0,MEDIUM,11.0,False,False,False,False,False,318.0,26.7,44.7,37.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,12,114.511,1572.735,1.0,MEDIUM,12.0,True,False,False,False,False,315.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,13,126.486,1699.121,2.0,HARD,1.0,False,True,False,False,False,326.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,14,108.269,1807.455,2.0,HARD,2.0,False,False,False,False,False,322.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,15,107.812,1915.143,2.0,HARD,3.0,False,False,False,False,False,322.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,16,108.132,2023.244,2.0,HARD,4.0,False,False,False,False,False,315.0,26.5,44.1,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,17,107.718,2131.109,2.0,HARD,5.0,False,False,False,False,False,319.0,26.5,44.0,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,18,108.461,2239.596,2.0,HARD,6.0,False,False,False,False,False,321.0,26.3,43.8,37.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,19,107.89,2347.443,2.0,HARD,7.0,False,False,False,False,False,322.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,20,107.89,2455.321,2.0,HARD,8.0,False,False,False,False,False,321.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,21,107.903,2563.299,2.0,HARD,9.0,False,False,False,False,False,323.0,26.9,44.4,34.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,22,108.679,2672.0,2.0,HARD,10.0,False,False,False,False,False,322.0,26.9,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,23,108.908,2780.793,2.0,HARD,11.0,False,False,False,False,False,325.0,27.0,44.2,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,24,110.602,2891.496,2.0,HARD,12.0,False,False,False,False,False,324.0,26.7,43.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,25,108.356,2999.86,2.0,HARD,13.0,False,False,False,False,False,325.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,26,109.021,3108.837,2.0,HARD,14.0,False,False,False,False,False,324.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,27,109.092,3218.003,2.0,HARD,15.0,False,False,False,False,False,324.0,26.2,43.1,38.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,28,109.185,3327.085,2.0,HARD,16.0,False,False,False,False,False,323.0,26.7,43.3,38.0,0,0.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,29,109.216,3436.418,2.0,HARD,17.0,False,False,False,False,False,325.0,27.1,43.5,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,30,108.994,3545.627,2.0,HARD,18.0,False,False,False,False,False,323.0,26.9,42.6,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,31,108.846,3654.418,2.0,HARD,19.0,False,False,False,False,False,323.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,32,108.392,3762.52,2.0,HARD,20.0,False,False,False,False,False,319.0,26.7,42.6,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,33,108.299,3870.854,2.0,HARD,21.0,False,False,False,False,False,319.0,26.5,42.4,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,34,109.244,3980.085,2.0,HARD,22.0,False,False,False,False,False,321.0,26.6,42.8,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,35,107.996,4088.144,2.0,HARD,23.0,False,False,False,False,False,321.0,26.9,43.1,36.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,36,107.718,4195.756,2.0,HARD,24.0,False,False,False,False,True,320.0,26.5,42.6,38.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,37,107.403,4303.337,2.0,HARD,25.0,False,False,False,False,False,322.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,38,107.282,4410.603,2.0,HARD,26.0,False,False,False,False,False,321.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,39,107.34,4517.731,2.0,HARD,27.0,False,False,False,False,False,320.0,26.3,42.1,36.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,40,107.136,4624.995,2.0,HARD,28.0,False,False,False,False,False,319.0,25.8,41.8,38.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,41,107.525,4732.527,2.0,HARD,29.0,False,False,False,False,False,321.0,25.7,41.6,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,42,106.798,4839.259,2.0,HARD,30.0,False,False,False,False,False,320.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,43,107.147,4946.459,2.0,HARD,31.0,False,False,False,False,False,321.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,44,107.149,5053.641,2.0,HARD,32.0,False,False,False,False,False,320.0,25.8,41.4,38.0,0,2.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,45,107.184,5160.812,2.0,HARD,33.0,False,False,False,False,False,320.0,25.9,41.6,35.0,0,2.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,46,107.135,5267.94,2.0,HARD,34.0,False,False,False,False,False,319.0,25.9,41.6,32.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,47,107.721,5375.686,2.0,HARD,35.0,False,False,False,False,False,319.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,48,107.749,5483.302,2.0,HARD,36.0,False,False,False,False,False,319.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,49,112.022,5595.449,2.0,HARD,37.0,True,False,False,False,False,321.0,26.5,41.3,35.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,50,157.677,5753.067,3.0,SOFT,4.0,False,True,True,False,True,186.0,26.6,40.9,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,VER,Red Bull Racing,51,153.336,5906.368,3.0,SOFT,5.0,False,False,True,False,True,200.0,26.4,40.7,39.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,1,126.157,377.001,1.0,HARD,2.0,False,False,False,False,False,322.0,26.8,45.3,41.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,2,113.999,490.999,1.0,HARD,3.0,False,False,False,False,False,321.0,26.8,45.6,41.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,3,112.11,603.161,1.0,HARD,4.0,False,False,False,False,False,324.0,26.9,45.7,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,4,111.671,714.823,1.0,HARD,5.0,False,False,False,False,False,325.0,26.8,44.9,37.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,5,113.333,828.209,1.0,HARD,6.0,False,False,False,False,False,322.0,26.6,44.5,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,6,111.235,939.471,1.0,HARD,7.0,False,False,False,False,False,321.0,26.3,45.0,40.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,7,111.105,1050.498,1.0,HARD,8.0,False,False,False,False,False,322.0,26.3,44.6,39.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,8,111.313,1161.8,1.0,HARD,9.0,False,False,False,False,False,321.0,26.3,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,9,111.018,1272.892,1.0,HARD,10.0,False,False,False,False,False,323.0,26.5,44.7,40.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,10,110.765,1383.733,1.0,HARD,11.0,False,False,False,False,False,320.0,26.8,44.7,37.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,11,111.018,1494.653,1.0,HARD,12.0,False,False,False,False,False,325.0,26.8,44.7,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,12,110.575,1605.195,1.0,HARD,13.0,False,False,False,False,False,317.0,26.9,44.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,13,110.614,1715.835,1.0,HARD,14.0,False,False,False,False,False,318.0,26.8,44.3,38.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,14,110.635,1826.434,1.0,HARD,15.0,False,False,False,False,False,316.0,27.0,44.7,36.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,15,110.317,1936.843,1.0,HARD,16.0,False,False,False,False,False,317.0,26.5,44.1,37.0,0,2.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,16,110.994,2047.771,1.0,HARD,17.0,False,False,False,False,False,318.0,26.5,44.0,36.0,0,1.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,17,110.518,2158.405,1.0,HARD,18.0,False,False,False,False,False,319.0,26.5,43.8,36.0,0,1.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,18,111.803,2270.087,1.0,HARD,19.0,False,False,False,False,False,320.0,26.4,44.0,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,19,110.496,2380.614,1.0,HARD,20.0,False,False,False,False,False,318.0,26.4,43.9,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,20,110.45,2491.007,1.0,HARD,21.0,False,False,False,False,False,318.0,26.6,44.1,36.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,21,110.483,2601.633,1.0,HARD,22.0,False,False,False,False,False,318.0,27.1,44.4,35.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,22,110.37,2711.828,1.0,HARD,23.0,False,False,False,False,False,316.0,27.0,43.4,36.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,23,110.563,2822.531,1.0,HARD,24.0,False,False,False,False,False,316.0,26.9,44.1,36.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,24,110.276,2932.681,1.0,HARD,25.0,False,False,False,False,False,317.0,26.5,43.6,37.0,0,2.5
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,25,110.054,3042.854,1.0,HARD,26.0,False,False,False,False,False,316.0,26.2,42.8,38.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,26,110.102,3152.928,1.0,HARD,27.0,False,False,False,False,False,316.0,26.3,43.3,38.0,0,2.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,27,110.036,3262.957,1.0,HARD,28.0,False,False,False,False,False,318.0,26.5,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,28,109.76,3372.72,1.0,HARD,29.0,False,False,False,False,False,318.0,26.8,43.3,38.0,0,0.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,29,109.685,3482.399,1.0,HARD,30.0,False,False,False,False,False,317.0,27.0,43.1,37.0,0,1.4
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,30,109.741,3592.294,1.0,HARD,31.0,False,False,False,False,False,315.0,26.7,43.2,36.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,31,109.794,3701.917,1.0,HARD,32.0,False,False,False,False,False,315.0,26.6,42.6,36.0,0,1.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,32,109.357,3811.33,1.0,HARD,33.0,False,False,False,False,False,315.0,26.5,42.4,37.0,0,1.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,33,109.199,3920.521,1.0,HARD,34.0,False,False,False,False,False,317.0,26.5,42.8,37.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,34,113.797,4034.263,1.0,HARD,35.0,True,False,False,False,False,316.0,26.8,43.0,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,35,126.269,4160.481,2.0,MEDIUM,2.0,False,True,False,False,True,317.0,26.9,42.6,36.0,0,2.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,36,108.304,4268.894,2.0,MEDIUM,3.0,False,False,False,False,False,317.0,26.5,42.6,36.0,0,2.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,37,108.112,4377.029,2.0,MEDIUM,4.0,False,False,False,False,False,318.0,26.4,42.7,35.0,0,1.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,38,108.378,4485.411,2.0,MEDIUM,5.0,False,False,False,False,False,317.0,26.4,42.3,36.0,0,1.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,39,108.001,4593.403,2.0,MEDIUM,6.0,False,False,False,False,False,318.0,26.0,41.8,38.0,0,3.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,40,108.014,4701.479,2.0,MEDIUM,7.0,False,False,False,False,False,319.0,25.7,41.6,38.0,0,3.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,41,108.0,4809.39,2.0,MEDIUM,8.0,False,False,False,False,False,319.0,25.7,41.8,36.0,0,2.2
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,42,108.054,4917.409,2.0,MEDIUM,9.0,False,False,False,False,False,320.0,25.7,41.3,38.0,0,1.7
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,43,107.644,5025.082,2.0,MEDIUM,10.0,False,False,False,False,False,321.0,25.8,41.4,38.0,0,2.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,44,107.907,5133.043,2.0,MEDIUM,11.0,False,False,False,False,False,322.0,25.8,41.7,38.0,0,2.0
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,45,107.934,5240.889,2.0,MEDIUM,12.0,False,False,False,False,False,322.0,25.9,41.6,34.0,0,1.3
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,46,108.647,5349.479,2.0,MEDIUM,13.0,False,False,False,False,False,320.0,26.0,42.0,33.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,47,108.077,5457.575,2.0,MEDIUM,14.0,False,False,False,False,False,321.0,26.6,41.5,33.0,0,0.6
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,48,108.505,5566.323,2.0,MEDIUM,15.0,False,False,False,False,False,315.0,26.6,41.3,34.0,0,0.8
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,49,108.049,5674.222,2.0,MEDIUM,16.0,False,False,False,False,True,316.0,26.6,41.3,36.0,0,1.1
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,50,151.203,5825.413,2.0,MEDIUM,17.0,False,False,True,False,True,192.0,26.5,40.8,37.0,0,0.9
+2024,17,Azerbaijan Grand Prix,Baku,144,20,51,ZHO,Kick Sauber,51,152.764,5978.112,2.0,MEDIUM,18.0,False,False,True,False,True,199.0,26.5,40.3,39.0,0,0.7
